@@ -1,0 +1,5001 @@
+bairro,tipo,quartos,banheiros,vagas,area,valor_aluguel
+Pinheiros,apto,2,1,0,23.5,4872
+Itaim Bibi,apto,1,2,2,47.4,6840
+Tatuapé,casa,2,2,0,40.2,4246
+Moema,kitnet,2,2,2,62.4,8392
+Moema,kitnet,1,2,1,44.2,6439
+Butantã,kitnet,3,1,0,50.4,4630
+Pinheiros,casa,2,1,1,51.0,5407
+Itaim Bibi,kitnet,1,1,0,59.0,6516
+Vila Mariana,kitnet,3,2,2,49.4,7326
+Pinheiros,apto,1,2,0,38.8,4812
+Tatuapé,kitnet,2,2,1,61.7,4446
+Butantã,apto,2,2,0,81.3,6841
+Itaim Bibi,casa,2,1,1,62.6,8208
+Itaim Bibi,kitnet,3,2,1,47.8,6444
+Itaim Bibi,casa,3,2,0,57.5,9098
+Itaim Bibi,kitnet,2,2,2,20.0,6633
+Tatuapé,apto,3,2,0,57.2,5768
+Pinheiros,casa,3,2,0,52.0,7770
+Butantã,kitnet,3,1,1,41.3,6562
+Moema,casa,2,2,0,45.0,7551
+Tatuapé,kitnet,1,1,1,51.8,4147
+Moema,casa,1,2,2,79.8,6595
+Vila Mariana,kitnet,2,2,0,81.8,5034
+Butantã,casa,2,2,1,41.4,5646
+Itaim Bibi,kitnet,1,1,0,49.6,7063
+Tatuapé,apto,1,1,0,50.1,2953
+Moema,apto,3,2,0,76.2,8170
+Itaim Bibi,apto,3,2,0,62.9,7741
+Tatuapé,kitnet,3,1,1,61.9,5189
+Moema,apto,1,2,2,70.7,8282
+Moema,apto,1,2,2,48.1,6917
+Vila Mariana,kitnet,1,2,0,87.3,5935
+Pinheiros,casa,3,1,2,60.0,9425
+Tatuapé,apto,2,2,1,42.9,3639
+Butantã,apto,3,1,1,55.4,6101
+Pinheiros,apto,2,2,2,84.6,6900
+Butantã,kitnet,2,2,1,51.5,5119
+Itaim Bibi,casa,2,1,0,79.0,7689
+Vila Mariana,kitnet,3,2,1,47.5,7300
+Tatuapé,apto,2,1,2,44.7,4532
+Pinheiros,casa,2,2,2,73.2,7102
+Itaim Bibi,apto,3,1,0,42.5,6952
+Itaim Bibi,casa,2,2,2,76.5,7630
+Moema,casa,3,1,0,67.0,8217
+Pinheiros,kitnet,2,1,2,42.5,6301
+Butantã,casa,3,1,0,58.6,5805
+Moema,kitnet,2,2,0,49.0,6815
+Butantã,casa,2,1,2,67.0,5455
+Itaim Bibi,apto,1,1,1,97.8,8673
+Itaim Bibi,kitnet,2,1,0,52.6,7595
+Itaim Bibi,casa,1,1,0,70.7,7752
+Vila Mariana,apto,2,1,0,60.5,5913
+Moema,kitnet,3,2,0,60.5,8997
+Moema,kitnet,2,2,2,56.7,7368
+Moema,apto,2,2,0,42.9,6525
+Pinheiros,kitnet,1,2,0,66.7,6857
+Tatuapé,kitnet,3,2,2,54.2,6801
+Pinheiros,kitnet,2,1,2,41.9,5825
+Itaim Bibi,apto,2,2,0,80.3,7171
+Itaim Bibi,casa,1,1,1,62.0,6496
+Butantã,casa,1,2,1,55.4,4115
+Itaim Bibi,casa,1,1,1,86.8,8784
+Moema,casa,3,2,0,23.3,7406
+Butantã,casa,3,1,2,85.5,6251
+Moema,casa,1,1,2,42.4,5336
+Vila Mariana,kitnet,1,1,2,64.2,5004
+Butantã,casa,3,2,2,48.2,5700
+Moema,apto,2,1,0,41.5,6113
+Pinheiros,apto,1,1,1,86.3,7280
+Moema,kitnet,2,1,2,97.1,7741
+Itaim Bibi,kitnet,1,2,1,55.6,8699
+Vila Mariana,casa,1,2,2,66.7,5347
+Moema,apto,2,2,1,61.1,6407
+Pinheiros,kitnet,3,2,2,94.6,10089
+Itaim Bibi,apto,3,1,2,20.0,8157
+Moema,casa,1,2,1,67.5,6880
+Vila Mariana,apto,2,1,2,45.5,6069
+Vila Mariana,apto,3,1,1,20.0,5725
+Tatuapé,kitnet,3,1,0,52.8,5193
+Itaim Bibi,casa,3,1,1,97.0,8072
+Butantã,apto,1,1,2,46.9,2321
+Moema,casa,1,2,0,75.8,6299
+Pinheiros,apto,1,2,0,84.0,7872
+Itaim Bibi,casa,1,1,1,59.7,8077
+Tatuapé,casa,1,1,1,62.4,4063
+Itaim Bibi,casa,1,2,1,25.7,5204
+Pinheiros,kitnet,2,1,1,45.7,6093
+Vila Mariana,apto,2,2,1,78.1,7195
+Itaim Bibi,apto,2,1,0,61.2,7517
+Itaim Bibi,casa,1,2,0,67.3,4899
+Moema,kitnet,1,2,2,62.7,9706
+Itaim Bibi,casa,3,1,1,103.8,10221
+Butantã,apto,2,1,2,51.4,4983
+Moema,kitnet,1,2,1,92.1,7188
+Butantã,casa,3,1,0,62.7,6370
+Vila Mariana,apto,3,1,1,93.9,8013
+Vila Mariana,casa,3,1,2,35.5,6239
+Itaim Bibi,apto,1,1,2,63.7,7377
+Tatuapé,kitnet,2,2,0,52.1,4674
+Pinheiros,apto,3,1,2,62.8,7705
+Itaim Bibi,casa,3,1,1,84.4,9315
+Vila Mariana,casa,1,2,0,67.6,5802
+Itaim Bibi,apto,3,2,1,84.4,9365
+Pinheiros,casa,2,2,0,46.6,7112
+Itaim Bibi,apto,2,2,0,43.5,5629
+Itaim Bibi,casa,2,1,2,60.3,6971
+Itaim Bibi,kitnet,3,2,2,59.2,8698
+Tatuapé,kitnet,1,1,1,56.3,3505
+Moema,apto,2,2,2,40.8,6908
+Itaim Bibi,apto,3,2,2,84.0,10449
+Vila Mariana,casa,2,2,1,52.7,5963
+Itaim Bibi,kitnet,1,2,0,88.5,6092
+Tatuapé,kitnet,1,1,1,60.3,3869
+Moema,apto,2,1,0,73.0,7236
+Tatuapé,apto,3,2,2,71.2,6666
+Tatuapé,apto,2,1,1,43.5,4850
+Pinheiros,apto,3,2,2,67.3,8300
+Pinheiros,casa,2,2,2,98.6,8046
+Vila Mariana,kitnet,2,1,1,65.0,5097
+Pinheiros,apto,1,2,2,78.0,6488
+Moema,kitnet,2,2,2,73.9,7718
+Itaim Bibi,casa,1,2,2,66.1,7256
+Tatuapé,casa,3,1,0,63.7,5965
+Moema,kitnet,1,1,1,70.9,7052
+Butantã,apto,3,1,2,75.3,7217
+Tatuapé,kitnet,1,1,2,33.0,3381
+Pinheiros,apto,2,1,1,64.9,7655
+Itaim Bibi,casa,1,1,0,56.3,6728
+Tatuapé,kitnet,1,1,0,52.2,3755
+Tatuapé,casa,3,1,1,85.9,6860
+Tatuapé,apto,1,2,1,45.3,3620
+Tatuapé,casa,2,2,2,32.1,3076
+Pinheiros,casa,3,2,0,75.9,7092
+Tatuapé,apto,2,1,1,31.6,4646
+Itaim Bibi,kitnet,1,2,0,21.4,5607
+Vila Mariana,apto,2,2,2,78.2,7035
+Tatuapé,casa,2,1,0,63.2,4017
+Pinheiros,casa,1,2,0,69.5,4419
+Moema,apto,1,1,0,51.2,6974
+Moema,kitnet,2,2,0,32.3,6203
+Butantã,casa,2,1,1,36.3,4045
+Vila Mariana,apto,1,2,1,54.6,4899
+Vila Mariana,casa,2,1,1,34.6,6140
+Moema,casa,2,2,2,66.1,8689
+Butantã,casa,1,2,1,50.8,3749
+Butantã,kitnet,2,1,0,63.7,5843
+Pinheiros,casa,3,1,1,63.1,6977
+Vila Mariana,kitnet,2,1,2,67.7,5944
+Itaim Bibi,casa,2,1,1,70.0,7365
+Pinheiros,casa,3,1,0,53.1,5867
+Butantã,apto,2,2,2,63.7,4854
+Vila Mariana,casa,1,2,2,64.7,6663
+Butantã,apto,2,2,0,20.0,3823
+Vila Mariana,kitnet,2,2,1,72.9,7182
+Moema,kitnet,2,2,1,63.0,7820
+Tatuapé,kitnet,1,1,0,71.3,4677
+Pinheiros,kitnet,1,2,0,34.3,3291
+Tatuapé,apto,2,1,2,53.7,4317
+Tatuapé,apto,3,2,1,38.2,5801
+Itaim Bibi,kitnet,3,1,2,74.9,7727
+Butantã,casa,3,1,1,31.9,5255
+Tatuapé,apto,1,1,1,41.4,2530
+Moema,apto,2,2,2,70.7,8134
+Moema,kitnet,2,2,0,47.4,8110
+Moema,casa,2,2,1,41.4,7563
+Itaim Bibi,apto,2,1,0,78.1,6063
+Vila Mariana,kitnet,2,2,0,79.0,7247
+Vila Mariana,apto,1,2,2,74.4,7791
+Moema,casa,3,1,0,77.0,10247
+Pinheiros,apto,3,2,1,55.4,7641
+Pinheiros,casa,1,2,1,55.9,4786
+Pinheiros,casa,2,1,2,47.0,6559
+Itaim Bibi,kitnet,2,1,1,63.4,8677
+Itaim Bibi,casa,3,1,2,49.4,7834
+Itaim Bibi,apto,3,2,2,51.3,9275
+Moema,apto,2,2,2,72.0,7488
+Itaim Bibi,apto,3,2,2,83.7,9709
+Pinheiros,casa,3,2,0,68.0,5347
+Butantã,apto,3,1,0,95.9,5816
+Tatuapé,casa,1,1,1,45.9,3772
+Butantã,kitnet,3,1,1,23.2,4407
+Pinheiros,kitnet,2,1,2,74.3,5988
+Moema,casa,1,2,2,44.6,6237
+Itaim Bibi,kitnet,3,2,0,54.5,8200
+Moema,kitnet,3,2,0,24.6,6769
+Moema,casa,2,2,0,42.0,6709
+Pinheiros,kitnet,2,1,1,30.0,5984
+Moema,apto,2,2,1,51.3,6965
+Vila Mariana,kitnet,1,1,0,52.1,5751
+Vila Mariana,apto,3,2,2,61.8,6563
+Itaim Bibi,kitnet,1,2,0,84.8,8986
+Tatuapé,kitnet,2,2,1,73.5,6597
+Tatuapé,casa,1,2,2,27.6,3642
+Moema,apto,3,1,0,72.2,7633
+Butantã,casa,3,2,2,62.2,6732
+Pinheiros,casa,2,2,2,58.0,7420
+Moema,kitnet,2,2,2,59.5,8662
+Pinheiros,kitnet,3,1,0,64.1,5750
+Moema,casa,3,1,1,46.2,7735
+Butantã,kitnet,3,2,0,56.4,4097
+Moema,casa,1,1,1,83.7,6969
+Butantã,casa,2,2,2,45.9,6541
+Moema,kitnet,3,1,2,39.4,6348
+Itaim Bibi,kitnet,1,2,2,58.8,5984
+Moema,casa,3,1,1,37.4,7298
+Vila Mariana,casa,1,2,2,25.5,5976
+Itaim Bibi,kitnet,3,1,2,53.1,8354
+Butantã,kitnet,2,2,2,89.0,5145
+Vila Mariana,casa,3,1,2,59.2,5530
+Itaim Bibi,apto,3,2,1,63.6,8585
+Vila Mariana,apto,1,1,0,20.0,2757
+Itaim Bibi,apto,2,2,0,68.8,7772
+Itaim Bibi,casa,3,2,2,61.9,8913
+Moema,casa,1,2,0,46.7,5709
+Itaim Bibi,kitnet,3,1,0,63.6,9260
+Vila Mariana,apto,1,1,2,63.4,6074
+Pinheiros,kitnet,2,1,1,38.8,6634
+Pinheiros,casa,2,1,2,66.6,7536
+Moema,apto,3,2,0,83.9,8498
+Butantã,casa,3,2,1,55.4,5908
+Pinheiros,apto,2,1,1,42.6,5541
+Moema,kitnet,1,2,1,56.4,7238
+Itaim Bibi,kitnet,2,1,1,77.1,7292
+Vila Mariana,kitnet,2,2,0,35.5,6644
+Itaim Bibi,casa,3,1,2,71.6,8050
+Vila Mariana,casa,3,2,0,46.4,6465
+Itaim Bibi,apto,2,1,1,64.8,7262
+Tatuapé,kitnet,3,1,2,48.7,5201
+Tatuapé,apto,1,1,1,48.7,5598
+Vila Mariana,apto,1,1,0,90.5,5463
+Moema,apto,1,2,0,31.8,5411
+Butantã,casa,3,2,1,69.7,5960
+Pinheiros,apto,1,1,1,94.6,6672
+Itaim Bibi,apto,2,1,2,73.7,7930
+Moema,casa,3,2,0,33.4,6206
+Itaim Bibi,kitnet,3,2,1,34.4,7292
+Tatuapé,casa,3,1,0,45.0,5337
+Moema,kitnet,1,2,1,63.2,7716
+Vila Mariana,kitnet,2,2,1,64.5,6455
+Tatuapé,kitnet,2,2,0,34.6,4284
+Pinheiros,casa,3,2,0,42.5,6288
+Tatuapé,kitnet,2,1,0,43.8,3711
+Pinheiros,kitnet,2,1,1,56.4,5456
+Tatuapé,kitnet,1,2,0,99.7,4245
+Tatuapé,casa,1,1,0,41.3,2778
+Pinheiros,apto,2,1,0,40.5,6137
+Itaim Bibi,casa,1,2,0,37.3,5681
+Moema,kitnet,2,1,0,72.7,6905
+Itaim Bibi,kitnet,3,2,1,59.2,8083
+Pinheiros,casa,2,1,0,42.1,6458
+Vila Mariana,apto,2,1,0,52.7,4640
+Moema,casa,1,1,0,44.2,5847
+Vila Mariana,kitnet,2,1,0,65.9,5723
+Vila Mariana,casa,2,2,0,113.7,7665
+Tatuapé,casa,1,2,0,71.0,4826
+Pinheiros,casa,1,2,2,58.1,6290
+Itaim Bibi,apto,3,2,2,46.7,8935
+Pinheiros,apto,3,1,0,33.1,5871
+Vila Mariana,kitnet,2,1,0,74.7,7436
+Tatuapé,apto,3,2,1,73.6,6443
+Itaim Bibi,kitnet,1,1,2,50.7,5258
+Vila Mariana,apto,1,2,2,84.3,7139
+Vila Mariana,casa,3,2,2,60.4,7626
+Butantã,casa,1,2,0,75.5,4991
+Butantã,kitnet,2,2,1,65.9,5470
+Tatuapé,kitnet,1,2,1,56.5,2802
+Moema,casa,1,2,1,40.9,4670
+Moema,casa,2,2,2,57.1,9031
+Tatuapé,kitnet,2,1,0,76.8,4637
+Tatuapé,casa,3,1,1,49.8,6068
+Vila Mariana,apto,3,2,0,68.8,5681
+Pinheiros,casa,2,1,0,38.3,4513
+Pinheiros,apto,2,2,0,75.6,7411
+Butantã,casa,1,1,2,66.3,4806
+Moema,casa,1,2,1,36.0,6509
+Moema,apto,1,2,2,55.5,6955
+Moema,apto,3,2,2,78.6,8893
+Itaim Bibi,kitnet,1,2,1,34.8,5701
+Pinheiros,casa,2,1,2,38.6,5002
+Pinheiros,apto,3,1,0,58.6,7780
+Vila Mariana,kitnet,3,1,2,102.7,9434
+Moema,kitnet,2,1,0,46.5,5565
+Itaim Bibi,kitnet,1,2,1,69.9,6414
+Moema,kitnet,2,2,2,65.2,7678
+Moema,kitnet,2,1,2,48.2,7319
+Butantã,casa,1,1,0,63.2,4051
+Pinheiros,apto,3,2,2,51.0,7831
+Tatuapé,kitnet,3,2,0,52.8,5446
+Tatuapé,apto,1,2,2,26.8,3812
+Moema,apto,1,2,1,59.5,8716
+Itaim Bibi,kitnet,1,1,0,78.0,6419
+Vila Mariana,kitnet,3,1,2,61.1,8246
+Butantã,casa,1,1,2,81.8,6512
+Vila Mariana,kitnet,3,1,0,71.6,7051
+Tatuapé,kitnet,3,1,0,58.8,3723
+Tatuapé,kitnet,2,1,0,47.4,4248
+Butantã,apto,2,2,1,50.3,4796
+Moema,casa,3,1,1,30.6,6934
+Vila Mariana,apto,3,2,2,54.7,6289
+Pinheiros,kitnet,1,2,2,62.9,6993
+Moema,apto,1,2,0,94.3,8317
+Itaim Bibi,kitnet,2,2,1,70.6,8953
+Pinheiros,apto,1,2,2,42.7,5475
+Butantã,casa,1,1,2,31.2,2989
+Tatuapé,apto,3,1,0,55.9,5457
+Pinheiros,kitnet,2,2,0,76.2,8292
+Vila Mariana,casa,2,2,0,55.6,5923
+Tatuapé,kitnet,1,1,1,70.8,4887
+Vila Mariana,apto,1,1,1,56.4,4903
+Pinheiros,casa,1,1,1,74.3,5627
+Tatuapé,kitnet,2,1,0,28.1,4168
+Itaim Bibi,kitnet,1,2,1,92.1,7878
+Pinheiros,apto,2,1,0,37.8,5655
+Vila Mariana,casa,1,2,1,75.9,6482
+Vila Mariana,casa,2,2,0,54.6,6115
+Tatuapé,casa,2,2,2,57.7,5977
+Itaim Bibi,casa,1,1,1,55.2,5773
+Itaim Bibi,apto,2,1,0,65.1,6422
+Butantã,kitnet,1,1,2,69.2,4940
+Itaim Bibi,apto,1,2,2,81.2,7920
+Vila Mariana,apto,3,2,0,88.2,7127
+Pinheiros,kitnet,3,1,0,66.6,7092
+Tatuapé,kitnet,2,1,0,94.3,6355
+Butantã,casa,3,2,1,61.9,7206
+Butantã,kitnet,2,2,1,81.5,7276
+Vila Mariana,casa,1,2,1,68.6,4805
+Vila Mariana,casa,3,2,1,49.0,5740
+Pinheiros,apto,2,2,1,63.6,6577
+Pinheiros,apto,2,1,0,70.1,6366
+Tatuapé,casa,2,1,0,59.4,4390
+Tatuapé,casa,1,2,2,68.3,4706
+Moema,kitnet,3,1,2,77.3,8376
+Vila Mariana,casa,2,2,2,59.5,6973
+Itaim Bibi,kitnet,2,2,2,20.0,5736
+Moema,casa,1,1,1,93.6,9282
+Itaim Bibi,apto,3,1,2,54.0,8138
+Butantã,kitnet,1,1,2,43.5,5047
+Vila Mariana,casa,1,2,2,37.5,4762
+Vila Mariana,casa,3,2,0,53.3,6958
+Butantã,casa,1,2,0,48.7,4242
+Tatuapé,apto,2,2,1,45.3,5543
+Vila Mariana,casa,3,2,1,46.4,6432
+Tatuapé,casa,3,1,2,70.6,7459
+Tatuapé,casa,2,1,0,100.6,4625
+Butantã,apto,3,2,2,76.4,7752
+Vila Mariana,casa,3,2,2,82.5,8069
+Butantã,casa,3,2,2,52.5,5459
+Butantã,casa,1,1,0,62.1,5724
+Vila Mariana,apto,3,1,0,68.5,8035
+Pinheiros,casa,1,1,0,46.8,3245
+Tatuapé,apto,3,1,2,51.5,5786
+Pinheiros,casa,1,2,2,77.1,7377
+Vila Mariana,apto,1,1,1,81.8,6208
+Moema,casa,1,1,0,61.3,7353
+Butantã,kitnet,2,2,1,36.1,5829
+Butantã,kitnet,1,2,2,54.1,5135
+Pinheiros,kitnet,1,1,1,31.2,6557
+Butantã,kitnet,2,2,0,61.5,5995
+Pinheiros,apto,3,2,1,65.1,7272
+Itaim Bibi,casa,2,2,1,54.6,7096
+Butantã,casa,2,1,1,64.8,6240
+Butantã,kitnet,2,2,2,68.3,5416
+Vila Mariana,casa,2,2,0,65.1,5826
+Butantã,kitnet,2,2,1,36.0,4587
+Pinheiros,apto,2,2,2,54.9,7133
+Tatuapé,apto,1,1,0,68.2,3991
+Moema,apto,1,2,0,91.6,6394
+Vila Mariana,casa,3,2,0,54.6,7467
+Pinheiros,casa,2,2,1,71.0,6707
+Itaim Bibi,apto,1,1,0,77.6,8443
+Moema,kitnet,1,2,2,56.1,7225
+Tatuapé,kitnet,3,2,0,83.0,7403
+Moema,casa,1,2,2,84.0,8326
+Moema,apto,1,1,1,87.6,8280
+Butantã,kitnet,3,1,2,69.2,6831
+Pinheiros,kitnet,2,2,1,107.2,8304
+Itaim Bibi,apto,2,2,1,47.7,8205
+Itaim Bibi,apto,3,1,0,102.5,10963
+Moema,casa,1,1,1,75.4,6645
+Vila Mariana,casa,2,1,0,86.8,7040
+Pinheiros,apto,3,1,0,53.6,6504
+Butantã,kitnet,2,1,2,76.9,6312
+Butantã,casa,1,1,2,88.5,5590
+Vila Mariana,casa,3,1,0,38.3,3921
+Pinheiros,apto,3,2,1,56.7,7142
+Pinheiros,kitnet,1,1,0,20.0,4900
+Pinheiros,apto,1,2,0,56.4,4981
+Itaim Bibi,kitnet,3,1,1,43.7,8247
+Butantã,casa,1,1,2,55.6,4716
+Pinheiros,kitnet,3,1,0,118.5,8301
+Itaim Bibi,apto,1,1,1,94.4,8355
+Vila Mariana,apto,3,2,2,31.2,6981
+Moema,kitnet,3,1,1,71.1,8470
+Tatuapé,kitnet,2,1,0,76.0,5892
+Itaim Bibi,casa,1,2,1,53.2,6960
+Butantã,apto,2,2,2,63.6,4591
+Pinheiros,kitnet,3,1,2,65.5,7163
+Vila Mariana,casa,3,1,1,33.1,4349
+Vila Mariana,kitnet,1,1,0,39.4,4807
+Vila Mariana,kitnet,2,2,2,63.4,7420
+Butantã,kitnet,3,2,2,62.0,7313
+Itaim Bibi,kitnet,1,1,1,45.8,6566
+Vila Mariana,kitnet,3,1,2,44.1,7198
+Butantã,casa,1,2,2,58.2,3785
+Moema,apto,3,2,0,77.7,8346
+Tatuapé,casa,1,2,1,58.5,3422
+Moema,kitnet,1,2,1,92.5,7487
+Pinheiros,kitnet,2,2,1,46.1,7576
+Butantã,casa,2,1,1,63.9,6090
+Pinheiros,kitnet,1,1,2,52.9,6217
+Vila Mariana,apto,2,2,0,71.8,6207
+Vila Mariana,casa,1,2,1,44.4,4336
+Vila Mariana,casa,3,1,0,98.5,7606
+Pinheiros,kitnet,1,1,1,26.2,5474
+Pinheiros,apto,2,2,1,94.3,8057
+Itaim Bibi,apto,3,1,0,61.8,6485
+Butantã,casa,1,2,2,71.0,5515
+Pinheiros,apto,1,1,0,86.7,4570
+Vila Mariana,casa,3,1,0,77.2,7458
+Tatuapé,casa,1,2,1,45.4,3608
+Butantã,kitnet,3,1,2,72.0,5482
+Itaim Bibi,kitnet,2,1,0,97.3,8775
+Itaim Bibi,apto,3,1,1,42.3,7915
+Tatuapé,apto,1,2,1,102.4,6057
+Moema,apto,1,2,2,67.7,9085
+Vila Mariana,apto,3,1,0,51.3,6548
+Butantã,kitnet,3,1,0,42.1,4448
+Itaim Bibi,apto,3,1,1,55.5,8281
+Pinheiros,apto,1,1,0,20.9,3898
+Itaim Bibi,kitnet,2,1,2,51.7,8364
+Pinheiros,kitnet,2,2,0,54.7,6467
+Itaim Bibi,apto,2,1,1,38.5,6959
+Itaim Bibi,apto,1,1,0,75.0,5595
+Pinheiros,casa,2,2,2,55.6,6918
+Moema,casa,2,1,1,47.3,6674
+Pinheiros,kitnet,1,2,0,53.5,4685
+Tatuapé,casa,2,2,0,67.1,5036
+Butantã,apto,1,2,0,61.5,4893
+Pinheiros,casa,1,1,0,46.0,4876
+Moema,casa,1,1,2,62.5,5646
+Butantã,casa,2,1,1,59.0,4851
+Vila Mariana,casa,1,1,2,37.2,4442
+Pinheiros,kitnet,2,2,0,54.2,6382
+Moema,kitnet,2,2,2,71.6,8216
+Tatuapé,apto,3,1,1,71.4,5614
+Tatuapé,casa,1,1,1,55.4,3701
+Vila Mariana,kitnet,2,2,2,73.5,7060
+Butantã,casa,1,1,2,40.4,4882
+Tatuapé,casa,2,2,2,41.0,5254
+Vila Mariana,apto,2,2,2,55.0,7588
+Butantã,apto,3,2,1,90.0,8005
+Butantã,kitnet,2,1,2,63.3,6695
+Moema,kitnet,3,2,2,54.5,9430
+Pinheiros,kitnet,1,1,2,90.9,8077
+Tatuapé,apto,1,1,1,54.3,3105
+Tatuapé,apto,1,1,0,104.7,5759
+Pinheiros,apto,2,2,1,49.8,7368
+Tatuapé,casa,1,2,0,39.8,4812
+Butantã,casa,1,1,0,56.7,3384
+Pinheiros,kitnet,1,1,1,55.0,5976
+Itaim Bibi,kitnet,3,2,1,43.8,7976
+Pinheiros,apto,3,2,1,112.0,10439
+Itaim Bibi,kitnet,1,2,2,66.4,6381
+Moema,apto,3,1,2,69.3,7763
+Pinheiros,apto,1,1,1,50.8,3874
+Butantã,casa,2,1,1,48.4,4869
+Pinheiros,apto,1,2,2,80.5,8726
+Tatuapé,casa,2,1,0,26.5,3559
+Vila Mariana,casa,3,1,2,37.1,6295
+Butantã,apto,3,2,2,55.1,6792
+Itaim Bibi,casa,2,2,2,87.0,8718
+Itaim Bibi,casa,2,1,0,52.5,7068
+Moema,kitnet,3,2,1,68.3,8763
+Moema,apto,1,2,2,60.6,6440
+Tatuapé,apto,2,1,0,85.9,5303
+Itaim Bibi,casa,1,1,0,28.3,5943
+Butantã,apto,3,1,1,74.7,6984
+Pinheiros,kitnet,2,1,1,56.0,7219
+Tatuapé,apto,2,1,2,78.5,6023
+Pinheiros,casa,2,1,1,43.6,6093
+Vila Mariana,kitnet,1,2,2,60.5,6515
+Itaim Bibi,apto,1,2,0,57.9,6163
+Vila Mariana,apto,3,2,1,40.0,5890
+Itaim Bibi,kitnet,1,1,0,34.4,5432
+Moema,casa,1,2,0,48.4,5132
+Vila Mariana,apto,1,2,0,62.6,5703
+Moema,apto,3,2,2,44.9,8885
+Tatuapé,kitnet,1,2,1,53.4,3834
+Itaim Bibi,kitnet,3,1,0,22.3,6917
+Tatuapé,casa,2,2,0,52.6,4274
+Butantã,casa,3,2,1,80.5,6001
+Butantã,kitnet,2,2,2,74.1,7868
+Itaim Bibi,apto,1,1,2,58.3,6046
+Tatuapé,apto,2,2,0,64.9,4123
+Vila Mariana,kitnet,2,2,2,43.4,6275
+Moema,apto,1,2,1,92.5,7989
+Pinheiros,kitnet,2,1,2,101.4,8374
+Moema,casa,1,1,0,63.3,7800
+Butantã,kitnet,3,2,1,111.8,7133
+Moema,apto,3,2,2,46.4,7629
+Pinheiros,kitnet,1,1,0,35.0,5836
+Tatuapé,apto,2,2,2,45.8,5926
+Butantã,apto,2,2,0,55.6,5708
+Butantã,kitnet,1,1,2,106.2,5615
+Vila Mariana,casa,2,1,2,54.4,6932
+Moema,kitnet,1,2,2,42.8,7227
+Tatuapé,apto,1,2,2,42.0,4513
+Vila Mariana,apto,3,2,0,82.8,6916
+Vila Mariana,casa,2,2,1,79.9,6984
+Vila Mariana,kitnet,3,1,2,50.3,7928
+Butantã,casa,2,1,0,22.5,2799
+Itaim Bibi,kitnet,3,2,0,37.4,6783
+Butantã,kitnet,3,2,0,94.4,6431
+Itaim Bibi,kitnet,2,1,2,73.8,7685
+Butantã,casa,2,2,0,61.3,5227
+Pinheiros,kitnet,2,1,1,97.4,8188
+Butantã,casa,3,1,1,99.2,7344
+Pinheiros,kitnet,2,1,1,59.3,6327
+Moema,casa,2,1,2,59.6,7611
+Tatuapé,casa,1,2,2,48.4,5050
+Moema,casa,3,2,1,54.3,6684
+Pinheiros,casa,2,1,2,30.3,6565
+Vila Mariana,kitnet,1,2,0,30.2,3745
+Itaim Bibi,kitnet,2,2,2,25.5,6612
+Vila Mariana,casa,2,2,0,81.7,6923
+Vila Mariana,apto,1,1,0,28.8,3903
+Butantã,casa,3,2,0,99.0,7460
+Pinheiros,apto,3,1,0,45.4,6375
+Butantã,apto,3,1,2,94.7,6911
+Butantã,apto,2,2,0,52.7,6204
+Tatuapé,casa,1,1,2,28.7,4127
+Pinheiros,kitnet,1,1,1,85.7,6612
+Pinheiros,casa,3,2,0,88.0,8495
+Vila Mariana,casa,1,2,1,41.9,4492
+Tatuapé,apto,3,1,0,53.4,6841
+Pinheiros,kitnet,3,1,0,41.9,5286
+Moema,apto,1,1,1,57.6,6418
+Pinheiros,kitnet,3,2,2,62.2,7536
+Tatuapé,kitnet,1,2,1,53.0,4130
+Pinheiros,kitnet,2,2,0,23.6,4945
+Itaim Bibi,apto,2,1,2,48.4,6634
+Pinheiros,apto,3,1,2,74.1,8673
+Vila Mariana,apto,2,1,0,55.8,4511
+Vila Mariana,kitnet,3,1,2,53.5,7490
+Itaim Bibi,apto,2,2,2,41.4,7960
+Pinheiros,kitnet,3,1,1,47.8,6329
+Moema,apto,3,2,0,88.2,9171
+Tatuapé,apto,3,2,1,37.2,5190
+Tatuapé,apto,2,1,1,74.4,4452
+Itaim Bibi,kitnet,2,2,0,60.9,6556
+Itaim Bibi,casa,3,2,0,64.9,8771
+Moema,casa,3,1,0,45.4,7543
+Itaim Bibi,casa,3,1,0,53.0,7683
+Vila Mariana,casa,2,1,2,59.9,5883
+Butantã,casa,3,1,0,49.6,5035
+Tatuapé,casa,3,2,1,66.6,5938
+Itaim Bibi,apto,3,2,1,69.1,7277
+Butantã,apto,1,1,0,103.5,5453
+Itaim Bibi,casa,2,2,2,65.6,8585
+Butantã,apto,3,2,2,21.8,5407
+Tatuapé,casa,3,1,1,83.3,7713
+Pinheiros,apto,3,2,2,55.9,6774
+Moema,kitnet,1,1,0,100.2,6778
+Vila Mariana,apto,1,1,2,89.4,6489
+Butantã,apto,3,1,2,49.9,5992
+Vila Mariana,casa,3,2,1,74.4,5912
+Vila Mariana,apto,1,2,2,48.1,6026
+Vila Mariana,casa,2,1,2,60.1,6400
+Tatuapé,apto,3,1,1,73.5,4310
+Tatuapé,apto,1,1,0,82.3,4474
+Butantã,kitnet,3,2,0,77.9,5790
+Moema,kitnet,1,2,0,61.5,6182
+Vila Mariana,apto,1,1,0,109.7,5320
+Pinheiros,kitnet,3,2,2,52.7,7814
+Pinheiros,kitnet,2,2,0,27.9,6845
+Moema,casa,2,2,2,31.7,7163
+Butantã,casa,3,2,0,89.5,5057
+Tatuapé,kitnet,1,2,1,58.5,4782
+Butantã,casa,2,2,1,63.2,5440
+Pinheiros,casa,2,1,0,49.1,4794
+Pinheiros,casa,3,1,0,50.9,6711
+Butantã,kitnet,1,2,0,44.3,4732
+Pinheiros,kitnet,2,1,0,69.4,5748
+Pinheiros,apto,2,2,2,58.1,5627
+Moema,casa,2,2,1,68.7,6152
+Butantã,kitnet,3,1,2,66.8,5771
+Itaim Bibi,apto,2,2,2,51.5,7620
+Pinheiros,kitnet,3,1,1,30.8,5712
+Butantã,kitnet,3,2,2,29.1,5026
+Butantã,kitnet,3,2,0,120.5,8170
+Itaim Bibi,apto,3,1,1,89.6,9257
+Butantã,casa,2,2,1,86.8,6464
+Vila Mariana,casa,1,1,1,46.5,5448
+Butantã,casa,3,1,2,60.2,5581
+Vila Mariana,kitnet,2,2,2,43.7,5235
+Itaim Bibi,casa,1,2,1,33.8,5795
+Tatuapé,casa,1,1,0,48.2,3074
+Itaim Bibi,kitnet,1,1,1,86.5,5755
+Tatuapé,kitnet,3,1,2,76.8,5968
+Tatuapé,kitnet,1,1,2,40.6,4802
+Tatuapé,casa,3,2,2,53.7,6752
+Itaim Bibi,kitnet,2,1,0,75.0,7870
+Itaim Bibi,apto,1,2,0,48.6,6463
+Pinheiros,casa,2,2,1,61.6,7907
+Itaim Bibi,casa,3,2,1,68.0,7793
+Tatuapé,apto,3,1,1,67.8,5063
+Vila Mariana,casa,2,2,2,65.1,7652
+Tatuapé,casa,2,1,1,46.9,4530
+Butantã,casa,1,1,1,49.0,3532
+Butantã,apto,1,1,2,37.3,4461
+Butantã,apto,2,2,1,28.8,4212
+Moema,apto,2,2,1,57.7,6761
+Itaim Bibi,casa,1,2,0,76.3,6497
+Moema,apto,3,2,1,32.4,7629
+Itaim Bibi,casa,2,2,1,65.5,8028
+Tatuapé,kitnet,1,1,0,75.7,5584
+Vila Mariana,kitnet,3,1,0,23.3,4966
+Vila Mariana,apto,1,2,2,54.6,5492
+Pinheiros,kitnet,3,2,0,92.9,9239
+Pinheiros,apto,1,1,0,71.0,6420
+Moema,apto,2,2,0,22.6,6194
+Moema,apto,2,1,0,73.2,5946
+Pinheiros,apto,3,2,1,45.0,6302
+Moema,kitnet,1,2,1,73.8,6372
+Tatuapé,apto,3,2,1,46.2,5615
+Vila Mariana,kitnet,2,2,1,58.9,5862
+Moema,casa,1,2,1,49.2,7760
+Moema,apto,2,1,2,60.1,6145
+Tatuapé,casa,3,2,0,48.7,4431
+Moema,apto,2,2,2,55.5,7862
+Itaim Bibi,casa,1,2,0,36.5,6412
+Vila Mariana,casa,2,1,2,69.8,4425
+Moema,casa,2,1,1,63.5,5817
+Moema,apto,1,2,1,27.7,5619
+Vila Mariana,kitnet,1,1,0,79.9,6581
+Itaim Bibi,casa,3,2,1,56.5,9804
+Vila Mariana,apto,1,1,1,63.2,4965
+Vila Mariana,casa,2,2,2,75.3,6922
+Itaim Bibi,apto,3,2,0,66.6,7627
+Butantã,kitnet,1,1,1,83.3,5606
+Itaim Bibi,kitnet,2,2,2,54.1,9047
+Butantã,apto,1,2,2,80.7,6725
+Butantã,kitnet,3,2,2,62.5,6551
+Moema,kitnet,2,2,1,70.2,7134
+Itaim Bibi,casa,3,2,2,68.1,8949
+Vila Mariana,apto,3,1,0,84.8,8149
+Moema,kitnet,2,1,2,74.4,7512
+Tatuapé,kitnet,1,1,1,51.1,2482
+Butantã,kitnet,2,2,1,47.2,4827
+Butantã,kitnet,1,2,0,59.0,4247
+Moema,kitnet,2,2,1,44.8,5587
+Tatuapé,kitnet,1,1,0,39.0,3454
+Vila Mariana,apto,3,2,2,20.0,6505
+Itaim Bibi,casa,2,2,0,29.0,7958
+Tatuapé,apto,1,1,1,99.7,4325
+Tatuapé,apto,3,1,0,46.9,5491
+Itaim Bibi,kitnet,3,1,1,98.1,9916
+Tatuapé,kitnet,2,2,1,68.1,5958
+Pinheiros,casa,1,2,0,59.0,4865
+Vila Mariana,kitnet,2,1,2,30.0,4448
+Vila Mariana,apto,2,1,2,60.1,6281
+Itaim Bibi,apto,3,2,1,97.8,9607
+Pinheiros,kitnet,1,1,0,91.2,5787
+Vila Mariana,casa,3,2,2,65.5,8498
+Tatuapé,casa,1,1,2,37.0,3490
+Itaim Bibi,casa,1,1,1,40.9,4511
+Tatuapé,apto,2,1,1,42.9,4209
+Butantã,kitnet,1,2,0,85.6,5651
+Butantã,kitnet,2,1,1,92.6,6353
+Pinheiros,kitnet,2,2,0,63.9,6785
+Butantã,casa,1,1,1,53.9,5413
+Tatuapé,casa,3,1,2,91.0,5937
+Tatuapé,kitnet,1,1,1,40.4,3274
+Pinheiros,casa,3,1,1,61.0,8267
+Tatuapé,casa,3,1,2,69.3,4604
+Itaim Bibi,apto,2,2,2,42.7,7439
+Tatuapé,casa,1,1,0,47.3,4502
+Pinheiros,casa,3,2,0,45.7,7643
+Tatuapé,casa,1,1,0,88.3,5278
+Butantã,apto,1,1,2,98.3,6397
+Itaim Bibi,apto,3,2,1,62.3,7636
+Pinheiros,kitnet,2,2,2,54.6,7938
+Butantã,casa,3,1,1,48.0,4480
+Butantã,casa,1,1,2,60.0,3789
+Vila Mariana,casa,2,2,2,49.0,6580
+Itaim Bibi,casa,3,1,0,58.1,7247
+Moema,kitnet,3,1,2,68.3,8513
+Tatuapé,apto,2,2,2,51.9,5701
+Moema,kitnet,3,2,0,56.2,9209
+Itaim Bibi,apto,1,1,1,56.3,6836
+Butantã,casa,2,1,2,53.6,4715
+Itaim Bibi,casa,1,1,2,51.2,7176
+Butantã,kitnet,3,1,1,75.2,5592
+Butantã,apto,3,2,1,24.6,5868
+Pinheiros,casa,3,2,0,91.5,8096
+Vila Mariana,apto,3,1,1,62.7,7002
+Itaim Bibi,apto,1,1,1,72.2,5541
+Tatuapé,kitnet,2,1,1,74.5,3534
+Pinheiros,kitnet,3,1,0,45.8,5074
+Pinheiros,casa,1,2,2,41.7,7148
+Tatuapé,casa,2,1,1,39.4,3362
+Tatuapé,casa,3,2,0,55.1,6138
+Vila Mariana,apto,2,2,1,74.0,6206
+Vila Mariana,casa,3,2,1,48.3,6458
+Pinheiros,apto,2,1,0,72.2,6329
+Tatuapé,kitnet,2,2,1,20.0,5415
+Pinheiros,casa,2,2,2,52.3,7236
+Tatuapé,apto,2,1,2,83.3,6208
+Moema,casa,3,1,0,56.6,8435
+Moema,kitnet,3,1,1,43.4,6796
+Itaim Bibi,apto,1,2,1,46.9,7461
+Tatuapé,kitnet,3,2,2,20.0,5821
+Itaim Bibi,casa,2,1,2,39.8,7705
+Itaim Bibi,casa,2,1,1,81.1,7810
+Butantã,kitnet,1,1,0,48.3,3401
+Itaim Bibi,casa,2,1,1,50.7,6325
+Tatuapé,apto,2,2,0,20.0,3154
+Moema,kitnet,2,2,2,27.4,6088
+Vila Mariana,apto,1,1,2,83.8,6508
+Tatuapé,casa,3,2,2,72.3,6488
+Pinheiros,kitnet,2,2,1,34.1,6267
+Butantã,casa,2,2,2,47.4,5812
+Butantã,kitnet,1,2,1,59.4,3935
+Pinheiros,casa,1,1,1,36.1,4011
+Itaim Bibi,apto,3,2,2,20.0,7317
+Pinheiros,apto,1,1,0,56.8,4584
+Itaim Bibi,casa,3,2,2,71.5,8339
+Pinheiros,apto,3,1,2,71.8,9012
+Moema,casa,2,1,1,77.5,6398
+Tatuapé,casa,3,2,0,28.9,6386
+Itaim Bibi,kitnet,2,2,2,61.2,8266
+Moema,apto,3,1,0,54.6,8128
+Butantã,kitnet,1,1,2,58.3,5342
+Itaim Bibi,casa,2,1,2,55.8,7966
+Vila Mariana,casa,2,2,1,46.8,7233
+Itaim Bibi,casa,3,1,1,20.0,5934
+Itaim Bibi,apto,1,2,0,83.2,7272
+Moema,kitnet,3,2,1,66.6,7716
+Itaim Bibi,apto,1,2,0,30.3,4453
+Butantã,apto,1,2,2,69.5,4855
+Itaim Bibi,kitnet,2,2,1,51.1,8930
+Itaim Bibi,casa,1,1,0,51.6,5910
+Tatuapé,kitnet,2,2,2,44.6,6726
+Vila Mariana,casa,3,1,0,70.7,8291
+Itaim Bibi,apto,3,2,1,44.0,10316
+Moema,apto,1,1,0,38.1,6966
+Tatuapé,casa,2,2,0,82.6,7566
+Vila Mariana,apto,2,1,0,56.4,5753
+Vila Mariana,kitnet,1,1,0,57.1,4994
+Pinheiros,apto,2,2,2,73.8,7651
+Butantã,kitnet,2,2,2,46.6,5399
+Pinheiros,apto,3,1,2,50.6,7139
+Pinheiros,apto,1,1,2,66.1,6685
+Butantã,apto,1,2,1,29.2,3503
+Tatuapé,apto,3,1,1,64.4,4631
+Moema,casa,3,2,0,44.9,7737
+Itaim Bibi,apto,1,1,2,77.1,6859
+Moema,casa,1,2,1,70.9,6657
+Pinheiros,casa,2,2,1,68.3,6835
+Itaim Bibi,apto,3,2,0,27.9,6838
+Vila Mariana,apto,1,1,1,57.9,6026
+Tatuapé,apto,1,1,2,36.5,3660
+Butantã,apto,3,1,1,59.3,6706
+Butantã,apto,3,1,1,20.0,4765
+Moema,apto,3,1,2,29.2,7105
+Itaim Bibi,casa,3,1,0,83.8,8540
+Tatuapé,apto,3,2,2,67.4,5488
+Moema,apto,1,2,2,52.9,7158
+Pinheiros,casa,1,1,1,41.8,5734
+Moema,casa,1,1,2,38.3,6842
+Tatuapé,apto,1,2,0,64.0,3338
+Butantã,apto,3,1,0,53.1,4079
+Pinheiros,casa,2,2,0,90.9,6899
+Itaim Bibi,apto,1,1,1,56.3,7597
+Butantã,casa,1,1,2,61.2,4912
+Butantã,kitnet,1,1,1,32.2,2947
+Moema,casa,2,1,2,52.8,6021
+Pinheiros,apto,2,2,0,63.5,5959
+Vila Mariana,kitnet,1,1,2,52.5,4675
+Butantã,apto,3,2,0,50.3,6357
+Butantã,apto,1,1,1,66.5,5406
+Tatuapé,apto,2,2,2,90.3,5669
+Pinheiros,kitnet,2,1,2,62.9,7290
+Pinheiros,kitnet,2,2,2,82.9,8207
+Moema,casa,3,1,1,72.4,7229
+Tatuapé,casa,3,1,1,81.7,6184
+Pinheiros,casa,1,2,1,47.8,5907
+Itaim Bibi,casa,2,1,1,55.9,7306
+Tatuapé,casa,1,2,2,55.9,3410
+Pinheiros,kitnet,2,1,1,70.9,6733
+Pinheiros,kitnet,2,2,1,75.8,7684
+Moema,apto,2,2,1,62.5,8839
+Itaim Bibi,casa,1,1,0,77.5,6291
+Itaim Bibi,kitnet,1,2,0,48.7,5926
+Moema,casa,1,1,1,77.7,6764
+Vila Mariana,apto,1,1,1,80.3,6042
+Butantã,kitnet,2,2,1,73.5,5984
+Moema,casa,3,2,2,62.7,9064
+Vila Mariana,casa,1,2,2,74.3,5428
+Moema,casa,1,1,2,42.1,6481
+Pinheiros,apto,2,1,1,64.0,5825
+Vila Mariana,casa,3,1,2,66.0,6966
+Tatuapé,casa,1,2,2,33.4,5469
+Butantã,kitnet,1,2,0,69.5,3666
+Itaim Bibi,apto,2,2,1,35.0,6727
+Itaim Bibi,apto,2,2,1,51.4,6424
+Tatuapé,casa,3,1,2,60.8,6046
+Pinheiros,kitnet,1,2,1,45.4,6400
+Moema,casa,1,2,0,61.7,6685
+Butantã,casa,2,2,0,61.3,5147
+Pinheiros,kitnet,2,1,0,43.6,6571
+Butantã,casa,3,1,0,71.4,6105
+Itaim Bibi,apto,2,1,0,44.7,7197
+Vila Mariana,kitnet,2,2,2,105.8,8545
+Itaim Bibi,casa,1,2,1,57.8,4633
+Butantã,apto,1,2,2,36.6,4336
+Pinheiros,casa,3,1,2,40.3,5847
+Pinheiros,kitnet,1,2,1,83.0,6025
+Tatuapé,casa,2,1,1,51.8,5834
+Butantã,casa,3,1,0,32.7,4382
+Pinheiros,casa,3,2,2,77.1,9726
+Tatuapé,kitnet,1,2,1,51.7,3225
+Pinheiros,kitnet,1,1,2,73.1,5425
+Tatuapé,apto,3,1,0,78.7,6471
+Tatuapé,casa,3,2,0,65.5,5592
+Pinheiros,casa,1,1,0,107.9,6983
+Itaim Bibi,apto,2,1,2,25.5,6475
+Butantã,kitnet,1,2,1,43.6,4195
+Butantã,apto,3,2,0,54.9,5503
+Pinheiros,casa,3,2,0,105.2,8600
+Vila Mariana,apto,1,2,1,96.0,7192
+Vila Mariana,apto,2,2,2,85.8,8665
+Moema,kitnet,2,2,2,44.1,7162
+Pinheiros,apto,1,2,1,46.4,5279
+Butantã,apto,1,2,2,43.4,4185
+Itaim Bibi,kitnet,3,1,0,44.3,8406
+Itaim Bibi,kitnet,2,2,2,89.9,9448
+Vila Mariana,apto,1,2,0,55.1,3635
+Pinheiros,apto,1,1,1,57.8,3979
+Butantã,kitnet,2,1,2,75.5,5201
+Vila Mariana,kitnet,3,2,2,26.7,6486
+Tatuapé,kitnet,2,2,0,61.1,5005
+Butantã,casa,3,2,1,38.1,5954
+Pinheiros,apto,2,1,0,54.1,5683
+Pinheiros,kitnet,3,2,0,48.3,7866
+Pinheiros,apto,3,2,1,47.2,7635
+Pinheiros,apto,1,2,1,64.5,6197
+Pinheiros,kitnet,1,2,0,64.4,6749
+Itaim Bibi,casa,3,1,2,55.6,6849
+Tatuapé,apto,3,2,1,67.4,6154
+Butantã,apto,1,1,1,42.6,3989
+Itaim Bibi,casa,2,1,1,73.6,8191
+Butantã,apto,3,1,1,55.9,4304
+Vila Mariana,kitnet,3,1,0,50.3,5801
+Vila Mariana,casa,1,2,1,44.1,5444
+Butantã,casa,3,1,2,55.2,6337
+Vila Mariana,casa,2,1,1,97.4,7971
+Pinheiros,casa,3,1,1,58.7,7571
+Itaim Bibi,casa,1,1,2,37.1,6165
+Itaim Bibi,kitnet,2,2,1,78.4,8791
+Butantã,casa,1,2,0,50.6,4056
+Butantã,casa,2,1,0,65.7,5088
+Pinheiros,casa,1,1,2,47.9,6172
+Itaim Bibi,apto,2,2,1,85.6,8432
+Butantã,kitnet,3,2,1,48.2,6135
+Itaim Bibi,casa,2,1,0,88.0,8608
+Itaim Bibi,kitnet,1,2,0,39.0,6640
+Butantã,kitnet,2,1,1,54.1,5911
+Moema,kitnet,2,1,2,88.0,10103
+Pinheiros,kitnet,3,2,0,63.4,7763
+Moema,kitnet,1,1,1,105.4,7394
+Vila Mariana,casa,1,1,2,54.6,5748
+Pinheiros,kitnet,2,1,0,65.1,6529
+Pinheiros,apto,3,1,0,98.1,8334
+Itaim Bibi,kitnet,2,2,0,29.7,7688
+Tatuapé,apto,1,1,2,27.2,2170
+Tatuapé,kitnet,1,1,1,44.1,4934
+Itaim Bibi,apto,3,1,2,76.3,10268
+Tatuapé,casa,3,1,2,27.8,5389
+Tatuapé,apto,1,2,1,71.9,5432
+Pinheiros,apto,1,2,0,70.5,5823
+Butantã,kitnet,1,1,0,100.3,5314
+Moema,kitnet,2,2,1,80.9,8686
+Pinheiros,apto,3,1,1,67.3,7725
+Itaim Bibi,apto,1,1,0,87.2,7692
+Itaim Bibi,kitnet,3,2,2,70.8,9525
+Pinheiros,kitnet,1,1,0,50.8,5743
+Vila Mariana,apto,3,2,1,37.1,6943
+Pinheiros,casa,1,2,2,48.6,5139
+Vila Mariana,apto,3,2,1,59.2,7642
+Pinheiros,kitnet,2,1,2,63.5,8192
+Itaim Bibi,casa,1,1,0,20.0,5079
+Tatuapé,apto,1,2,2,55.6,5968
+Butantã,apto,3,2,2,60.6,5783
+Itaim Bibi,casa,2,1,2,71.0,7905
+Tatuapé,kitnet,2,1,0,92.5,5063
+Tatuapé,apto,3,2,0,63.7,6915
+Pinheiros,kitnet,2,1,0,41.8,6767
+Pinheiros,casa,2,1,2,23.6,5430
+Tatuapé,kitnet,2,2,0,73.7,6349
+Pinheiros,kitnet,1,2,1,42.6,6799
+Pinheiros,apto,1,2,1,77.3,6494
+Vila Mariana,apto,1,2,2,87.9,6842
+Butantã,kitnet,2,2,2,29.1,5460
+Moema,apto,2,1,0,71.1,6458
+Itaim Bibi,apto,3,2,2,85.9,9564
+Moema,casa,3,1,0,80.4,9826
+Vila Mariana,kitnet,1,1,0,20.0,3300
+Moema,kitnet,3,2,0,42.9,8071
+Pinheiros,casa,3,2,1,34.4,7051
+Itaim Bibi,apto,2,2,1,70.5,7883
+Vila Mariana,casa,2,2,2,68.3,7025
+Moema,kitnet,1,1,2,20.0,6902
+Butantã,apto,1,1,1,54.0,4662
+Tatuapé,casa,1,1,1,76.0,5248
+Moema,apto,2,1,0,63.0,8169
+Tatuapé,apto,2,1,2,62.9,5056
+Itaim Bibi,apto,1,1,1,52.7,5543
+Vila Mariana,kitnet,1,1,2,38.8,6279
+Tatuapé,kitnet,1,2,1,59.7,4699
+Butantã,apto,2,2,2,61.0,6546
+Tatuapé,kitnet,3,1,2,72.3,5659
+Moema,casa,2,1,2,73.9,8129
+Pinheiros,kitnet,1,1,1,61.7,4774
+Vila Mariana,kitnet,1,1,0,81.9,5608
+Butantã,apto,1,2,0,52.5,3757
+Tatuapé,kitnet,3,2,1,31.1,4431
+Vila Mariana,casa,3,2,2,69.5,7344
+Moema,apto,1,1,2,62.5,4941
+Tatuapé,apto,1,1,0,69.9,3270
+Tatuapé,kitnet,1,1,1,34.7,4067
+Itaim Bibi,casa,3,2,2,95.8,10053
+Vila Mariana,casa,1,2,0,74.2,4867
+Tatuapé,apto,3,2,1,54.2,6266
+Moema,kitnet,2,2,2,41.3,6536
+Butantã,apto,1,2,0,81.5,5724
+Pinheiros,apto,3,2,0,38.0,6346
+Pinheiros,casa,2,1,1,105.2,7397
+Moema,kitnet,3,1,2,47.7,7659
+Tatuapé,apto,1,1,0,94.4,6980
+Itaim Bibi,apto,2,1,2,56.3,6882
+Moema,casa,2,2,0,91.6,8330
+Butantã,apto,2,1,1,45.3,5284
+Moema,casa,1,1,1,60.4,5641
+Pinheiros,apto,2,1,0,76.1,5207
+Pinheiros,apto,3,2,2,73.2,7616
+Butantã,apto,3,2,2,82.0,7768
+Pinheiros,kitnet,1,1,2,50.3,5334
+Butantã,kitnet,3,1,0,61.7,5366
+Vila Mariana,casa,3,2,1,85.0,8478
+Pinheiros,casa,1,2,2,45.9,5232
+Vila Mariana,kitnet,1,2,0,71.5,5573
+Tatuapé,apto,3,2,1,55.6,4657
+Moema,casa,1,2,1,64.1,7180
+Itaim Bibi,kitnet,1,2,1,61.7,7234
+Tatuapé,kitnet,2,2,1,44.2,5463
+Moema,apto,2,1,2,54.8,6327
+Tatuapé,kitnet,2,2,0,62.9,4933
+Butantã,casa,2,1,2,57.9,4316
+Moema,kitnet,3,1,2,91.5,8847
+Pinheiros,apto,3,2,0,80.2,8891
+Moema,casa,1,1,2,65.8,6617
+Butantã,kitnet,1,1,0,44.7,2549
+Vila Mariana,apto,1,2,0,43.5,4262
+Butantã,kitnet,2,1,1,99.5,4996
+Tatuapé,apto,2,2,2,39.8,3957
+Tatuapé,kitnet,3,1,2,62.3,6505
+Vila Mariana,casa,2,2,1,67.2,5360
+Butantã,apto,1,2,2,53.8,5163
+Pinheiros,apto,3,2,0,40.0,6519
+Vila Mariana,kitnet,1,2,2,44.3,5004
+Moema,apto,3,1,1,49.1,7654
+Moema,casa,3,2,0,45.8,6724
+Moema,apto,3,2,0,86.6,9369
+Pinheiros,kitnet,3,2,0,59.8,6536
+Vila Mariana,casa,1,2,0,49.5,4677
+Pinheiros,kitnet,2,2,0,62.1,6060
+Tatuapé,apto,2,2,2,73.4,6552
+Moema,apto,2,1,0,53.1,7029
+Tatuapé,casa,3,2,1,78.0,4444
+Tatuapé,casa,2,1,2,34.6,4641
+Itaim Bibi,kitnet,1,2,0,83.4,6007
+Tatuapé,kitnet,3,2,2,59.8,6022
+Tatuapé,kitnet,2,2,1,59.0,5185
+Tatuapé,apto,3,1,0,46.1,4603
+Tatuapé,apto,1,1,2,35.4,4164
+Tatuapé,kitnet,3,1,1,26.7,5176
+Vila Mariana,casa,1,2,1,44.7,4524
+Vila Mariana,kitnet,2,2,2,71.8,6305
+Itaim Bibi,casa,3,1,2,40.8,7694
+Moema,apto,2,1,2,29.0,5236
+Tatuapé,casa,1,1,2,41.8,3573
+Vila Mariana,kitnet,3,1,0,52.3,7148
+Moema,casa,3,1,1,53.1,6388
+Tatuapé,apto,1,1,0,57.4,3551
+Tatuapé,apto,1,1,2,80.7,4646
+Tatuapé,kitnet,1,1,2,85.0,6854
+Moema,kitnet,1,1,1,100.1,7173
+Butantã,kitnet,2,2,1,27.5,4141
+Tatuapé,apto,1,2,2,42.9,3562
+Itaim Bibi,casa,3,2,0,74.0,8527
+Itaim Bibi,kitnet,1,2,1,50.9,6944
+Tatuapé,casa,2,1,2,77.2,5008
+Butantã,casa,2,2,0,64.1,6115
+Pinheiros,casa,2,2,2,91.6,8164
+Butantã,apto,1,1,0,80.9,5407
+Butantã,apto,2,1,2,81.2,5774
+Tatuapé,kitnet,2,1,1,51.8,4847
+Itaim Bibi,apto,2,2,2,58.1,7771
+Tatuapé,apto,3,2,2,53.9,7283
+Vila Mariana,casa,2,1,1,29.9,5089
+Itaim Bibi,kitnet,2,2,2,89.4,8890
+Vila Mariana,casa,1,1,1,74.9,5281
+Vila Mariana,casa,1,2,1,53.1,4980
+Tatuapé,casa,2,1,2,86.1,6173
+Butantã,apto,2,2,0,47.4,5477
+Moema,apto,3,1,1,23.2,6149
+Moema,apto,3,2,0,80.1,8606
+Pinheiros,kitnet,1,1,1,34.4,4980
+Pinheiros,kitnet,2,2,2,56.1,7169
+Pinheiros,apto,2,1,0,64.1,4758
+Pinheiros,apto,1,2,1,67.7,5491
+Butantã,apto,2,2,1,77.0,4916
+Butantã,kitnet,2,2,2,71.6,6175
+Itaim Bibi,casa,1,1,0,71.0,5909
+Pinheiros,kitnet,2,2,0,44.2,5529
+Pinheiros,casa,3,1,0,65.9,5921
+Vila Mariana,kitnet,1,1,1,29.9,3974
+Tatuapé,casa,2,1,1,91.2,4938
+Moema,apto,1,1,2,31.9,6465
+Moema,kitnet,1,2,1,53.1,6976
+Vila Mariana,kitnet,3,1,0,33.6,5629
+Itaim Bibi,kitnet,2,2,2,45.4,7320
+Vila Mariana,kitnet,1,2,0,60.3,3678
+Pinheiros,apto,2,1,1,49.4,5616
+Itaim Bibi,apto,1,2,1,82.9,7077
+Butantã,casa,2,1,0,64.5,5134
+Pinheiros,apto,1,1,1,50.7,5818
+Moema,casa,2,2,1,57.3,7680
+Itaim Bibi,apto,2,2,2,84.4,9742
+Itaim Bibi,casa,2,2,0,78.2,7491
+Butantã,casa,2,1,2,37.2,4229
+Moema,casa,1,2,1,46.4,7222
+Moema,kitnet,1,1,2,69.5,7118
+Itaim Bibi,casa,1,1,0,67.1,6314
+Pinheiros,casa,2,2,0,39.0,7247
+Vila Mariana,apto,2,1,2,75.0,7112
+Tatuapé,casa,3,1,1,42.2,4913
+Itaim Bibi,apto,1,1,0,86.1,6534
+Pinheiros,apto,1,1,2,70.6,7279
+Tatuapé,casa,3,2,0,37.4,5186
+Moema,apto,3,1,1,49.4,7502
+Tatuapé,casa,3,2,2,49.1,6513
+Butantã,apto,1,1,2,63.2,5500
+Pinheiros,kitnet,1,2,2,55.9,6618
+Butantã,kitnet,1,2,1,37.1,4820
+Moema,apto,1,1,0,32.1,5625
+Itaim Bibi,casa,3,2,0,71.0,8873
+Moema,casa,3,2,2,65.7,8086
+Vila Mariana,casa,3,2,1,62.1,8512
+Itaim Bibi,casa,3,1,0,65.4,6875
+Itaim Bibi,kitnet,2,2,2,47.6,7876
+Pinheiros,casa,2,2,2,63.7,6041
+Itaim Bibi,apto,3,1,0,110.8,9145
+Itaim Bibi,casa,3,1,2,83.5,8548
+Moema,apto,2,2,1,54.2,7436
+Butantã,casa,3,2,1,49.5,6159
+Tatuapé,apto,2,1,2,20.0,3235
+Moema,apto,2,1,0,81.4,7418
+Pinheiros,kitnet,3,1,0,75.7,8287
+Itaim Bibi,apto,2,2,2,49.1,6624
+Vila Mariana,kitnet,3,2,1,31.4,5458
+Itaim Bibi,kitnet,2,2,0,36.9,7395
+Tatuapé,casa,1,1,2,68.9,4829
+Moema,kitnet,1,1,0,58.2,6167
+Pinheiros,apto,2,1,2,73.8,7833
+Itaim Bibi,apto,2,2,0,61.7,6817
+Pinheiros,apto,2,1,1,79.3,6465
+Moema,casa,3,1,1,67.4,7508
+Butantã,casa,1,2,2,76.6,5319
+Butantã,kitnet,1,2,1,20.0,4672
+Butantã,casa,3,1,2,35.3,3999
+Butantã,apto,2,1,0,52.7,3626
+Tatuapé,kitnet,2,1,1,81.6,4455
+Vila Mariana,kitnet,1,2,2,97.6,8150
+Butantã,kitnet,2,2,0,56.7,4610
+Itaim Bibi,casa,2,2,2,47.8,7372
+Butantã,casa,2,1,2,20.9,2935
+Tatuapé,casa,1,1,2,77.3,4808
+Pinheiros,kitnet,2,2,0,49.0,6763
+Tatuapé,apto,2,2,2,119.2,7577
+Moema,kitnet,1,1,2,45.2,6170
+Butantã,apto,1,2,0,102.1,4511
+Moema,casa,3,2,1,75.0,8387
+Vila Mariana,apto,3,1,0,39.4,5801
+Pinheiros,casa,2,2,1,64.6,6046
+Butantã,kitnet,3,1,0,75.4,6487
+Itaim Bibi,kitnet,3,2,1,55.5,8973
+Pinheiros,kitnet,1,1,1,76.8,5680
+Moema,apto,2,2,1,76.3,8570
+Moema,apto,3,2,2,71.9,8770
+Moema,kitnet,1,1,2,59.7,7608
+Butantã,casa,3,1,0,36.5,6422
+Pinheiros,apto,1,2,0,58.5,4779
+Vila Mariana,kitnet,1,2,0,63.5,6021
+Vila Mariana,casa,2,2,2,22.5,6518
+Vila Mariana,apto,2,2,0,63.4,5325
+Butantã,kitnet,1,2,0,58.1,3982
+Butantã,casa,1,2,0,34.1,3253
+Pinheiros,casa,2,2,2,53.3,6694
+Tatuapé,kitnet,1,1,1,53.8,3728
+Vila Mariana,casa,3,2,2,98.6,8299
+Vila Mariana,casa,3,1,0,64.4,7102
+Vila Mariana,casa,1,2,1,80.7,4705
+Vila Mariana,apto,2,1,1,57.6,5050
+Moema,apto,1,1,0,22.5,5512
+Butantã,kitnet,2,2,2,73.4,6646
+Tatuapé,apto,3,2,2,46.8,5058
+Itaim Bibi,casa,1,2,0,53.3,6946
+Moema,apto,1,2,2,38.9,7530
+Pinheiros,apto,1,1,1,61.5,5604
+Pinheiros,casa,3,2,1,81.3,7233
+Vila Mariana,kitnet,1,1,2,78.7,6760
+Vila Mariana,casa,2,1,1,91.7,8230
+Butantã,apto,2,1,0,94.6,5128
+Butantã,apto,1,2,2,20.0,3931
+Butantã,apto,1,2,2,36.1,5256
+Tatuapé,kitnet,1,2,0,23.8,3307
+Tatuapé,apto,3,1,2,72.6,4881
+Tatuapé,casa,3,2,1,46.1,5939
+Moema,apto,3,1,0,50.2,6423
+Itaim Bibi,casa,1,1,1,55.7,5453
+Itaim Bibi,kitnet,2,1,2,67.7,6447
+Itaim Bibi,casa,2,1,0,30.3,7061
+Tatuapé,casa,3,1,2,34.8,4477
+Pinheiros,apto,1,1,2,60.0,6167
+Itaim Bibi,apto,3,2,2,84.0,9882
+Moema,kitnet,1,1,0,59.5,6214
+Itaim Bibi,apto,2,1,0,44.2,6762
+Tatuapé,casa,3,2,2,20.0,5405
+Butantã,apto,1,1,1,79.1,5082
+Moema,apto,1,1,1,45.3,5350
+Butantã,casa,3,1,1,37.1,4432
+Butantã,kitnet,1,2,1,25.7,3687
+Vila Mariana,apto,3,2,1,31.2,6036
+Moema,kitnet,2,1,1,40.8,6867
+Tatuapé,casa,2,1,1,55.2,5638
+Itaim Bibi,kitnet,3,1,1,35.8,7550
+Itaim Bibi,apto,3,2,1,63.7,7863
+Butantã,kitnet,1,2,2,55.1,3207
+Moema,apto,1,1,1,104.4,7118
+Tatuapé,kitnet,1,1,2,25.9,2402
+Moema,casa,1,2,1,63.2,6313
+Butantã,casa,3,1,2,63.5,6398
+Vila Mariana,apto,2,2,1,39.4,5749
+Tatuapé,casa,3,1,1,61.9,7144
+Pinheiros,apto,1,2,0,75.4,6548
+Butantã,casa,3,2,0,61.9,7485
+Moema,kitnet,3,2,2,87.7,9903
+Moema,apto,3,2,0,20.0,7569
+Tatuapé,apto,2,2,0,43.2,4208
+Moema,apto,3,1,2,89.5,8125
+Butantã,apto,2,2,2,78.2,5988
+Tatuapé,apto,2,2,1,70.8,5615
+Tatuapé,apto,2,1,1,84.7,5137
+Pinheiros,casa,1,1,1,21.7,3649
+Pinheiros,apto,3,2,2,75.9,8511
+Moema,kitnet,3,2,1,81.3,8034
+Butantã,kitnet,3,2,0,46.8,4278
+Butantã,kitnet,3,1,1,112.6,6480
+Tatuapé,casa,2,2,0,63.9,4930
+Tatuapé,apto,3,2,2,20.0,4307
+Moema,kitnet,1,2,0,67.6,6546
+Vila Mariana,apto,2,2,1,45.6,6348
+Pinheiros,casa,1,1,0,83.3,6459
+Moema,casa,1,1,2,71.0,6500
+Vila Mariana,kitnet,2,2,1,48.0,4898
+Vila Mariana,casa,2,1,0,90.0,6041
+Vila Mariana,kitnet,3,1,2,78.8,7988
+Pinheiros,kitnet,2,1,1,43.4,6515
+Tatuapé,casa,2,1,1,57.0,5091
+Butantã,kitnet,2,1,0,70.3,6071
+Itaim Bibi,apto,2,2,0,52.7,8565
+Moema,kitnet,3,1,2,53.3,7513
+Moema,apto,1,1,1,60.7,7611
+Vila Mariana,kitnet,2,1,1,38.7,5052
+Pinheiros,casa,2,2,2,20.0,6616
+Tatuapé,kitnet,1,2,1,64.8,5310
+Tatuapé,apto,3,1,1,20.2,2825
+Pinheiros,casa,2,1,2,40.1,5231
+Moema,kitnet,1,1,0,24.6,4060
+Vila Mariana,apto,2,2,1,27.0,3885
+Vila Mariana,apto,3,1,2,68.5,7859
+Itaim Bibi,apto,3,1,0,55.6,9222
+Tatuapé,apto,1,2,0,54.8,3939
+Tatuapé,casa,2,2,1,33.7,5194
+Itaim Bibi,casa,1,1,0,46.9,7094
+Butantã,apto,2,1,0,67.5,5193
+Itaim Bibi,apto,2,1,0,59.0,6948
+Tatuapé,apto,2,2,2,76.5,5897
+Butantã,kitnet,3,2,0,79.3,6909
+Moema,kitnet,2,1,2,55.0,7948
+Butantã,apto,2,2,1,23.0,4758
+Itaim Bibi,apto,1,1,2,44.9,6788
+Tatuapé,apto,1,1,0,58.0,3800
+Butantã,kitnet,3,2,2,44.5,4760
+Tatuapé,kitnet,2,1,1,38.9,4985
+Itaim Bibi,kitnet,3,2,2,61.4,7714
+Vila Mariana,apto,2,1,2,108.6,8154
+Butantã,casa,2,2,1,50.2,5812
+Tatuapé,apto,2,1,2,59.9,4286
+Itaim Bibi,kitnet,2,1,0,33.8,5727
+Moema,casa,1,2,1,84.9,9243
+Butantã,apto,1,1,1,77.5,4861
+Pinheiros,kitnet,2,2,2,76.1,6507
+Pinheiros,casa,2,2,2,87.2,8457
+Tatuapé,casa,2,1,2,51.5,4325
+Itaim Bibi,apto,2,2,2,54.0,6282
+Itaim Bibi,apto,1,1,2,94.2,8342
+Moema,kitnet,3,2,2,72.7,8146
+Tatuapé,apto,2,2,1,20.0,4357
+Tatuapé,apto,1,1,0,69.1,3523
+Butantã,kitnet,2,2,2,48.4,6017
+Tatuapé,apto,3,1,0,78.0,5986
+Moema,casa,3,2,0,68.2,6074
+Butantã,kitnet,1,2,2,25.2,4361
+Pinheiros,casa,3,1,0,65.4,6630
+Butantã,casa,2,2,0,64.2,6460
+Pinheiros,apto,2,2,1,67.3,7234
+Vila Mariana,casa,2,1,1,71.5,6850
+Itaim Bibi,casa,3,2,0,89.9,8429
+Itaim Bibi,casa,1,2,1,68.3,6616
+Butantã,apto,1,1,0,60.5,4093
+Itaim Bibi,apto,2,2,0,83.0,7800
+Tatuapé,kitnet,1,2,0,104.9,6716
+Moema,kitnet,3,1,2,78.3,8526
+Pinheiros,kitnet,3,1,1,64.1,6144
+Pinheiros,apto,2,1,2,68.7,6197
+Vila Mariana,kitnet,3,1,0,65.1,7226
+Pinheiros,apto,1,2,2,60.4,6177
+Tatuapé,casa,2,1,2,103.3,6323
+Itaim Bibi,apto,2,1,1,45.0,7699
+Butantã,kitnet,1,2,2,83.1,5061
+Moema,apto,1,2,1,57.5,4936
+Butantã,kitnet,2,2,1,30.4,3929
+Butantã,apto,2,2,2,56.2,5881
+Butantã,kitnet,1,2,1,49.1,4272
+Moema,casa,2,1,1,71.6,6198
+Vila Mariana,apto,3,2,2,61.8,8168
+Butantã,apto,1,2,1,39.6,4318
+Vila Mariana,kitnet,3,1,0,89.4,7494
+Moema,apto,2,1,2,81.8,8390
+Pinheiros,apto,2,1,2,91.7,6513
+Itaim Bibi,casa,3,1,0,64.7,8084
+Tatuapé,apto,2,2,2,59.3,6305
+Pinheiros,apto,3,2,0,74.1,8434
+Vila Mariana,casa,1,1,0,48.5,5131
+Tatuapé,kitnet,1,2,2,62.6,5389
+Tatuapé,kitnet,2,2,1,56.5,3805
+Itaim Bibi,kitnet,1,1,1,30.8,5711
+Vila Mariana,apto,1,2,1,62.5,4911
+Butantã,casa,2,2,0,51.2,5961
+Moema,apto,3,2,2,55.1,9259
+Itaim Bibi,kitnet,1,2,0,67.3,6158
+Vila Mariana,casa,3,1,2,85.5,7627
+Pinheiros,apto,2,2,2,43.0,6690
+Pinheiros,kitnet,1,1,0,53.3,5819
+Moema,apto,1,2,1,44.7,5000
+Butantã,apto,3,2,0,43.4,3634
+Pinheiros,kitnet,1,1,1,48.1,5274
+Moema,casa,2,1,1,56.1,4957
+Pinheiros,kitnet,3,1,0,71.7,7178
+Butantã,casa,2,1,2,66.4,6066
+Itaim Bibi,kitnet,1,2,2,38.9,7655
+Itaim Bibi,casa,1,1,0,85.9,6578
+Itaim Bibi,apto,3,1,2,78.9,8996
+Tatuapé,apto,2,1,2,42.0,5180
+Itaim Bibi,kitnet,1,2,1,84.5,6794
+Pinheiros,apto,1,1,2,66.5,6828
+Butantã,casa,2,1,0,56.9,4926
+Itaim Bibi,apto,1,1,2,67.2,6630
+Itaim Bibi,apto,2,1,2,59.5,7698
+Moema,casa,1,1,1,70.9,6616
+Itaim Bibi,apto,3,1,2,63.7,9036
+Moema,casa,2,1,2,53.3,6909
+Pinheiros,kitnet,3,1,2,20.0,6282
+Butantã,apto,1,2,1,70.5,4620
+Vila Mariana,apto,2,1,2,52.5,5226
+Pinheiros,apto,1,2,1,75.6,6604
+Tatuapé,kitnet,2,2,1,69.6,4872
+Vila Mariana,casa,3,2,0,53.0,7132
+Butantã,casa,1,2,0,80.5,5588
+Moema,apto,3,2,2,64.1,8011
+Pinheiros,kitnet,2,1,1,63.3,6569
+Butantã,apto,3,2,1,57.2,5501
+Tatuapé,kitnet,1,1,2,93.7,4227
+Vila Mariana,apto,3,1,0,45.7,5394
+Itaim Bibi,kitnet,2,2,0,53.5,7166
+Tatuapé,apto,1,2,0,35.3,3975
+Pinheiros,apto,1,1,0,74.5,5856
+Itaim Bibi,casa,3,2,1,48.4,8777
+Moema,apto,3,2,2,50.6,7433
+Itaim Bibi,apto,1,1,0,49.7,5688
+Butantã,casa,2,2,1,61.3,6853
+Tatuapé,apto,3,2,0,35.0,3405
+Itaim Bibi,casa,2,2,2,20.0,6438
+Vila Mariana,kitnet,1,2,1,69.2,5017
+Vila Mariana,apto,2,2,0,20.0,4644
+Moema,casa,2,1,1,77.1,7265
+Butantã,apto,1,2,1,91.2,6217
+Tatuapé,casa,3,1,2,56.7,6006
+Moema,apto,1,2,0,86.0,6235
+Itaim Bibi,apto,3,1,2,59.5,7815
+Butantã,apto,3,2,2,92.0,7459
+Butantã,kitnet,3,2,0,50.9,6218
+Vila Mariana,apto,3,1,2,20.0,7646
+Itaim Bibi,kitnet,1,2,2,58.4,7814
+Tatuapé,kitnet,1,1,1,94.2,4415
+Moema,casa,3,1,0,70.7,7746
+Moema,apto,3,1,1,49.7,7636
+Pinheiros,kitnet,3,2,1,66.6,7182
+Vila Mariana,kitnet,2,1,0,79.4,6559
+Tatuapé,apto,2,2,1,58.3,3432
+Butantã,kitnet,1,2,2,112.5,7118
+Butantã,kitnet,1,1,1,49.7,3708
+Vila Mariana,apto,2,1,2,80.1,6714
+Itaim Bibi,apto,1,1,0,75.2,7930
+Pinheiros,kitnet,1,1,2,46.0,4471
+Itaim Bibi,apto,1,2,1,51.5,6964
+Moema,casa,1,1,0,80.4,7346
+Moema,apto,3,1,2,62.9,8323
+Itaim Bibi,kitnet,3,2,1,66.8,7311
+Moema,apto,3,2,1,27.3,8299
+Itaim Bibi,apto,1,2,0,73.1,6925
+Tatuapé,apto,2,2,2,65.7,5350
+Butantã,apto,3,2,0,58.7,5613
+Tatuapé,casa,2,2,0,67.2,4911
+Vila Mariana,apto,2,1,0,51.8,4402
+Itaim Bibi,kitnet,3,1,1,48.2,7777
+Moema,casa,3,1,0,55.2,6877
+Tatuapé,apto,3,2,2,50.7,6558
+Pinheiros,kitnet,2,2,0,103.6,8122
+Pinheiros,casa,2,2,2,78.2,8848
+Tatuapé,kitnet,3,2,2,40.6,5550
+Vila Mariana,apto,3,1,2,100.7,7479
+Butantã,kitnet,2,2,0,51.3,3764
+Butantã,casa,2,1,0,60.6,6572
+Itaim Bibi,kitnet,2,2,2,77.9,9068
+Itaim Bibi,casa,1,1,1,20.6,4864
+Tatuapé,kitnet,2,1,2,55.3,6412
+Pinheiros,casa,2,2,0,48.5,7141
+Moema,apto,3,2,1,64.1,7242
+Moema,apto,2,2,0,67.4,6819
+Butantã,kitnet,1,2,1,58.5,4648
+Vila Mariana,kitnet,3,1,0,57.5,5370
+Moema,casa,2,2,2,81.3,8362
+Moema,kitnet,1,2,1,66.0,7550
+Pinheiros,apto,3,2,0,60.8,6026
+Pinheiros,apto,2,1,1,63.0,6623
+Moema,casa,2,1,1,96.7,9136
+Pinheiros,casa,3,2,2,63.5,8124
+Pinheiros,kitnet,3,1,1,49.7,6631
+Moema,kitnet,2,2,1,21.8,5820
+Vila Mariana,apto,2,2,2,31.3,6404
+Tatuapé,kitnet,3,2,1,50.7,4778
+Pinheiros,casa,1,2,2,57.8,6429
+Vila Mariana,kitnet,3,1,2,48.9,6587
+Moema,apto,2,1,2,67.0,8511
+Butantã,apto,3,2,2,48.6,5693
+Tatuapé,apto,2,1,2,41.7,4253
+Butantã,kitnet,3,1,1,72.3,5174
+Moema,apto,1,2,1,87.4,7971
+Moema,kitnet,3,2,0,37.9,6897
+Moema,kitnet,1,1,2,64.9,6157
+Butantã,apto,2,2,2,21.9,4044
+Butantã,kitnet,1,1,2,30.5,4245
+Butantã,apto,3,1,2,48.2,4864
+Itaim Bibi,apto,3,2,1,82.7,8270
+Tatuapé,casa,1,1,0,44.4,4150
+Tatuapé,apto,3,2,2,43.7,5677
+Butantã,apto,1,1,2,60.7,5486
+Vila Mariana,apto,2,2,2,60.7,6335
+Moema,casa,1,2,1,44.3,6328
+Butantã,apto,1,2,1,99.7,6117
+Moema,apto,1,1,0,54.7,7051
+Vila Mariana,casa,2,1,0,62.3,6713
+Tatuapé,casa,2,2,2,52.0,6282
+Vila Mariana,kitnet,3,2,0,68.8,6461
+Butantã,apto,1,2,0,84.7,4452
+Butantã,casa,3,2,2,93.3,8107
+Vila Mariana,kitnet,1,1,1,44.8,5844
+Tatuapé,casa,1,2,0,82.0,5891
+Butantã,apto,1,2,1,71.0,5140
+Itaim Bibi,casa,1,2,1,79.5,8167
+Vila Mariana,casa,2,2,0,58.2,6541
+Tatuapé,apto,3,1,1,56.3,5607
+Tatuapé,casa,3,1,1,78.7,6315
+Tatuapé,apto,3,1,2,79.1,6551
+Pinheiros,casa,2,2,0,91.3,6709
+Vila Mariana,kitnet,1,1,2,64.0,5070
+Butantã,casa,2,1,0,57.9,4175
+Vila Mariana,kitnet,3,1,2,20.0,4421
+Vila Mariana,apto,1,1,2,27.8,4648
+Vila Mariana,kitnet,1,2,1,52.1,5331
+Vila Mariana,kitnet,3,2,0,38.0,6649
+Pinheiros,kitnet,1,1,0,76.3,6797
+Moema,kitnet,3,2,1,33.8,8473
+Butantã,casa,3,2,2,50.0,7334
+Pinheiros,casa,2,2,2,50.8,6117
+Vila Mariana,kitnet,2,1,0,84.1,5177
+Pinheiros,kitnet,1,2,0,47.8,6080
+Tatuapé,casa,2,1,1,69.0,6277
+Vila Mariana,apto,3,2,1,63.9,8362
+Itaim Bibi,apto,3,1,2,78.1,9230
+Tatuapé,apto,2,2,2,77.0,4513
+Itaim Bibi,apto,3,1,1,59.3,8272
+Tatuapé,apto,3,2,1,26.1,5427
+Moema,apto,1,2,1,55.4,7663
+Butantã,kitnet,2,1,1,59.6,6232
+Moema,apto,2,2,2,65.7,8699
+Butantã,casa,2,2,0,45.2,4288
+Butantã,casa,3,1,2,82.8,5961
+Tatuapé,apto,3,1,2,60.3,6335
+Itaim Bibi,kitnet,2,2,1,41.6,6514
+Vila Mariana,kitnet,1,2,1,50.8,6505
+Itaim Bibi,kitnet,3,2,1,98.6,8193
+Itaim Bibi,kitnet,3,2,2,73.3,9552
+Butantã,casa,3,2,0,81.0,6785
+Vila Mariana,kitnet,2,1,1,39.2,5110
+Itaim Bibi,apto,1,1,1,46.2,5447
+Moema,kitnet,2,1,2,46.4,5342
+Vila Mariana,kitnet,1,1,0,63.7,4585
+Vila Mariana,apto,2,2,0,56.5,5484
+Tatuapé,casa,3,2,1,50.2,6596
+Vila Mariana,casa,1,1,1,52.7,4355
+Pinheiros,apto,3,2,2,44.1,7586
+Moema,kitnet,1,1,0,56.4,4958
+Tatuapé,apto,1,1,0,82.3,4952
+Vila Mariana,apto,3,2,1,29.7,4302
+Butantã,apto,1,2,1,66.9,6684
+Itaim Bibi,kitnet,3,2,0,87.6,8815
+Tatuapé,apto,3,1,0,56.3,2954
+Butantã,casa,1,2,1,49.4,3908
+Moema,kitnet,1,2,0,78.5,6354
+Pinheiros,apto,1,1,2,40.3,4785
+Pinheiros,kitnet,1,1,0,59.5,4995
+Butantã,apto,3,1,2,39.2,4946
+Butantã,kitnet,3,2,0,22.6,4125
+Itaim Bibi,apto,3,1,1,57.0,6982
+Pinheiros,apto,3,1,2,34.7,7199
+Vila Mariana,kitnet,3,1,1,59.8,7554
+Pinheiros,kitnet,3,1,2,82.3,7765
+Pinheiros,kitnet,3,2,0,97.1,8198
+Vila Mariana,kitnet,2,2,2,61.9,5755
+Tatuapé,casa,3,1,0,80.4,5968
+Pinheiros,apto,1,1,1,68.0,6023
+Butantã,apto,2,1,0,52.3,4395
+Moema,casa,3,2,2,21.5,7662
+Vila Mariana,casa,1,1,0,92.5,6123
+Tatuapé,casa,1,2,2,39.0,3427
+Itaim Bibi,apto,1,1,1,87.7,8384
+Vila Mariana,casa,1,1,1,70.7,5356
+Pinheiros,apto,2,2,1,40.5,7455
+Pinheiros,apto,3,1,0,66.2,7224
+Butantã,apto,1,2,0,102.7,7356
+Pinheiros,casa,3,2,2,90.7,9562
+Tatuapé,casa,3,1,2,49.7,5774
+Moema,apto,3,2,2,45.8,7494
+Itaim Bibi,casa,3,2,1,62.0,7899
+Pinheiros,apto,1,2,0,56.7,6027
+Butantã,apto,2,1,1,84.0,5934
+Itaim Bibi,apto,3,1,1,74.8,7973
+Moema,casa,3,2,1,26.2,7851
+Vila Mariana,kitnet,2,2,1,69.2,6606
+Butantã,apto,3,1,2,56.4,6664
+Vila Mariana,apto,3,2,1,60.7,6242
+Moema,apto,1,2,0,65.0,7449
+Moema,casa,3,2,2,84.0,9620
+Vila Mariana,kitnet,1,2,1,79.6,7145
+Moema,apto,2,1,1,45.0,7432
+Pinheiros,casa,1,2,1,58.8,5897
+Pinheiros,kitnet,3,1,2,51.0,6899
+Vila Mariana,kitnet,1,1,2,26.4,5917
+Pinheiros,casa,2,2,2,57.8,6702
+Moema,kitnet,3,1,1,96.9,9506
+Butantã,kitnet,3,2,0,25.8,4568
+Pinheiros,kitnet,1,1,1,59.5,4096
+Pinheiros,apto,3,1,2,58.9,6284
+Pinheiros,apto,2,1,2,65.8,7097
+Tatuapé,apto,3,2,2,40.7,6283
+Vila Mariana,kitnet,2,1,2,31.5,5672
+Moema,casa,1,1,1,32.4,6490
+Pinheiros,apto,1,1,0,86.6,6412
+Vila Mariana,casa,1,1,1,40.3,3990
+Moema,apto,3,2,0,50.0,8076
+Moema,kitnet,3,1,2,102.1,9498
+Tatuapé,casa,2,1,2,45.3,4299
+Itaim Bibi,kitnet,3,1,1,66.8,8583
+Moema,apto,1,1,1,81.3,7102
+Butantã,casa,3,1,0,80.3,5625
+Tatuapé,apto,1,2,0,33.4,3359
+Vila Mariana,kitnet,1,1,0,45.7,5603
+Vila Mariana,casa,3,1,0,66.0,7586
+Vila Mariana,casa,2,1,0,98.6,6908
+Tatuapé,casa,1,2,2,44.8,4489
+Vila Mariana,apto,3,2,2,50.1,5857
+Butantã,kitnet,1,2,1,68.4,6427
+Moema,casa,3,2,0,72.4,9101
+Butantã,kitnet,1,1,2,73.6,5710
+Itaim Bibi,apto,1,2,1,43.1,4672
+Moema,apto,1,2,1,49.4,6514
+Vila Mariana,kitnet,2,1,1,64.3,5928
+Itaim Bibi,apto,1,2,1,85.2,8304
+Vila Mariana,apto,1,2,2,55.2,5396
+Vila Mariana,kitnet,3,2,2,59.6,7101
+Butantã,apto,2,1,1,39.5,4980
+Moema,apto,2,2,2,97.3,8299
+Pinheiros,casa,1,2,2,63.1,5933
+Moema,apto,1,1,0,81.6,6901
+Moema,apto,1,2,2,60.6,8189
+Butantã,apto,3,2,1,61.7,6898
+Itaim Bibi,apto,1,1,0,30.0,6260
+Vila Mariana,apto,1,1,2,20.0,4351
+Pinheiros,kitnet,3,1,2,85.0,9247
+Tatuapé,apto,2,2,1,61.6,3954
+Pinheiros,apto,3,2,0,64.1,8842
+Vila Mariana,apto,2,1,2,35.0,7172
+Pinheiros,casa,3,2,2,41.9,7523
+Pinheiros,kitnet,3,2,0,81.2,8403
+Butantã,casa,2,2,1,94.8,6514
+Pinheiros,apto,3,2,0,47.6,6560
+Pinheiros,apto,2,2,0,73.4,6314
+Butantã,casa,3,2,1,63.8,6275
+Vila Mariana,apto,2,2,0,57.6,6372
+Itaim Bibi,kitnet,3,2,1,97.0,9847
+Pinheiros,kitnet,2,1,1,50.9,7617
+Pinheiros,casa,2,2,1,84.8,7525
+Pinheiros,kitnet,2,2,2,67.6,6038
+Itaim Bibi,apto,3,2,0,59.7,9405
+Tatuapé,apto,3,1,2,87.4,5746
+Moema,kitnet,3,2,0,65.8,7627
+Vila Mariana,kitnet,3,1,0,58.1,6460
+Pinheiros,apto,1,1,1,87.6,6761
+Tatuapé,casa,3,1,0,85.0,4893
+Vila Mariana,apto,3,1,0,84.0,6424
+Tatuapé,casa,1,2,1,20.0,2215
+Itaim Bibi,kitnet,3,2,2,68.8,9461
+Butantã,kitnet,2,2,1,64.2,6574
+Moema,casa,1,2,2,59.3,6102
+Pinheiros,kitnet,1,1,0,72.2,6462
+Vila Mariana,casa,2,2,0,65.2,6901
+Butantã,kitnet,1,1,1,73.6,4279
+Tatuapé,apto,3,2,2,54.6,4553
+Tatuapé,casa,3,1,2,90.0,5942
+Moema,casa,3,2,0,75.6,7891
+Pinheiros,casa,2,2,1,70.9,8259
+Butantã,apto,2,2,1,69.9,5702
+Itaim Bibi,apto,3,2,2,83.1,8589
+Butantã,kitnet,3,2,0,80.4,6631
+Butantã,apto,1,1,1,57.7,3296
+Vila Mariana,casa,2,2,2,79.8,7606
+Vila Mariana,casa,3,1,1,63.5,5922
+Vila Mariana,casa,3,1,2,98.3,7384
+Butantã,apto,3,2,1,82.0,7159
+Tatuapé,apto,1,1,1,47.5,5225
+Moema,apto,2,1,0,106.6,9957
+Butantã,apto,1,1,2,20.0,2668
+Tatuapé,apto,3,2,0,72.7,5605
+Butantã,apto,2,2,2,46.1,5795
+Butantã,apto,1,1,2,97.6,6764
+Pinheiros,kitnet,1,2,1,65.1,4420
+Moema,casa,3,1,2,44.1,7694
+Itaim Bibi,apto,3,1,2,54.7,7750
+Itaim Bibi,casa,3,1,2,45.7,6332
+Pinheiros,apto,3,1,0,53.9,5447
+Vila Mariana,casa,3,2,0,53.4,6049
+Tatuapé,apto,3,1,0,45.0,4896
+Itaim Bibi,apto,3,1,0,65.4,8669
+Pinheiros,apto,3,2,2,67.8,8218
+Tatuapé,casa,2,1,0,40.1,4760
+Vila Mariana,casa,3,2,0,26.8,5726
+Vila Mariana,casa,3,2,2,66.2,6923
+Tatuapé,casa,1,2,0,70.6,4472
+Moema,kitnet,3,2,2,74.6,9495
+Tatuapé,kitnet,2,1,2,71.0,6357
+Vila Mariana,casa,1,1,1,91.5,6025
+Itaim Bibi,casa,1,2,2,79.9,7155
+Pinheiros,casa,1,1,2,113.6,7776
+Butantã,apto,3,1,0,122.0,7743
+Pinheiros,casa,3,2,0,24.8,7031
+Itaim Bibi,apto,1,2,1,20.0,5257
+Moema,kitnet,2,1,1,59.9,6561
+Moema,casa,2,2,2,70.1,8707
+Pinheiros,kitnet,2,2,0,58.5,6029
+Itaim Bibi,kitnet,2,1,0,74.1,7062
+Pinheiros,casa,3,1,0,54.6,7541
+Tatuapé,kitnet,2,2,0,46.1,3487
+Itaim Bibi,casa,2,1,2,49.1,8919
+Butantã,apto,2,1,1,56.0,4490
+Itaim Bibi,apto,2,1,2,76.9,8799
+Vila Mariana,apto,3,2,0,50.3,6321
+Itaim Bibi,kitnet,2,2,0,54.2,7444
+Itaim Bibi,casa,3,1,2,71.4,8432
+Vila Mariana,apto,2,1,0,56.0,6166
+Pinheiros,casa,3,2,0,82.3,7492
+Butantã,apto,3,1,1,41.6,4790
+Pinheiros,kitnet,3,2,0,37.3,7869
+Tatuapé,kitnet,2,1,0,66.1,4806
+Vila Mariana,apto,2,2,1,68.1,6002
+Pinheiros,kitnet,2,2,1,42.7,4989
+Itaim Bibi,casa,2,2,1,86.9,9999
+Pinheiros,apto,3,1,1,98.5,7713
+Itaim Bibi,kitnet,3,1,0,47.4,8973
+Itaim Bibi,apto,3,2,0,89.7,9311
+Pinheiros,apto,3,1,1,20.0,5914
+Vila Mariana,apto,3,2,0,81.5,7482
+Itaim Bibi,casa,2,2,1,42.8,8958
+Tatuapé,casa,1,1,0,79.5,2732
+Pinheiros,apto,2,1,1,40.8,5895
+Butantã,apto,3,2,2,58.6,6247
+Vila Mariana,apto,3,2,1,43.8,6343
+Pinheiros,kitnet,2,2,1,55.7,6691
+Butantã,kitnet,3,1,1,96.6,6685
+Pinheiros,kitnet,1,1,1,57.8,5686
+Tatuapé,casa,2,1,2,102.2,6447
+Butantã,casa,3,1,0,52.3,4218
+Tatuapé,kitnet,2,1,0,89.8,5800
+Tatuapé,casa,3,1,2,27.5,5497
+Moema,casa,2,2,1,54.3,6894
+Pinheiros,apto,2,1,0,49.3,7173
+Tatuapé,casa,2,2,1,90.8,7291
+Butantã,apto,3,2,0,63.7,6686
+Pinheiros,apto,1,1,1,20.0,5065
+Butantã,kitnet,1,2,2,33.8,4338
+Moema,kitnet,2,1,0,39.7,7106
+Tatuapé,apto,1,2,2,78.7,6717
+Pinheiros,apto,2,2,0,76.1,7529
+Tatuapé,apto,2,1,0,54.0,3964
+Vila Mariana,kitnet,1,2,2,49.0,5539
+Vila Mariana,apto,2,1,1,74.3,6789
+Itaim Bibi,apto,2,2,2,37.4,7992
+Pinheiros,apto,3,1,2,69.2,7513
+Moema,kitnet,1,1,2,67.5,6470
+Tatuapé,casa,3,2,0,54.5,6803
+Pinheiros,kitnet,2,2,0,68.0,5781
+Vila Mariana,kitnet,3,1,0,62.0,5608
+Moema,apto,1,2,1,69.9,6037
+Tatuapé,kitnet,1,2,1,33.3,3045
+Butantã,casa,2,1,2,72.3,6767
+Butantã,casa,2,2,0,80.5,6841
+Vila Mariana,apto,2,2,0,66.4,6133
+Pinheiros,kitnet,1,1,1,72.0,6358
+Pinheiros,kitnet,2,2,1,57.8,6626
+Tatuapé,casa,3,2,2,77.8,5881
+Pinheiros,apto,3,1,0,61.3,8514
+Vila Mariana,kitnet,1,2,1,37.0,6011
+Butantã,kitnet,2,2,2,76.4,6576
+Butantã,casa,2,2,1,27.3,3835
+Butantã,casa,2,2,2,65.7,5790
+Vila Mariana,apto,3,1,1,52.3,5816
+Tatuapé,apto,2,1,0,51.0,4409
+Tatuapé,kitnet,3,1,2,63.4,6251
+Vila Mariana,casa,3,1,1,45.8,5902
+Tatuapé,apto,1,2,0,70.2,3444
+Tatuapé,kitnet,3,2,0,61.1,7440
+Moema,apto,1,1,0,47.7,5920
+Itaim Bibi,apto,2,2,0,86.8,8568
+Itaim Bibi,apto,2,2,2,64.1,7785
+Tatuapé,casa,2,1,1,72.6,4029
+Itaim Bibi,casa,2,1,0,88.3,7783
+Itaim Bibi,apto,1,1,0,88.0,6882
+Tatuapé,casa,1,2,0,71.6,5215
+Vila Mariana,casa,3,1,2,53.9,7443
+Itaim Bibi,casa,3,2,1,31.4,8154
+Itaim Bibi,casa,3,1,0,64.1,8615
+Butantã,kitnet,2,1,2,81.9,7500
+Pinheiros,kitnet,3,1,2,67.1,7824
+Moema,apto,2,1,0,20.0,6479
+Butantã,kitnet,1,1,2,77.4,5617
+Tatuapé,casa,1,2,2,78.6,3939
+Butantã,apto,1,1,0,54.0,3796
+Pinheiros,casa,2,1,2,79.8,6499
+Pinheiros,kitnet,3,1,1,72.6,7562
+Itaim Bibi,kitnet,1,2,1,46.3,5956
+Moema,casa,2,1,0,85.4,8047
+Tatuapé,apto,1,2,0,34.7,4324
+Moema,apto,2,2,2,58.9,8729
+Moema,apto,2,1,2,56.9,8601
+Butantã,kitnet,1,2,0,43.5,2664
+Pinheiros,casa,2,2,0,66.1,5623
+Itaim Bibi,casa,1,1,1,86.2,9728
+Butantã,kitnet,3,2,2,85.0,8056
+Tatuapé,kitnet,3,1,2,74.5,6514
+Moema,kitnet,3,2,2,26.1,7508
+Pinheiros,apto,3,2,1,33.3,6553
+Itaim Bibi,casa,1,1,0,63.3,4853
+Moema,kitnet,3,1,2,59.3,7462
+Pinheiros,kitnet,1,1,2,50.0,5512
+Moema,apto,3,1,1,98.1,8371
+Butantã,casa,3,1,1,62.1,5395
+Vila Mariana,kitnet,3,2,0,70.8,9072
+Vila Mariana,apto,3,2,1,79.8,7391
+Itaim Bibi,casa,3,1,0,61.1,7955
+Vila Mariana,apto,3,2,1,111.8,8749
+Butantã,kitnet,1,2,0,41.2,4407
+Butantã,apto,1,2,1,47.9,4055
+Butantã,apto,3,2,0,41.1,6332
+Butantã,apto,1,1,2,91.3,5992
+Vila Mariana,apto,2,2,1,76.0,5752
+Vila Mariana,casa,1,2,2,49.1,5488
+Moema,apto,2,2,0,42.7,6544
+Moema,casa,3,2,0,87.7,8556
+Butantã,casa,3,1,0,67.2,6124
+Itaim Bibi,casa,2,2,1,88.2,9054
+Tatuapé,kitnet,2,2,0,58.8,5377
+Butantã,casa,2,1,2,70.2,5978
+Tatuapé,casa,2,1,2,66.0,5449
+Moema,kitnet,2,2,2,47.5,5705
+Moema,apto,3,1,0,57.1,8036
+Tatuapé,kitnet,1,1,1,36.3,3880
+Pinheiros,kitnet,2,2,1,69.9,6209
+Itaim Bibi,apto,2,1,1,75.2,7981
+Tatuapé,apto,2,2,1,79.8,6412
+Itaim Bibi,casa,1,2,2,73.3,8637
+Tatuapé,apto,1,1,2,57.4,4831
+Itaim Bibi,casa,2,1,0,91.0,8188
+Butantã,kitnet,3,1,0,77.8,6793
+Tatuapé,casa,3,1,0,87.8,5888
+Moema,apto,3,1,1,89.0,9000
+Pinheiros,apto,3,2,1,57.5,6828
+Itaim Bibi,kitnet,2,2,2,67.8,9121
+Butantã,apto,1,2,0,75.5,3677
+Itaim Bibi,casa,2,2,0,37.0,7364
+Butantã,kitnet,3,1,0,37.5,4838
+Butantã,apto,2,1,0,34.0,4793
+Itaim Bibi,casa,3,2,0,57.8,7411
+Tatuapé,casa,1,2,0,53.3,4172
+Pinheiros,apto,1,1,2,31.3,5087
+Pinheiros,casa,1,1,2,63.0,6337
+Vila Mariana,casa,1,1,2,58.1,4605
+Moema,apto,2,1,1,83.6,8318
+Itaim Bibi,kitnet,2,1,1,100.3,7031
+Moema,casa,2,1,2,69.1,7140
+Pinheiros,apto,1,2,0,46.1,4032
+Vila Mariana,kitnet,2,1,1,72.9,6951
+Butantã,kitnet,1,1,2,60.2,5026
+Butantã,apto,2,2,1,55.2,5721
+Moema,apto,1,1,0,42.8,6762
+Itaim Bibi,casa,1,1,1,50.7,6069
+Itaim Bibi,casa,1,2,2,56.4,7681
+Butantã,kitnet,1,2,0,76.1,5035
+Butantã,casa,2,2,1,70.2,5738
+Tatuapé,casa,2,1,0,96.5,6741
+Moema,apto,2,2,0,73.5,9270
+Tatuapé,casa,2,1,2,68.5,5109
+Vila Mariana,kitnet,1,2,1,53.9,6083
+Moema,casa,1,1,0,39.3,5733
+Tatuapé,casa,3,1,1,48.6,5523
+Tatuapé,apto,3,1,0,46.0,5078
+Tatuapé,kitnet,1,1,2,20.0,3034
+Moema,apto,1,2,2,39.8,3627
+Moema,apto,1,1,0,92.0,8289
+Pinheiros,apto,1,1,0,67.4,4965
+Tatuapé,kitnet,1,2,2,52.5,4481
+Tatuapé,casa,2,1,2,68.0,5263
+Butantã,kitnet,3,1,2,20.9,4301
+Tatuapé,casa,3,2,2,65.6,6661
+Moema,casa,3,1,2,85.5,8831
+Pinheiros,casa,2,2,1,57.6,6054
+Vila Mariana,apto,2,1,2,24.6,5256
+Moema,casa,2,1,2,51.7,7125
+Moema,kitnet,1,1,0,85.6,7610
+Moema,kitnet,2,1,0,65.2,5883
+Moema,casa,1,2,1,31.6,5305
+Itaim Bibi,kitnet,2,1,2,107.4,9601
+Pinheiros,kitnet,1,2,2,34.9,5036
+Vila Mariana,casa,3,2,0,55.1,5832
+Pinheiros,casa,3,1,1,39.3,5905
+Vila Mariana,apto,3,2,2,39.3,6598
+Itaim Bibi,apto,1,2,0,51.0,6351
+Pinheiros,kitnet,1,1,2,72.7,6114
+Moema,apto,3,2,0,85.8,7851
+Pinheiros,casa,3,1,0,52.3,7087
+Butantã,kitnet,2,1,0,39.8,5255
+Itaim Bibi,apto,1,1,2,69.6,5659
+Vila Mariana,kitnet,2,1,2,70.2,5262
+Vila Mariana,casa,2,1,0,64.8,6547
+Pinheiros,apto,3,2,1,65.5,8821
+Moema,apto,2,1,0,57.7,5029
+Itaim Bibi,kitnet,1,1,2,62.0,7611
+Tatuapé,kitnet,3,1,2,56.4,7101
+Butantã,kitnet,3,2,2,81.4,6452
+Moema,kitnet,1,2,1,104.6,9401
+Vila Mariana,apto,1,2,0,63.6,5265
+Moema,kitnet,1,2,0,59.9,6748
+Vila Mariana,apto,3,2,2,65.1,6878
+Butantã,apto,2,2,1,46.8,5906
+Vila Mariana,kitnet,2,2,0,75.3,7127
+Moema,casa,3,2,2,68.8,10144
+Tatuapé,casa,1,2,0,51.6,5200
+Pinheiros,kitnet,1,1,2,78.0,6434
+Moema,apto,3,2,0,60.4,10398
+Moema,casa,2,2,1,40.6,7999
+Vila Mariana,kitnet,1,1,0,67.0,5543
+Pinheiros,casa,3,2,2,64.7,7044
+Pinheiros,casa,1,2,1,79.2,5352
+Pinheiros,casa,3,2,1,76.6,6743
+Moema,kitnet,3,2,1,57.8,7388
+Pinheiros,apto,3,2,2,50.6,8519
+Butantã,kitnet,2,2,0,60.0,5591
+Vila Mariana,kitnet,1,2,0,67.3,5027
+Tatuapé,kitnet,3,2,0,69.7,5882
+Itaim Bibi,casa,2,1,2,66.0,7575
+Moema,casa,2,1,2,58.2,7986
+Butantã,casa,1,1,1,79.9,4295
+Pinheiros,apto,2,2,0,46.5,6275
+Vila Mariana,kitnet,2,2,2,109.6,8328
+Vila Mariana,casa,1,2,2,75.3,5679
+Pinheiros,kitnet,3,2,2,37.5,8294
+Vila Mariana,apto,1,2,2,63.7,5775
+Vila Mariana,kitnet,3,2,0,75.5,6369
+Itaim Bibi,casa,3,2,2,53.0,9173
+Vila Mariana,kitnet,2,1,1,30.1,5047
+Butantã,apto,1,2,1,39.2,4503
+Itaim Bibi,casa,2,1,0,70.8,6378
+Butantã,casa,2,2,1,24.9,5097
+Pinheiros,casa,2,2,2,31.0,7868
+Butantã,apto,1,1,1,70.7,3712
+Tatuapé,casa,2,1,2,55.5,5350
+Butantã,apto,1,1,2,46.1,3654
+Moema,casa,2,1,0,50.1,8655
+Butantã,apto,2,2,2,30.6,5909
+Tatuapé,casa,2,2,2,69.7,6116
+Pinheiros,casa,3,2,1,43.9,5934
+Moema,apto,3,2,1,49.3,7090
+Pinheiros,kitnet,3,2,1,66.9,8205
+Butantã,kitnet,3,1,2,54.9,4856
+Vila Mariana,apto,3,1,2,45.9,5412
+Vila Mariana,apto,1,1,0,20.2,3713
+Tatuapé,kitnet,1,1,0,67.3,4227
+Moema,apto,2,1,0,61.6,7151
+Pinheiros,kitnet,2,1,1,49.7,5638
+Itaim Bibi,casa,3,1,2,39.3,8414
+Butantã,casa,1,2,1,60.3,4118
+Itaim Bibi,apto,1,2,0,69.6,7490
+Tatuapé,casa,3,2,2,62.0,6530
+Moema,apto,3,2,1,92.8,9663
+Tatuapé,casa,1,2,1,74.1,5968
+Tatuapé,casa,1,1,2,57.9,4071
+Pinheiros,apto,2,1,0,74.8,5914
+Pinheiros,casa,2,1,1,61.0,4978
+Vila Mariana,casa,1,2,0,60.9,3712
+Moema,kitnet,2,2,1,85.9,8137
+Pinheiros,apto,3,2,1,42.0,6775
+Pinheiros,kitnet,3,2,1,60.5,6545
+Butantã,kitnet,3,1,2,83.8,6117
+Moema,kitnet,2,2,0,66.2,8604
+Tatuapé,kitnet,3,2,2,52.6,6779
+Tatuapé,casa,1,2,2,25.9,2867
+Itaim Bibi,kitnet,1,2,1,20.0,5446
+Itaim Bibi,kitnet,1,1,0,101.5,7871
+Vila Mariana,casa,3,1,0,66.2,5984
+Butantã,apto,2,1,1,48.3,4103
+Moema,casa,1,1,2,67.0,6639
+Butantã,kitnet,3,1,1,41.0,6104
+Moema,kitnet,1,2,2,53.4,7846
+Pinheiros,casa,2,1,0,41.2,4847
+Itaim Bibi,apto,1,2,1,31.7,6520
+Pinheiros,kitnet,1,2,2,20.0,5095
+Itaim Bibi,apto,1,2,1,28.0,5235
+Pinheiros,apto,1,2,2,80.4,6675
+Vila Mariana,casa,2,2,0,40.3,4396
+Tatuapé,kitnet,1,1,2,70.7,5751
+Butantã,apto,1,1,2,79.1,6516
+Moema,casa,2,1,1,60.3,6781
+Pinheiros,apto,2,2,1,54.0,6002
+Vila Mariana,casa,2,1,2,62.7,7123
+Butantã,apto,2,2,1,51.7,6223
+Itaim Bibi,casa,3,1,0,84.1,7531
+Pinheiros,casa,3,1,2,97.5,8307
+Moema,apto,1,2,0,89.0,7323
+Vila Mariana,apto,3,2,1,20.0,5183
+Vila Mariana,kitnet,2,2,0,51.3,6047
+Butantã,apto,2,1,2,60.1,4843
+Tatuapé,apto,3,1,2,69.3,5746
+Vila Mariana,apto,1,1,1,25.5,4083
+Tatuapé,kitnet,2,1,1,25.1,2663
+Moema,casa,3,1,1,86.1,6939
+Pinheiros,apto,3,2,1,48.8,7799
+Moema,kitnet,1,2,2,30.3,5615
+Vila Mariana,apto,2,2,0,37.9,7046
+Vila Mariana,casa,1,1,2,67.8,7312
+Butantã,apto,1,1,1,43.5,3501
+Itaim Bibi,kitnet,1,1,2,64.8,8916
+Pinheiros,kitnet,2,2,1,40.4,6863
+Butantã,kitnet,3,2,2,25.1,4937
+Tatuapé,apto,2,1,1,88.5,3689
+Butantã,apto,2,1,1,68.0,5889
+Itaim Bibi,kitnet,3,1,0,53.3,7525
+Moema,kitnet,2,2,0,49.6,7232
+Tatuapé,apto,3,2,0,89.3,6396
+Tatuapé,kitnet,2,2,1,71.8,4740
+Itaim Bibi,kitnet,1,2,2,82.9,7646
+Vila Mariana,casa,2,1,2,48.3,6415
+Vila Mariana,casa,2,2,2,61.0,6347
+Vila Mariana,apto,2,1,1,68.0,5853
+Vila Mariana,apto,3,1,1,49.0,5054
+Pinheiros,apto,1,2,2,58.1,6316
+Pinheiros,apto,2,2,0,48.3,5160
+Butantã,kitnet,2,1,2,68.0,6374
+Pinheiros,casa,1,2,2,33.6,4920
+Butantã,kitnet,2,1,2,71.4,5507
+Pinheiros,apto,3,1,0,66.2,8618
+Itaim Bibi,kitnet,2,2,2,55.9,7633
+Vila Mariana,apto,1,1,1,69.0,5117
+Tatuapé,kitnet,1,2,1,52.7,4850
+Vila Mariana,apto,2,2,0,46.6,4170
+Moema,apto,3,2,1,70.9,9527
+Moema,apto,1,2,1,71.7,7947
+Tatuapé,kitnet,1,2,2,49.9,5015
+Moema,apto,3,1,1,48.1,4742
+Tatuapé,casa,1,2,0,56.3,3983
+Itaim Bibi,casa,1,1,2,49.0,5551
+Moema,kitnet,1,2,0,90.5,8314
+Moema,casa,3,2,2,66.3,9532
+Pinheiros,apto,2,2,2,60.3,7319
+Moema,casa,1,1,0,41.3,4578
+Pinheiros,apto,1,2,2,74.8,7939
+Vila Mariana,kitnet,3,1,2,47.8,6323
+Butantã,kitnet,3,2,1,46.9,7253
+Pinheiros,apto,1,2,2,75.5,6976
+Moema,kitnet,1,2,0,67.7,7138
+Butantã,apto,1,1,1,20.0,2832
+Butantã,casa,3,1,1,56.8,6831
+Pinheiros,casa,1,1,1,62.5,6162
+Pinheiros,apto,1,2,2,53.2,7251
+Moema,casa,2,2,2,63.2,8038
+Tatuapé,apto,2,2,1,23.8,4177
+Butantã,kitnet,2,2,1,20.0,4776
+Vila Mariana,kitnet,3,1,1,40.5,7169
+Pinheiros,kitnet,1,1,0,65.6,6283
+Vila Mariana,casa,2,1,1,20.0,4811
+Butantã,casa,2,1,0,43.1,2808
+Pinheiros,casa,1,2,2,21.5,5795
+Moema,kitnet,3,2,2,55.1,7203
+Pinheiros,casa,2,1,2,99.2,7803
+Pinheiros,casa,2,2,2,55.7,6777
+Butantã,casa,3,1,1,57.8,4601
+Pinheiros,casa,1,1,1,76.8,6402
+Vila Mariana,casa,3,1,1,60.4,8336
+Butantã,kitnet,3,1,1,55.7,5421
+Tatuapé,casa,1,1,0,78.5,5069
+Pinheiros,kitnet,3,2,2,69.4,9868
+Moema,kitnet,3,2,1,65.8,9063
+Butantã,casa,2,1,2,57.2,4801
+Moema,kitnet,2,1,0,53.1,6782
+Tatuapé,apto,3,1,1,78.3,6535
+Tatuapé,kitnet,1,1,1,53.3,5145
+Tatuapé,apto,1,2,2,84.6,6610
+Vila Mariana,casa,2,2,1,39.1,3456
+Butantã,apto,3,1,0,88.7,5675
+Butantã,casa,2,1,1,69.4,5327
+Pinheiros,casa,1,2,2,40.6,4907
+Itaim Bibi,kitnet,2,1,0,70.2,4345
+Itaim Bibi,apto,1,2,1,47.0,6029
+Itaim Bibi,kitnet,3,2,0,60.7,8117
+Moema,kitnet,2,2,2,50.3,7088
+Moema,casa,2,2,0,57.3,6323
+Butantã,casa,2,1,1,78.8,5698
+Pinheiros,kitnet,3,2,2,70.4,8286
+Itaim Bibi,apto,3,2,2,37.5,7650
+Butantã,kitnet,2,2,0,38.6,5657
+Itaim Bibi,apto,2,2,0,65.4,7609
+Moema,kitnet,1,2,0,66.9,6009
+Tatuapé,apto,2,2,1,46.5,3996
+Pinheiros,kitnet,2,1,2,91.8,7384
+Butantã,kitnet,2,1,0,76.3,6179
+Moema,apto,3,2,0,47.5,6866
+Pinheiros,casa,3,1,1,45.6,7043
+Itaim Bibi,casa,2,2,2,55.4,7939
+Tatuapé,apto,2,1,1,53.4,6295
+Tatuapé,casa,1,1,1,85.1,5266
+Pinheiros,kitnet,2,2,2,79.7,7032
+Itaim Bibi,apto,3,2,2,60.7,9310
+Tatuapé,kitnet,3,2,1,73.6,7023
+Itaim Bibi,kitnet,3,1,1,76.5,8176
+Itaim Bibi,casa,2,1,1,61.2,6404
+Vila Mariana,casa,3,2,0,68.1,7370
+Vila Mariana,casa,3,2,1,71.9,7407
+Butantã,apto,2,2,2,69.8,4879
+Tatuapé,casa,1,2,0,44.4,4036
+Moema,kitnet,2,2,2,46.4,6884
+Vila Mariana,apto,3,1,1,54.2,5214
+Tatuapé,kitnet,2,1,1,45.9,4194
+Itaim Bibi,kitnet,3,1,0,30.5,7842
+Pinheiros,kitnet,3,2,2,73.5,9072
+Tatuapé,casa,1,1,0,66.9,4865
+Butantã,casa,3,2,1,33.2,5612
+Vila Mariana,casa,2,1,0,55.2,5932
+Vila Mariana,kitnet,3,1,2,56.3,6868
+Butantã,kitnet,2,2,0,63.6,4425
+Pinheiros,casa,2,1,2,38.4,5226
+Moema,kitnet,1,2,1,32.9,5502
+Moema,casa,1,2,0,70.4,7933
+Itaim Bibi,casa,2,2,2,29.3,7941
+Pinheiros,apto,2,1,2,55.3,5596
+Moema,casa,2,2,0,53.5,7047
+Pinheiros,casa,1,2,2,57.5,5904
+Itaim Bibi,kitnet,2,1,2,65.1,7628
+Tatuapé,kitnet,1,2,2,92.0,5430
+Moema,apto,1,1,1,28.0,6565
+Moema,casa,2,1,0,77.5,7311
+Pinheiros,kitnet,2,1,1,20.0,5273
+Butantã,casa,2,2,2,87.9,6816
+Tatuapé,casa,3,2,1,20.0,3978
+Vila Mariana,kitnet,3,1,1,108.7,8149
+Moema,casa,2,1,2,52.2,8016
+Itaim Bibi,kitnet,3,2,1,85.8,10352
+Itaim Bibi,casa,1,2,0,81.7,6432
+Moema,apto,3,2,2,51.3,7023
+Vila Mariana,casa,2,1,1,52.8,5734
+Tatuapé,kitnet,3,1,1,43.3,5985
+Tatuapé,casa,3,1,1,75.7,6360
+Tatuapé,kitnet,3,2,2,51.5,6590
+Pinheiros,apto,3,2,2,43.6,6120
+Moema,kitnet,1,2,2,70.7,6965
+Tatuapé,apto,1,1,2,42.1,2205
+Butantã,kitnet,2,2,0,53.4,4889
+Tatuapé,casa,2,2,2,62.1,3933
+Moema,kitnet,1,1,2,47.2,7381
+Tatuapé,kitnet,3,1,0,50.2,6249
+Vila Mariana,kitnet,1,2,1,90.7,6634
+Pinheiros,kitnet,3,2,2,55.9,6367
+Itaim Bibi,casa,1,2,1,52.8,7085
+Butantã,kitnet,2,1,2,56.5,6782
+Butantã,apto,3,1,1,69.1,6453
+Tatuapé,apto,2,2,0,39.3,5328
+Pinheiros,casa,3,2,0,68.5,6968
+Butantã,kitnet,3,1,2,65.1,5557
+Moema,kitnet,3,1,2,24.2,6970
+Vila Mariana,casa,2,1,1,95.9,5435
+Butantã,casa,3,2,1,89.2,8888
+Itaim Bibi,casa,2,1,1,44.0,6931
+Itaim Bibi,kitnet,3,1,2,37.6,8320
+Vila Mariana,kitnet,3,2,2,64.6,7068
+Butantã,apto,1,2,2,31.5,3010
+Moema,casa,2,1,2,87.3,9359
+Tatuapé,casa,3,1,2,50.6,4720
+Itaim Bibi,kitnet,1,1,1,92.4,7852
+Tatuapé,casa,3,1,0,43.5,5160
+Vila Mariana,kitnet,1,1,1,57.8,5192
+Vila Mariana,casa,3,2,2,85.3,7433
+Moema,kitnet,3,1,1,53.5,7486
+Butantã,apto,1,2,0,65.4,3903
+Itaim Bibi,kitnet,3,1,2,81.9,9603
+Moema,apto,1,2,2,48.9,7224
+Itaim Bibi,casa,2,2,1,34.8,6926
+Itaim Bibi,kitnet,3,2,1,30.8,7070
+Moema,kitnet,1,2,0,71.7,8536
+Moema,casa,1,1,2,67.8,5892
+Butantã,casa,2,2,0,81.2,4601
+Tatuapé,apto,2,2,1,54.5,5070
+Pinheiros,kitnet,1,1,1,31.4,4535
+Itaim Bibi,apto,2,1,0,20.0,6678
+Tatuapé,apto,1,2,1,117.4,6838
+Tatuapé,casa,1,1,2,70.5,4840
+Itaim Bibi,apto,1,2,2,62.7,7782
+Butantã,apto,1,2,1,65.6,5353
+Vila Mariana,casa,3,1,0,31.4,7124
+Moema,kitnet,3,2,2,44.1,8226
+Vila Mariana,apto,2,2,0,94.9,6501
+Tatuapé,kitnet,3,1,2,73.2,6454
+Moema,casa,2,2,1,44.7,4947
+Moema,apto,3,1,1,35.5,7038
+Itaim Bibi,kitnet,1,1,1,49.7,7165
+Moema,casa,1,2,1,53.7,7092
+Moema,kitnet,3,2,0,101.0,9368
+Moema,apto,1,1,1,56.2,6806
+Vila Mariana,apto,3,1,1,36.2,6769
+Pinheiros,apto,2,1,2,58.8,7705
+Itaim Bibi,casa,2,1,1,65.3,7817
+Pinheiros,kitnet,2,1,2,34.4,5579
+Vila Mariana,kitnet,3,2,0,68.0,5090
+Itaim Bibi,casa,1,1,0,84.2,7808
+Pinheiros,casa,3,1,0,62.8,7195
+Tatuapé,kitnet,3,1,2,44.1,5544
+Itaim Bibi,casa,3,2,0,49.4,7232
+Tatuapé,apto,3,2,0,26.8,5477
+Vila Mariana,apto,3,2,2,57.3,7014
+Pinheiros,apto,2,1,1,66.2,6459
+Butantã,casa,2,2,1,42.1,4917
+Vila Mariana,casa,2,2,2,98.8,8124
+Itaim Bibi,casa,3,2,2,75.8,8256
+Vila Mariana,casa,2,2,2,24.1,5974
+Pinheiros,kitnet,2,2,1,24.6,5060
+Itaim Bibi,kitnet,1,2,1,40.3,5861
+Butantã,apto,1,2,0,91.5,6152
+Butantã,apto,1,2,1,77.8,4539
+Itaim Bibi,apto,2,2,2,92.5,9681
+Vila Mariana,kitnet,2,2,0,60.2,6087
+Butantã,casa,3,1,2,55.8,4656
+Itaim Bibi,kitnet,2,2,0,35.0,7743
+Vila Mariana,casa,1,1,0,67.0,5358
+Pinheiros,casa,2,2,1,56.1,6898
+Butantã,apto,1,1,0,55.3,4765
+Vila Mariana,casa,3,2,2,92.4,9470
+Itaim Bibi,apto,3,2,1,57.5,8485
+Pinheiros,casa,1,2,1,86.6,7292
+Vila Mariana,apto,1,1,1,28.2,4544
+Vila Mariana,apto,1,2,0,113.8,6639
+Vila Mariana,apto,2,2,2,52.5,5109
+Itaim Bibi,kitnet,1,1,2,74.1,7496
+Butantã,kitnet,3,1,0,77.3,7123
+Butantã,casa,1,2,0,50.1,4668
+Itaim Bibi,casa,2,2,0,76.4,7037
+Vila Mariana,kitnet,2,2,0,77.4,7401
+Butantã,casa,1,1,1,45.7,3725
+Tatuapé,casa,3,1,2,46.0,3806
+Tatuapé,casa,1,2,1,60.9,5442
+Itaim Bibi,casa,3,2,0,57.7,7274
+Itaim Bibi,casa,3,2,0,87.9,10360
+Butantã,kitnet,2,1,1,74.1,6440
+Tatuapé,casa,3,1,0,58.6,5076
+Tatuapé,casa,2,1,1,72.1,5631
+Itaim Bibi,apto,1,2,0,20.0,7439
+Vila Mariana,kitnet,1,2,0,47.7,5731
+Vila Mariana,kitnet,3,1,1,65.8,6963
+Tatuapé,apto,2,1,0,82.3,7581
+Pinheiros,apto,3,2,1,64.0,7614
+Vila Mariana,kitnet,1,1,0,89.2,6240
+Itaim Bibi,apto,3,1,0,77.4,7472
+Butantã,kitnet,3,1,1,50.2,4167
+Tatuapé,kitnet,1,2,0,57.2,3986
+Moema,kitnet,2,2,2,68.2,8076
+Moema,apto,3,2,2,51.0,8494
+Itaim Bibi,casa,1,1,1,90.6,6383
+Tatuapé,casa,1,2,0,37.8,4163
+Pinheiros,kitnet,1,2,1,66.3,5525
+Tatuapé,apto,2,1,1,74.7,5828
+Moema,apto,1,2,1,53.7,7360
+Itaim Bibi,apto,2,1,2,49.2,6960
+Butantã,kitnet,3,2,2,58.5,5683
+Butantã,kitnet,1,2,1,76.2,6522
+Tatuapé,apto,1,2,0,50.0,4698
+Moema,apto,2,2,0,38.6,6680
+Moema,apto,1,2,2,83.0,8965
+Vila Mariana,kitnet,1,2,1,68.0,5906
+Butantã,casa,1,1,0,80.2,4208
+Butantã,apto,1,1,1,75.2,4054
+Butantã,apto,3,2,2,103.6,7722
+Vila Mariana,casa,1,1,1,82.3,6486
+Vila Mariana,casa,2,2,0,45.5,6677
+Butantã,apto,3,2,2,69.4,6801
+Tatuapé,kitnet,2,1,0,48.9,5236
+Itaim Bibi,casa,2,2,2,50.9,7556
+Moema,apto,2,1,1,31.7,5627
+Moema,kitnet,3,1,0,54.3,6283
+Tatuapé,kitnet,1,2,0,70.9,4222
+Itaim Bibi,apto,1,1,2,58.7,5845
+Moema,apto,3,1,2,38.0,9048
+Itaim Bibi,apto,1,1,0,29.5,5738
+Vila Mariana,kitnet,1,2,1,102.2,6791
+Moema,casa,1,1,2,66.5,8273
+Butantã,kitnet,1,1,2,43.5,3164
+Butantã,casa,1,1,2,69.2,4867
+Butantã,casa,2,2,0,103.8,8113
+Vila Mariana,casa,2,1,1,72.4,6157
+Butantã,kitnet,1,1,2,20.0,5457
+Butantã,casa,3,2,0,113.0,8120
+Butantã,kitnet,1,2,0,23.0,4435
+Pinheiros,kitnet,3,2,2,55.9,8644
+Itaim Bibi,kitnet,3,1,2,37.3,7621
+Butantã,kitnet,2,1,0,45.2,3965
+Itaim Bibi,casa,2,1,2,65.7,7678
+Vila Mariana,apto,1,1,1,20.0,3210
+Itaim Bibi,casa,1,1,1,58.2,6493
+Pinheiros,kitnet,3,2,1,82.9,8085
+Moema,kitnet,2,1,2,43.1,8245
+Tatuapé,casa,1,2,1,32.2,4240
+Moema,apto,3,2,1,57.2,10007
+Itaim Bibi,casa,3,1,2,53.2,6369
+Vila Mariana,kitnet,1,2,1,48.1,4269
+Tatuapé,apto,1,2,2,36.2,3903
+Tatuapé,apto,1,1,0,70.4,5406
+Tatuapé,apto,1,1,2,71.9,4769
+Vila Mariana,kitnet,2,2,2,38.7,4786
+Vila Mariana,casa,1,1,2,41.5,4748
+Vila Mariana,apto,2,1,1,62.7,5024
+Moema,apto,1,1,1,40.7,4706
+Tatuapé,apto,3,1,0,63.6,7006
+Moema,casa,3,1,2,89.4,8700
+Moema,kitnet,2,2,2,58.8,7903
+Vila Mariana,casa,2,2,0,35.7,5197
+Vila Mariana,kitnet,1,2,0,67.8,5334
+Tatuapé,kitnet,1,2,2,56.4,4121
+Itaim Bibi,kitnet,2,2,2,57.0,7661
+Vila Mariana,apto,1,2,1,69.5,6155
+Butantã,kitnet,2,1,0,73.8,6350
+Tatuapé,apto,2,1,2,60.7,5979
+Vila Mariana,casa,1,1,1,58.8,4188
+Moema,kitnet,2,2,2,101.3,9829
+Pinheiros,apto,2,2,2,84.0,8101
+Pinheiros,apto,3,2,1,76.7,7400
+Moema,apto,1,1,0,62.6,6324
+Moema,apto,2,1,2,39.9,7254
+Itaim Bibi,casa,3,1,2,82.5,9014
+Pinheiros,kitnet,1,1,2,62.9,6371
+Butantã,apto,3,2,1,48.5,5163
+Vila Mariana,casa,3,1,2,55.1,8348
+Pinheiros,kitnet,2,2,2,40.7,4877
+Itaim Bibi,kitnet,3,2,0,81.1,9197
+Itaim Bibi,apto,3,1,0,73.7,8403
+Tatuapé,casa,1,2,0,63.6,4923
+Pinheiros,apto,3,1,2,59.1,6708
+Pinheiros,apto,1,1,0,46.4,5827
+Moema,apto,1,2,1,20.0,5514
+Moema,casa,1,2,2,31.7,5303
+Butantã,apto,2,1,1,45.1,3779
+Vila Mariana,apto,3,2,0,42.1,6264
+Vila Mariana,apto,2,1,1,65.8,4796
+Butantã,casa,2,1,0,76.2,6727
+Pinheiros,casa,1,1,1,57.4,6362
+Pinheiros,casa,2,1,2,88.2,8907
+Moema,apto,2,2,1,44.3,8407
+Moema,casa,2,2,2,57.3,7437
+Tatuapé,casa,1,2,0,59.0,3574
+Butantã,apto,1,2,2,81.8,3613
+Butantã,kitnet,3,1,1,62.1,5539
+Vila Mariana,kitnet,2,2,0,62.7,7493
+Butantã,casa,2,1,1,26.9,3445
+Tatuapé,casa,1,2,0,42.0,3592
+Pinheiros,kitnet,3,2,1,81.9,7614
+Butantã,casa,2,2,1,20.0,4600
+Pinheiros,casa,2,2,0,86.9,8235
+Tatuapé,casa,3,1,2,70.0,4968
+Itaim Bibi,apto,1,2,1,45.0,5473
+Vila Mariana,kitnet,2,2,0,43.4,6690
+Vila Mariana,apto,3,1,1,97.9,8324
+Moema,apto,2,2,2,88.2,8439
+Butantã,kitnet,1,2,2,57.6,6394
+Vila Mariana,casa,1,1,1,62.7,4189
+Tatuapé,casa,1,2,2,47.1,5257
+Moema,apto,2,1,0,62.7,6826
+Pinheiros,apto,2,2,1,46.5,6781
+Itaim Bibi,kitnet,1,1,0,58.4,4343
+Itaim Bibi,casa,3,1,2,96.2,9178
+Tatuapé,apto,1,2,2,58.1,5432
+Vila Mariana,kitnet,2,2,0,39.0,5321
+Pinheiros,casa,3,2,0,32.7,7284
+Moema,kitnet,1,1,2,62.5,7754
+Tatuapé,casa,1,2,1,44.8,3377
+Tatuapé,casa,1,1,0,64.9,4707
+Vila Mariana,kitnet,2,2,0,27.6,4234
+Tatuapé,kitnet,1,1,1,73.8,4657
+Vila Mariana,apto,3,2,0,38.8,6589
+Itaim Bibi,kitnet,1,2,0,60.9,6060
+Itaim Bibi,kitnet,3,1,0,53.2,8127
+Tatuapé,casa,2,1,0,94.4,5227
+Pinheiros,apto,1,2,2,63.4,5938
+Butantã,apto,1,2,2,98.9,6833
+Pinheiros,apto,1,1,2,71.2,5568
+Butantã,apto,1,2,0,88.5,4646
+Pinheiros,kitnet,1,1,0,55.8,6008
+Tatuapé,kitnet,2,2,0,66.9,5294
+Pinheiros,casa,1,1,1,84.4,5168
+Pinheiros,casa,3,1,0,78.1,7927
+Itaim Bibi,kitnet,1,2,0,70.6,6693
+Itaim Bibi,casa,1,2,2,53.4,5981
+Pinheiros,casa,1,1,1,56.8,3499
+Butantã,casa,1,1,2,82.8,6105
+Vila Mariana,apto,3,1,0,86.9,6420
+Vila Mariana,apto,1,1,2,48.1,4149
+Vila Mariana,casa,1,2,2,45.1,5965
+Moema,kitnet,3,1,2,41.9,8202
+Vila Mariana,apto,2,2,1,76.6,6168
+Moema,apto,1,1,2,41.4,6872
+Vila Mariana,apto,3,1,1,76.4,8734
+Pinheiros,kitnet,1,2,1,70.9,7405
+Moema,casa,1,1,0,49.1,6726
+Itaim Bibi,casa,2,1,0,91.3,8190
+Itaim Bibi,casa,3,1,2,30.8,7068
+Moema,apto,1,1,0,93.2,7051
+Vila Mariana,kitnet,3,2,0,66.4,7244
+Itaim Bibi,apto,1,2,0,20.0,4494
+Itaim Bibi,apto,3,1,1,91.8,8340
+Itaim Bibi,kitnet,1,1,2,79.4,6341
+Butantã,casa,2,1,0,51.4,4731
+Itaim Bibi,apto,2,1,0,40.7,6488
+Butantã,casa,1,1,2,28.6,3236
+Moema,apto,2,1,0,108.3,8906
+Moema,kitnet,3,2,1,41.5,6810
+Vila Mariana,kitnet,2,1,2,34.7,4890
+Vila Mariana,apto,2,2,1,65.4,7085
+Itaim Bibi,casa,3,2,0,27.2,7860
+Itaim Bibi,apto,3,1,2,40.4,7074
+Itaim Bibi,casa,1,1,0,79.9,7083
+Vila Mariana,apto,3,1,0,69.3,5955
+Moema,apto,3,1,0,52.3,7110
+Vila Mariana,casa,3,1,1,60.4,6726
+Butantã,kitnet,3,2,2,51.2,6683
+Vila Mariana,kitnet,3,1,1,58.8,6817
+Pinheiros,apto,3,1,0,44.8,6461
+Tatuapé,kitnet,1,2,1,48.4,3389
+Butantã,apto,3,2,0,47.8,5844
+Butantã,kitnet,1,2,1,45.5,4805
+Pinheiros,apto,2,2,0,80.9,7577
+Vila Mariana,casa,3,1,2,75.4,6786
+Pinheiros,apto,1,1,2,41.4,6073
+Vila Mariana,kitnet,3,1,2,36.1,5130
+Tatuapé,apto,2,1,0,56.9,4161
+Vila Mariana,kitnet,1,1,0,103.1,5973
+Pinheiros,apto,1,1,0,39.4,3673
+Tatuapé,casa,2,1,2,56.8,4871
+Pinheiros,apto,2,1,2,61.8,6830
+Vila Mariana,kitnet,2,2,0,57.8,4474
+Pinheiros,casa,1,1,2,50.8,5309
+Pinheiros,kitnet,1,1,1,83.1,4894
+Moema,kitnet,1,2,0,69.1,8406
+Butantã,casa,1,2,0,76.9,5177
+Itaim Bibi,apto,3,1,0,71.8,8154
+Pinheiros,apto,1,1,2,77.9,6622
+Pinheiros,apto,3,1,0,91.7,8134
+Moema,kitnet,1,1,0,86.6,7681
+Tatuapé,kitnet,2,1,2,106.5,5344
+Itaim Bibi,casa,3,2,0,84.3,9879
+Itaim Bibi,kitnet,2,2,0,46.6,7995
+Moema,apto,1,1,2,76.9,7155
+Vila Mariana,kitnet,2,2,2,74.2,6931
+Pinheiros,casa,1,2,1,98.4,4670
+Pinheiros,apto,3,1,2,40.7,5725
+Pinheiros,apto,3,1,2,71.2,8050
+Butantã,casa,2,2,1,46.4,6052
+Vila Mariana,casa,2,1,2,70.3,7091
+Itaim Bibi,apto,2,1,0,55.7,6811
+Tatuapé,casa,3,1,0,69.6,7128
+Tatuapé,apto,2,2,2,31.8,5558
+Moema,kitnet,3,1,0,75.9,7661
+Itaim Bibi,casa,2,2,2,64.1,9869
+Pinheiros,apto,1,1,1,63.0,4814
+Pinheiros,casa,3,2,2,99.0,7693
+Moema,kitnet,2,1,1,52.4,6534
+Moema,casa,3,1,0,66.8,7098
+Tatuapé,kitnet,2,1,1,62.0,4668
+Itaim Bibi,casa,2,1,2,64.0,8357
+Tatuapé,kitnet,2,2,2,104.4,6906
+Vila Mariana,apto,2,2,2,61.3,6632
+Vila Mariana,apto,3,1,2,48.7,6607
+Itaim Bibi,casa,2,1,2,97.4,6873
+Vila Mariana,kitnet,3,1,2,53.8,5503
+Tatuapé,kitnet,2,1,1,27.9,3629
+Tatuapé,kitnet,1,1,1,45.2,3081
+Itaim Bibi,kitnet,3,2,1,35.1,7467
+Itaim Bibi,casa,2,1,2,24.0,7643
+Moema,apto,3,2,1,52.7,7923
+Vila Mariana,kitnet,2,1,2,58.6,5100
+Moema,casa,2,2,2,83.6,7874
+Moema,apto,3,2,0,72.6,9646
+Vila Mariana,apto,2,2,2,71.7,8176
+Tatuapé,kitnet,3,2,2,42.1,6241
+Vila Mariana,apto,2,2,1,77.7,5581
+Tatuapé,apto,1,1,0,87.8,4980
+Itaim Bibi,kitnet,1,1,0,67.9,6844
+Butantã,apto,3,1,2,68.5,6374
+Pinheiros,apto,2,2,0,34.7,5185
+Itaim Bibi,kitnet,2,2,1,81.1,8043
+Pinheiros,casa,3,2,1,95.6,7957
+Moema,kitnet,2,1,0,66.5,6078
+Vila Mariana,casa,2,2,2,48.1,7336
+Pinheiros,apto,3,1,1,56.8,7609
+Vila Mariana,apto,1,1,0,51.6,4420
+Pinheiros,kitnet,1,2,0,52.8,5765
+Itaim Bibi,apto,3,1,1,73.0,8701
+Pinheiros,casa,1,1,0,65.6,7342
+Moema,casa,3,2,2,80.1,9800
+Itaim Bibi,casa,1,2,1,67.4,7890
+Butantã,kitnet,1,1,1,42.7,3912
+Butantã,casa,3,1,1,50.0,5152
+Pinheiros,casa,2,1,0,48.7,6768
+Butantã,casa,3,1,1,56.3,6210
+Tatuapé,casa,2,2,1,95.9,5713
+Vila Mariana,kitnet,1,2,0,99.1,6836
+Moema,apto,3,2,1,76.7,9372
+Butantã,apto,1,2,1,62.4,3195
+Moema,casa,1,1,0,32.8,4545
+Vila Mariana,casa,3,1,2,64.4,7322
+Butantã,apto,1,1,1,44.2,2386
+Butantã,kitnet,2,2,0,92.6,4765
+Butantã,casa,2,1,1,27.9,3920
+Butantã,apto,3,1,0,67.7,6124
+Butantã,kitnet,1,2,1,42.5,4706
+Moema,kitnet,1,2,0,59.8,7760
+Vila Mariana,casa,2,1,1,73.3,6365
+Tatuapé,apto,2,1,0,80.4,4915
+Vila Mariana,apto,3,1,0,58.8,5218
+Moema,casa,2,1,0,75.2,6949
+Tatuapé,apto,1,1,0,46.8,4069
+Butantã,casa,3,2,1,64.9,6950
+Vila Mariana,apto,2,1,0,80.0,6413
+Vila Mariana,apto,3,1,0,66.6,6937
+Itaim Bibi,casa,3,1,0,49.4,8404
+Pinheiros,kitnet,1,1,2,54.4,5793
+Tatuapé,kitnet,2,1,2,80.3,6903
+Itaim Bibi,apto,2,1,0,38.2,5764
+Tatuapé,apto,2,2,0,41.1,4375
+Moema,casa,1,1,2,72.0,6676
+Itaim Bibi,casa,2,1,2,51.2,7971
+Moema,kitnet,2,2,2,30.9,6117
+Itaim Bibi,kitnet,1,1,0,87.0,6853
+Moema,casa,1,1,1,38.0,4252
+Pinheiros,apto,1,1,0,56.0,5656
+Tatuapé,apto,3,1,1,47.6,6226
+Pinheiros,apto,3,1,0,54.0,7250
+Butantã,casa,2,2,0,42.3,5319
+Tatuapé,apto,2,1,1,74.3,6000
+Moema,apto,1,2,2,62.2,7726
+Moema,kitnet,1,1,1,79.7,7482
+Tatuapé,kitnet,3,2,2,47.8,6478
+Vila Mariana,casa,1,1,2,102.7,6255
+Vila Mariana,kitnet,1,1,2,21.9,4197
+Moema,kitnet,3,1,0,28.3,6605
+Vila Mariana,kitnet,2,2,0,95.1,6783
+Itaim Bibi,kitnet,1,2,1,69.5,6031
+Pinheiros,apto,2,1,2,66.8,5817
+Itaim Bibi,kitnet,3,1,2,68.6,8743
+Moema,kitnet,2,1,2,71.4,8467
+Tatuapé,kitnet,2,2,0,66.0,5187
+Pinheiros,casa,2,1,1,40.7,7932
+Moema,kitnet,2,2,0,76.4,6955
+Itaim Bibi,kitnet,3,1,0,73.2,8452
+Vila Mariana,kitnet,1,1,0,88.6,6790
+Pinheiros,kitnet,1,2,2,95.3,8211
+Tatuapé,kitnet,1,1,0,66.6,4622
+Pinheiros,casa,2,1,1,35.4,6420
+Vila Mariana,kitnet,2,1,2,95.5,7308
+Moema,casa,2,2,2,39.6,8519
+Tatuapé,kitnet,3,1,1,66.8,6829
+Tatuapé,kitnet,2,1,1,54.9,4064
+Itaim Bibi,kitnet,1,2,1,51.4,6999
+Butantã,casa,2,2,2,75.3,5021
+Pinheiros,casa,2,1,2,64.9,7964
+Moema,apto,2,1,1,70.3,7587
+Pinheiros,casa,2,2,1,43.7,7290
+Pinheiros,casa,3,1,1,56.5,6808
+Vila Mariana,casa,1,1,1,44.6,3253
+Tatuapé,kitnet,1,2,2,56.0,6890
+Butantã,kitnet,2,2,0,57.6,5234
+Itaim Bibi,apto,1,1,2,96.9,7206
+Tatuapé,casa,1,2,1,54.8,5361
+Itaim Bibi,kitnet,2,2,0,20.0,7829
+Vila Mariana,kitnet,2,2,0,87.9,6675
+Butantã,kitnet,2,1,1,69.0,5290
+Butantã,kitnet,1,2,0,57.4,4612
+Pinheiros,kitnet,3,2,0,51.3,5949
+Moema,kitnet,2,2,0,41.1,6079
+Itaim Bibi,casa,1,2,2,98.8,9888
+Moema,apto,1,1,2,61.0,6625
+Butantã,casa,1,1,0,25.2,2387
+Butantã,kitnet,2,1,2,66.6,5235
+Moema,apto,2,2,1,84.1,9082
+Pinheiros,kitnet,2,1,2,63.1,5113
+Moema,casa,2,1,0,42.0,6463
+Vila Mariana,kitnet,3,1,0,40.2,7675
+Moema,apto,3,1,0,41.7,8574
+Tatuapé,kitnet,2,2,2,90.4,6972
+Moema,casa,3,2,1,58.6,9210
+Vila Mariana,casa,3,1,0,26.4,6338
+Vila Mariana,casa,3,2,2,67.7,7430
+Itaim Bibi,casa,1,1,2,62.8,7724
+Pinheiros,kitnet,2,2,1,51.0,7862
+Vila Mariana,apto,2,2,2,39.6,4977
+Butantã,kitnet,1,1,0,38.7,3923
+Pinheiros,kitnet,1,1,1,81.7,6541
+Moema,apto,2,2,2,65.0,8031
+Vila Mariana,apto,2,2,1,69.6,6599
+Pinheiros,casa,3,2,0,64.9,7432
+Moema,kitnet,3,1,2,66.6,8549
+Tatuapé,kitnet,1,1,2,50.6,5114
+Vila Mariana,kitnet,3,2,2,55.9,7558
+Pinheiros,kitnet,2,2,1,83.3,7257
+Pinheiros,casa,2,2,0,88.3,6577
+Tatuapé,casa,3,1,0,35.6,4189
+Butantã,apto,2,1,2,55.8,5484
+Vila Mariana,casa,1,2,2,76.8,5839
+Vila Mariana,apto,1,2,0,97.6,7186
+Moema,apto,2,2,1,95.6,8913
+Moema,kitnet,1,1,1,44.1,6837
+Vila Mariana,kitnet,1,2,1,85.5,5854
+Pinheiros,casa,3,2,1,61.2,6770
+Tatuapé,apto,1,2,2,80.9,6435
+Moema,apto,1,2,2,75.8,7677
+Moema,apto,2,2,0,34.7,6280
+Vila Mariana,kitnet,1,1,1,71.0,6089
+Butantã,apto,1,2,2,80.1,6233
+Tatuapé,apto,3,2,0,59.6,4683
+Moema,kitnet,2,2,2,55.1,8760
+Vila Mariana,kitnet,3,2,1,28.6,5729
+Itaim Bibi,kitnet,2,1,1,73.7,9070
+Butantã,apto,2,2,0,64.2,4258
+Pinheiros,casa,1,2,2,41.6,6001
+Butantã,apto,2,2,1,53.5,5156
+Itaim Bibi,kitnet,1,2,1,63.1,5513
+Pinheiros,apto,3,2,1,48.8,7591
+Itaim Bibi,kitnet,1,1,0,60.1,4762
+Pinheiros,casa,1,1,2,25.0,4617
+Pinheiros,kitnet,2,2,0,87.0,8093
+Pinheiros,casa,2,2,0,60.3,5986
+Moema,apto,1,1,2,38.0,5317
+Tatuapé,kitnet,2,2,0,20.0,4440
+Moema,casa,1,1,2,80.6,7118
+Pinheiros,casa,3,1,1,71.2,7011
+Vila Mariana,casa,2,2,2,64.2,7746
+Butantã,casa,3,1,0,77.3,5084
+Butantã,casa,3,1,2,77.2,6249
+Itaim Bibi,apto,2,1,0,63.9,7810
+Pinheiros,apto,3,1,2,54.9,6162
+Itaim Bibi,apto,1,1,1,51.7,7770
+Itaim Bibi,apto,3,1,0,68.4,7779
+Tatuapé,kitnet,2,1,1,87.9,6438
+Pinheiros,apto,3,1,0,57.9,7336
+Butantã,apto,1,1,0,89.5,4864
+Moema,apto,1,2,2,67.5,6941
+Pinheiros,kitnet,3,2,1,67.6,7594
+Vila Mariana,casa,2,1,2,108.1,8213
+Moema,apto,1,1,2,93.1,6902
+Pinheiros,casa,2,2,1,93.6,6745
+Vila Mariana,apto,1,1,1,44.0,5909
+Moema,apto,2,1,0,103.8,7527
+Butantã,apto,3,2,0,58.4,6134
+Pinheiros,kitnet,3,2,2,55.5,7402
+Tatuapé,apto,2,1,0,20.0,3274
+Butantã,casa,2,2,1,66.5,6840
+Itaim Bibi,kitnet,3,1,0,38.3,6982
+Butantã,kitnet,1,1,2,68.2,4659
+Vila Mariana,casa,1,2,1,36.8,4687
+Itaim Bibi,apto,1,2,1,96.0,7676
+Butantã,casa,3,2,2,71.0,6295
+Vila Mariana,apto,2,1,0,105.6,6568
+Moema,casa,1,2,0,39.5,7217
+Tatuapé,apto,1,2,1,91.0,6099
+Moema,casa,1,1,0,23.9,4742
+Vila Mariana,casa,3,2,0,64.2,7610
+Butantã,kitnet,2,1,0,47.4,3151
+Butantã,casa,1,1,2,51.0,5532
+Moema,kitnet,1,2,0,49.7,7226
+Itaim Bibi,casa,2,2,0,41.7,8640
+Moema,kitnet,2,2,2,34.8,7853
+Itaim Bibi,casa,3,1,0,51.2,7784
+Tatuapé,kitnet,1,2,0,62.3,5403
+Moema,casa,1,1,1,83.3,6598
+Pinheiros,kitnet,1,2,0,65.9,5561
+Tatuapé,casa,2,1,2,83.3,5849
+Vila Mariana,casa,3,1,1,30.4,6808
+Vila Mariana,casa,2,2,2,51.3,5656
+Vila Mariana,kitnet,1,1,0,74.2,4557
+Butantã,casa,2,1,1,66.9,5495
+Pinheiros,apto,2,2,0,42.8,6457
+Itaim Bibi,kitnet,1,1,0,78.7,6298
+Butantã,kitnet,3,2,1,49.4,6418
+Pinheiros,apto,2,1,2,44.5,7228
+Tatuapé,kitnet,1,1,0,69.7,5153
+Tatuapé,casa,2,1,2,60.1,5486
+Moema,apto,3,2,0,49.5,7514
+Itaim Bibi,casa,3,1,0,48.9,8754
+Moema,kitnet,1,1,1,38.6,5770
+Moema,apto,3,2,1,52.1,8715
+Moema,kitnet,2,2,1,82.0,9727
+Itaim Bibi,casa,2,1,2,64.9,8415
+Tatuapé,apto,1,1,0,79.2,3677
+Moema,casa,3,1,2,70.3,7418
+Butantã,casa,3,2,2,47.8,5895
+Itaim Bibi,kitnet,1,1,2,27.0,6478
+Butantã,kitnet,2,1,0,41.5,4600
+Itaim Bibi,apto,3,1,1,46.6,9363
+Moema,kitnet,2,2,2,45.0,7699
+Itaim Bibi,casa,1,1,2,79.6,7227
+Vila Mariana,apto,3,2,2,79.4,6976
+Vila Mariana,kitnet,1,1,2,104.2,7771
+Moema,casa,2,1,1,44.7,6637
+Butantã,casa,2,2,0,91.9,4954
+Tatuapé,kitnet,3,2,0,91.8,6673
+Moema,apto,2,2,0,55.4,6264
+Moema,apto,3,2,2,69.5,8444
+Vila Mariana,kitnet,3,1,0,84.8,7049
+Tatuapé,apto,3,2,1,58.8,5241
+Moema,apto,3,1,2,57.3,7628
+Tatuapé,apto,3,1,0,47.5,4328
+Moema,kitnet,3,2,1,20.0,6426
+Vila Mariana,apto,3,2,1,61.4,6236
+Butantã,apto,2,2,2,45.8,4988
+Moema,casa,1,2,1,38.5,5439
+Pinheiros,apto,1,1,1,68.4,6323
+Moema,casa,3,2,2,31.0,7790
+Tatuapé,casa,1,1,2,76.1,5939
+Pinheiros,casa,3,1,2,69.7,9100
+Vila Mariana,casa,3,2,2,52.0,7602
+Pinheiros,kitnet,2,2,2,58.7,7322
+Tatuapé,casa,3,1,2,36.2,5778
+Itaim Bibi,casa,1,1,2,75.0,7723
+Butantã,apto,2,1,0,63.7,4953
+Moema,apto,3,1,1,65.2,7934
+Butantã,apto,3,1,0,70.0,4984
+Vila Mariana,apto,1,1,1,47.2,5486
+Itaim Bibi,apto,3,2,1,29.6,7464
+Tatuapé,apto,2,1,2,79.1,6934
+Itaim Bibi,apto,3,2,1,73.8,9545
+Itaim Bibi,apto,2,1,2,49.3,6778
+Tatuapé,casa,2,2,2,68.2,6843
+Vila Mariana,apto,1,1,2,85.2,4206
+Tatuapé,apto,2,1,0,82.8,6827
+Itaim Bibi,apto,3,2,2,48.7,7291
+Butantã,apto,3,1,0,30.2,5003
+Butantã,apto,1,2,1,33.7,4352
+Vila Mariana,casa,1,2,1,53.8,6312
+Tatuapé,casa,3,1,0,89.2,5914
+Pinheiros,kitnet,2,1,2,45.4,4447
+Itaim Bibi,casa,3,2,2,48.1,8080
+Butantã,casa,1,1,1,47.7,3855
+Pinheiros,kitnet,2,2,0,49.4,4442
+Tatuapé,apto,1,2,0,59.8,4330
+Butantã,kitnet,3,2,0,34.4,4271
+Butantã,kitnet,3,2,2,81.7,7670
+Moema,casa,1,2,1,57.1,6516
+Pinheiros,kitnet,1,1,0,109.6,8356
+Butantã,apto,3,2,1,36.5,5291
+Butantã,kitnet,1,1,2,91.8,5998
+Tatuapé,casa,3,2,1,87.8,6664
+Butantã,apto,3,1,1,51.8,4254
+Pinheiros,apto,1,2,0,52.1,5299
+Tatuapé,kitnet,1,2,2,41.6,4950
+Pinheiros,casa,3,2,0,41.8,7036
+Butantã,apto,1,1,2,60.0,4465
+Itaim Bibi,casa,2,1,0,60.4,5847
+Butantã,kitnet,1,2,0,28.0,4054
+Tatuapé,casa,2,2,1,105.9,7012
+Pinheiros,apto,2,2,0,54.8,6919
+Pinheiros,apto,3,2,0,61.3,6920
+Moema,apto,3,1,0,47.5,5777
+Itaim Bibi,kitnet,2,2,2,54.7,8267
+Pinheiros,kitnet,2,2,2,52.8,6778
+Butantã,kitnet,2,2,0,59.9,6312
+Vila Mariana,casa,3,1,1,59.7,6614
+Moema,kitnet,1,1,1,76.1,6847
+Vila Mariana,casa,1,1,1,64.5,5670
+Moema,casa,2,1,1,74.1,7045
+Moema,apto,3,2,2,59.8,7978
+Pinheiros,casa,3,2,1,64.6,7460
+Tatuapé,casa,1,2,1,55.2,3719
+Itaim Bibi,apto,1,2,2,80.1,7719
+Butantã,casa,2,2,1,66.5,7245
+Vila Mariana,kitnet,2,2,0,56.8,6739
+Butantã,casa,2,2,0,56.2,5334
+Butantã,casa,1,2,1,57.8,5976
+Butantã,apto,3,1,0,60.6,4858
+Moema,apto,3,2,2,58.9,10459
+Butantã,apto,3,2,1,48.8,5496
+Tatuapé,apto,2,2,0,75.3,7062
+Pinheiros,kitnet,1,2,1,76.6,8096
+Vila Mariana,kitnet,2,1,2,95.7,5868
+Itaim Bibi,casa,1,2,2,47.9,8111
+Pinheiros,casa,1,2,2,73.3,6473
+Moema,casa,2,1,2,21.8,5800
+Itaim Bibi,casa,2,1,1,76.6,8217
+Pinheiros,casa,1,2,2,30.9,4620
+Moema,casa,3,2,2,40.3,8311
+Vila Mariana,kitnet,1,2,1,66.6,5047
+Tatuapé,casa,2,1,1,47.6,4669
+Vila Mariana,casa,2,2,2,44.8,7213
+Butantã,casa,2,2,1,50.3,5518
+Pinheiros,apto,3,2,0,74.6,7250
+Butantã,apto,3,1,0,41.3,5373
+Itaim Bibi,apto,3,1,1,58.9,6842
+Butantã,casa,2,1,0,52.4,3902
+Butantã,kitnet,1,2,0,76.4,4648
+Vila Mariana,kitnet,2,2,0,77.0,7138
+Butantã,kitnet,2,1,1,23.3,4323
+Tatuapé,apto,2,2,1,80.9,6355
+Butantã,kitnet,2,2,1,47.8,5112
+Butantã,kitnet,1,1,1,64.7,3911
+Tatuapé,casa,2,2,2,41.2,6227
+Moema,apto,3,2,0,67.4,7564
+Pinheiros,casa,2,1,1,111.0,8166
+Pinheiros,kitnet,3,1,1,62.5,6987
+Moema,kitnet,3,1,0,50.8,7674
+Itaim Bibi,casa,3,1,0,55.4,7076
+Tatuapé,casa,1,1,0,30.6,3861
+Moema,casa,3,1,0,89.0,9472
+Vila Mariana,apto,2,2,0,66.3,6981
+Tatuapé,casa,2,2,0,39.0,4497
+Tatuapé,apto,2,1,0,39.7,3642
+Butantã,kitnet,1,2,2,60.3,7367
+Itaim Bibi,kitnet,3,1,2,78.6,8066
+Tatuapé,casa,2,2,1,37.0,5314
+Butantã,casa,3,2,0,82.3,6834
+Moema,kitnet,3,2,2,58.2,8395
+Butantã,casa,2,1,0,41.4,4390
+Moema,kitnet,3,2,0,50.6,7211
+Pinheiros,casa,2,2,1,95.0,8091
+Moema,apto,2,2,1,32.2,6921
+Pinheiros,apto,3,1,0,45.4,8403
+Pinheiros,apto,3,2,2,79.1,9128
+Butantã,casa,3,1,0,64.3,6043
+Itaim Bibi,casa,3,1,0,44.2,7686
+Vila Mariana,casa,2,1,1,79.3,7951
+Butantã,apto,3,1,1,80.2,5631
+Pinheiros,kitnet,1,1,2,66.6,5953
+Vila Mariana,casa,3,1,0,47.8,4407
+Itaim Bibi,kitnet,2,2,1,50.8,7872
+Vila Mariana,casa,2,2,0,65.7,6849
+Itaim Bibi,casa,3,1,0,33.8,6116
+Butantã,casa,1,2,1,86.6,6745
+Pinheiros,apto,3,2,2,94.0,8145
+Pinheiros,apto,2,1,0,55.3,5584
+Butantã,casa,2,1,2,67.1,5709
+Tatuapé,kitnet,1,2,1,83.7,6587
+Tatuapé,apto,2,1,1,99.1,5387
+Moema,casa,3,2,2,91.1,9667
+Moema,kitnet,1,2,0,25.3,6079
+Itaim Bibi,kitnet,2,1,0,53.7,7265
+Tatuapé,casa,3,1,2,70.0,6685
+Pinheiros,apto,2,1,0,50.1,6313
+Tatuapé,apto,2,2,2,95.7,6226
+Itaim Bibi,casa,2,1,2,92.6,9928
+Pinheiros,kitnet,1,2,2,43.7,5722
+Moema,apto,2,1,1,56.8,6807
+Itaim Bibi,kitnet,3,2,1,45.0,9028
+Tatuapé,kitnet,2,2,2,56.1,4978
+Pinheiros,apto,2,1,0,55.5,6121
+Pinheiros,casa,1,2,0,79.1,5694
+Tatuapé,apto,3,1,1,42.2,7082
+Moema,kitnet,3,1,1,20.0,8447
+Butantã,casa,3,2,2,27.9,5449
+Tatuapé,apto,2,1,2,39.4,4999
+Butantã,apto,2,1,1,46.9,4711
+Vila Mariana,casa,2,1,0,63.7,5433
+Moema,apto,1,2,0,38.4,5948
+Pinheiros,apto,1,1,2,35.8,5141
+Tatuapé,apto,2,1,1,41.4,3126
+Vila Mariana,casa,2,1,1,37.7,5441
+Moema,kitnet,1,1,1,48.9,6033
+Moema,casa,3,2,2,48.1,8391
+Vila Mariana,apto,2,2,0,73.8,6351
+Pinheiros,casa,3,2,0,40.2,6218
+Tatuapé,kitnet,1,1,2,52.8,4985
+Butantã,apto,1,2,1,49.1,4899
+Vila Mariana,apto,1,1,2,76.2,7102
+Moema,apto,3,1,0,56.9,7803
+Vila Mariana,kitnet,1,1,0,81.0,5372
+Itaim Bibi,apto,3,2,2,37.0,8502
+Moema,casa,3,1,2,59.0,6486
+Butantã,kitnet,1,1,0,48.5,5437
+Vila Mariana,casa,2,2,2,35.5,6084
+Pinheiros,casa,1,1,0,58.6,7007
+Tatuapé,apto,2,2,0,94.7,5344
+Tatuapé,apto,1,2,2,42.9,3494
+Butantã,apto,3,1,0,57.5,5716
+Butantã,kitnet,3,2,0,33.8,5403
+Butantã,apto,1,2,0,30.8,3895
+Tatuapé,apto,1,1,1,44.3,3876
+Moema,kitnet,3,1,0,51.0,6728
+Moema,casa,2,1,0,51.9,5368
+Pinheiros,casa,2,1,0,55.5,6091
+Moema,kitnet,3,2,1,27.0,6185
+Moema,casa,1,1,1,47.5,4923
+Pinheiros,kitnet,3,2,0,70.0,7097
+Vila Mariana,casa,2,2,1,32.8,5830
+Tatuapé,kitnet,2,2,1,52.9,6677
+Moema,kitnet,2,1,1,65.9,8059
+Butantã,casa,3,1,1,44.4,6477
+Moema,apto,2,1,0,66.8,7528
+Butantã,kitnet,1,1,1,29.6,3781
+Tatuapé,apto,1,2,2,77.8,7438
+Pinheiros,apto,3,1,0,67.3,5861
+Vila Mariana,casa,2,2,0,61.1,5703
+Itaim Bibi,kitnet,1,1,0,82.5,6707
+Tatuapé,apto,1,1,2,53.4,5017
+Vila Mariana,kitnet,1,2,2,47.6,4746
+Tatuapé,kitnet,3,2,2,87.5,7734
+Butantã,kitnet,3,2,0,96.8,7468
+Moema,casa,2,2,1,46.1,7735
+Pinheiros,apto,1,1,0,57.7,5868
+Vila Mariana,casa,2,1,2,80.9,8058
+Butantã,apto,1,2,1,58.4,4714
+Itaim Bibi,kitnet,2,1,1,71.9,8081
+Butantã,casa,2,2,1,75.6,5379
+Butantã,casa,3,2,2,48.8,5391
+Pinheiros,casa,1,2,2,68.4,7963
+Vila Mariana,kitnet,1,1,2,59.9,4847
+Pinheiros,casa,1,1,1,35.7,5383
+Pinheiros,kitnet,2,1,2,40.2,6431
+Butantã,kitnet,2,1,2,47.0,5949
+Butantã,kitnet,1,2,1,78.6,4031
+Pinheiros,casa,3,1,2,79.2,8590
+Itaim Bibi,kitnet,2,2,2,75.0,8404
+Tatuapé,apto,3,1,2,68.8,5684
+Pinheiros,apto,2,2,0,68.3,6447
+Butantã,casa,1,1,2,65.6,5696
+Butantã,kitnet,1,2,1,68.2,5630
+Tatuapé,apto,2,1,0,69.5,4783
+Itaim Bibi,casa,2,2,1,31.9,5946
+Moema,apto,3,1,2,44.2,6771
+Itaim Bibi,casa,3,1,2,39.4,8285
+Moema,apto,1,1,2,82.1,6342
+Butantã,kitnet,1,1,2,93.1,5598
+Pinheiros,kitnet,1,2,1,20.0,6945
+Vila Mariana,kitnet,1,1,2,91.3,6807
+Butantã,kitnet,1,2,0,61.7,5146
+Vila Mariana,apto,1,2,0,80.3,5059
+Vila Mariana,casa,2,1,0,70.1,4922
+Itaim Bibi,apto,1,1,2,88.8,8401
+Vila Mariana,casa,1,2,1,64.2,5500
+Tatuapé,casa,1,2,2,32.7,5021
+Vila Mariana,kitnet,3,1,1,57.9,6651
+Vila Mariana,apto,2,2,1,70.3,9454
+Butantã,kitnet,3,1,2,55.7,5593
+Vila Mariana,casa,1,1,1,73.2,5906
+Pinheiros,kitnet,1,2,1,58.7,5325
+Itaim Bibi,casa,2,2,0,48.1,7948
+Butantã,casa,2,1,1,38.3,4881
+Pinheiros,kitnet,1,2,0,52.2,4776
+Itaim Bibi,kitnet,1,1,0,64.1,6249
+Tatuapé,apto,2,2,0,20.8,5002
+Itaim Bibi,casa,1,1,0,44.4,6913
+Pinheiros,apto,2,1,0,20.1,3750
+Butantã,casa,3,2,0,47.7,5237
+Tatuapé,kitnet,2,1,0,83.9,6856
+Butantã,kitnet,2,2,2,36.3,5035
+Moema,apto,2,2,0,74.1,7849
+Butantã,casa,3,1,1,117.0,8411
+Tatuapé,casa,2,2,0,89.1,4886
+Pinheiros,casa,2,1,2,62.7,6008
+Butantã,apto,3,2,0,77.2,6236
+Itaim Bibi,apto,1,1,2,32.6,7122
+Vila Mariana,casa,1,2,1,28.5,5552
+Tatuapé,casa,2,2,2,60.6,6273
+Moema,kitnet,1,2,1,68.0,7008
+Tatuapé,casa,1,1,1,81.9,5840
+Butantã,casa,1,1,2,48.6,4317
+Butantã,casa,3,2,2,63.9,7158
+Vila Mariana,kitnet,2,2,1,63.2,7205
+Butantã,casa,3,2,2,57.4,7859
+Moema,casa,1,1,2,58.6,6691
+Itaim Bibi,apto,2,1,2,42.9,6877
+Itaim Bibi,kitnet,2,2,2,65.6,9284
+Moema,kitnet,2,2,0,63.9,8495
+Moema,apto,3,1,1,51.2,7181
+Moema,casa,3,1,1,73.3,7395
+Butantã,apto,2,1,2,80.6,7072
+Moema,kitnet,3,1,0,73.5,6673
+Vila Mariana,apto,1,2,2,39.2,4000
+Moema,apto,1,1,0,62.0,6025
+Vila Mariana,apto,3,2,1,41.8,6535
+Moema,casa,1,1,2,61.9,5910
+Pinheiros,apto,1,1,0,41.8,4933
+Pinheiros,casa,1,2,2,85.5,7279
+Itaim Bibi,kitnet,1,2,2,75.7,7386
+Pinheiros,kitnet,2,2,0,83.1,8719
+Tatuapé,apto,1,2,0,81.0,5275
+Itaim Bibi,apto,2,1,0,54.6,7740
+Itaim Bibi,apto,3,2,2,51.5,7280
+Moema,kitnet,1,1,2,94.8,6573
+Vila Mariana,casa,3,2,1,56.7,7269
+Butantã,casa,2,2,0,32.9,5871
+Butantã,kitnet,2,2,0,80.1,4997
+Tatuapé,casa,2,1,0,62.9,4801
+Pinheiros,apto,1,1,1,90.1,5515
+Pinheiros,casa,1,1,2,64.9,5471
+Vila Mariana,kitnet,2,2,0,59.6,6142
+Pinheiros,apto,3,2,2,90.5,8222
+Butantã,casa,2,2,0,29.2,3233
+Vila Mariana,casa,2,2,1,48.3,4886
+Vila Mariana,apto,2,1,2,42.3,4159
+Butantã,apto,2,2,1,20.0,4681
+Itaim Bibi,casa,1,2,1,77.5,8002
+Vila Mariana,casa,2,1,1,48.9,6040
+Moema,apto,3,2,1,78.1,8016
+Tatuapé,casa,1,1,0,67.8,4938
+Tatuapé,casa,3,2,0,72.1,6630
+Butantã,casa,3,1,2,50.9,5833
+Butantã,kitnet,1,1,2,44.7,4116
+Butantã,apto,2,2,2,61.8,5335
+Pinheiros,casa,3,2,0,78.4,7805
+Vila Mariana,apto,2,1,0,59.0,6864
+Tatuapé,kitnet,3,1,0,46.0,5789
+Pinheiros,apto,3,1,0,36.0,5776
+Moema,kitnet,2,1,1,64.1,7653
+Pinheiros,apto,3,1,0,48.9,5486
+Butantã,apto,3,1,2,58.6,6641
+Pinheiros,casa,3,2,0,55.2,6292
+Pinheiros,kitnet,3,2,1,51.1,7686
+Vila Mariana,apto,1,2,0,65.9,7852
+Pinheiros,apto,1,1,1,71.1,5477
+Tatuapé,kitnet,1,2,0,99.3,7817
+Moema,apto,1,2,1,75.2,7647
+Butantã,apto,3,1,2,91.9,6457
+Vila Mariana,kitnet,2,2,2,43.6,5472
+Tatuapé,apto,2,2,0,28.0,5931
+Tatuapé,kitnet,1,1,1,59.7,4586
+Tatuapé,kitnet,3,1,2,77.2,5962
+Itaim Bibi,kitnet,2,1,1,74.0,7558
+Vila Mariana,apto,3,1,1,84.2,7671
+Tatuapé,apto,1,1,1,20.0,2993
+Itaim Bibi,casa,1,1,2,85.1,7929
+Butantã,casa,1,1,1,66.7,6020
+Tatuapé,kitnet,1,2,2,29.1,3071
+Tatuapé,casa,3,1,2,74.5,6850
+Butantã,kitnet,2,1,1,63.4,5143
+Tatuapé,kitnet,2,1,0,67.6,4430
+Butantã,kitnet,1,2,0,80.0,5957
+Pinheiros,apto,1,2,1,68.6,5089
+Moema,apto,3,1,2,30.5,5323
+Pinheiros,apto,3,2,1,57.1,7494
+Pinheiros,casa,3,1,0,27.6,5619
+Moema,apto,3,1,2,73.0,7407
+Vila Mariana,kitnet,2,2,0,88.0,5470
+Moema,apto,1,2,1,35.2,7600
+Moema,kitnet,3,2,0,46.6,7868
+Tatuapé,kitnet,3,2,0,42.4,5186
+Butantã,apto,2,1,2,50.9,6884
+Butantã,apto,1,2,2,68.2,6165
+Moema,casa,3,2,0,51.1,9050
+Vila Mariana,casa,3,1,0,73.1,5748
+Itaim Bibi,apto,1,1,1,81.3,6265
+Pinheiros,casa,1,2,2,82.0,7455
+Tatuapé,apto,3,1,1,37.6,5261
+Moema,apto,1,1,2,87.7,8531
+Vila Mariana,kitnet,3,2,1,89.3,6575
+Tatuapé,kitnet,3,1,1,91.1,7094
+Vila Mariana,apto,1,2,0,56.8,5997
+Vila Mariana,kitnet,1,2,2,45.0,6198
+Tatuapé,casa,2,1,2,40.3,4284
+Vila Mariana,casa,2,1,0,38.0,5354
+Itaim Bibi,apto,3,1,2,60.2,7686
+Pinheiros,casa,2,2,2,77.0,7274
+Moema,casa,1,2,1,86.1,6750
+Itaim Bibi,casa,3,1,2,50.3,7402
+Vila Mariana,apto,3,1,1,59.2,6384
+Itaim Bibi,apto,2,2,0,57.9,6945
+Itaim Bibi,casa,3,2,2,47.3,7712
+Butantã,apto,3,2,0,74.7,5302
+Vila Mariana,apto,3,2,2,67.3,9087
+Itaim Bibi,casa,3,1,0,62.8,7385
+Butantã,kitnet,2,2,1,67.2,5979
+Itaim Bibi,casa,1,2,2,72.3,6262
+Vila Mariana,apto,2,1,1,72.1,7349
+Itaim Bibi,kitnet,3,2,2,43.2,8331
+Pinheiros,casa,3,2,0,77.9,7283
+Tatuapé,kitnet,3,2,0,65.1,5505
+Moema,apto,2,1,0,51.3,7235
+Tatuapé,casa,2,1,0,64.7,2378
+Tatuapé,apto,1,1,0,66.9,3447
+Pinheiros,casa,1,2,1,81.6,6554
+Tatuapé,apto,1,1,0,39.1,3168
+Butantã,kitnet,3,1,2,86.5,8899
+Moema,apto,3,1,0,60.5,7244
+Vila Mariana,casa,1,1,2,49.9,5988
+Butantã,apto,2,2,2,49.3,6927
+Pinheiros,kitnet,2,2,2,40.0,6936
+Moema,casa,1,2,2,25.2,5516
+Tatuapé,kitnet,2,1,2,73.5,4579
+Moema,casa,2,2,2,99.6,9585
+Butantã,casa,3,2,1,27.6,6545
+Moema,apto,3,2,1,41.0,8067
+Butantã,casa,1,2,1,75.0,6238
+Pinheiros,casa,2,2,1,59.1,8746
+Itaim Bibi,apto,3,1,1,76.7,9171
+Tatuapé,casa,3,2,0,58.0,4758
+Vila Mariana,apto,3,2,2,48.4,6992
+Vila Mariana,apto,3,2,2,55.5,8261
+Itaim Bibi,apto,1,1,2,20.0,5501
+Tatuapé,casa,3,2,0,37.1,6218
+Tatuapé,apto,3,2,2,79.0,6815
+Pinheiros,apto,3,2,1,83.8,8383
+Tatuapé,casa,3,2,0,88.1,6263
+Butantã,apto,1,1,2,68.8,5092
+Pinheiros,apto,1,2,2,20.0,5270
+Moema,casa,2,2,2,47.3,6132
+Moema,apto,2,1,1,86.5,7542
+Butantã,kitnet,1,1,0,92.5,4087
+Vila Mariana,casa,1,1,0,87.3,5392
+Moema,kitnet,3,1,2,55.3,7322
+Itaim Bibi,kitnet,2,1,2,33.9,7626
+Pinheiros,kitnet,1,2,0,59.2,6494
+Itaim Bibi,casa,2,2,2,60.3,8457
+Itaim Bibi,casa,2,1,0,91.3,6925
+Itaim Bibi,kitnet,1,2,2,64.6,7358
+Tatuapé,apto,3,1,0,60.3,4232
+Itaim Bibi,kitnet,2,2,2,61.5,7926
+Itaim Bibi,apto,1,1,0,68.0,7058
+Butantã,apto,1,1,1,72.5,5570
+Moema,apto,3,1,2,45.5,8044
+Moema,apto,1,2,2,38.8,7472
+Tatuapé,apto,1,2,1,87.4,5630
+Vila Mariana,kitnet,2,1,2,27.2,5029
+Butantã,apto,2,2,0,92.8,6882
+Itaim Bibi,kitnet,1,1,1,21.8,6179
+Tatuapé,casa,2,1,2,48.3,4430
+Vila Mariana,kitnet,1,1,0,79.4,5786
+Moema,casa,2,2,1,60.0,7265
+Moema,apto,1,2,1,33.7,4403
+Tatuapé,apto,2,2,1,68.5,5908
+Itaim Bibi,casa,3,2,2,61.3,7705
+Itaim Bibi,kitnet,3,2,1,55.7,8533
+Butantã,apto,1,1,2,47.5,3097
+Butantã,casa,1,1,1,59.3,3804
+Itaim Bibi,kitnet,1,1,2,48.4,6204
+Moema,kitnet,2,1,1,108.7,9522
+Tatuapé,casa,2,1,2,55.2,4629
+Moema,apto,3,1,1,52.5,6716
+Tatuapé,apto,3,2,2,49.2,6266
+Itaim Bibi,casa,3,1,2,95.5,9193
+Moema,casa,1,2,0,27.2,6149
+Tatuapé,apto,1,2,0,67.2,3706
+Pinheiros,apto,3,2,0,55.2,7125
+Itaim Bibi,casa,3,1,1,31.5,9122
+Moema,kitnet,1,2,1,43.6,6117
+Moema,apto,1,2,0,66.3,6840
+Tatuapé,casa,3,2,2,42.7,4453
+Vila Mariana,apto,2,2,2,65.2,6073
+Tatuapé,apto,3,2,1,94.6,7405
+Itaim Bibi,casa,2,1,0,63.4,6838
+Moema,apto,3,2,2,30.9,8119
+Pinheiros,apto,3,1,0,43.1,6532
+Moema,kitnet,1,2,0,54.3,5274
+Vila Mariana,apto,1,2,2,53.0,6501
+Moema,apto,3,1,2,63.0,7197
+Tatuapé,kitnet,1,2,1,66.2,4176
+Pinheiros,casa,1,1,0,94.6,6522
+Itaim Bibi,apto,3,1,0,59.9,8951
+Vila Mariana,casa,1,1,2,37.0,4006
+Butantã,casa,1,2,0,83.1,5310
+Itaim Bibi,apto,1,1,2,85.3,7783
+Vila Mariana,casa,2,2,1,64.6,6965
+Tatuapé,casa,2,1,1,55.1,5699
+Pinheiros,apto,3,2,2,72.5,7750
+Pinheiros,kitnet,3,1,1,55.8,7683
+Butantã,casa,2,1,1,20.0,4964
+Itaim Bibi,kitnet,3,2,1,71.3,10165
+Pinheiros,apto,1,2,0,77.8,6637
+Vila Mariana,apto,2,2,1,88.8,7291
+Vila Mariana,kitnet,1,2,1,45.4,4782
+Moema,kitnet,1,2,0,64.5,5469
+Vila Mariana,apto,3,1,1,65.0,6526
+Vila Mariana,kitnet,1,1,1,61.7,5341
+Tatuapé,apto,2,2,0,62.3,4981
+Vila Mariana,casa,2,2,2,60.7,7100
+Butantã,apto,1,2,2,64.2,4064
+Itaim Bibi,casa,3,1,1,74.8,8299
+Itaim Bibi,kitnet,1,1,0,84.4,8628
+Vila Mariana,kitnet,1,2,1,44.9,5943
+Itaim Bibi,kitnet,2,2,2,56.6,8390
+Butantã,apto,1,1,0,51.5,4159
+Vila Mariana,kitnet,3,2,2,48.7,6668
+Itaim Bibi,casa,1,1,2,27.7,4527
+Moema,casa,1,2,0,60.5,6880
+Itaim Bibi,kitnet,1,1,0,69.6,4629
+Moema,casa,1,2,2,56.9,6746
+Itaim Bibi,casa,1,2,2,59.8,7292
+Pinheiros,casa,2,1,2,68.4,6493
+Moema,casa,1,2,1,88.2,9384
+Vila Mariana,kitnet,1,1,1,51.6,6408
+Vila Mariana,casa,1,1,1,36.6,5323
+Vila Mariana,casa,1,1,1,58.2,4405
+Moema,apto,2,2,2,97.7,10467
+Pinheiros,casa,3,2,0,36.8,6899
+Itaim Bibi,kitnet,1,1,0,73.0,5936
+Tatuapé,casa,3,1,0,83.2,6021
+Itaim Bibi,apto,3,1,2,20.0,7867
+Itaim Bibi,casa,1,2,2,68.2,7067
+Pinheiros,kitnet,2,1,0,72.1,6474
+Pinheiros,apto,2,1,0,54.7,6093
+Moema,apto,2,1,0,47.1,5531
+Moema,casa,1,1,0,48.2,5530
+Vila Mariana,casa,2,2,1,53.4,5282
+Itaim Bibi,apto,1,2,1,54.0,7514
+Tatuapé,kitnet,3,1,1,50.2,4579
+Itaim Bibi,kitnet,2,2,0,53.1,7427
+Pinheiros,casa,1,2,1,83.8,5602
+Itaim Bibi,casa,2,1,2,35.7,5965
+Vila Mariana,apto,3,1,1,25.0,4605
+Moema,kitnet,3,1,2,84.1,8592
+Moema,kitnet,1,2,2,56.2,7129
+Itaim Bibi,casa,3,1,2,52.2,8359
+Vila Mariana,casa,1,1,1,57.8,3715
+Vila Mariana,kitnet,1,1,0,64.2,4891
+Moema,kitnet,1,2,1,49.5,5885
+Moema,apto,3,1,1,70.1,8531
+Vila Mariana,kitnet,3,2,2,40.8,6509
+Vila Mariana,kitnet,2,2,2,54.0,6354
+Vila Mariana,kitnet,3,1,1,20.0,4804
+Moema,casa,1,1,1,83.4,8483
+Moema,casa,1,1,2,56.5,5567
+Moema,apto,3,1,2,73.4,8182
+Itaim Bibi,casa,3,1,2,69.5,8672
+Vila Mariana,apto,1,1,1,71.0,5329
+Butantã,casa,1,1,1,59.8,3784
+Itaim Bibi,apto,2,1,1,67.8,6084
+Vila Mariana,casa,1,1,1,40.8,4070
+Vila Mariana,casa,3,2,0,36.6,5230
+Vila Mariana,apto,3,2,0,58.0,7983
+Vila Mariana,kitnet,1,1,1,46.4,6604
+Moema,casa,1,1,1,88.5,7215
+Pinheiros,kitnet,3,1,0,67.5,5801
+Pinheiros,apto,2,1,0,45.7,6161
+Moema,kitnet,1,2,2,54.6,6152
+Itaim Bibi,apto,1,1,1,62.7,6240
+Vila Mariana,casa,3,2,1,58.6,6456
+Butantã,casa,3,2,2,65.4,6263
+Moema,casa,1,2,0,61.4,6257
+Butantã,casa,3,1,2,32.2,4215
+Vila Mariana,kitnet,1,2,2,20.0,4138
+Tatuapé,apto,1,1,1,52.5,4792
+Itaim Bibi,kitnet,2,2,1,71.2,8009
+Pinheiros,apto,2,2,2,52.8,6883
+Butantã,apto,3,2,0,84.7,4856
+Moema,apto,3,1,0,59.1,8230
+Moema,kitnet,1,2,2,87.1,7366
+Tatuapé,apto,2,1,0,83.0,6190
+Tatuapé,casa,3,1,2,81.0,6654
+Pinheiros,casa,2,1,2,35.9,5428
+Butantã,kitnet,1,2,1,60.3,3468
+Tatuapé,casa,1,2,0,84.5,6774
+Butantã,kitnet,2,2,2,65.4,6606
+Moema,kitnet,2,2,2,71.1,8823
+Tatuapé,kitnet,2,2,1,32.2,5922
+Moema,kitnet,1,1,0,98.4,7431
+Butantã,apto,1,1,1,44.2,5007
+Itaim Bibi,casa,2,1,1,20.1,5720
+Butantã,casa,3,2,0,53.0,6279
+Tatuapé,apto,2,1,1,20.0,3196
+Itaim Bibi,apto,2,1,0,38.3,5946
+Moema,apto,3,1,2,111.2,9713
+Moema,kitnet,3,2,1,52.4,6958
+Itaim Bibi,casa,3,1,2,31.4,7707
+Pinheiros,apto,2,1,1,60.5,6066
+Itaim Bibi,kitnet,3,1,2,42.0,6171
+Pinheiros,kitnet,2,2,2,77.3,7153
+Tatuapé,kitnet,2,2,0,42.2,4190
+Moema,kitnet,2,2,1,65.4,8345
+Moema,kitnet,3,1,2,37.1,7640
+Moema,apto,3,1,1,112.0,10517
+Moema,kitnet,1,2,0,70.1,7218
+Moema,casa,3,1,2,57.1,7570
+Moema,casa,1,1,0,54.1,5878
+Tatuapé,casa,2,1,2,48.9,4589
+Itaim Bibi,casa,3,2,2,44.8,8634
+Tatuapé,casa,2,2,0,44.2,4575
+Tatuapé,kitnet,1,1,0,93.6,4404
+Butantã,apto,2,2,2,48.9,5475
+Butantã,apto,2,1,1,20.0,4269
+Pinheiros,apto,2,2,2,36.7,5495
+Itaim Bibi,kitnet,1,2,2,78.6,8110
+Vila Mariana,casa,2,1,0,55.0,4186
+Vila Mariana,casa,1,1,2,57.3,6304
+Itaim Bibi,casa,2,2,1,83.4,8824
+Pinheiros,casa,3,1,2,44.5,8137
+Butantã,casa,3,2,0,72.6,5386
+Itaim Bibi,apto,2,2,0,46.6,7906
+Butantã,apto,3,1,1,71.5,6894
+Itaim Bibi,kitnet,1,2,1,52.2,6620
+Butantã,casa,3,1,1,55.2,5354
+Pinheiros,apto,2,2,0,76.4,6024
+Butantã,casa,3,1,1,75.0,5172
+Pinheiros,casa,3,2,2,56.7,7000
+Vila Mariana,apto,2,1,2,50.6,4912
+Pinheiros,apto,2,2,2,92.0,9236
+Moema,kitnet,3,1,0,71.8,6652
+Itaim Bibi,apto,1,2,2,52.2,7184
+Vila Mariana,apto,1,1,1,46.9,5157
+Itaim Bibi,casa,2,2,2,80.5,8901
+Tatuapé,casa,2,1,2,62.3,5625
+Tatuapé,kitnet,3,1,0,56.7,5959
+Butantã,kitnet,1,1,2,62.3,4412
+Moema,apto,2,2,1,66.8,7773
+Moema,casa,1,1,2,58.9,6431
+Butantã,apto,1,2,1,84.1,6564
+Tatuapé,casa,3,2,0,85.2,8135
+Tatuapé,apto,3,1,2,70.6,5264
+Vila Mariana,apto,3,2,0,87.5,5900
+Vila Mariana,kitnet,1,2,2,60.2,6360
+Vila Mariana,apto,2,1,0,73.8,6870
+Vila Mariana,casa,3,2,2,80.1,9468
+Vila Mariana,apto,1,2,1,80.4,6802
+Itaim Bibi,kitnet,3,1,0,78.3,9366
+Pinheiros,kitnet,3,2,0,72.6,8807
+Tatuapé,casa,2,1,0,99.1,6946
+Butantã,kitnet,2,1,2,49.2,5781
+Itaim Bibi,casa,1,2,2,56.9,6181
+Moema,apto,3,1,2,55.7,7965
+Pinheiros,apto,3,1,1,52.6,7019
+Butantã,apto,3,1,1,20.2,4527
+Pinheiros,apto,3,2,2,87.5,8494
+Itaim Bibi,apto,2,2,0,39.5,8038
+Itaim Bibi,apto,3,2,2,63.4,8196
+Vila Mariana,casa,1,1,1,31.6,4986
+Itaim Bibi,apto,3,1,1,72.4,8626
+Vila Mariana,casa,1,1,1,44.3,4043
+Vila Mariana,casa,2,1,2,37.3,4657
+Itaim Bibi,kitnet,1,2,2,63.9,6056
+Butantã,casa,1,1,2,46.0,4668
+Vila Mariana,kitnet,2,2,0,48.5,5605
+Butantã,casa,2,1,0,63.4,4242
+Butantã,apto,1,1,2,76.0,3679
+Itaim Bibi,casa,3,2,2,43.6,8555
+Pinheiros,casa,1,2,0,40.2,4966
+Vila Mariana,casa,3,1,2,60.5,6343
+Itaim Bibi,casa,1,1,0,70.8,5852
+Butantã,casa,2,1,2,89.3,6087
+Itaim Bibi,apto,1,2,2,38.6,7033
+Moema,apto,3,2,1,53.6,7745
+Vila Mariana,kitnet,3,2,0,83.5,6455
+Butantã,kitnet,1,2,2,99.5,6237
+Vila Mariana,apto,1,2,0,40.1,5541
+Moema,kitnet,2,1,1,45.2,6689
+Butantã,kitnet,3,1,1,67.6,6083
+Tatuapé,apto,1,2,0,48.4,3693
+Vila Mariana,kitnet,1,1,1,44.8,4033
+Pinheiros,casa,2,1,2,64.9,6008
+Moema,kitnet,1,2,0,91.0,6100
+Butantã,casa,1,2,1,33.8,4959
+Moema,casa,1,1,0,90.0,7369
+Itaim Bibi,apto,2,2,1,48.5,7421
+Vila Mariana,apto,3,2,0,66.9,7144
+Itaim Bibi,casa,2,1,0,91.8,8226
+Itaim Bibi,kitnet,1,1,1,66.5,6208
+Tatuapé,kitnet,2,2,0,54.1,4561
+Itaim Bibi,kitnet,2,1,0,74.4,7052
+Tatuapé,casa,1,2,2,56.5,6805
+Moema,casa,1,1,2,70.4,7829
+Itaim Bibi,casa,1,1,0,55.9,6311
+Butantã,kitnet,3,1,2,77.2,7709
+Butantã,apto,3,1,1,32.1,5955
+Vila Mariana,apto,1,2,0,39.7,3587
+Itaim Bibi,kitnet,1,1,2,31.8,5876
+Pinheiros,casa,2,1,1,58.9,6253
+Tatuapé,casa,1,1,0,29.4,3471
+Tatuapé,kitnet,3,2,0,46.2,5106
+Moema,kitnet,3,2,2,37.8,7757
+Butantã,apto,1,2,0,89.6,5019
+Butantã,casa,1,2,1,40.2,5045
+Pinheiros,casa,1,2,0,34.3,3773
+Vila Mariana,kitnet,2,2,2,65.0,6407
+Vila Mariana,kitnet,3,2,2,93.7,6837
+Butantã,casa,2,1,1,57.7,4207
+Tatuapé,kitnet,1,2,1,59.2,4831
+Itaim Bibi,casa,1,2,1,85.8,8043
+Itaim Bibi,kitnet,1,2,1,77.6,7276
+Itaim Bibi,casa,1,2,2,68.5,8454
+Pinheiros,casa,2,1,2,48.4,7334
+Pinheiros,casa,2,1,0,69.1,6218
+Moema,kitnet,1,2,2,32.8,6484
+Moema,casa,1,1,0,47.5,5364
+Itaim Bibi,apto,3,2,0,88.6,9460
+Pinheiros,apto,3,2,1,86.0,7226
+Moema,casa,2,1,0,68.7,8499
+Vila Mariana,kitnet,2,1,2,21.4,5954
+Vila Mariana,casa,2,2,2,35.8,4916
+Vila Mariana,casa,2,1,0,46.4,4561
+Vila Mariana,kitnet,1,1,0,56.6,5134
+Tatuapé,casa,2,1,1,35.0,3879
+Moema,kitnet,3,2,2,55.1,8788
+Moema,casa,2,1,1,95.3,7873
+Moema,kitnet,3,1,2,68.0,9560
+Itaim Bibi,kitnet,2,1,0,64.4,7138
+Butantã,casa,1,2,1,39.6,6126
+Tatuapé,apto,2,1,0,27.2,4099
+Tatuapé,casa,3,1,0,35.4,3484
+Itaim Bibi,apto,2,1,2,26.4,8262
+Itaim Bibi,casa,2,2,0,61.5,8324
+Pinheiros,apto,1,1,0,67.7,5834
+Butantã,casa,3,1,1,40.7,5738
+Pinheiros,casa,2,1,2,63.0,5738
+Moema,apto,1,2,1,89.4,6238
+Tatuapé,apto,2,1,0,99.2,5741
+Moema,casa,1,1,2,75.4,8265
+Vila Mariana,apto,3,2,1,56.5,7212
+Butantã,kitnet,3,2,2,74.8,8310
+Pinheiros,kitnet,1,2,0,87.0,7568
+Vila Mariana,kitnet,3,1,2,20.0,5716
+Butantã,apto,1,2,0,89.6,6336
+Itaim Bibi,kitnet,2,1,2,49.1,8491
+Pinheiros,casa,2,2,1,49.3,6315
+Itaim Bibi,casa,1,1,2,52.9,6516
+Butantã,apto,3,1,1,66.4,6104
+Pinheiros,casa,3,2,0,37.8,4504
+Moema,kitnet,2,2,0,54.3,7253
+Moema,apto,1,1,1,70.5,7292
+Pinheiros,apto,3,1,0,64.4,6947
+Vila Mariana,casa,2,2,1,67.6,6804
+Vila Mariana,casa,3,2,0,53.5,6471
+Vila Mariana,casa,2,1,1,73.9,4719
+Moema,casa,1,2,0,81.1,8464
+Moema,apto,1,2,0,79.9,6804
+Vila Mariana,apto,1,1,1,68.6,4962
+Vila Mariana,apto,1,1,1,78.8,6850
+Vila Mariana,apto,1,1,1,77.4,6506
+Itaim Bibi,kitnet,1,1,1,113.5,8424
+Vila Mariana,kitnet,3,1,1,84.4,7946
+Butantã,casa,3,1,1,58.2,4823
+Tatuapé,apto,1,1,1,41.8,3588
+Itaim Bibi,casa,1,1,2,54.8,7779
+Tatuapé,kitnet,3,1,1,53.4,4859
+Vila Mariana,apto,2,1,1,70.2,5408
+Tatuapé,casa,2,1,2,46.0,4843
+Vila Mariana,casa,3,1,1,83.8,7397
+Pinheiros,apto,2,2,2,32.2,6684
+Vila Mariana,casa,3,2,1,27.3,4918
+Vila Mariana,casa,2,1,0,57.3,3479
+Pinheiros,casa,2,2,1,43.1,6931
+Pinheiros,kitnet,1,2,2,34.8,4679
+Butantã,casa,2,1,0,47.3,3930
+Tatuapé,apto,3,1,0,44.8,3097
+Moema,apto,2,2,1,60.2,8324
+Butantã,casa,1,2,2,47.6,5008
+Vila Mariana,kitnet,2,1,1,49.2,5825
+Moema,apto,3,1,1,59.9,8040
+Butantã,apto,3,1,1,80.3,4760
+Tatuapé,kitnet,2,1,1,89.4,4994
+Moema,casa,3,1,0,63.0,7227
+Vila Mariana,apto,1,1,1,64.5,4736
+Pinheiros,apto,2,1,2,56.3,6273
+Pinheiros,casa,2,1,2,69.6,7086
+Pinheiros,casa,1,1,2,67.8,6939
+Itaim Bibi,casa,3,2,0,86.5,7711
+Tatuapé,apto,3,2,1,22.2,4860
+Moema,casa,1,1,0,55.3,6529
+Itaim Bibi,kitnet,1,2,0,66.8,6164
+Pinheiros,apto,3,2,2,59.5,7530
+Vila Mariana,casa,3,2,1,41.2,6810
+Moema,apto,3,1,0,34.0,6729
+Butantã,casa,1,1,2,76.1,5723
+Tatuapé,apto,3,1,2,44.9,5522
+Butantã,apto,3,1,1,24.9,4498
+Vila Mariana,kitnet,3,2,2,77.1,6876
+Butantã,apto,3,2,2,69.2,6973
+Pinheiros,kitnet,3,1,1,57.7,7010
+Vila Mariana,casa,2,1,2,41.7,4857
+Tatuapé,casa,1,2,0,57.7,4698
+Pinheiros,casa,1,1,1,84.3,7344
+Butantã,casa,3,2,1,27.7,4703
+Butantã,casa,3,1,2,28.7,4580
+Tatuapé,kitnet,1,1,1,47.4,3212
+Vila Mariana,kitnet,2,1,1,59.5,4541
+Pinheiros,apto,1,1,0,50.1,6606
+Tatuapé,kitnet,1,2,1,72.9,4627
+Tatuapé,apto,2,1,0,81.8,4567
+Itaim Bibi,kitnet,2,1,1,65.6,6566
+Tatuapé,apto,2,1,1,71.2,4926
+Pinheiros,apto,2,1,2,65.4,6207
+Pinheiros,kitnet,2,1,1,60.2,7456
+Itaim Bibi,kitnet,3,2,0,34.1,6325
+Pinheiros,apto,1,2,1,39.4,4152
+Butantã,casa,1,2,0,33.0,4131
+Pinheiros,casa,2,1,1,57.0,6125
+Itaim Bibi,casa,2,1,0,64.6,6961
+Butantã,casa,3,1,0,31.0,5078
+Moema,kitnet,3,1,2,61.5,8253
+Pinheiros,kitnet,2,2,0,42.5,5837
+Butantã,casa,1,2,1,38.6,3034
+Vila Mariana,kitnet,1,1,2,47.5,3790
+Tatuapé,kitnet,2,1,1,37.6,3667
+Butantã,apto,2,1,2,72.1,4897
+Itaim Bibi,kitnet,2,1,1,56.6,7415
+Pinheiros,kitnet,1,2,2,76.3,5350
+Itaim Bibi,apto,3,1,1,51.1,7376
+Pinheiros,kitnet,2,2,0,51.9,6018
+Itaim Bibi,kitnet,2,1,2,97.5,8692
+Tatuapé,casa,1,2,2,27.5,4245
+Vila Mariana,casa,3,2,2,85.7,7809
+Moema,casa,2,1,0,93.1,7259
+Pinheiros,kitnet,1,2,2,75.3,7755
+Butantã,kitnet,1,1,1,53.4,3946
+Vila Mariana,kitnet,2,2,2,88.5,8591
+Vila Mariana,casa,1,1,2,53.6,5047
+Tatuapé,apto,3,2,0,45.9,5264
+Itaim Bibi,kitnet,3,2,1,52.2,8056
+Tatuapé,apto,3,2,0,48.6,5543
+Tatuapé,apto,2,1,0,41.1,3696
+Tatuapé,apto,2,2,1,82.2,6043
+Butantã,kitnet,2,1,1,44.5,5861
+Moema,casa,2,2,1,59.4,8321
+Itaim Bibi,apto,2,2,2,31.1,7978
+Itaim Bibi,apto,2,1,0,60.6,5945
+Butantã,casa,3,1,0,36.9,3862
+Butantã,kitnet,1,1,2,36.4,4166
+Itaim Bibi,kitnet,1,2,0,57.8,7251
+Vila Mariana,casa,3,2,0,81.1,6919
+Itaim Bibi,casa,3,2,1,68.8,8106
+Itaim Bibi,kitnet,3,1,0,70.2,9121
+Vila Mariana,kitnet,2,2,0,57.4,6471
+Itaim Bibi,apto,2,1,0,53.3,7645
+Vila Mariana,kitnet,1,1,1,75.8,5322
+Tatuapé,casa,1,1,2,48.7,3746
+Itaim Bibi,kitnet,3,1,2,76.7,9560
+Vila Mariana,apto,2,2,2,84.7,7131
+Moema,apto,2,1,2,43.2,6406
+Itaim Bibi,kitnet,1,1,1,46.1,5453
+Moema,kitnet,2,1,1,49.1,6364
+Butantã,apto,3,1,2,30.7,5920
+Pinheiros,kitnet,2,2,0,50.6,4911
+Itaim Bibi,apto,2,1,2,86.0,8884
+Itaim Bibi,kitnet,3,1,2,39.1,7106
+Butantã,apto,1,1,1,86.5,5027
+Pinheiros,apto,1,2,1,51.3,5623
+Butantã,kitnet,2,2,2,102.3,6892
+Moema,kitnet,2,2,2,46.4,7161
+Moema,apto,3,1,0,57.1,7058
+Moema,apto,1,1,2,41.8,5697
+Tatuapé,casa,1,1,1,46.2,4843
+Tatuapé,apto,2,1,0,86.8,5423
+Moema,kitnet,2,1,0,69.5,6984
+Pinheiros,kitnet,3,2,2,80.6,7802
+Butantã,kitnet,2,2,1,33.7,4384
+Vila Mariana,apto,2,2,0,73.1,5880
+Pinheiros,apto,1,2,1,40.6,6029
+Tatuapé,kitnet,2,2,1,33.3,3895
+Moema,apto,2,1,0,64.8,5146
+Tatuapé,casa,2,1,1,64.6,5084
+Butantã,casa,2,1,1,61.1,4908
+Pinheiros,kitnet,2,1,2,74.4,6562
+Vila Mariana,apto,1,2,1,77.5,6853
+Tatuapé,kitnet,1,1,0,89.4,2595
+Itaim Bibi,kitnet,1,2,1,36.2,7547
+Tatuapé,apto,2,2,2,90.0,7345
+Moema,casa,3,1,0,97.6,8127
+Tatuapé,apto,3,2,2,52.7,5720
+Butantã,casa,1,1,0,26.6,3502
+Moema,apto,1,1,1,32.3,5995
+Butantã,apto,2,1,1,50.8,4316
+Itaim Bibi,casa,1,1,2,100.3,6815
+Vila Mariana,casa,2,1,2,60.3,7901
+Vila Mariana,apto,2,2,2,47.7,6995
+Itaim Bibi,apto,3,2,2,46.3,8414
+Vila Mariana,apto,2,2,2,33.5,5947
+Moema,kitnet,3,2,0,77.5,8922
+Vila Mariana,casa,2,2,1,58.2,6838
+Tatuapé,apto,3,2,2,102.0,5891
+Vila Mariana,apto,2,1,0,72.6,5696
+Tatuapé,kitnet,2,2,1,76.6,5434
+Butantã,apto,2,2,1,55.2,5226
+Itaim Bibi,kitnet,2,1,2,38.2,7562
+Butantã,casa,3,1,0,42.5,3544
+Pinheiros,apto,2,2,0,32.6,4499
+Moema,apto,1,2,0,78.2,6501
+Vila Mariana,apto,2,1,1,52.3,5793
+Butantã,kitnet,2,1,1,79.1,6337
+Itaim Bibi,casa,2,1,1,62.7,8687
+Vila Mariana,casa,1,1,0,54.1,4495
+Tatuapé,apto,1,2,0,36.6,4263
+Tatuapé,kitnet,1,1,1,66.0,4949
+Moema,apto,2,1,0,55.6,7102
+Moema,casa,1,2,2,78.0,7622
+Pinheiros,kitnet,2,2,0,45.7,5651
+Moema,kitnet,1,2,2,72.3,6617
+Moema,casa,1,2,1,92.8,6879
+Itaim Bibi,kitnet,1,1,2,65.5,7341
+Butantã,apto,1,2,2,75.7,5528
+Itaim Bibi,kitnet,1,2,1,71.4,7011
+Pinheiros,casa,3,2,2,98.0,9371
+Butantã,casa,1,1,0,67.4,4163
+Moema,apto,2,1,0,74.0,6489
+Moema,kitnet,2,2,1,59.3,7265
+Butantã,kitnet,3,1,2,44.5,6292
+Butantã,kitnet,2,2,2,35.8,4256
+Pinheiros,apto,2,2,1,85.3,7628
+Moema,casa,3,2,0,39.8,7251
+Itaim Bibi,kitnet,3,2,2,74.9,8539
+Tatuapé,casa,1,2,1,68.3,4615
+Vila Mariana,kitnet,3,2,0,78.4,5993
+Tatuapé,kitnet,2,2,0,49.7,4779
+Butantã,apto,1,1,2,44.2,3134
+Vila Mariana,casa,2,1,2,67.6,7285
+Itaim Bibi,apto,3,1,2,54.2,8051
+Itaim Bibi,casa,1,1,0,35.4,5104
+Butantã,casa,1,1,2,98.8,6792
+Vila Mariana,kitnet,3,1,0,44.2,5000
+Vila Mariana,kitnet,2,2,2,40.1,5406
+Tatuapé,casa,1,1,2,55.2,2891
+Tatuapé,casa,3,2,1,85.1,7799
+Moema,casa,2,2,0,20.0,7498
+Itaim Bibi,casa,1,2,2,83.4,6663
+Itaim Bibi,casa,1,1,0,41.8,5100
+Vila Mariana,kitnet,2,1,1,65.3,6115
+Itaim Bibi,kitnet,1,2,0,46.5,5882
+Vila Mariana,kitnet,2,1,1,99.8,7070
+Moema,apto,1,2,2,62.5,7081
+Pinheiros,casa,1,1,2,45.8,5801
+Moema,casa,3,2,1,54.0,7251
+Butantã,casa,1,1,0,61.8,4308
+Moema,casa,3,2,2,63.6,7714
+Itaim Bibi,kitnet,1,1,1,68.8,6534
+Pinheiros,casa,2,1,0,60.0,4610
+Tatuapé,apto,1,2,2,32.5,3750
+Moema,casa,2,1,2,53.2,6738
+Itaim Bibi,kitnet,2,1,0,72.1,8119
+Butantã,apto,1,2,0,46.6,4051
+Tatuapé,apto,2,1,0,73.5,5102
+Pinheiros,kitnet,3,1,1,60.6,7001
+Moema,apto,2,2,0,55.6,5366
+Pinheiros,casa,1,1,1,83.9,4719
+Moema,kitnet,3,2,2,25.2,7202
+Pinheiros,apto,1,1,0,46.5,5118
+Tatuapé,casa,1,1,2,84.6,5052
+Vila Mariana,apto,2,1,0,96.6,6007
+Vila Mariana,apto,1,1,0,105.7,6079
+Pinheiros,apto,1,2,2,61.0,6069
+Butantã,apto,3,2,1,69.2,7098
+Butantã,casa,2,2,2,76.3,6869
+Itaim Bibi,casa,3,2,1,85.5,8722
+Pinheiros,apto,2,1,1,66.3,6448
+Moema,kitnet,2,2,2,78.5,8577
+Butantã,kitnet,3,1,2,69.2,6716
+Tatuapé,apto,1,1,2,70.4,6135
+Pinheiros,kitnet,2,1,1,41.6,5726
+Pinheiros,apto,3,2,2,53.4,8437
+Vila Mariana,casa,1,1,0,49.5,3658
+Butantã,casa,3,2,1,36.2,4977
+Vila Mariana,casa,1,1,0,27.0,2200
+Butantã,kitnet,2,1,0,51.5,4667
+Itaim Bibi,kitnet,3,2,0,54.7,8460
+Butantã,apto,1,1,1,62.1,2419
+Itaim Bibi,casa,3,1,2,71.1,8784
+Vila Mariana,kitnet,1,2,1,63.8,6196
+Itaim Bibi,kitnet,1,1,2,54.9,7184
+Vila Mariana,kitnet,2,1,1,41.7,4394
+Vila Mariana,casa,2,2,1,77.5,7445
+Vila Mariana,apto,3,2,0,58.0,6646
+Pinheiros,casa,3,1,2,51.3,7513
+Pinheiros,kitnet,3,2,0,56.3,6887
+Vila Mariana,kitnet,2,1,0,45.3,5465
+Pinheiros,kitnet,1,1,2,49.4,6469
+Moema,kitnet,3,1,1,48.8,7299
+Pinheiros,casa,2,2,0,54.3,6455
+Pinheiros,apto,1,1,1,73.1,6993
+Butantã,casa,3,1,1,68.1,5938
+Pinheiros,casa,2,2,0,90.9,6428
+Pinheiros,kitnet,2,2,2,84.2,8268
+Pinheiros,casa,2,1,2,99.1,8922
+Pinheiros,kitnet,3,2,0,71.2,8467
+Tatuapé,apto,1,1,1,70.9,5098
+Itaim Bibi,kitnet,2,2,0,50.3,5232
+Itaim Bibi,casa,1,1,2,76.5,6887
+Tatuapé,kitnet,2,1,1,46.9,4039
+Pinheiros,casa,1,2,0,30.6,4854
+Itaim Bibi,casa,2,2,1,90.5,9966
+Pinheiros,apto,3,2,1,35.0,5786
+Tatuapé,kitnet,2,2,1,68.8,7357
+Moema,kitnet,3,1,2,42.4,7266
+Butantã,kitnet,3,2,1,82.5,6262
+Vila Mariana,apto,1,2,1,85.3,7034
+Tatuapé,apto,2,2,0,70.6,6057
+Moema,kitnet,2,1,1,84.9,8368
+Tatuapé,apto,2,1,0,60.1,3989
+Butantã,casa,3,2,2,104.7,8242
+Itaim Bibi,casa,2,2,0,74.9,7021
+Moema,kitnet,1,1,2,42.0,5522
+Moema,kitnet,2,1,1,61.4,7066
+Itaim Bibi,kitnet,1,1,2,56.9,6153
+Moema,apto,2,1,1,55.0,7792
+Vila Mariana,casa,2,2,0,26.9,4543
+Moema,kitnet,3,2,2,67.7,8556
+Pinheiros,kitnet,1,2,2,32.3,4764
+Vila Mariana,apto,2,2,0,20.0,5630
+Moema,kitnet,1,1,0,53.1,5361
+Itaim Bibi,casa,2,2,1,44.9,8160
+Itaim Bibi,apto,2,1,2,42.8,7938
+Vila Mariana,casa,2,1,1,20.0,4343
+Moema,kitnet,1,1,0,43.0,5613
+Pinheiros,apto,1,1,2,56.5,5417
+Itaim Bibi,apto,2,1,1,47.3,7356
+Vila Mariana,kitnet,2,1,1,67.7,5977
+Itaim Bibi,kitnet,1,1,1,87.9,7102
+Butantã,apto,2,1,0,70.3,5147
+Itaim Bibi,kitnet,1,2,0,80.5,6050
+Vila Mariana,kitnet,2,2,1,82.2,6905
+Butantã,kitnet,2,1,1,39.6,5008
+Itaim Bibi,apto,3,2,0,68.8,8474
+Tatuapé,casa,3,2,0,79.9,7058
+Butantã,kitnet,3,1,2,51.3,5537
+Butantã,kitnet,1,1,0,44.2,3258
+Pinheiros,casa,3,1,0,70.6,6124
+Butantã,apto,2,2,1,30.4,4286
+Itaim Bibi,apto,2,1,2,38.2,8520
+Vila Mariana,apto,3,1,2,46.7,6720
+Vila Mariana,apto,1,2,1,69.0,5402
+Itaim Bibi,apto,1,2,2,64.4,6626
+Vila Mariana,apto,3,2,1,80.6,6341
+Moema,kitnet,2,1,2,41.6,6183
+Itaim Bibi,casa,2,1,0,40.5,7022
+Tatuapé,casa,1,1,0,70.5,3873
+Butantã,kitnet,2,1,2,44.0,4154
+Pinheiros,casa,1,2,2,47.9,5259
+Vila Mariana,casa,2,1,2,22.9,5606
+Butantã,apto,2,2,1,65.8,5609
+Tatuapé,casa,3,1,1,90.8,6023
+Vila Mariana,apto,3,2,0,39.4,5836
+Vila Mariana,casa,1,2,1,80.4,7978
+Moema,kitnet,1,1,2,58.8,7640
+Tatuapé,casa,2,2,0,24.7,5116
+Vila Mariana,apto,3,2,1,42.1,5061
+Tatuapé,kitnet,1,1,0,40.9,3205
+Moema,kitnet,2,1,1,53.7,6394
+Tatuapé,casa,2,2,2,68.4,6287
+Pinheiros,apto,1,2,2,97.0,8257
+Tatuapé,kitnet,2,1,1,31.4,4302
+Butantã,apto,1,1,2,50.3,3711
+Pinheiros,kitnet,2,1,2,42.1,5534
+Vila Mariana,apto,3,2,2,34.6,7036
+Itaim Bibi,casa,2,2,2,61.9,8633
+Tatuapé,kitnet,1,1,1,60.0,4314
+Itaim Bibi,apto,3,1,2,23.7,7316
+Tatuapé,apto,1,2,0,60.4,4351
+Itaim Bibi,apto,3,1,2,35.9,7792
+Tatuapé,casa,3,2,2,60.2,6880
+Pinheiros,casa,2,2,1,85.4,7966
+Itaim Bibi,apto,1,2,0,69.3,6997
+Moema,casa,3,2,1,63.6,8267
+Pinheiros,kitnet,3,2,2,49.4,7313
+Moema,kitnet,2,1,0,61.3,6216
+Moema,apto,3,2,2,71.3,8204
+Pinheiros,casa,3,2,2,69.3,8414
+Butantã,apto,3,2,1,58.0,5570
+Vila Mariana,casa,1,1,2,64.3,6282
+Vila Mariana,kitnet,2,2,2,33.7,5769
+Moema,kitnet,1,2,1,45.3,7015
+Itaim Bibi,apto,1,1,2,74.2,7834
+Itaim Bibi,apto,2,1,2,76.8,8780
+Itaim Bibi,kitnet,1,2,0,61.9,6375
+Vila Mariana,kitnet,1,2,2,89.6,7114
+Butantã,apto,3,2,0,70.2,6795
+Itaim Bibi,apto,2,1,1,55.3,5919
+Moema,casa,2,1,2,35.6,8030
+Tatuapé,casa,1,2,2,88.8,7576
+Pinheiros,casa,3,1,0,75.4,7920
+Itaim Bibi,kitnet,2,2,1,96.0,9424
+Butantã,kitnet,2,2,0,103.3,6971
+Moema,kitnet,1,1,0,34.3,5069
+Tatuapé,apto,1,2,2,34.3,4041
+Moema,kitnet,1,2,0,20.0,6072
+Pinheiros,kitnet,1,1,2,78.4,5672
+Tatuapé,casa,3,1,1,73.1,5145
+Itaim Bibi,casa,2,1,0,62.0,6741
+Butantã,kitnet,2,2,2,35.5,5589
+Butantã,kitnet,3,1,0,58.2,4754
+Moema,casa,3,1,0,63.7,7430
+Butantã,apto,1,1,0,75.7,4484
+Tatuapé,casa,2,1,2,65.5,4554
+Tatuapé,kitnet,2,1,1,73.3,3346
+Tatuapé,apto,1,2,1,57.5,3704
+Butantã,kitnet,3,2,0,83.6,6818
+Itaim Bibi,apto,2,1,2,72.6,8368
+Pinheiros,kitnet,2,2,2,36.3,6683
+Pinheiros,casa,2,2,0,87.8,7721
+Moema,apto,3,1,2,84.5,8334
+Tatuapé,apto,1,2,1,69.3,4207
+Itaim Bibi,apto,2,2,2,65.6,8468
+Moema,kitnet,3,1,0,93.2,8326
+Tatuapé,casa,3,2,2,27.3,6046
+Butantã,kitnet,2,1,0,84.8,5850
+Moema,apto,1,2,1,50.5,7541
+Moema,kitnet,3,2,0,81.9,8185
+Tatuapé,kitnet,3,1,0,62.4,6226
+Moema,apto,2,2,0,35.1,8082
+Butantã,casa,2,1,2,50.1,5145
+Butantã,kitnet,2,1,0,80.4,5812
+Tatuapé,apto,1,2,2,55.8,4029
+Moema,apto,1,1,1,47.6,6742
+Tatuapé,kitnet,3,1,0,47.4,5826
+Vila Mariana,casa,3,2,1,72.8,6990
+Moema,apto,1,1,1,95.0,7919
+Vila Mariana,kitnet,2,2,0,20.0,5024
+Pinheiros,kitnet,3,1,1,116.0,8993
+Pinheiros,apto,1,2,2,64.1,7072
+Tatuapé,apto,1,1,2,71.6,5263
+Pinheiros,apto,1,1,1,51.3,5227
+Tatuapé,kitnet,1,2,2,59.9,5565
+Moema,apto,2,2,2,63.9,8805
+Moema,kitnet,2,1,0,39.0,5727
+Itaim Bibi,casa,3,2,1,43.9,7915
+Tatuapé,casa,3,2,2,83.7,5596
+Itaim Bibi,kitnet,3,1,0,29.0,7235
+Itaim Bibi,kitnet,3,1,1,68.8,9243
+Pinheiros,apto,3,1,2,52.6,6872
+Vila Mariana,apto,2,2,0,40.8,5530
+Tatuapé,apto,3,1,2,99.4,6907
+Butantã,kitnet,1,2,2,40.9,4220
+Pinheiros,casa,3,2,1,37.4,6908
+Pinheiros,apto,1,1,1,56.3,4860
+Butantã,apto,2,1,1,44.6,4451
+Butantã,casa,1,2,1,60.1,4080
+Vila Mariana,kitnet,2,2,1,63.1,6865
+Moema,casa,3,1,1,64.7,8132
+Tatuapé,kitnet,1,2,1,57.5,4181
+Vila Mariana,kitnet,2,1,2,46.0,5808
+Vila Mariana,kitnet,1,1,2,72.9,5709
+Moema,casa,1,1,1,57.8,7248
+Tatuapé,kitnet,2,2,1,50.1,4650
+Vila Mariana,kitnet,2,2,0,89.6,7396
+Moema,casa,1,2,0,57.6,5863
+Vila Mariana,casa,2,2,1,81.8,7607
+Itaim Bibi,kitnet,3,1,0,84.5,9266
+Pinheiros,casa,2,1,2,85.8,8240
+Vila Mariana,apto,3,2,0,73.8,8292
+Vila Mariana,kitnet,3,1,0,60.0,6534
+Butantã,apto,2,2,0,58.7,6152
+Butantã,kitnet,2,2,0,55.1,6353
+Tatuapé,casa,3,1,1,20.0,3502
+Pinheiros,casa,2,2,2,74.4,6949
+Itaim Bibi,apto,2,2,2,64.9,6950
+Moema,casa,1,1,0,76.5,7444
+Butantã,kitnet,1,2,0,57.7,3223
+Moema,apto,1,1,1,73.3,5375
+Butantã,kitnet,2,1,0,32.4,3096
+Itaim Bibi,kitnet,3,2,2,36.6,6608
+Vila Mariana,kitnet,1,2,0,20.0,4318
+Itaim Bibi,casa,1,1,1,57.3,5652
+Vila Mariana,apto,1,2,1,44.5,3784
+Moema,kitnet,2,2,1,41.9,6924
+Vila Mariana,casa,1,2,1,66.7,5814
+Itaim Bibi,casa,1,2,2,51.5,5549
+Vila Mariana,kitnet,1,1,1,31.3,3769
+Tatuapé,kitnet,1,2,1,110.9,6067
+Tatuapé,apto,1,1,2,59.3,4192
+Itaim Bibi,kitnet,3,1,2,38.3,7387
+Butantã,casa,3,1,2,46.6,6642
+Pinheiros,kitnet,2,1,0,56.5,7613
+Butantã,casa,1,2,2,56.5,4744
+Pinheiros,kitnet,1,2,2,86.0,6024
+Tatuapé,kitnet,1,2,2,58.4,4665
+Moema,kitnet,2,1,2,97.1,8669
+Tatuapé,kitnet,2,2,1,51.4,4998
+Itaim Bibi,casa,1,1,2,68.5,7644
+Butantã,apto,2,1,1,80.4,7483
+Moema,casa,1,1,2,83.9,6047
+Butantã,casa,2,2,1,86.2,5881
+Vila Mariana,kitnet,3,1,2,54.6,7970
+Vila Mariana,casa,1,2,2,59.9,5479
+Moema,casa,2,2,2,20.0,7232
+Tatuapé,apto,2,2,0,56.1,5387
+Itaim Bibi,kitnet,3,1,2,81.8,9944
+Itaim Bibi,casa,2,2,0,77.9,9469
+Vila Mariana,apto,2,1,2,58.3,6415
+Vila Mariana,apto,3,2,0,94.0,6323
+Butantã,kitnet,2,2,0,52.3,4409
+Moema,apto,2,1,1,45.7,8419
+Vila Mariana,casa,1,1,1,50.6,3788
+Butantã,casa,2,2,2,37.6,5524
+Moema,apto,1,1,1,72.4,4762
+Butantã,apto,2,2,0,65.8,4292
+Butantã,kitnet,1,2,1,72.2,5876
+Butantã,casa,1,2,1,51.7,4580
+Tatuapé,apto,2,2,1,58.8,4964
+Itaim Bibi,apto,2,1,1,20.0,5449
+Butantã,casa,3,2,2,67.5,5129
+Vila Mariana,kitnet,1,2,2,62.0,6514
+Pinheiros,kitnet,3,1,0,38.0,5813
+Vila Mariana,apto,1,1,0,57.9,3620
+Tatuapé,kitnet,3,1,0,54.8,5169
+Tatuapé,kitnet,3,1,0,95.3,6824
+Pinheiros,apto,3,1,2,38.8,6503
+Tatuapé,apto,1,1,1,66.6,4492
+Vila Mariana,kitnet,3,2,1,38.2,6376
+Tatuapé,casa,1,1,1,48.8,3300
+Tatuapé,kitnet,3,1,2,65.5,6109
+Tatuapé,apto,2,1,2,55.8,5661
+Moema,apto,2,2,1,59.9,8324
+Moema,apto,2,1,1,66.7,7932
+Itaim Bibi,apto,1,1,1,50.1,5764
+Itaim Bibi,casa,3,2,2,77.7,9739
+Itaim Bibi,apto,3,1,2,53.9,8489
+Moema,kitnet,3,1,0,58.0,6874
+Moema,casa,3,2,2,67.2,8345
+Vila Mariana,kitnet,3,2,1,64.5,7680
+Tatuapé,casa,3,2,2,72.9,7788
+Pinheiros,apto,2,2,2,66.3,5741
+Moema,casa,3,1,2,69.4,9693
+Vila Mariana,apto,1,2,0,53.5,6036
+Tatuapé,kitnet,3,1,0,38.6,4818
+Butantã,kitnet,2,1,2,31.4,4351
+Butantã,apto,2,2,0,26.6,4510
+Moema,casa,2,1,0,95.3,7345
+Pinheiros,casa,1,1,0,20.0,3958
+Vila Mariana,apto,2,2,1,83.9,5836
+Pinheiros,apto,2,1,0,43.6,4114
+Itaim Bibi,kitnet,1,2,0,83.7,9278
+Butantã,apto,3,1,1,20.0,4650
+Tatuapé,casa,1,2,1,55.3,4622
+Vila Mariana,apto,3,1,1,89.1,7448
+Pinheiros,casa,1,1,2,74.3,5666
+Butantã,apto,1,1,2,53.3,4252
+Vila Mariana,casa,1,2,0,21.1,4207
+Pinheiros,casa,1,1,2,33.6,4949
+Vila Mariana,casa,1,2,0,87.8,5532
+Vila Mariana,casa,3,1,1,53.0,6775
+Tatuapé,apto,3,2,1,58.6,6108
+Butantã,casa,2,2,2,65.7,6284
+Vila Mariana,kitnet,1,2,0,33.9,5082
+Itaim Bibi,casa,3,1,2,68.1,8408
+Pinheiros,apto,2,2,1,51.6,6313
+Pinheiros,kitnet,2,2,2,65.9,8362
+Pinheiros,kitnet,3,2,2,48.4,6598
+Butantã,kitnet,2,1,1,28.5,2657
+Tatuapé,kitnet,2,2,0,51.5,5188
+Itaim Bibi,kitnet,3,2,2,72.8,8581
+Pinheiros,kitnet,2,2,1,67.9,6075
+Pinheiros,casa,3,1,1,60.6,7727
+Butantã,apto,3,2,1,78.0,6623
+Pinheiros,casa,3,2,0,55.9,5967
+Pinheiros,apto,1,1,0,61.1,6882
+Tatuapé,kitnet,1,2,2,50.4,3324
+Tatuapé,casa,2,2,0,79.1,5505
+Vila Mariana,kitnet,2,1,1,65.8,4563
+Moema,casa,3,2,2,48.9,8382
+Itaim Bibi,casa,1,2,0,30.2,5294
+Moema,kitnet,3,1,1,82.1,9118
+Moema,casa,3,2,2,45.1,8040
+Pinheiros,casa,3,1,2,61.4,8424
+Moema,casa,3,1,0,107.1,8568
+Itaim Bibi,kitnet,3,2,1,76.0,7597
+Tatuapé,kitnet,2,2,0,92.2,6157
+Butantã,apto,2,2,1,49.2,4975
+Pinheiros,casa,2,2,0,81.4,5587
+Pinheiros,casa,3,1,2,60.5,6472
+Tatuapé,casa,1,2,0,67.3,3930
+Vila Mariana,apto,2,1,2,100.4,8657
+Tatuapé,kitnet,2,1,1,54.4,5299
+Butantã,kitnet,2,1,2,60.4,5133
+Moema,apto,2,2,0,41.9,7035
+Tatuapé,apto,3,2,0,77.8,4602
+Itaim Bibi,casa,1,1,1,48.8,5812
+Pinheiros,apto,3,2,2,80.5,8634
+Butantã,kitnet,3,2,2,27.0,5642
+Vila Mariana,kitnet,3,2,2,71.0,7198
+Itaim Bibi,kitnet,3,2,1,47.1,7983
+Tatuapé,casa,2,1,2,74.6,5909
+Pinheiros,kitnet,1,1,1,59.7,5584
+Itaim Bibi,apto,2,2,2,49.3,8368
+Vila Mariana,apto,1,2,2,52.3,5923
+Tatuapé,apto,1,2,2,43.0,4799
+Butantã,kitnet,3,1,1,76.8,7674
+Butantã,casa,2,2,1,39.0,5533
+Butantã,apto,2,1,1,54.7,6333
+Moema,apto,3,1,2,66.9,7770
+Tatuapé,casa,1,1,2,92.3,4194
+Vila Mariana,apto,3,1,2,59.8,6782
+Butantã,casa,2,1,2,55.1,5074
+Moema,casa,2,2,2,65.5,9132
+Itaim Bibi,apto,2,1,2,20.0,5496
+Moema,apto,2,1,2,36.0,6618
+Itaim Bibi,casa,2,1,2,52.5,7699
+Vila Mariana,casa,2,2,0,45.7,5652
+Itaim Bibi,apto,1,2,2,28.0,6202
+Pinheiros,casa,1,2,1,77.2,6802
+Pinheiros,casa,2,2,2,65.2,8019
+Moema,apto,1,1,1,62.8,7713
+Moema,casa,2,1,1,46.1,6710
+Itaim Bibi,apto,3,1,2,61.6,7695
+Moema,apto,1,1,1,70.3,7936
+Pinheiros,apto,1,2,2,54.7,5279
+Vila Mariana,apto,1,1,0,68.9,6599
+Moema,apto,3,2,2,44.1,9098
+Tatuapé,kitnet,3,1,1,61.9,6850
+Tatuapé,apto,1,1,2,82.8,5734
+Vila Mariana,kitnet,2,2,0,84.6,5049
+Tatuapé,kitnet,3,1,1,86.6,5565
+Tatuapé,kitnet,3,2,1,65.7,6417
+Itaim Bibi,kitnet,2,2,0,60.6,6878
+Tatuapé,apto,1,2,1,51.0,4079
+Itaim Bibi,casa,3,1,1,23.9,7406
+Vila Mariana,kitnet,3,2,2,33.1,6357
+Itaim Bibi,casa,2,2,2,56.6,6924
+Pinheiros,apto,1,1,1,57.8,6244
+Pinheiros,casa,3,2,1,88.2,8659
+Butantã,kitnet,1,2,0,86.3,5090
+Moema,kitnet,3,1,2,46.3,8257
+Tatuapé,casa,3,2,2,76.4,6867
+Tatuapé,apto,2,2,2,50.5,6379
+Itaim Bibi,apto,2,1,1,73.7,7831
+Vila Mariana,apto,1,2,1,76.1,7143
+Vila Mariana,casa,3,2,2,84.8,6546
+Pinheiros,apto,1,1,2,50.1,5972
+Butantã,casa,1,1,0,80.3,4390
+Vila Mariana,apto,3,2,1,22.5,5189
+Tatuapé,apto,3,1,1,85.9,7305
+Moema,apto,2,2,1,59.5,8196
+Pinheiros,apto,2,2,1,59.9,5093
+Moema,kitnet,2,2,0,20.0,6572
+Pinheiros,kitnet,1,1,1,52.2,5842
+Vila Mariana,kitnet,2,1,0,87.1,5835
+Pinheiros,casa,3,1,0,51.5,5776
+Itaim Bibi,apto,2,2,0,74.3,6556
+Tatuapé,kitnet,3,1,1,60.7,5351
+Butantã,casa,3,1,1,81.3,6296
+Moema,kitnet,3,1,1,63.8,8552
+Vila Mariana,casa,3,2,0,41.4,6356
+Tatuapé,casa,3,2,2,61.1,5486
+Butantã,casa,3,2,1,92.0,7352
+Tatuapé,apto,3,1,1,70.0,5695
+Pinheiros,casa,3,1,1,57.7,6182
+Vila Mariana,kitnet,3,1,1,105.1,6682
+Butantã,apto,3,1,1,83.2,6995
+Tatuapé,apto,3,1,2,76.3,6747
+Butantã,kitnet,2,2,2,66.3,6436
+Tatuapé,casa,3,1,2,74.6,5756
+Pinheiros,kitnet,3,1,1,75.3,7595
+Butantã,casa,2,2,1,20.0,3200
+Itaim Bibi,casa,1,2,0,67.9,6148
+Itaim Bibi,kitnet,3,1,1,56.8,7931
+Butantã,casa,2,2,2,50.0,5710
+Vila Mariana,apto,2,1,0,56.1,4180
+Butantã,casa,3,2,2,28.9,4720
+Vila Mariana,apto,1,1,2,23.9,4125
+Butantã,casa,2,1,1,84.9,6615
+Vila Mariana,kitnet,1,2,1,69.2,5227
+Tatuapé,apto,1,1,2,20.0,3412
+Itaim Bibi,kitnet,3,1,0,48.5,7550
+Pinheiros,casa,2,1,0,77.6,6329
+Pinheiros,apto,1,2,0,54.4,5746
+Butantã,apto,2,2,2,84.9,5471
+Pinheiros,kitnet,1,1,1,81.0,5705
+Tatuapé,kitnet,3,2,0,32.9,6033
+Butantã,kitnet,1,1,0,57.1,5218
+Tatuapé,casa,2,2,1,51.0,5705
+Moema,casa,2,1,1,32.2,7147
+Moema,casa,1,1,0,30.9,3767
+Tatuapé,casa,3,1,0,43.9,4057
+Tatuapé,apto,2,1,2,47.2,4567
+Tatuapé,apto,2,1,2,65.7,7302
+Pinheiros,kitnet,2,1,0,80.9,6376
+Tatuapé,casa,3,1,1,70.3,6504
+Itaim Bibi,apto,1,2,0,75.0,7453
+Itaim Bibi,kitnet,3,1,1,54.7,8125
+Pinheiros,apto,2,1,0,72.1,6343
+Itaim Bibi,casa,1,2,2,57.0,6251
+Itaim Bibi,apto,2,1,2,51.2,5174
+Vila Mariana,casa,3,2,2,97.9,9464
+Butantã,casa,1,2,0,20.0,2807
+Tatuapé,kitnet,2,2,2,22.5,2982
+Moema,kitnet,2,2,1,67.7,8080
+Itaim Bibi,kitnet,3,2,0,54.7,8276
+Tatuapé,apto,2,1,0,31.3,4352
+Tatuapé,apto,3,2,2,38.9,6560
+Vila Mariana,kitnet,3,2,2,41.5,6010
+Butantã,kitnet,3,2,2,77.8,6335
+Butantã,apto,2,1,0,84.2,5272
+Pinheiros,apto,3,1,1,92.8,8641
+Itaim Bibi,casa,1,1,2,28.2,4264
+Pinheiros,apto,3,2,0,32.7,6382
+Moema,apto,3,1,0,31.3,7384
+Butantã,kitnet,1,2,0,85.8,5986
+Vila Mariana,casa,2,1,0,68.3,6417
+Moema,apto,3,1,2,61.6,8999
+Vila Mariana,casa,1,2,0,64.6,3240
+Itaim Bibi,casa,3,2,0,58.9,9357
+Moema,casa,3,2,0,37.6,7492
+Tatuapé,kitnet,3,2,2,70.3,7676
+Butantã,apto,1,2,1,56.3,3749
+Tatuapé,casa,3,2,2,36.0,4177
+Itaim Bibi,kitnet,3,1,0,71.5,9474
+Pinheiros,casa,1,2,1,51.5,5003
+Vila Mariana,kitnet,3,2,2,64.5,7188
+Butantã,casa,2,2,2,57.5,6147
+Butantã,casa,3,2,1,77.8,7353
+Tatuapé,kitnet,1,2,0,64.4,5295
+Moema,casa,3,1,0,42.3,7148
+Vila Mariana,kitnet,2,2,1,66.4,5650
+Butantã,kitnet,1,2,1,67.1,5578
+Itaim Bibi,kitnet,2,1,0,70.2,7885
+Vila Mariana,apto,3,2,0,80.7,5869
+Tatuapé,casa,3,2,1,47.7,6765
+Tatuapé,kitnet,1,2,0,73.4,2711
+Moema,casa,3,2,1,25.5,7993
+Butantã,apto,2,1,0,57.6,4221
+Pinheiros,apto,1,2,0,54.5,6100
+Vila Mariana,kitnet,2,2,0,89.0,7277
+Pinheiros,apto,3,1,1,56.9,6877
+Itaim Bibi,apto,1,2,0,72.2,7426
+Tatuapé,kitnet,1,1,1,24.8,3074
+Butantã,apto,1,2,2,53.0,5460
+Tatuapé,kitnet,2,2,2,43.1,6840
+Pinheiros,casa,1,2,2,109.5,6712
+Moema,kitnet,3,2,2,46.7,5549
+Pinheiros,casa,1,1,2,61.5,5611
+Itaim Bibi,kitnet,1,1,2,62.5,6589
+Itaim Bibi,kitnet,1,2,0,28.2,5444
+Butantã,apto,3,1,1,49.5,4743
+Moema,kitnet,3,2,2,68.1,9441
+Vila Mariana,kitnet,1,1,2,61.7,4446
+Pinheiros,apto,2,2,1,20.0,5861
+Moema,apto,3,2,0,48.7,8071
+Moema,apto,3,1,0,80.4,8366
+Itaim Bibi,apto,1,1,1,71.8,7343
+Itaim Bibi,casa,3,1,2,84.4,9790
+Pinheiros,kitnet,3,2,1,40.3,6851
+Vila Mariana,casa,3,1,0,85.6,6791
+Tatuapé,apto,2,2,2,59.1,5962
+Moema,casa,2,1,1,91.8,8536
+Pinheiros,apto,3,2,1,60.1,8114
+Butantã,kitnet,3,2,2,20.0,3930
+Itaim Bibi,apto,2,1,1,77.0,7663
+Tatuapé,kitnet,3,1,1,51.1,4482
+Vila Mariana,casa,2,1,2,52.5,6423
+Butantã,apto,3,2,1,30.9,5910
+Pinheiros,kitnet,1,2,1,92.4,6754
+Moema,casa,3,2,1,49.6,7304
+Itaim Bibi,kitnet,2,2,2,91.5,9423
+Butantã,casa,2,2,0,51.4,4835
+Vila Mariana,kitnet,1,1,0,41.4,5485
+Tatuapé,casa,2,1,2,86.4,7410
+Vila Mariana,apto,1,2,1,58.5,6357
+Pinheiros,apto,3,2,0,58.7,7248
+Moema,casa,3,2,1,34.4,8891
+Butantã,casa,2,2,0,50.8,5118
+Itaim Bibi,kitnet,3,1,1,68.6,7874
+Moema,casa,3,2,0,34.0,6580
+Vila Mariana,kitnet,1,2,1,49.2,4714
+Pinheiros,apto,1,1,2,51.6,5643
+Vila Mariana,casa,1,1,0,61.3,5310
+Pinheiros,kitnet,1,2,2,89.6,6056
+Vila Mariana,apto,2,1,0,54.0,5061
+Itaim Bibi,apto,2,1,1,46.2,7056
+Pinheiros,kitnet,2,1,2,114.9,8763
+Pinheiros,casa,1,2,2,51.3,6019
+Tatuapé,kitnet,3,1,0,56.2,5381
+Vila Mariana,casa,3,1,0,52.8,5094
+Moema,kitnet,2,1,2,54.5,6505
+Pinheiros,kitnet,1,1,2,61.6,5898
+Vila Mariana,kitnet,2,1,1,78.4,6861
+Moema,apto,3,2,0,68.1,8327
+Itaim Bibi,casa,3,1,1,81.5,7967
+Moema,apto,1,1,1,80.9,6837
+Tatuapé,apto,3,2,1,64.2,7335
+Tatuapé,apto,3,2,0,67.5,6361
+Vila Mariana,casa,2,2,0,82.2,6535
+Vila Mariana,casa,2,2,2,37.8,5113
+Moema,kitnet,2,1,0,110.0,7728
+Pinheiros,apto,1,1,2,49.7,5598
+Itaim Bibi,casa,2,1,1,53.0,7310
+Tatuapé,kitnet,1,1,1,35.8,3925
+Vila Mariana,kitnet,1,2,2,36.4,5501
+Moema,apto,2,1,0,79.5,7088
+Vila Mariana,kitnet,2,2,2,105.4,7553
+Tatuapé,apto,3,2,0,48.7,6997
+Itaim Bibi,casa,2,2,1,66.9,7463
+Pinheiros,casa,3,2,1,64.4,6499
+Moema,kitnet,3,2,1,80.0,7489
+Pinheiros,kitnet,2,1,0,104.4,7049
+Moema,kitnet,3,2,2,90.4,10165
+Vila Mariana,kitnet,2,2,0,55.2,5396
+Moema,casa,2,2,1,70.6,8999
+Moema,kitnet,1,1,1,72.6,6771
+Vila Mariana,apto,1,2,1,59.6,6476
+Moema,casa,2,2,1,38.1,6236
+Itaim Bibi,apto,1,1,2,44.0,5827
+Itaim Bibi,kitnet,2,2,2,83.0,8762
+Pinheiros,kitnet,1,1,0,85.0,6437
+Moema,kitnet,1,1,1,55.8,6132
+Butantã,kitnet,2,2,1,65.2,5891
+Tatuapé,apto,2,2,1,83.9,6489
+Vila Mariana,kitnet,3,1,2,25.9,4741
+Tatuapé,casa,3,1,1,51.1,5059
+Pinheiros,kitnet,3,1,1,100.4,7796
+Pinheiros,kitnet,1,2,0,66.0,5503
+Tatuapé,casa,2,1,1,37.4,4548
+Tatuapé,apto,1,2,1,62.3,4267
+Itaim Bibi,casa,1,1,1,80.4,5609
+Moema,casa,1,2,2,20.0,5711
+Butantã,kitnet,2,1,0,63.5,4054
+Moema,casa,1,1,0,52.6,6274
+Itaim Bibi,casa,2,1,1,27.2,6959
+Pinheiros,casa,1,2,0,61.6,4009
+Pinheiros,apto,2,2,2,57.3,6299
+Itaim Bibi,apto,2,1,2,59.5,7868
+Butantã,apto,1,1,1,53.0,3064
+Butantã,casa,1,2,1,39.6,4813
+Vila Mariana,casa,3,1,0,30.9,6267
+Pinheiros,kitnet,3,1,1,46.2,6456
+Butantã,kitnet,1,1,2,77.2,4596
+Tatuapé,apto,3,2,2,64.7,4591
+Vila Mariana,apto,1,1,2,58.6,6110
+Itaim Bibi,casa,3,1,1,39.2,8978
+Butantã,kitnet,1,1,1,52.5,5612
+Vila Mariana,apto,2,2,0,74.7,6286
+Itaim Bibi,apto,1,2,2,70.1,6729
+Itaim Bibi,apto,1,2,2,50.5,7684
+Tatuapé,casa,2,1,1,20.0,3599
+Tatuapé,kitnet,1,1,2,46.5,4478
+Vila Mariana,kitnet,2,1,0,50.3,5553
+Butantã,casa,1,2,0,41.9,4030
+Butantã,apto,1,1,1,51.7,4975
+Butantã,casa,3,2,0,76.3,7242
+Itaim Bibi,casa,3,1,0,59.3,7259
+Pinheiros,apto,3,1,2,79.8,7155
+Moema,kitnet,1,1,1,29.8,3496
+Moema,kitnet,2,2,1,53.9,7040
+Butantã,apto,1,2,2,21.2,3062
+Tatuapé,apto,1,2,1,51.5,4679
+Tatuapé,apto,2,1,1,39.1,4004
+Pinheiros,kitnet,2,2,1,85.6,7287
+Itaim Bibi,casa,2,2,1,68.2,8595
+Moema,apto,1,1,2,80.3,7627
+Pinheiros,apto,3,2,1,51.4,7049
+Butantã,apto,3,2,1,39.6,6937
+Vila Mariana,casa,1,1,1,39.0,5160
+Pinheiros,kitnet,1,1,0,65.3,5127
+Pinheiros,apto,2,1,0,96.2,6789
+Moema,apto,2,2,0,68.2,8078
+Pinheiros,casa,3,1,0,52.5,6637
+Butantã,kitnet,2,1,1,56.2,4090
+Tatuapé,casa,1,2,2,59.4,5597
+Vila Mariana,apto,1,1,2,100.5,7722
+Pinheiros,apto,1,1,2,84.7,7585
+Moema,kitnet,2,1,1,65.2,8490
+Pinheiros,kitnet,1,2,0,62.2,7421
+Butantã,kitnet,3,1,1,66.0,7364
+Vila Mariana,casa,3,1,2,69.9,7469
+Moema,kitnet,1,2,2,51.7,6685
+Pinheiros,casa,3,1,2,43.1,5330
+Pinheiros,apto,2,2,1,80.6,7328
+Vila Mariana,casa,1,1,1,60.4,5628
+Pinheiros,kitnet,2,2,1,79.0,7304
+Itaim Bibi,casa,2,2,0,92.9,6877
+Butantã,kitnet,1,2,0,70.4,4583
+Butantã,kitnet,3,1,0,67.2,6231
+Vila Mariana,apto,1,1,2,124.0,6599
+Itaim Bibi,apto,1,2,0,64.1,6957
+Tatuapé,apto,1,1,2,38.2,4191
+Pinheiros,kitnet,1,1,1,54.4,6326
+Pinheiros,kitnet,1,2,2,91.0,8601
+Tatuapé,apto,2,2,0,34.1,3921
+Moema,apto,2,2,0,45.0,6896
+Pinheiros,casa,1,2,0,82.1,6536
+Butantã,casa,3,2,1,54.6,6557
+Itaim Bibi,kitnet,3,1,1,57.8,8364
+Tatuapé,kitnet,3,1,0,81.5,7084
+Butantã,apto,2,2,2,45.7,3505
+Butantã,apto,3,2,2,30.6,5953
+Butantã,casa,2,1,0,32.2,4357
+Vila Mariana,casa,2,1,0,71.6,5761
+Butantã,kitnet,1,1,2,65.2,3044
+Tatuapé,casa,3,2,1,46.1,5536
+Itaim Bibi,casa,1,2,2,36.8,6036
+Butantã,apto,2,1,2,54.6,6580
+Pinheiros,apto,3,1,2,82.3,8270
+Moema,kitnet,1,2,0,43.3,5362
+Pinheiros,kitnet,2,1,1,46.7,4260
+Vila Mariana,apto,1,1,1,36.2,4958
+Moema,kitnet,2,1,2,52.7,7736
+Butantã,casa,2,2,0,66.8,5230
+Butantã,casa,1,2,0,102.3,6252
+Moema,kitnet,3,1,1,64.4,7652
+Vila Mariana,kitnet,2,1,2,58.9,7022
+Tatuapé,apto,2,2,2,77.3,6912
+Butantã,apto,3,2,1,73.9,5307
+Butantã,kitnet,1,1,1,48.4,2937
+Vila Mariana,kitnet,2,1,0,106.0,8606
+Vila Mariana,apto,3,2,2,59.5,8031
+Itaim Bibi,kitnet,2,1,0,64.7,6132
+Vila Mariana,casa,1,1,0,71.0,3975
+Vila Mariana,casa,1,2,1,66.9,5974
+Pinheiros,apto,3,1,1,90.5,7001
+Moema,kitnet,3,1,1,48.2,7193
+Moema,kitnet,3,2,2,75.7,8932
+Tatuapé,casa,1,1,0,63.3,3926
+Vila Mariana,kitnet,3,1,2,79.7,8391
+Itaim Bibi,kitnet,2,2,0,55.7,8739
+Itaim Bibi,kitnet,3,1,0,53.0,7107
+Moema,kitnet,3,2,0,74.6,7435
+Vila Mariana,kitnet,1,2,2,67.2,6426
+Tatuapé,kitnet,3,2,2,43.6,7113
+Itaim Bibi,kitnet,2,2,2,86.9,8485
+Moema,casa,3,1,0,74.7,8620
+Vila Mariana,kitnet,3,2,2,58.5,6586
+Tatuapé,apto,1,1,0,50.6,3636
+Moema,casa,3,1,1,67.3,7089
+Moema,casa,1,1,2,73.2,7105
+Moema,kitnet,1,2,0,28.1,5450
+Vila Mariana,apto,1,2,0,67.5,6012
+Itaim Bibi,casa,1,2,0,73.1,8514
+Moema,apto,3,2,2,20.0,6989
+Moema,kitnet,1,1,1,63.9,4918
+Tatuapé,kitnet,2,2,0,73.9,5255
+Moema,apto,2,2,1,71.6,8088
+Pinheiros,kitnet,3,1,2,76.0,7943
+Butantã,casa,2,1,0,53.4,4478
+Pinheiros,kitnet,2,1,1,39.2,6866
+Tatuapé,kitnet,3,2,0,24.0,4729
+Vila Mariana,apto,2,1,0,81.8,6171
+Vila Mariana,apto,3,2,1,74.1,6800
+Pinheiros,casa,3,2,1,83.4,6704
+Butantã,apto,3,1,1,45.5,5628
+Moema,apto,1,1,0,76.1,6779
+Moema,kitnet,1,1,1,29.9,4651
+Itaim Bibi,kitnet,2,1,1,42.6,6743
+Pinheiros,casa,2,1,1,62.5,6261
+Tatuapé,apto,1,2,1,73.3,4498
+Moema,apto,2,1,0,93.6,7173
+Tatuapé,kitnet,1,2,0,55.2,4480
+Pinheiros,apto,1,2,2,42.7,5600
+Butantã,apto,3,2,1,41.7,5177
+Vila Mariana,casa,1,2,1,46.2,4498
+Itaim Bibi,casa,3,1,2,104.4,9529
+Itaim Bibi,casa,2,2,0,75.1,8594
+Moema,casa,3,2,2,82.3,9333
+Pinheiros,kitnet,1,1,1,55.2,5267
+Vila Mariana,casa,3,1,2,60.0,7146
+Itaim Bibi,kitnet,2,2,1,74.0,9211
+Butantã,casa,3,2,1,49.9,6289
+Butantã,casa,1,1,1,54.2,4433
+Vila Mariana,casa,3,2,0,46.5,6806
+Tatuapé,kitnet,1,1,1,51.1,3805
+Pinheiros,kitnet,2,2,2,61.0,7177
+Itaim Bibi,apto,1,2,1,43.6,6116
+Moema,kitnet,3,1,0,65.7,6431
+Itaim Bibi,kitnet,2,2,2,65.7,8445
+Itaim Bibi,kitnet,3,1,0,56.4,7870
+Butantã,apto,2,2,0,43.5,4473
+Moema,kitnet,1,2,0,62.1,7392
+Moema,apto,2,2,0,49.9,6320
+Tatuapé,apto,2,1,0,60.9,3211
+Pinheiros,kitnet,1,1,0,82.0,5401
+Pinheiros,apto,3,2,2,34.9,5715
+Tatuapé,kitnet,3,2,1,103.5,7575
+Itaim Bibi,casa,2,1,0,58.5,6355
+Tatuapé,apto,2,2,1,68.2,6335
+Itaim Bibi,apto,3,2,2,44.9,9019
+Vila Mariana,kitnet,3,2,2,82.8,7245
+Moema,kitnet,1,1,0,57.5,5378
+Tatuapé,casa,2,1,0,52.1,4791
+Moema,kitnet,3,1,2,48.5,8539
+Pinheiros,apto,3,1,1,54.6,5229
+Pinheiros,casa,2,1,2,68.4,7076
+Butantã,apto,3,1,0,63.5,3846
+Tatuapé,casa,2,1,0,59.2,4137
+Vila Mariana,apto,2,1,1,45.8,6348
+Vila Mariana,casa,2,2,0,44.6,7946
+Pinheiros,casa,3,1,2,50.8,6832
+Butantã,casa,3,1,2,69.2,5378
+Pinheiros,casa,1,2,0,73.2,5687
+Itaim Bibi,casa,1,2,1,75.9,7531
+Vila Mariana,casa,2,2,1,60.0,5763
+Moema,apto,3,1,1,67.7,7290
+Vila Mariana,apto,2,1,1,56.6,5457
+Itaim Bibi,casa,2,2,1,25.2,6971
+Pinheiros,kitnet,1,2,2,55.7,6035
+Moema,kitnet,1,1,0,52.5,5170
+Vila Mariana,casa,3,2,0,39.2,5541
+Vila Mariana,kitnet,2,2,2,48.7,5928
+Vila Mariana,kitnet,3,2,2,62.7,6582
+Butantã,casa,1,2,1,37.3,3554
+Moema,apto,1,2,2,45.8,7188
+Moema,casa,3,1,0,91.0,8244
+Moema,casa,3,2,2,27.9,6136
+Butantã,apto,3,2,2,56.3,7210
+Moema,kitnet,1,1,0,36.7,5734
+Moema,kitnet,3,1,0,45.0,5943
+Vila Mariana,apto,2,1,1,56.0,5489
+Vila Mariana,casa,3,1,2,40.2,5674
+Pinheiros,apto,3,2,0,71.5,7986
+Tatuapé,apto,2,1,1,87.0,5413
+Pinheiros,apto,1,2,2,76.8,6747
+Vila Mariana,casa,3,2,0,80.5,7163
+Vila Mariana,apto,2,2,1,32.4,4288
+Vila Mariana,apto,2,2,0,55.1,6978
+Itaim Bibi,casa,2,2,0,69.3,8210
+Tatuapé,casa,3,2,1,77.4,5925
+Butantã,apto,1,1,0,95.1,5306
+Moema,casa,3,2,0,81.4,9321
+Butantã,apto,2,1,2,77.9,5982
+Pinheiros,kitnet,1,1,0,112.7,8126
+Tatuapé,casa,1,2,2,61.9,7292
+Itaim Bibi,kitnet,2,1,0,54.2,6726
+Tatuapé,apto,3,1,1,63.5,5240
+Butantã,kitnet,2,2,2,41.7,4459
+Vila Mariana,casa,1,2,1,61.4,3870
+Pinheiros,apto,2,2,1,25.5,6662
+Itaim Bibi,kitnet,1,2,2,49.4,6699
+Pinheiros,apto,1,2,0,57.7,6331
+Itaim Bibi,apto,3,2,2,79.0,10131
+Itaim Bibi,kitnet,3,2,2,82.2,8502
+Butantã,apto,1,1,2,40.7,3377
+Moema,casa,2,2,1,101.5,10141
+Butantã,apto,2,2,1,63.0,5533
+Vila Mariana,apto,2,1,1,64.8,5516
+Moema,apto,3,1,1,27.6,5993
+Pinheiros,apto,1,2,2,47.6,5815
+Itaim Bibi,casa,3,2,2,81.0,10536
+Itaim Bibi,casa,2,2,0,63.4,8050
+Itaim Bibi,apto,1,1,0,62.2,6510
+Itaim Bibi,casa,3,2,2,64.5,10107
+Vila Mariana,apto,3,2,1,31.1,7251
+Pinheiros,casa,2,2,1,58.1,6909
+Butantã,kitnet,3,1,0,88.2,8566
+Moema,kitnet,1,2,0,81.7,6954
+Pinheiros,kitnet,2,1,1,57.5,7103
+Butantã,apto,2,1,2,91.3,6024
+Butantã,apto,3,2,2,34.8,6467
+Moema,kitnet,2,1,2,40.6,6618
+Itaim Bibi,apto,3,1,0,97.3,9187
+Pinheiros,kitnet,1,1,0,71.6,7559
+Pinheiros,casa,2,1,1,54.2,6888
+Vila Mariana,apto,1,1,1,58.9,5548
+Tatuapé,kitnet,2,2,0,43.9,3896
+Pinheiros,casa,1,2,1,65.5,6317
+Pinheiros,kitnet,3,2,2,63.9,7012
+Itaim Bibi,casa,1,1,0,60.4,7022
+Itaim Bibi,apto,3,1,2,36.8,8294
+Itaim Bibi,kitnet,3,2,1,65.3,8415
+Itaim Bibi,apto,2,2,1,49.4,8713
+Itaim Bibi,casa,3,1,1,40.3,8627
+Tatuapé,casa,3,2,2,85.3,7180
+Tatuapé,kitnet,1,1,1,103.4,5954
+Butantã,kitnet,3,2,0,98.9,6595
+Moema,casa,2,1,0,73.0,6972
+Pinheiros,kitnet,3,1,2,54.7,6278
+Itaim Bibi,apto,3,1,0,58.6,7275
+Vila Mariana,apto,3,1,2,68.1,7060
+Butantã,kitnet,2,2,1,51.6,3920
+Moema,casa,1,2,0,86.4,7753
+Butantã,casa,1,2,0,20.0,4118
+Pinheiros,apto,1,1,2,54.1,5716
+Tatuapé,apto,3,2,0,76.0,4023
+Moema,kitnet,2,1,0,43.1,6091
+Moema,kitnet,2,1,0,55.2,5541
+Vila Mariana,kitnet,2,2,1,71.9,6168
+Butantã,casa,1,2,2,90.4,7173
+Moema,casa,2,1,0,34.1,4076
+Butantã,apto,2,1,2,32.6,3926
+Moema,apto,3,2,2,41.1,8596
+Pinheiros,casa,1,2,0,29.2,4216
+Butantã,casa,3,1,0,30.7,3997
+Vila Mariana,apto,1,2,1,40.5,6642
+Vila Mariana,casa,2,2,0,84.7,7043
+Butantã,casa,2,1,0,53.8,5360
+Butantã,kitnet,3,2,1,60.6,6615
+Butantã,kitnet,2,2,2,40.9,5356
+Moema,casa,1,2,2,72.7,8491
+Itaim Bibi,casa,2,1,1,97.5,9950
+Vila Mariana,kitnet,2,2,0,42.2,4121
+Itaim Bibi,kitnet,2,2,0,94.5,8407
+Tatuapé,apto,1,2,1,67.3,4784
+Pinheiros,kitnet,1,2,0,60.3,5367
+Moema,apto,2,1,1,68.0,8125
+Moema,casa,1,1,2,67.8,7140
+Vila Mariana,apto,2,2,2,97.1,9255
+Moema,kitnet,1,2,0,70.4,7692
+Tatuapé,apto,3,2,0,70.8,7116
+Pinheiros,kitnet,1,2,0,51.6,4488
+Pinheiros,apto,2,2,1,76.8,6559
+Itaim Bibi,apto,3,1,0,40.9,6547
+Moema,casa,2,1,2,62.2,8524
+Tatuapé,kitnet,1,2,2,117.7,5856
+Tatuapé,apto,1,1,0,20.0,1950
+Tatuapé,apto,2,1,1,64.7,4143
+Moema,apto,1,2,1,65.4,9165
+Moema,casa,3,1,0,55.4,7249
+Itaim Bibi,apto,3,2,2,55.9,9001
+Butantã,kitnet,3,1,2,61.8,5242
+Vila Mariana,apto,3,1,0,55.0,6916
+Itaim Bibi,kitnet,2,1,1,64.4,6014
+Butantã,kitnet,1,1,1,50.2,3324
+Pinheiros,kitnet,2,2,0,100.4,7028
+Itaim Bibi,kitnet,1,2,0,55.0,6724
+Moema,kitnet,3,1,0,71.4,7207
+Butantã,apto,2,1,2,46.6,6218
+Tatuapé,casa,2,2,1,78.7,6262
+Butantã,kitnet,3,2,2,74.7,6388
+Pinheiros,casa,2,2,0,68.4,7450
+Pinheiros,kitnet,2,1,1,39.5,5369
+Butantã,kitnet,1,2,1,45.0,3876
+Tatuapé,kitnet,1,1,1,93.7,5928
+Tatuapé,apto,1,2,2,44.7,2480
+Vila Mariana,casa,2,1,1,72.8,6872
+Vila Mariana,apto,3,1,0,41.1,5163
+Itaim Bibi,apto,1,2,0,80.2,6733
+Vila Mariana,apto,2,2,1,46.3,7455
+Tatuapé,casa,1,2,0,40.7,3297
+Vila Mariana,casa,1,1,0,45.8,5237
+Vila Mariana,kitnet,1,1,0,48.9,4791
+Pinheiros,kitnet,2,1,0,68.1,6549
+Butantã,kitnet,2,1,0,61.4,4641
+Butantã,apto,2,1,1,38.1,4201
+Pinheiros,casa,2,1,1,59.4,7506
+Moema,kitnet,2,1,0,37.1,6858
+Tatuapé,apto,1,1,0,72.9,3886
+Moema,casa,3,1,1,76.5,7459
+Itaim Bibi,kitnet,2,2,0,59.5,6918
+Vila Mariana,kitnet,1,2,2,65.4,6848
+Pinheiros,kitnet,2,1,1,95.0,8294
+Moema,casa,2,2,1,56.8,7849
+Tatuapé,casa,3,2,0,41.1,3840
+Vila Mariana,casa,1,1,0,71.6,5851
+Itaim Bibi,kitnet,3,1,0,37.3,8063
+Pinheiros,casa,2,2,1,55.8,6713
+Pinheiros,casa,1,1,0,48.0,6524
+Tatuapé,apto,2,1,2,46.0,3722
+Tatuapé,casa,3,1,0,55.0,5698
+Vila Mariana,apto,1,1,1,78.0,4924
+Vila Mariana,casa,3,1,1,82.1,8110
+Pinheiros,kitnet,3,1,1,78.5,8046
+Tatuapé,kitnet,3,1,2,66.7,7543
+Moema,casa,1,1,1,54.8,6645
+Pinheiros,kitnet,2,1,2,20.0,5077
+Moema,kitnet,2,2,0,67.4,7028
+Butantã,casa,2,1,2,20.0,4000
+Vila Mariana,kitnet,3,1,1,21.5,5037
+Butantã,casa,1,2,1,56.8,5781
+Vila Mariana,kitnet,2,1,1,65.3,7079
+Vila Mariana,casa,3,1,2,51.0,5432
+Vila Mariana,apto,3,2,0,90.7,7652
+Vila Mariana,apto,2,1,1,69.2,6227
+Pinheiros,kitnet,3,1,0,55.0,5925
+Tatuapé,apto,2,1,1,87.7,6082
+Moema,kitnet,2,1,0,91.3,8908
+Itaim Bibi,apto,2,2,1,70.3,8721
+Moema,casa,1,2,0,44.5,7113
+Moema,casa,1,2,0,49.0,5595
+Moema,casa,3,2,1,31.1,7361
+Pinheiros,apto,1,2,0,59.2,5062
+Itaim Bibi,apto,2,1,1,39.0,6862
+Pinheiros,casa,2,2,0,53.4,6466
+Itaim Bibi,casa,2,2,2,65.2,8924
+Butantã,kitnet,2,2,2,20.3,5661
+Itaim Bibi,casa,3,2,1,34.7,8193
+Moema,apto,3,1,0,49.9,6508
+Vila Mariana,apto,3,1,0,58.9,5187
+Butantã,casa,2,2,2,50.1,5920
+Vila Mariana,casa,3,1,2,54.6,7938
+Moema,kitnet,2,2,2,45.9,7356
+Itaim Bibi,casa,2,2,1,31.0,5608
+Butantã,casa,3,1,1,49.3,7147
+Butantã,apto,3,2,0,55.7,6164
+Pinheiros,apto,1,1,0,53.8,5251
+Butantã,kitnet,3,1,2,62.2,5233
+Pinheiros,casa,3,1,1,68.4,7264
+Tatuapé,casa,3,2,1,73.6,6959
+Butantã,casa,3,1,1,47.3,5822
+Tatuapé,apto,3,2,0,28.5,4211
+Butantã,casa,1,2,2,85.4,5817
+Moema,casa,1,1,2,67.7,6438
+Vila Mariana,apto,1,1,2,40.9,6259
+Vila Mariana,casa,1,1,1,65.6,6083
+Moema,casa,1,2,2,81.4,7321
+Itaim Bibi,apto,2,2,1,94.6,7803
+Moema,casa,1,2,1,65.0,7173
+Itaim Bibi,kitnet,1,1,0,81.2,6542
+Moema,apto,2,1,2,35.8,6340
+Vila Mariana,kitnet,3,1,0,59.3,5370
+Vila Mariana,casa,1,1,2,53.3,4490
+Tatuapé,kitnet,2,1,1,66.9,5236
+Butantã,apto,2,2,0,92.2,5953
+Butantã,kitnet,3,2,1,65.0,8347
+Vila Mariana,casa,1,2,0,41.2,5213
+Moema,kitnet,3,1,1,34.7,6121
+Itaim Bibi,kitnet,1,1,0,92.9,6059
+Tatuapé,apto,1,1,2,70.3,5127
+Pinheiros,apto,1,1,1,69.0,5551
+Tatuapé,apto,3,1,1,53.1,6459
+Pinheiros,casa,1,2,2,65.4,6686
+Pinheiros,kitnet,3,2,1,40.3,5222
+Tatuapé,casa,3,2,1,67.7,5417
+Pinheiros,apto,3,2,0,36.5,5855
+Moema,apto,1,1,1,52.8,6538
+Tatuapé,casa,1,1,2,47.1,3272
+Tatuapé,kitnet,1,1,2,20.0,3422
+Moema,apto,3,2,1,53.1,6923
+Pinheiros,casa,1,2,0,42.0,5166
+Itaim Bibi,casa,2,1,2,55.8,7770
+Butantã,apto,2,1,0,60.0,5970
+Butantã,kitnet,3,1,0,95.4,6757
+Itaim Bibi,kitnet,2,1,2,66.1,7129
+Moema,casa,2,2,2,66.7,9195
+Butantã,kitnet,3,2,2,69.9,6651
+Moema,kitnet,3,2,1,77.4,9342
+Pinheiros,kitnet,2,1,2,69.1,6382
+Butantã,apto,2,1,2,65.6,5642
+Vila Mariana,apto,2,1,0,74.2,5386
+Butantã,casa,3,1,2,20.0,5158
+Moema,apto,2,2,2,101.8,9696
+Butantã,apto,2,1,0,91.8,5358
+Tatuapé,casa,3,2,2,64.3,5989
+Moema,casa,3,1,1,31.7,7238
+Vila Mariana,apto,2,2,2,84.2,6666
+Butantã,apto,1,1,1,46.1,2769
+Pinheiros,apto,1,1,0,70.7,5903
+Moema,casa,2,1,0,34.3,5944
+Moema,kitnet,3,2,1,104.5,9433
+Tatuapé,casa,3,2,2,31.2,5852
+Vila Mariana,apto,3,2,2,61.4,7870
+Tatuapé,casa,1,2,0,20.0,2971
+Moema,apto,2,2,2,59.2,6877
+Vila Mariana,apto,3,1,1,51.5,5834
+Vila Mariana,apto,3,2,1,82.7,8150
+Itaim Bibi,casa,1,1,0,51.5,6154
+Vila Mariana,casa,3,2,1,82.8,7243
+Vila Mariana,casa,1,2,1,39.5,4358
+Tatuapé,casa,1,2,2,54.4,5225
+Vila Mariana,casa,3,1,1,54.8,6266
+Moema,kitnet,3,2,1,69.9,9100
+Vila Mariana,kitnet,3,2,1,67.4,7924
+Moema,apto,2,1,1,74.4,7283
+Itaim Bibi,kitnet,2,1,1,65.3,8220
+Tatuapé,apto,2,2,0,73.2,5508
+Butantã,apto,2,2,2,42.0,5475
+Itaim Bibi,casa,2,2,0,67.8,5882
+Pinheiros,apto,1,1,2,92.2,6088
+Moema,casa,3,1,2,26.4,6359
+Vila Mariana,apto,2,2,2,69.8,6638
+Tatuapé,casa,2,1,0,73.5,5098
+Vila Mariana,kitnet,3,2,0,89.2,7701
+Butantã,kitnet,2,2,0,74.5,5864
+Vila Mariana,apto,2,2,1,62.0,5812
+Tatuapé,casa,1,1,2,68.6,5311
+Pinheiros,casa,1,2,2,45.3,7306
+Butantã,casa,2,2,2,52.2,5285
+Butantã,casa,2,1,2,33.3,4068
+Itaim Bibi,kitnet,3,2,0,89.7,8444
+Moema,casa,3,2,2,69.0,8838
+Pinheiros,apto,3,1,0,41.7,5730
+Itaim Bibi,kitnet,2,2,2,65.4,6779
+Moema,kitnet,1,1,2,83.2,6230
+Butantã,apto,3,2,2,79.9,7912
+Itaim Bibi,casa,3,2,1,41.4,8869
+Tatuapé,kitnet,2,1,1,20.0,4980
+Butantã,casa,3,1,1,67.9,6218
+Itaim Bibi,casa,3,1,1,42.3,6675
+Moema,kitnet,2,2,1,72.4,7523
+Pinheiros,kitnet,1,2,1,79.0,5377
+Pinheiros,casa,1,1,0,82.3,4744
+Moema,apto,3,2,1,94.9,9451
+Tatuapé,casa,2,1,2,84.7,6373
+Pinheiros,kitnet,1,1,2,95.0,8516
+Pinheiros,apto,1,2,0,87.6,6461
+Itaim Bibi,casa,3,2,0,89.3,7893
+Itaim Bibi,casa,1,1,1,59.2,6478
+Pinheiros,apto,1,2,2,34.2,5300
+Tatuapé,casa,2,2,0,109.6,6096
+Pinheiros,kitnet,2,1,0,61.3,6313
+Itaim Bibi,apto,3,2,0,84.6,7866
+Butantã,casa,3,1,0,49.0,5274
+Butantã,kitnet,2,1,0,79.3,5900
+Tatuapé,apto,1,2,2,20.0,4836
+Tatuapé,casa,3,1,2,51.8,5902
+Butantã,apto,2,2,1,58.0,6275
+Tatuapé,casa,3,2,0,69.3,5622
+Moema,casa,2,1,2,81.4,7800
+Itaim Bibi,apto,1,2,0,38.1,7122
+Tatuapé,apto,3,1,0,73.2,4599
+Butantã,casa,1,2,0,84.5,4913
+Tatuapé,kitnet,3,1,1,106.9,7910
+Butantã,apto,3,2,2,74.1,6755
+Pinheiros,kitnet,1,1,1,50.8,5096
+Pinheiros,apto,3,1,1,34.6,6025
+Pinheiros,casa,1,1,1,96.6,6791
+Tatuapé,casa,2,1,2,74.7,6511
+Itaim Bibi,casa,2,1,2,59.6,8326
+Vila Mariana,apto,2,2,1,27.6,5337
+Pinheiros,kitnet,2,2,1,41.4,7015
+Butantã,apto,2,2,1,72.6,6152
+Itaim Bibi,kitnet,2,1,2,67.1,8500
+Tatuapé,casa,3,2,1,21.1,4010
+Moema,casa,1,1,2,72.7,8470
+Moema,apto,3,1,0,28.6,6735
+Pinheiros,casa,1,2,2,87.1,4914
+Vila Mariana,kitnet,1,2,2,64.2,7353
+Butantã,kitnet,3,1,2,50.7,5826
+Moema,kitnet,1,2,2,79.8,7378
+Itaim Bibi,apto,3,2,1,67.1,8128
+Itaim Bibi,casa,1,1,0,86.5,7447
+Vila Mariana,casa,1,1,1,61.6,4538
+Vila Mariana,kitnet,3,2,1,62.8,6622
+Itaim Bibi,kitnet,1,1,0,54.3,5687
+Pinheiros,kitnet,3,2,0,65.3,7024
+Moema,apto,2,1,0,94.0,7407
+Butantã,apto,3,1,1,49.9,6181
+Itaim Bibi,kitnet,3,2,0,73.0,8706
+Itaim Bibi,kitnet,1,1,2,42.4,6686
+Pinheiros,casa,1,1,0,20.0,4588
+Vila Mariana,apto,2,1,2,64.1,6250
+Vila Mariana,apto,3,2,2,67.4,6706
+Vila Mariana,kitnet,1,2,1,57.8,6978
+Vila Mariana,casa,1,2,1,30.1,5444
+Butantã,casa,2,1,2,66.1,6873
+Pinheiros,kitnet,1,2,0,65.3,6687
+Itaim Bibi,apto,1,1,2,42.2,5998
+Tatuapé,kitnet,1,1,1,32.9,1510
+Tatuapé,apto,3,1,0,55.0,4165
+Vila Mariana,kitnet,3,2,2,73.1,8201
+Vila Mariana,kitnet,1,1,1,68.3,5369
+Tatuapé,casa,2,2,0,42.4,4136
+Vila Mariana,apto,2,1,1,62.7,3986
+Itaim Bibi,apto,2,1,1,77.7,7822
+Pinheiros,apto,3,2,2,36.5,6131
+Pinheiros,kitnet,2,2,1,61.3,6158
+Itaim Bibi,apto,3,1,2,86.8,9784
+Tatuapé,casa,1,1,2,34.5,2912
+Pinheiros,casa,1,1,0,83.1,5246
+Butantã,kitnet,2,2,1,92.4,6620
+Pinheiros,kitnet,3,1,0,55.6,7265
+Butantã,casa,2,1,1,53.1,4572
+Itaim Bibi,kitnet,2,1,0,80.7,8794
+Butantã,casa,1,1,1,56.3,3265
+Butantã,casa,2,1,0,20.0,2437
+Vila Mariana,apto,3,2,1,58.0,5709
+Itaim Bibi,apto,2,2,1,69.4,6660
+Vila Mariana,casa,1,1,2,74.8,6213
+Moema,apto,3,2,2,42.4,7189
+Vila Mariana,apto,3,1,1,54.6,5310
+Moema,casa,2,2,1,79.5,8390
+Butantã,casa,2,1,2,58.8,6023
+Moema,kitnet,2,1,2,29.4,7323
+Pinheiros,kitnet,3,1,0,84.8,8143
+Vila Mariana,kitnet,2,2,1,55.7,5437
+Itaim Bibi,apto,1,2,2,81.8,8176
+Tatuapé,casa,1,2,0,32.1,3860
+Tatuapé,kitnet,3,1,0,57.6,4848
+Moema,casa,3,1,2,70.2,8538
+Vila Mariana,casa,3,1,2,58.3,5846
+Tatuapé,casa,1,1,1,36.3,2988
+Tatuapé,casa,1,1,1,20.0,3297
+Butantã,casa,2,2,1,90.5,7620
+Tatuapé,apto,1,2,1,65.0,5670
+Butantã,casa,2,1,2,83.3,6629
+Itaim Bibi,apto,2,1,2,78.6,8221
+Pinheiros,kitnet,1,1,1,71.9,5898
+Moema,kitnet,1,2,0,53.6,5149
+Moema,casa,2,2,0,69.8,6825
+Pinheiros,casa,3,2,0,88.7,7317
+Vila Mariana,kitnet,2,1,1,61.7,6410
+Itaim Bibi,casa,1,1,1,98.0,8497
+Moema,casa,1,2,2,30.0,6790
+Pinheiros,apto,2,1,2,27.9,6582
+Vila Mariana,apto,1,1,1,79.8,5851
+Vila Mariana,apto,3,1,0,43.6,5022
+Vila Mariana,apto,3,1,2,100.9,8086
+Pinheiros,kitnet,1,2,2,86.7,6523
+Itaim Bibi,casa,3,1,1,91.8,9479
+Itaim Bibi,kitnet,1,2,0,77.7,6943
+Moema,casa,2,1,1,41.6,6468
+Tatuapé,kitnet,3,1,1,26.8,5159
+Butantã,casa,1,2,2,89.9,5404
+Butantã,casa,1,2,1,30.0,4671
+Pinheiros,kitnet,1,2,1,91.7,5873
+Butantã,casa,3,2,1,73.4,6847
+Pinheiros,apto,1,2,1,58.5,5882
+Pinheiros,casa,2,2,0,68.8,7327
+Moema,casa,2,2,0,69.3,6380
+Itaim Bibi,casa,3,2,2,56.0,7354
+Pinheiros,kitnet,3,1,1,88.5,8455
+Vila Mariana,kitnet,3,1,2,87.8,7422
+Vila Mariana,casa,3,1,1,63.1,6621
+Moema,apto,2,1,2,48.0,6512
+Butantã,casa,2,1,0,86.1,6314
+Vila Mariana,kitnet,1,2,0,20.0,4339
+Vila Mariana,apto,3,2,1,68.9,7459
+Pinheiros,kitnet,2,1,2,74.8,6108
+Vila Mariana,casa,2,1,0,43.4,5504
+Pinheiros,kitnet,1,2,1,79.5,5791
+Tatuapé,kitnet,1,1,0,59.5,3357
+Moema,kitnet,2,2,2,49.1,6380
+Moema,kitnet,2,2,1,79.3,7953
+Itaim Bibi,apto,2,1,1,38.3,7500
+Tatuapé,casa,1,2,0,77.4,5003
+Pinheiros,apto,1,1,0,20.4,3757
+Moema,apto,3,1,1,65.7,8059
+Vila Mariana,apto,2,2,1,60.9,6409
+Itaim Bibi,kitnet,2,2,2,49.2,7729
+Vila Mariana,casa,1,2,0,67.8,5676
+Pinheiros,kitnet,2,2,0,58.4,5520
+Itaim Bibi,apto,2,1,0,81.1,7718
+Moema,apto,2,2,0,71.2,6132
+Pinheiros,kitnet,3,1,0,69.1,7432
+Itaim Bibi,kitnet,3,1,1,65.8,7293
+Vila Mariana,kitnet,1,2,0,50.6,5959
+Butantã,apto,2,1,0,54.0,2663
+Itaim Bibi,casa,3,1,2,65.0,9788
+Moema,apto,2,1,1,56.5,5685
+Tatuapé,kitnet,1,1,2,82.2,4207
+Tatuapé,apto,1,2,2,61.9,5195
+Tatuapé,kitnet,3,2,0,67.5,6421
+Pinheiros,apto,3,2,1,31.9,6332
+Vila Mariana,apto,1,1,2,78.9,6780
+Vila Mariana,kitnet,2,2,1,48.4,5314
+Itaim Bibi,casa,2,2,2,39.1,7055
+Pinheiros,casa,1,1,2,92.9,6646
+Tatuapé,casa,2,2,1,74.0,5288
+Itaim Bibi,apto,3,1,0,79.5,6739
+Butantã,kitnet,1,2,1,69.1,5053
+Vila Mariana,casa,1,2,2,58.1,5752
+Pinheiros,apto,2,2,1,54.4,7395
+Itaim Bibi,casa,1,1,2,75.6,6339
+Pinheiros,apto,3,2,1,82.7,7568
+Pinheiros,apto,2,2,1,58.6,7622
+Butantã,casa,1,2,2,101.5,6578
+Butantã,apto,2,2,0,56.1,5521
+Itaim Bibi,apto,3,1,1,32.1,7526
+Butantã,casa,2,1,0,25.6,4133
+Pinheiros,casa,2,1,1,26.2,6744
+Pinheiros,apto,1,1,2,51.7,5725
+Vila Mariana,kitnet,1,1,2,55.4,4552
+Pinheiros,kitnet,1,1,0,73.7,6221
+Butantã,apto,1,2,2,59.4,4630
+Pinheiros,apto,1,1,2,76.9,6318
+Tatuapé,casa,2,1,2,60.9,5523
+Butantã,kitnet,1,2,1,60.3,4151
+Itaim Bibi,apto,2,2,0,48.4,6645
+Vila Mariana,kitnet,3,1,1,88.5,7834
+Moema,apto,3,2,2,29.4,7142
+Tatuapé,apto,2,1,1,66.0,5859
+Itaim Bibi,kitnet,1,1,1,56.4,5702
+Moema,apto,2,1,0,75.6,6477
+Vila Mariana,apto,3,2,1,59.6,8512
+Itaim Bibi,kitnet,2,1,1,60.2,6081
+Butantã,casa,3,2,1,54.7,6019
+Moema,casa,3,2,2,87.9,10817
+Pinheiros,kitnet,1,1,0,60.0,5279
+Tatuapé,casa,1,2,0,99.4,6559
+Butantã,casa,1,1,2,65.4,5385
+Butantã,apto,1,2,2,60.4,5107
+Moema,casa,1,1,0,57.1,5908
+Pinheiros,apto,2,2,2,71.3,5643
+Tatuapé,kitnet,2,1,0,48.2,3992
+Itaim Bibi,casa,2,1,0,62.9,7273
+Butantã,apto,3,2,0,60.2,6090
+Pinheiros,kitnet,3,2,1,66.5,9568
+Vila Mariana,apto,3,1,0,67.0,6735
+Moema,apto,3,1,0,68.0,8245
+Pinheiros,kitnet,2,1,2,61.9,7589
+Butantã,kitnet,3,2,1,91.4,7574
+Pinheiros,kitnet,2,2,1,68.5,6885
+Tatuapé,casa,1,1,2,112.1,5999
+Butantã,kitnet,1,2,0,61.0,4249
+Itaim Bibi,apto,1,1,2,79.2,7831
+Itaim Bibi,casa,3,2,1,45.5,7828
+Vila Mariana,apto,1,1,2,88.0,6840
+Itaim Bibi,casa,3,1,2,45.9,7070
+Moema,apto,3,2,0,69.1,8291
+Pinheiros,apto,2,1,0,54.7,7083
+Moema,casa,3,1,1,69.0,7892
+Moema,kitnet,3,1,1,55.3,9134
+Tatuapé,casa,3,2,0,44.2,5357
+Vila Mariana,casa,2,2,0,54.6,5792
+Moema,casa,1,1,2,90.8,7718
+Moema,casa,1,2,2,69.3,7131
+Vila Mariana,apto,3,2,0,34.2,4342
+Itaim Bibi,casa,3,1,2,81.9,9661
+Vila Mariana,kitnet,2,2,0,42.2,7219
+Itaim Bibi,apto,1,1,1,74.9,7430
+Vila Mariana,casa,3,1,0,71.1,7065
+Butantã,kitnet,1,2,1,72.3,5024
+Moema,casa,2,1,0,97.1,8838
+Pinheiros,apto,2,1,0,43.4,5471
+Pinheiros,casa,1,1,0,72.2,5880
+Itaim Bibi,kitnet,1,1,0,85.2,5804
+Butantã,apto,1,2,0,47.1,3691
+Vila Mariana,casa,3,2,1,45.1,6846
+Tatuapé,kitnet,3,2,2,54.3,6853
+Tatuapé,apto,2,2,0,66.5,5943
+Pinheiros,casa,2,1,2,31.8,4490
+Moema,kitnet,2,1,1,71.0,6249
+Itaim Bibi,casa,2,1,0,31.8,6622
+Butantã,casa,2,2,0,85.9,5379
+Butantã,apto,2,1,2,70.3,6424
+Pinheiros,kitnet,2,2,0,98.3,6244
+Vila Mariana,casa,2,1,1,73.4,6223
+Moema,kitnet,2,2,0,53.9,6990
+Pinheiros,casa,3,2,2,44.0,7605
+Tatuapé,casa,1,1,2,64.8,3818
+Pinheiros,casa,1,1,0,59.4,3708
+Pinheiros,kitnet,2,1,0,83.7,6849
+Pinheiros,kitnet,1,1,1,41.4,5464
+Vila Mariana,apto,1,2,1,100.4,7619
+Itaim Bibi,kitnet,3,2,1,85.5,8878
+Vila Mariana,kitnet,2,1,1,55.9,6398
+Butantã,apto,2,2,0,96.0,6667
+Vila Mariana,apto,3,2,0,44.3,7288
+Pinheiros,kitnet,1,2,1,64.1,6079
+Moema,kitnet,2,2,2,34.5,5650
+Itaim Bibi,casa,1,1,2,96.9,7954
+Pinheiros,casa,2,1,1,27.1,5382
+Pinheiros,kitnet,1,2,2,31.2,5850
+Butantã,apto,3,1,1,47.3,4193
+Tatuapé,apto,1,2,1,86.4,5144
+Moema,kitnet,1,2,1,79.1,8067
+Itaim Bibi,apto,1,2,1,62.4,6990
+Butantã,casa,1,1,0,80.4,4467
+Moema,casa,1,1,2,57.7,8156
+Tatuapé,casa,1,2,0,68.4,3697
+Pinheiros,apto,3,2,0,93.0,9078
+Vila Mariana,kitnet,3,1,1,55.1,7269
+Tatuapé,kitnet,3,2,0,44.7,5060
+Vila Mariana,apto,3,2,0,69.4,6956
+Butantã,casa,3,2,1,74.8,6615
+Butantã,apto,2,2,0,62.2,5412
+Vila Mariana,apto,2,2,0,80.1,6126
+Moema,kitnet,2,2,1,56.0,7037
+Vila Mariana,casa,1,2,1,62.6,5392
+Tatuapé,casa,2,1,2,67.5,5166
+Pinheiros,kitnet,3,2,0,65.7,7024
+Moema,kitnet,1,1,2,92.3,5875
+Tatuapé,kitnet,3,2,1,67.4,6300
+Tatuapé,kitnet,3,1,1,53.9,4996
+Tatuapé,casa,2,1,2,70.6,4023
+Vila Mariana,casa,2,1,0,80.2,5925
+Itaim Bibi,apto,1,1,2,75.5,7060
+Itaim Bibi,kitnet,1,2,0,74.4,8151
+Itaim Bibi,apto,1,2,1,30.0,5670
+Moema,kitnet,3,2,0,20.0,7234
+Butantã,kitnet,2,2,1,85.5,7371
+Moema,apto,1,2,2,68.8,6861
+Itaim Bibi,kitnet,2,2,2,59.6,7949
+Vila Mariana,kitnet,3,1,2,73.9,8700
+Vila Mariana,casa,1,2,2,98.5,7240
+Tatuapé,casa,1,1,1,88.3,5347
+Tatuapé,kitnet,3,2,1,79.2,6252
+Itaim Bibi,casa,3,2,2,42.3,8718
+Vila Mariana,apto,2,2,0,44.9,5514
+Butantã,apto,3,2,2,20.0,3834
+Vila Mariana,kitnet,2,1,1,72.7,5996
+Tatuapé,casa,2,2,1,82.2,5019
+Butantã,apto,1,2,1,83.8,5604
+Tatuapé,kitnet,3,1,2,73.5,5572
+Itaim Bibi,apto,3,1,2,56.9,8590
+Butantã,apto,1,2,0,48.7,4197
+Butantã,casa,3,2,2,43.5,5006
+Moema,apto,3,2,2,56.7,8008
+Moema,casa,1,2,2,40.4,7010
+Vila Mariana,kitnet,1,1,2,95.1,7472
+Tatuapé,kitnet,2,1,2,34.0,3697
+Butantã,kitnet,2,2,0,56.1,4204
+Moema,apto,2,1,1,21.3,7499
+Moema,apto,2,1,2,65.9,7570
+Pinheiros,kitnet,3,1,2,60.0,7372
+Moema,casa,2,1,1,52.9,6294
+Vila Mariana,kitnet,1,2,2,41.3,5513
+Butantã,apto,1,1,2,60.0,6074
+Tatuapé,kitnet,3,1,0,49.1,5177
+Pinheiros,casa,3,1,2,57.3,8070
+Pinheiros,kitnet,2,1,1,99.1,7498
+Butantã,apto,1,2,1,63.4,4083
+Butantã,casa,1,2,0,70.7,4273
+Itaim Bibi,kitnet,1,1,2,50.7,5727
+Pinheiros,casa,1,1,0,44.3,5004
+Pinheiros,casa,2,2,1,59.5,7665
+Vila Mariana,apto,1,2,0,110.1,6931
+Itaim Bibi,kitnet,1,2,2,54.3,6881
+Itaim Bibi,apto,1,2,1,67.2,6585
+Butantã,casa,3,2,0,43.4,5687
+Pinheiros,kitnet,2,1,0,20.0,3809
+Pinheiros,casa,1,1,2,44.2,4519
+Butantã,casa,3,1,0,107.6,7649
+Butantã,apto,2,1,2,71.9,5535
+Itaim Bibi,casa,1,2,0,92.8,7447
+Pinheiros,kitnet,3,2,2,53.0,7356
+Pinheiros,apto,3,2,1,20.0,6781
+Pinheiros,casa,2,2,0,37.8,5867
+Itaim Bibi,casa,1,1,2,67.9,6544
+Butantã,apto,1,1,0,64.8,3677
+Tatuapé,kitnet,2,2,2,59.8,5438
+Vila Mariana,casa,3,1,1,49.4,6524
+Itaim Bibi,apto,3,2,1,78.8,8935
+Pinheiros,casa,3,2,0,50.0,6700
+Itaim Bibi,kitnet,3,1,0,66.2,7922
+Butantã,kitnet,2,2,0,63.9,5288
+Itaim Bibi,casa,2,2,2,52.6,7155
+Butantã,casa,3,1,0,42.4,5857
+Tatuapé,kitnet,3,1,0,51.5,4658
+Moema,apto,2,1,0,97.5,8028
+Vila Mariana,apto,1,1,2,82.2,4519
+Butantã,casa,3,1,2,80.4,6540
+Itaim Bibi,casa,1,2,2,44.3,5948
+Vila Mariana,casa,2,1,0,31.2,3954
+Butantã,apto,2,1,1,81.9,7696
+Pinheiros,kitnet,3,1,2,78.1,8042
+Tatuapé,casa,1,1,0,62.7,4963
+Vila Mariana,kitnet,2,1,2,52.6,6662
+Tatuapé,kitnet,2,1,0,30.7,4508
+Moema,kitnet,1,2,2,77.3,7461
+Moema,casa,1,2,1,83.7,8797
+Itaim Bibi,casa,2,1,2,46.4,7870
+Itaim Bibi,apto,3,2,1,44.7,7976
+Moema,casa,2,2,2,84.8,8755
+Butantã,kitnet,3,2,2,47.2,6005
+Moema,casa,3,2,0,95.6,9009
+Pinheiros,apto,3,1,1,57.8,6900
+Pinheiros,apto,3,2,1,52.3,7473
+Vila Mariana,casa,3,2,1,60.9,8419
+Itaim Bibi,casa,3,1,2,52.3,7104
+Tatuapé,kitnet,1,2,0,82.5,5890
+Moema,kitnet,3,1,0,77.7,7737
+Moema,casa,1,1,1,81.8,8069
+Butantã,casa,3,1,2,63.7,5944
+Tatuapé,kitnet,2,1,0,50.9,4656
+Pinheiros,apto,3,2,1,59.8,7267
+Pinheiros,casa,2,2,2,51.5,5360
+Moema,casa,2,2,1,89.3,9771
+Moema,kitnet,2,1,1,80.0,6947
+Butantã,kitnet,2,1,1,58.2,5112
+Tatuapé,casa,2,2,2,41.5,4202
+Itaim Bibi,casa,2,1,2,90.8,7455
+Tatuapé,kitnet,2,2,1,62.7,5218
+Moema,casa,2,2,1,57.4,6947
+Tatuapé,apto,1,1,0,91.0,3895
+Tatuapé,apto,2,2,1,49.8,4966
+Itaim Bibi,kitnet,1,2,2,53.6,5923
+Vila Mariana,casa,1,1,1,55.4,5162
+Tatuapé,apto,2,2,2,33.7,4708
+Vila Mariana,kitnet,1,2,1,66.3,3805
+Itaim Bibi,kitnet,2,1,2,44.8,6724
+Itaim Bibi,casa,3,1,2,48.6,8332
+Tatuapé,apto,3,2,1,45.9,4727
+Butantã,kitnet,1,2,2,48.3,5157
+Tatuapé,apto,2,1,2,43.2,5043
+Pinheiros,casa,2,1,0,64.9,5334
+Tatuapé,kitnet,3,2,0,56.9,5597
+Itaim Bibi,casa,2,1,2,61.0,8289
+Pinheiros,apto,3,1,1,107.1,7711
+Pinheiros,apto,3,1,0,56.9,6442
+Vila Mariana,casa,1,1,2,72.1,6783
+Butantã,kitnet,2,1,1,74.4,4845
+Tatuapé,kitnet,2,1,0,58.7,4930
+Butantã,apto,2,1,0,65.5,4101
+Butantã,apto,2,1,2,60.4,5284
+Tatuapé,kitnet,1,2,2,64.1,5379
+Itaim Bibi,apto,2,1,1,48.3,5024
+Vila Mariana,apto,3,2,2,50.1,6576
+Pinheiros,casa,1,1,0,60.3,5654
+Moema,casa,2,1,2,20.6,6398
+Tatuapé,apto,3,2,0,89.9,6180
+Vila Mariana,apto,2,2,1,103.2,6713
+Vila Mariana,apto,3,1,2,63.4,7505
+Pinheiros,casa,2,2,1,73.3,6841
+Itaim Bibi,apto,1,1,2,81.6,7985
+Butantã,apto,3,1,1,33.5,5309
+Itaim Bibi,casa,1,1,0,78.6,6499
+Moema,apto,1,2,0,51.5,7102
+Tatuapé,apto,1,2,0,105.8,5199
+Butantã,casa,3,2,0,56.2,6739
+Tatuapé,apto,3,1,0,78.2,6902
+Vila Mariana,casa,1,1,2,56.4,6233
+Moema,casa,2,2,0,103.9,8374
+Itaim Bibi,casa,2,2,0,49.8,9130
+Moema,casa,1,2,2,83.3,7921
+Butantã,kitnet,3,2,1,72.5,6769
+Butantã,apto,3,1,0,68.1,5725
+Pinheiros,apto,2,2,2,64.6,6234
+Itaim Bibi,apto,2,2,0,46.7,8036
+Moema,kitnet,3,2,2,20.0,6842
+Tatuapé,kitnet,2,1,0,81.5,5980
+Vila Mariana,kitnet,2,2,1,50.2,6934
+Moema,casa,2,2,1,83.4,8684
+Vila Mariana,casa,2,2,1,67.0,5957
+Pinheiros,casa,2,1,2,84.0,7047
+Itaim Bibi,apto,1,2,1,76.0,5339
+Pinheiros,casa,2,2,1,20.0,5407
+Moema,casa,2,1,0,72.3,7811
+Vila Mariana,apto,1,2,1,53.1,5204
+Pinheiros,kitnet,2,1,2,83.3,6827
+Moema,kitnet,2,1,2,71.8,7517
+Butantã,apto,2,2,1,72.1,6834
+Butantã,kitnet,3,1,1,54.6,5593
+Moema,apto,2,1,1,41.7,8039
+Tatuapé,kitnet,2,1,2,51.3,4484
+Butantã,kitnet,1,2,2,24.0,4194
+Vila Mariana,apto,3,1,1,48.2,5899
+Butantã,casa,1,1,2,30.7,5481
+Pinheiros,apto,2,2,0,31.2,5681
+Vila Mariana,kitnet,1,1,2,62.3,7272
+Moema,apto,3,2,2,70.7,8484
+Pinheiros,apto,2,2,2,59.4,8203
+Itaim Bibi,apto,1,2,1,50.0,6795
+Butantã,apto,1,2,2,41.1,5201
+Moema,apto,3,2,1,53.7,7034
+Butantã,casa,2,2,2,43.6,5585
+Itaim Bibi,casa,1,2,0,58.7,5807
+Itaim Bibi,casa,3,2,1,29.6,7693
+Itaim Bibi,apto,1,2,1,74.0,6206
+Tatuapé,apto,2,2,2,48.7,5185
+Pinheiros,kitnet,1,1,2,67.5,7002
+Butantã,apto,1,2,2,77.7,6070
+Tatuapé,apto,1,1,0,66.6,3110
+Butantã,casa,1,1,1,76.0,3361
+Butantã,apto,3,1,0,20.0,4698
+Vila Mariana,casa,2,1,2,50.1,7169
+Moema,kitnet,3,1,0,82.1,7391
+Vila Mariana,apto,1,2,1,70.2,7583
+Pinheiros,kitnet,3,1,1,97.0,8104
+Butantã,casa,1,1,2,94.1,4156
+Butantã,casa,1,1,2,66.0,3631
+Butantã,casa,1,1,2,55.0,5165
+Butantã,casa,3,1,1,40.8,5329
+Tatuapé,apto,3,2,0,50.5,6600
+Tatuapé,apto,3,1,2,51.8,4697
+Butantã,kitnet,3,1,0,48.1,5239
+Tatuapé,apto,1,1,1,41.6,3654
+Tatuapé,kitnet,3,2,1,68.0,6127
+Vila Mariana,casa,2,1,1,93.9,6612
+Itaim Bibi,kitnet,2,1,2,78.7,7870
+Itaim Bibi,casa,2,1,0,53.6,6946
+Itaim Bibi,casa,2,1,1,80.3,8150
+Moema,casa,1,1,0,66.9,6510

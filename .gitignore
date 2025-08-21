@@ -1,0 +1,54 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# --- Virtualenv ---
+venv/
+.env/
+.venv/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert/
+
+# --- Logs e caches ---
+*.log
+*.tmp
+*.out
+*.err
+.cache/
+pytest_cache/
+
+# --- Dados e artefatos ---
+data/raw/
+data/processed/
+data/external/
+data/interim/
+artifacts/
+models/
+outputs/
+
+# --- Configuração local ---
+.DS_Store
+*.swp
+*.swo
+
+# --- Pre-commit e IDE ---
+.mypy_cache/
+coverage/
+*.coverage
+*.cover
+*.py,cover
+.pytest_cache/
+.vscode/
+.idea/
+
+# --- CSVs e exports automáticos ---
+*.csv
+*.tsv
+*.xlsx
+*.xls

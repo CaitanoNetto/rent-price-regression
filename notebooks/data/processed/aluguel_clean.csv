@@ -1,0 +1,4901 @@
+valor_aluguel,quartos,banheiros,vagas,area,bairro,tipo
+4872,2,1,0,23.5,Pinheiros,apto
+6840,1,2,2,47.4,Itaim Bibi,apto
+4246,2,2,0,40.2,Tatuapé,casa
+8392,2,2,2,62.4,Moema,kitnet
+6439,1,2,1,44.2,Moema,kitnet
+4630,3,1,0,50.4,Butantã,kitnet
+5407,2,1,1,51.0,Pinheiros,casa
+6516,1,1,0,59.0,Itaim Bibi,kitnet
+7326,3,2,2,49.4,Vila Mariana,kitnet
+4812,1,2,0,38.8,Pinheiros,apto
+4446,2,2,1,61.7,Tatuapé,kitnet
+6841,2,2,0,81.3,Butantã,apto
+8208,2,1,1,62.6,Itaim Bibi,casa
+6444,3,2,1,47.8,Itaim Bibi,kitnet
+9098,3,2,0,57.5,Itaim Bibi,casa
+6633,2,2,2,20.0,Itaim Bibi,kitnet
+5768,3,2,0,57.2,Tatuapé,apto
+7770,3,2,0,52.0,Pinheiros,casa
+6562,3,1,1,41.3,Butantã,kitnet
+7551,2,2,0,45.0,Moema,casa
+4147,1,1,1,51.8,Tatuapé,kitnet
+6595,1,2,2,79.8,Moema,casa
+5034,2,2,0,81.8,Vila Mariana,kitnet
+5646,2,2,1,41.4,Butantã,casa
+7063,1,1,0,49.6,Itaim Bibi,kitnet
+8170,3,2,0,76.2,Moema,apto
+7741,3,2,0,62.9,Itaim Bibi,apto
+5189,3,1,1,61.9,Tatuapé,kitnet
+8282,1,2,2,70.7,Moema,apto
+6917,1,2,2,48.1,Moema,apto
+5935,1,2,0,87.3,Vila Mariana,kitnet
+9425,3,1,2,60.0,Pinheiros,casa
+3639,2,2,1,42.9,Tatuapé,apto
+6101,3,1,1,55.4,Butantã,apto
+6900,2,2,2,84.6,Pinheiros,apto
+5119,2,2,1,51.5,Butantã,kitnet
+7689,2,1,0,79.0,Itaim Bibi,casa
+7300,3,2,1,47.5,Vila Mariana,kitnet
+4532,2,1,2,44.7,Tatuapé,apto
+7102,2,2,2,73.2,Pinheiros,casa
+6952,3,1,0,42.5,Itaim Bibi,apto
+7630,2,2,2,76.5,Itaim Bibi,casa
+8217,3,1,0,67.0,Moema,casa
+6301,2,1,2,42.5,Pinheiros,kitnet
+5805,3,1,0,58.6,Butantã,casa
+6815,2,2,0,49.0,Moema,kitnet
+5455,2,1,2,67.0,Butantã,casa
+8673,1,1,1,97.8,Itaim Bibi,apto
+7595,2,1,0,52.6,Itaim Bibi,kitnet
+7752,1,1,0,70.7,Itaim Bibi,casa
+5913,2,1,0,60.5,Vila Mariana,apto
+8997,3,2,0,60.5,Moema,kitnet
+7368,2,2,2,56.7,Moema,kitnet
+6525,2,2,0,42.9,Moema,apto
+6857,1,2,0,66.7,Pinheiros,kitnet
+6801,3,2,2,54.2,Tatuapé,kitnet
+5825,2,1,2,41.9,Pinheiros,kitnet
+7171,2,2,0,80.3,Itaim Bibi,apto
+6496,1,1,1,62.0,Itaim Bibi,casa
+4115,1,2,1,55.4,Butantã,casa
+8784,1,1,1,86.8,Itaim Bibi,casa
+7406,3,2,0,23.3,Moema,casa
+6251,3,1,2,85.5,Butantã,casa
+5336,1,1,2,42.4,Moema,casa
+5004,1,1,2,64.2,Vila Mariana,kitnet
+5700,3,2,2,48.2,Butantã,casa
+6113,2,1,0,41.5,Moema,apto
+7280,1,1,1,86.3,Pinheiros,apto
+7741,2,1,2,97.1,Moema,kitnet
+8699,1,2,1,55.6,Itaim Bibi,kitnet
+5347,1,2,2,66.7,Vila Mariana,casa
+6407,2,2,1,61.1,Moema,apto
+8157,3,1,2,20.0,Itaim Bibi,apto
+6880,1,2,1,67.5,Moema,casa
+6069,2,1,2,45.5,Vila Mariana,apto
+5725,3,1,1,20.0,Vila Mariana,apto
+5193,3,1,0,52.8,Tatuapé,kitnet
+8072,3,1,1,97.0,Itaim Bibi,casa
+6299,1,2,0,75.8,Moema,casa
+7872,1,2,0,84.0,Pinheiros,apto
+8077,1,1,1,59.7,Itaim Bibi,casa
+4063,1,1,1,62.4,Tatuapé,casa
+5204,1,2,1,25.7,Itaim Bibi,casa
+6093,2,1,1,45.7,Pinheiros,kitnet
+7195,2,2,1,78.1,Vila Mariana,apto
+7517,2,1,0,61.2,Itaim Bibi,apto
+4899,1,2,0,67.3,Itaim Bibi,casa
+9706,1,2,2,62.7,Moema,kitnet
+4983,2,1,2,51.4,Butantã,apto
+7188,1,2,1,92.1,Moema,kitnet
+6370,3,1,0,62.7,Butantã,casa
+8013,3,1,1,93.9,Vila Mariana,apto
+6239,3,1,2,35.5,Vila Mariana,casa
+7377,1,1,2,63.7,Itaim Bibi,apto
+4674,2,2,0,52.1,Tatuapé,kitnet
+7705,3,1,2,62.8,Pinheiros,apto
+9315,3,1,1,84.4,Itaim Bibi,casa
+5802,1,2,0,67.6,Vila Mariana,casa
+9365,3,2,1,84.4,Itaim Bibi,apto
+7112,2,2,0,46.6,Pinheiros,casa
+5629,2,2,0,43.5,Itaim Bibi,apto
+6971,2,1,2,60.3,Itaim Bibi,casa
+8698,3,2,2,59.2,Itaim Bibi,kitnet
+3505,1,1,1,56.3,Tatuapé,kitnet
+6908,2,2,2,40.8,Moema,apto
+5963,2,2,1,52.7,Vila Mariana,casa
+6092,1,2,0,88.5,Itaim Bibi,kitnet
+3869,1,1,1,60.3,Tatuapé,kitnet
+7236,2,1,0,73.0,Moema,apto
+6666,3,2,2,71.2,Tatuapé,apto
+4850,2,1,1,43.5,Tatuapé,apto
+8300,3,2,2,67.3,Pinheiros,apto
+8046,2,2,2,98.6,Pinheiros,casa
+5097,2,1,1,65.0,Vila Mariana,kitnet
+6488,1,2,2,78.0,Pinheiros,apto
+7718,2,2,2,73.9,Moema,kitnet
+7256,1,2,2,66.1,Itaim Bibi,casa
+5965,3,1,0,63.7,Tatuapé,casa
+7052,1,1,1,70.9,Moema,kitnet
+7217,3,1,2,75.3,Butantã,apto
+3381,1,1,2,33.0,Tatuapé,kitnet
+7655,2,1,1,64.9,Pinheiros,apto
+6728,1,1,0,56.3,Itaim Bibi,casa
+3755,1,1,0,52.2,Tatuapé,kitnet
+6860,3,1,1,85.9,Tatuapé,casa
+3620,1,2,1,45.3,Tatuapé,apto
+3076,2,2,2,32.1,Tatuapé,casa
+7092,3,2,0,75.9,Pinheiros,casa
+4646,2,1,1,31.6,Tatuapé,apto
+5607,1,2,0,21.4,Itaim Bibi,kitnet
+7035,2,2,2,78.2,Vila Mariana,apto
+4017,2,1,0,63.2,Tatuapé,casa
+4419,1,2,0,69.5,Pinheiros,casa
+6974,1,1,0,51.2,Moema,apto
+6203,2,2,0,32.3,Moema,kitnet
+4045,2,1,1,36.3,Butantã,casa
+4899,1,2,1,54.6,Vila Mariana,apto
+6140,2,1,1,34.6,Vila Mariana,casa
+8689,2,2,2,66.1,Moema,casa
+3749,1,2,1,50.8,Butantã,casa
+5843,2,1,0,63.7,Butantã,kitnet
+6977,3,1,1,63.1,Pinheiros,casa
+5944,2,1,2,67.7,Vila Mariana,kitnet
+7365,2,1,1,70.0,Itaim Bibi,casa
+5867,3,1,0,53.1,Pinheiros,casa
+4854,2,2,2,63.7,Butantã,apto
+6663,1,2,2,64.7,Vila Mariana,casa
+3823,2,2,0,20.0,Butantã,apto
+7182,2,2,1,72.9,Vila Mariana,kitnet
+7820,2,2,1,63.0,Moema,kitnet
+4677,1,1,0,71.3,Tatuapé,kitnet
+3291,1,2,0,34.3,Pinheiros,kitnet
+4317,2,1,2,53.7,Tatuapé,apto
+5801,3,2,1,38.2,Tatuapé,apto
+7727,3,1,2,74.9,Itaim Bibi,kitnet
+5255,3,1,1,31.9,Butantã,casa
+8134,2,2,2,70.7,Moema,apto
+8110,2,2,0,47.4,Moema,kitnet
+7563,2,2,1,41.4,Moema,casa
+6063,2,1,0,78.1,Itaim Bibi,apto
+7247,2,2,0,79.0,Vila Mariana,kitnet
+7791,1,2,2,74.4,Vila Mariana,apto
+7641,3,2,1,55.4,Pinheiros,apto
+4786,1,2,1,55.9,Pinheiros,casa
+6559,2,1,2,47.0,Pinheiros,casa
+8677,2,1,1,63.4,Itaim Bibi,kitnet
+7834,3,1,2,49.4,Itaim Bibi,casa
+9275,3,2,2,51.3,Itaim Bibi,apto
+7488,2,2,2,72.0,Moema,apto
+9709,3,2,2,83.7,Itaim Bibi,apto
+5347,3,2,0,68.0,Pinheiros,casa
+5816,3,1,0,95.9,Butantã,apto
+3772,1,1,1,45.9,Tatuapé,casa
+4407,3,1,1,23.2,Butantã,kitnet
+5988,2,1,2,74.3,Pinheiros,kitnet
+6237,1,2,2,44.6,Moema,casa
+8200,3,2,0,54.5,Itaim Bibi,kitnet
+6769,3,2,0,24.6,Moema,kitnet
+6709,2,2,0,42.0,Moema,casa
+5984,2,1,1,30.0,Pinheiros,kitnet
+6965,2,2,1,51.3,Moema,apto
+5751,1,1,0,52.1,Vila Mariana,kitnet
+6563,3,2,2,61.8,Vila Mariana,apto
+8986,1,2,0,84.8,Itaim Bibi,kitnet
+6597,2,2,1,73.5,Tatuapé,kitnet
+3642,1,2,2,27.6,Tatuapé,casa
+7633,3,1,0,72.2,Moema,apto
+6732,3,2,2,62.2,Butantã,casa
+7420,2,2,2,58.0,Pinheiros,casa
+8662,2,2,2,59.5,Moema,kitnet
+5750,3,1,0,64.1,Pinheiros,kitnet
+7735,3,1,1,46.2,Moema,casa
+4097,3,2,0,56.4,Butantã,kitnet
+6969,1,1,1,83.7,Moema,casa
+6541,2,2,2,45.9,Butantã,casa
+6348,3,1,2,39.4,Moema,kitnet
+5984,1,2,2,58.8,Itaim Bibi,kitnet
+7298,3,1,1,37.4,Moema,casa
+5976,1,2,2,25.5,Vila Mariana,casa
+8354,3,1,2,53.1,Itaim Bibi,kitnet
+5145,2,2,2,89.0,Butantã,kitnet
+5530,3,1,2,59.2,Vila Mariana,casa
+8585,3,2,1,63.6,Itaim Bibi,apto
+7772,2,2,0,68.8,Itaim Bibi,apto
+8913,3,2,2,61.9,Itaim Bibi,casa
+5709,1,2,0,46.7,Moema,casa
+9260,3,1,0,63.6,Itaim Bibi,kitnet
+6074,1,1,2,63.4,Vila Mariana,apto
+6634,2,1,1,38.8,Pinheiros,kitnet
+7536,2,1,2,66.6,Pinheiros,casa
+8498,3,2,0,83.9,Moema,apto
+5908,3,2,1,55.4,Butantã,casa
+5541,2,1,1,42.6,Pinheiros,apto
+7238,1,2,1,56.4,Moema,kitnet
+7292,2,1,1,77.1,Itaim Bibi,kitnet
+6644,2,2,0,35.5,Vila Mariana,kitnet
+8050,3,1,2,71.6,Itaim Bibi,casa
+6465,3,2,0,46.4,Vila Mariana,casa
+7262,2,1,1,64.8,Itaim Bibi,apto
+5201,3,1,2,48.7,Tatuapé,kitnet
+5598,1,1,1,48.7,Tatuapé,apto
+5463,1,1,0,90.5,Vila Mariana,apto
+5411,1,2,0,31.8,Moema,apto
+5960,3,2,1,69.7,Butantã,casa
+6672,1,1,1,94.6,Pinheiros,apto
+7930,2,1,2,73.7,Itaim Bibi,apto
+6206,3,2,0,33.4,Moema,casa
+7292,3,2,1,34.4,Itaim Bibi,kitnet
+5337,3,1,0,45.0,Tatuapé,casa
+7716,1,2,1,63.2,Moema,kitnet
+6455,2,2,1,64.5,Vila Mariana,kitnet
+4284,2,2,0,34.6,Tatuapé,kitnet
+6288,3,2,0,42.5,Pinheiros,casa
+3711,2,1,0,43.8,Tatuapé,kitnet
+5456,2,1,1,56.4,Pinheiros,kitnet
+4245,1,2,0,99.7,Tatuapé,kitnet
+6137,2,1,0,40.5,Pinheiros,apto
+5681,1,2,0,37.3,Itaim Bibi,casa
+6905,2,1,0,72.7,Moema,kitnet
+8083,3,2,1,59.2,Itaim Bibi,kitnet
+6458,2,1,0,42.1,Pinheiros,casa
+4640,2,1,0,52.7,Vila Mariana,apto
+5847,1,1,0,44.2,Moema,casa
+5723,2,1,0,65.9,Vila Mariana,kitnet
+7665,2,2,0,113.7,Vila Mariana,casa
+4826,1,2,0,71.0,Tatuapé,casa
+6290,1,2,2,58.1,Pinheiros,casa
+8935,3,2,2,46.7,Itaim Bibi,apto
+5871,3,1,0,33.1,Pinheiros,apto
+7436,2,1,0,74.7,Vila Mariana,kitnet
+6443,3,2,1,73.6,Tatuapé,apto
+5258,1,1,2,50.7,Itaim Bibi,kitnet
+7139,1,2,2,84.3,Vila Mariana,apto
+7626,3,2,2,60.4,Vila Mariana,casa
+4991,1,2,0,75.5,Butantã,casa
+5470,2,2,1,65.9,Butantã,kitnet
+4670,1,2,1,40.9,Moema,casa
+9031,2,2,2,57.1,Moema,casa
+4637,2,1,0,76.8,Tatuapé,kitnet
+6068,3,1,1,49.8,Tatuapé,casa
+5681,3,2,0,68.8,Vila Mariana,apto
+4513,2,1,0,38.3,Pinheiros,casa
+7411,2,2,0,75.6,Pinheiros,apto
+4806,1,1,2,66.3,Butantã,casa
+6509,1,2,1,36.0,Moema,casa
+6955,1,2,2,55.5,Moema,apto
+8893,3,2,2,78.6,Moema,apto
+5701,1,2,1,34.8,Itaim Bibi,kitnet
+5002,2,1,2,38.6,Pinheiros,casa
+7780,3,1,0,58.6,Pinheiros,apto
+9434,3,1,2,102.7,Vila Mariana,kitnet
+5565,2,1,0,46.5,Moema,kitnet
+6414,1,2,1,69.9,Itaim Bibi,kitnet
+7678,2,2,2,65.2,Moema,kitnet
+7319,2,1,2,48.2,Moema,kitnet
+4051,1,1,0,63.2,Butantã,casa
+7831,3,2,2,51.0,Pinheiros,apto
+5446,3,2,0,52.8,Tatuapé,kitnet
+3812,1,2,2,26.8,Tatuapé,apto
+8716,1,2,1,59.5,Moema,apto
+6419,1,1,0,78.0,Itaim Bibi,kitnet
+8246,3,1,2,61.1,Vila Mariana,kitnet
+6512,1,1,2,81.8,Butantã,casa
+7051,3,1,0,71.6,Vila Mariana,kitnet
+3723,3,1,0,58.8,Tatuapé,kitnet
+4248,2,1,0,47.4,Tatuapé,kitnet
+4796,2,2,1,50.3,Butantã,apto
+6934,3,1,1,30.6,Moema,casa
+6289,3,2,2,54.7,Vila Mariana,apto
+6993,1,2,2,62.9,Pinheiros,kitnet
+8317,1,2,0,94.3,Moema,apto
+8953,2,2,1,70.6,Itaim Bibi,kitnet
+5475,1,2,2,42.7,Pinheiros,apto
+5457,3,1,0,55.9,Tatuapé,apto
+8292,2,2,0,76.2,Pinheiros,kitnet
+5923,2,2,0,55.6,Vila Mariana,casa
+4887,1,1,1,70.8,Tatuapé,kitnet
+4903,1,1,1,56.4,Vila Mariana,apto
+5627,1,1,1,74.3,Pinheiros,casa
+4168,2,1,0,28.1,Tatuapé,kitnet
+7878,1,2,1,92.1,Itaim Bibi,kitnet
+5655,2,1,0,37.8,Pinheiros,apto
+6482,1,2,1,75.9,Vila Mariana,casa
+6115,2,2,0,54.6,Vila Mariana,casa
+5977,2,2,2,57.7,Tatuapé,casa
+5773,1,1,1,55.2,Itaim Bibi,casa
+6422,2,1,0,65.1,Itaim Bibi,apto
+4940,1,1,2,69.2,Butantã,kitnet
+7920,1,2,2,81.2,Itaim Bibi,apto
+7127,3,2,0,88.2,Vila Mariana,apto
+7092,3,1,0,66.6,Pinheiros,kitnet
+6355,2,1,0,94.3,Tatuapé,kitnet
+7206,3,2,1,61.9,Butantã,casa
+7276,2,2,1,81.5,Butantã,kitnet
+4805,1,2,1,68.6,Vila Mariana,casa
+5740,3,2,1,49.0,Vila Mariana,casa
+6577,2,2,1,63.6,Pinheiros,apto
+6366,2,1,0,70.1,Pinheiros,apto
+4390,2,1,0,59.4,Tatuapé,casa
+4706,1,2,2,68.3,Tatuapé,casa
+8376,3,1,2,77.3,Moema,kitnet
+6973,2,2,2,59.5,Vila Mariana,casa
+5736,2,2,2,20.0,Itaim Bibi,kitnet
+9282,1,1,1,93.6,Moema,casa
+8138,3,1,2,54.0,Itaim Bibi,apto
+5047,1,1,2,43.5,Butantã,kitnet
+4762,1,2,2,37.5,Vila Mariana,casa
+6958,3,2,0,53.3,Vila Mariana,casa
+4242,1,2,0,48.7,Butantã,casa
+5543,2,2,1,45.3,Tatuapé,apto
+6432,3,2,1,46.4,Vila Mariana,casa
+7459,3,1,2,70.6,Tatuapé,casa
+4625,2,1,0,100.6,Tatuapé,casa
+7752,3,2,2,76.4,Butantã,apto
+8069,3,2,2,82.5,Vila Mariana,casa
+5459,3,2,2,52.5,Butantã,casa
+5724,1,1,0,62.1,Butantã,casa
+8035,3,1,0,68.5,Vila Mariana,apto
+3245,1,1,0,46.8,Pinheiros,casa
+5786,3,1,2,51.5,Tatuapé,apto
+7377,1,2,2,77.1,Pinheiros,casa
+6208,1,1,1,81.8,Vila Mariana,apto
+7353,1,1,0,61.3,Moema,casa
+5829,2,2,1,36.1,Butantã,kitnet
+5135,1,2,2,54.1,Butantã,kitnet
+6557,1,1,1,31.2,Pinheiros,kitnet
+5995,2,2,0,61.5,Butantã,kitnet
+7272,3,2,1,65.1,Pinheiros,apto
+7096,2,2,1,54.6,Itaim Bibi,casa
+6240,2,1,1,64.8,Butantã,casa
+5416,2,2,2,68.3,Butantã,kitnet
+5826,2,2,0,65.1,Vila Mariana,casa
+4587,2,2,1,36.0,Butantã,kitnet
+7133,2,2,2,54.9,Pinheiros,apto
+3991,1,1,0,68.2,Tatuapé,apto
+6394,1,2,0,91.6,Moema,apto
+7467,3,2,0,54.6,Vila Mariana,casa
+6707,2,2,1,71.0,Pinheiros,casa
+8443,1,1,0,77.6,Itaim Bibi,apto
+7225,1,2,2,56.1,Moema,kitnet
+7403,3,2,0,83.0,Tatuapé,kitnet
+8326,1,2,2,84.0,Moema,casa
+8280,1,1,1,87.6,Moema,apto
+6831,3,1,2,69.2,Butantã,kitnet
+8304,2,2,1,107.2,Pinheiros,kitnet
+8205,2,2,1,47.7,Itaim Bibi,apto
+6645,1,1,1,75.4,Moema,casa
+7040,2,1,0,86.8,Vila Mariana,casa
+6504,3,1,0,53.6,Pinheiros,apto
+6312,2,1,2,76.9,Butantã,kitnet
+5590,1,1,2,88.5,Butantã,casa
+3921,3,1,0,38.3,Vila Mariana,casa
+7142,3,2,1,56.7,Pinheiros,apto
+4900,1,1,0,20.0,Pinheiros,kitnet
+4981,1,2,0,56.4,Pinheiros,apto
+8247,3,1,1,43.7,Itaim Bibi,kitnet
+4716,1,1,2,55.6,Butantã,casa
+8301,3,1,0,118.5,Pinheiros,kitnet
+8355,1,1,1,94.4,Itaim Bibi,apto
+6981,3,2,2,31.2,Vila Mariana,apto
+8470,3,1,1,71.1,Moema,kitnet
+5892,2,1,0,76.0,Tatuapé,kitnet
+6960,1,2,1,53.2,Itaim Bibi,casa
+4591,2,2,2,63.6,Butantã,apto
+7163,3,1,2,65.5,Pinheiros,kitnet
+4349,3,1,1,33.1,Vila Mariana,casa
+4807,1,1,0,39.4,Vila Mariana,kitnet
+7420,2,2,2,63.4,Vila Mariana,kitnet
+7313,3,2,2,62.0,Butantã,kitnet
+6566,1,1,1,45.8,Itaim Bibi,kitnet
+7198,3,1,2,44.1,Vila Mariana,kitnet
+3785,1,2,2,58.2,Butantã,casa
+8346,3,2,0,77.7,Moema,apto
+3422,1,2,1,58.5,Tatuapé,casa
+7487,1,2,1,92.5,Moema,kitnet
+7576,2,2,1,46.1,Pinheiros,kitnet
+6090,2,1,1,63.9,Butantã,casa
+6217,1,1,2,52.9,Pinheiros,kitnet
+6207,2,2,0,71.8,Vila Mariana,apto
+4336,1,2,1,44.4,Vila Mariana,casa
+7606,3,1,0,98.5,Vila Mariana,casa
+5474,1,1,1,26.2,Pinheiros,kitnet
+8057,2,2,1,94.3,Pinheiros,apto
+6485,3,1,0,61.8,Itaim Bibi,apto
+5515,1,2,2,71.0,Butantã,casa
+4570,1,1,0,86.7,Pinheiros,apto
+7458,3,1,0,77.2,Vila Mariana,casa
+3608,1,2,1,45.4,Tatuapé,casa
+5482,3,1,2,72.0,Butantã,kitnet
+8775,2,1,0,97.3,Itaim Bibi,kitnet
+7915,3,1,1,42.3,Itaim Bibi,apto
+6057,1,2,1,102.4,Tatuapé,apto
+9085,1,2,2,67.7,Moema,apto
+6548,3,1,0,51.3,Vila Mariana,apto
+4448,3,1,0,42.1,Butantã,kitnet
+8281,3,1,1,55.5,Itaim Bibi,apto
+3898,1,1,0,20.9,Pinheiros,apto
+8364,2,1,2,51.7,Itaim Bibi,kitnet
+6467,2,2,0,54.7,Pinheiros,kitnet
+6959,2,1,1,38.5,Itaim Bibi,apto
+5595,1,1,0,75.0,Itaim Bibi,apto
+6918,2,2,2,55.6,Pinheiros,casa
+6674,2,1,1,47.3,Moema,casa
+4685,1,2,0,53.5,Pinheiros,kitnet
+5036,2,2,0,67.1,Tatuapé,casa
+4893,1,2,0,61.5,Butantã,apto
+4876,1,1,0,46.0,Pinheiros,casa
+5646,1,1,2,62.5,Moema,casa
+4851,2,1,1,59.0,Butantã,casa
+4442,1,1,2,37.2,Vila Mariana,casa
+6382,2,2,0,54.2,Pinheiros,kitnet
+8216,2,2,2,71.6,Moema,kitnet
+5614,3,1,1,71.4,Tatuapé,apto
+3701,1,1,1,55.4,Tatuapé,casa
+7060,2,2,2,73.5,Vila Mariana,kitnet
+4882,1,1,2,40.4,Butantã,casa
+5254,2,2,2,41.0,Tatuapé,casa
+7588,2,2,2,55.0,Vila Mariana,apto
+8005,3,2,1,90.0,Butantã,apto
+6695,2,1,2,63.3,Butantã,kitnet
+9430,3,2,2,54.5,Moema,kitnet
+8077,1,1,2,90.9,Pinheiros,kitnet
+3105,1,1,1,54.3,Tatuapé,apto
+5759,1,1,0,104.7,Tatuapé,apto
+7368,2,2,1,49.8,Pinheiros,apto
+4812,1,2,0,39.8,Tatuapé,casa
+3384,1,1,0,56.7,Butantã,casa
+5976,1,1,1,55.0,Pinheiros,kitnet
+7976,3,2,1,43.8,Itaim Bibi,kitnet
+6381,1,2,2,66.4,Itaim Bibi,kitnet
+7763,3,1,2,69.3,Moema,apto
+3874,1,1,1,50.8,Pinheiros,apto
+4869,2,1,1,48.4,Butantã,casa
+8726,1,2,2,80.5,Pinheiros,apto
+3559,2,1,0,26.5,Tatuapé,casa
+6295,3,1,2,37.1,Vila Mariana,casa
+6792,3,2,2,55.1,Butantã,apto
+8718,2,2,2,87.0,Itaim Bibi,casa
+7068,2,1,0,52.5,Itaim Bibi,casa
+8763,3,2,1,68.3,Moema,kitnet
+6440,1,2,2,60.6,Moema,apto
+5303,2,1,0,85.9,Tatuapé,apto
+5943,1,1,0,28.3,Itaim Bibi,casa
+6984,3,1,1,74.7,Butantã,apto
+7219,2,1,1,56.0,Pinheiros,kitnet
+6023,2,1,2,78.5,Tatuapé,apto
+6093,2,1,1,43.6,Pinheiros,casa
+6515,1,2,2,60.5,Vila Mariana,kitnet
+6163,1,2,0,57.9,Itaim Bibi,apto
+5890,3,2,1,40.0,Vila Mariana,apto
+5432,1,1,0,34.4,Itaim Bibi,kitnet
+5132,1,2,0,48.4,Moema,casa
+5703,1,2,0,62.6,Vila Mariana,apto
+8885,3,2,2,44.9,Moema,apto
+3834,1,2,1,53.4,Tatuapé,kitnet
+6917,3,1,0,22.3,Itaim Bibi,kitnet
+4274,2,2,0,52.6,Tatuapé,casa
+6001,3,2,1,80.5,Butantã,casa
+7868,2,2,2,74.1,Butantã,kitnet
+6046,1,1,2,58.3,Itaim Bibi,apto
+4123,2,2,0,64.9,Tatuapé,apto
+6275,2,2,2,43.4,Vila Mariana,kitnet
+7989,1,2,1,92.5,Moema,apto
+8374,2,1,2,101.4,Pinheiros,kitnet
+7800,1,1,0,63.3,Moema,casa
+7133,3,2,1,111.8,Butantã,kitnet
+7629,3,2,2,46.4,Moema,apto
+5836,1,1,0,35.0,Pinheiros,kitnet
+5926,2,2,2,45.8,Tatuapé,apto
+5708,2,2,0,55.6,Butantã,apto
+5615,1,1,2,106.2,Butantã,kitnet
+6932,2,1,2,54.4,Vila Mariana,casa
+7227,1,2,2,42.8,Moema,kitnet
+4513,1,2,2,42.0,Tatuapé,apto
+6916,3,2,0,82.8,Vila Mariana,apto
+6984,2,2,1,79.9,Vila Mariana,casa
+7928,3,1,2,50.3,Vila Mariana,kitnet
+6783,3,2,0,37.4,Itaim Bibi,kitnet
+6431,3,2,0,94.4,Butantã,kitnet
+7685,2,1,2,73.8,Itaim Bibi,kitnet
+5227,2,2,0,61.3,Butantã,casa
+8188,2,1,1,97.4,Pinheiros,kitnet
+7344,3,1,1,99.2,Butantã,casa
+6327,2,1,1,59.3,Pinheiros,kitnet
+7611,2,1,2,59.6,Moema,casa
+5050,1,2,2,48.4,Tatuapé,casa
+6684,3,2,1,54.3,Moema,casa
+6565,2,1,2,30.3,Pinheiros,casa
+3745,1,2,0,30.2,Vila Mariana,kitnet
+6612,2,2,2,25.5,Itaim Bibi,kitnet
+6923,2,2,0,81.7,Vila Mariana,casa
+3903,1,1,0,28.8,Vila Mariana,apto
+7460,3,2,0,99.0,Butantã,casa
+6375,3,1,0,45.4,Pinheiros,apto
+6911,3,1,2,94.7,Butantã,apto
+6204,2,2,0,52.7,Butantã,apto
+4127,1,1,2,28.7,Tatuapé,casa
+6612,1,1,1,85.7,Pinheiros,kitnet
+8495,3,2,0,88.0,Pinheiros,casa
+4492,1,2,1,41.9,Vila Mariana,casa
+6841,3,1,0,53.4,Tatuapé,apto
+5286,3,1,0,41.9,Pinheiros,kitnet
+6418,1,1,1,57.6,Moema,apto
+7536,3,2,2,62.2,Pinheiros,kitnet
+4130,1,2,1,53.0,Tatuapé,kitnet
+4945,2,2,0,23.6,Pinheiros,kitnet
+6634,2,1,2,48.4,Itaim Bibi,apto
+8673,3,1,2,74.1,Pinheiros,apto
+4511,2,1,0,55.8,Vila Mariana,apto
+7490,3,1,2,53.5,Vila Mariana,kitnet
+7960,2,2,2,41.4,Itaim Bibi,apto
+6329,3,1,1,47.8,Pinheiros,kitnet
+9171,3,2,0,88.2,Moema,apto
+5190,3,2,1,37.2,Tatuapé,apto
+4452,2,1,1,74.4,Tatuapé,apto
+6556,2,2,0,60.9,Itaim Bibi,kitnet
+8771,3,2,0,64.9,Itaim Bibi,casa
+7543,3,1,0,45.4,Moema,casa
+7683,3,1,0,53.0,Itaim Bibi,casa
+5883,2,1,2,59.9,Vila Mariana,casa
+5035,3,1,0,49.6,Butantã,casa
+5938,3,2,1,66.6,Tatuapé,casa
+7277,3,2,1,69.1,Itaim Bibi,apto
+5453,1,1,0,103.5,Butantã,apto
+8585,2,2,2,65.6,Itaim Bibi,casa
+5407,3,2,2,21.8,Butantã,apto
+7713,3,1,1,83.3,Tatuapé,casa
+6774,3,2,2,55.9,Pinheiros,apto
+6778,1,1,0,100.2,Moema,kitnet
+6489,1,1,2,89.4,Vila Mariana,apto
+5992,3,1,2,49.9,Butantã,apto
+5912,3,2,1,74.4,Vila Mariana,casa
+6026,1,2,2,48.1,Vila Mariana,apto
+6400,2,1,2,60.1,Vila Mariana,casa
+4310,3,1,1,73.5,Tatuapé,apto
+4474,1,1,0,82.3,Tatuapé,apto
+5790,3,2,0,77.9,Butantã,kitnet
+6182,1,2,0,61.5,Moema,kitnet
+5320,1,1,0,109.7,Vila Mariana,apto
+7814,3,2,2,52.7,Pinheiros,kitnet
+6845,2,2,0,27.9,Pinheiros,kitnet
+7163,2,2,2,31.7,Moema,casa
+5057,3,2,0,89.5,Butantã,casa
+4782,1,2,1,58.5,Tatuapé,kitnet
+5440,2,2,1,63.2,Butantã,casa
+4794,2,1,0,49.1,Pinheiros,casa
+6711,3,1,0,50.9,Pinheiros,casa
+4732,1,2,0,44.3,Butantã,kitnet
+5748,2,1,0,69.4,Pinheiros,kitnet
+5627,2,2,2,58.1,Pinheiros,apto
+6152,2,2,1,68.7,Moema,casa
+5771,3,1,2,66.8,Butantã,kitnet
+7620,2,2,2,51.5,Itaim Bibi,apto
+5712,3,1,1,30.8,Pinheiros,kitnet
+5026,3,2,2,29.1,Butantã,kitnet
+8170,3,2,0,120.5,Butantã,kitnet
+9257,3,1,1,89.6,Itaim Bibi,apto
+6464,2,2,1,86.8,Butantã,casa
+5448,1,1,1,46.5,Vila Mariana,casa
+5581,3,1,2,60.2,Butantã,casa
+5235,2,2,2,43.7,Vila Mariana,kitnet
+5795,1,2,1,33.8,Itaim Bibi,casa
+3074,1,1,0,48.2,Tatuapé,casa
+5755,1,1,1,86.5,Itaim Bibi,kitnet
+5968,3,1,2,76.8,Tatuapé,kitnet
+4802,1,1,2,40.6,Tatuapé,kitnet
+6752,3,2,2,53.7,Tatuapé,casa
+7870,2,1,0,75.0,Itaim Bibi,kitnet
+6463,1,2,0,48.6,Itaim Bibi,apto
+7907,2,2,1,61.6,Pinheiros,casa
+7793,3,2,1,68.0,Itaim Bibi,casa
+5063,3,1,1,67.8,Tatuapé,apto
+7652,2,2,2,65.1,Vila Mariana,casa
+4530,2,1,1,46.9,Tatuapé,casa
+3532,1,1,1,49.0,Butantã,casa
+4461,1,1,2,37.3,Butantã,apto
+4212,2,2,1,28.8,Butantã,apto
+6761,2,2,1,57.7,Moema,apto
+6497,1,2,0,76.3,Itaim Bibi,casa
+7629,3,2,1,32.4,Moema,apto
+8028,2,2,1,65.5,Itaim Bibi,casa
+5584,1,1,0,75.7,Tatuapé,kitnet
+4966,3,1,0,23.3,Vila Mariana,kitnet
+5492,1,2,2,54.6,Vila Mariana,apto
+9239,3,2,0,92.9,Pinheiros,kitnet
+6420,1,1,0,71.0,Pinheiros,apto
+6194,2,2,0,22.6,Moema,apto
+5946,2,1,0,73.2,Moema,apto
+6302,3,2,1,45.0,Pinheiros,apto
+6372,1,2,1,73.8,Moema,kitnet
+5615,3,2,1,46.2,Tatuapé,apto
+5862,2,2,1,58.9,Vila Mariana,kitnet
+7760,1,2,1,49.2,Moema,casa
+6145,2,1,2,60.1,Moema,apto
+4431,3,2,0,48.7,Tatuapé,casa
+7862,2,2,2,55.5,Moema,apto
+6412,1,2,0,36.5,Itaim Bibi,casa
+4425,2,1,2,69.8,Vila Mariana,casa
+5817,2,1,1,63.5,Moema,casa
+5619,1,2,1,27.7,Moema,apto
+6581,1,1,0,79.9,Vila Mariana,kitnet
+4965,1,1,1,63.2,Vila Mariana,apto
+6922,2,2,2,75.3,Vila Mariana,casa
+7627,3,2,0,66.6,Itaim Bibi,apto
+5606,1,1,1,83.3,Butantã,kitnet
+9047,2,2,2,54.1,Itaim Bibi,kitnet
+6725,1,2,2,80.7,Butantã,apto
+6551,3,2,2,62.5,Butantã,kitnet
+7134,2,2,1,70.2,Moema,kitnet
+8949,3,2,2,68.1,Itaim Bibi,casa
+8149,3,1,0,84.8,Vila Mariana,apto
+7512,2,1,2,74.4,Moema,kitnet
+4827,2,2,1,47.2,Butantã,kitnet
+4247,1,2,0,59.0,Butantã,kitnet
+5587,2,2,1,44.8,Moema,kitnet
+3454,1,1,0,39.0,Tatuapé,kitnet
+6505,3,2,2,20.0,Vila Mariana,apto
+7958,2,2,0,29.0,Itaim Bibi,casa
+4325,1,1,1,99.7,Tatuapé,apto
+5491,3,1,0,46.9,Tatuapé,apto
+5958,2,2,1,68.1,Tatuapé,kitnet
+4865,1,2,0,59.0,Pinheiros,casa
+4448,2,1,2,30.0,Vila Mariana,kitnet
+6281,2,1,2,60.1,Vila Mariana,apto
+9607,3,2,1,97.8,Itaim Bibi,apto
+5787,1,1,0,91.2,Pinheiros,kitnet
+8498,3,2,2,65.5,Vila Mariana,casa
+3490,1,1,2,37.0,Tatuapé,casa
+4511,1,1,1,40.9,Itaim Bibi,casa
+4209,2,1,1,42.9,Tatuapé,apto
+5651,1,2,0,85.6,Butantã,kitnet
+6353,2,1,1,92.6,Butantã,kitnet
+6785,2,2,0,63.9,Pinheiros,kitnet
+5413,1,1,1,53.9,Butantã,casa
+5937,3,1,2,91.0,Tatuapé,casa
+3274,1,1,1,40.4,Tatuapé,kitnet
+8267,3,1,1,61.0,Pinheiros,casa
+4604,3,1,2,69.3,Tatuapé,casa
+7439,2,2,2,42.7,Itaim Bibi,apto
+4502,1,1,0,47.3,Tatuapé,casa
+7643,3,2,0,45.7,Pinheiros,casa
+5278,1,1,0,88.3,Tatuapé,casa
+6397,1,1,2,98.3,Butantã,apto
+7636,3,2,1,62.3,Itaim Bibi,apto
+7938,2,2,2,54.6,Pinheiros,kitnet
+4480,3,1,1,48.0,Butantã,casa
+3789,1,1,2,60.0,Butantã,casa
+6580,2,2,2,49.0,Vila Mariana,casa
+7247,3,1,0,58.1,Itaim Bibi,casa
+8513,3,1,2,68.3,Moema,kitnet
+5701,2,2,2,51.9,Tatuapé,apto
+9209,3,2,0,56.2,Moema,kitnet
+6836,1,1,1,56.3,Itaim Bibi,apto
+4715,2,1,2,53.6,Butantã,casa
+7176,1,1,2,51.2,Itaim Bibi,casa
+5592,3,1,1,75.2,Butantã,kitnet
+5868,3,2,1,24.6,Butantã,apto
+8096,3,2,0,91.5,Pinheiros,casa
+7002,3,1,1,62.7,Vila Mariana,apto
+5541,1,1,1,72.2,Itaim Bibi,apto
+3534,2,1,1,74.5,Tatuapé,kitnet
+5074,3,1,0,45.8,Pinheiros,kitnet
+7148,1,2,2,41.7,Pinheiros,casa
+3362,2,1,1,39.4,Tatuapé,casa
+6138,3,2,0,55.1,Tatuapé,casa
+6206,2,2,1,74.0,Vila Mariana,apto
+6458,3,2,1,48.3,Vila Mariana,casa
+6329,2,1,0,72.2,Pinheiros,apto
+5415,2,2,1,20.0,Tatuapé,kitnet
+7236,2,2,2,52.3,Pinheiros,casa
+6208,2,1,2,83.3,Tatuapé,apto
+8435,3,1,0,56.6,Moema,casa
+6796,3,1,1,43.4,Moema,kitnet
+7461,1,2,1,46.9,Itaim Bibi,apto
+5821,3,2,2,20.0,Tatuapé,kitnet
+7705,2,1,2,39.8,Itaim Bibi,casa
+7810,2,1,1,81.1,Itaim Bibi,casa
+3401,1,1,0,48.3,Butantã,kitnet
+6325,2,1,1,50.7,Itaim Bibi,casa
+3154,2,2,0,20.0,Tatuapé,apto
+6088,2,2,2,27.4,Moema,kitnet
+6508,1,1,2,83.8,Vila Mariana,apto
+6488,3,2,2,72.3,Tatuapé,casa
+6267,2,2,1,34.1,Pinheiros,kitnet
+5812,2,2,2,47.4,Butantã,casa
+3935,1,2,1,59.4,Butantã,kitnet
+4011,1,1,1,36.1,Pinheiros,casa
+7317,3,2,2,20.0,Itaim Bibi,apto
+4584,1,1,0,56.8,Pinheiros,apto
+8339,3,2,2,71.5,Itaim Bibi,casa
+9012,3,1,2,71.8,Pinheiros,apto
+6398,2,1,1,77.5,Moema,casa
+6386,3,2,0,28.9,Tatuapé,casa
+8266,2,2,2,61.2,Itaim Bibi,kitnet
+8128,3,1,0,54.6,Moema,apto
+5342,1,1,2,58.3,Butantã,kitnet
+7966,2,1,2,55.8,Itaim Bibi,casa
+7233,2,2,1,46.8,Vila Mariana,casa
+5934,3,1,1,20.0,Itaim Bibi,casa
+7272,1,2,0,83.2,Itaim Bibi,apto
+7716,3,2,1,66.6,Moema,kitnet
+4453,1,2,0,30.3,Itaim Bibi,apto
+4855,1,2,2,69.5,Butantã,apto
+8930,2,2,1,51.1,Itaim Bibi,kitnet
+5910,1,1,0,51.6,Itaim Bibi,casa
+6726,2,2,2,44.6,Tatuapé,kitnet
+8291,3,1,0,70.7,Vila Mariana,casa
+6966,1,1,0,38.1,Moema,apto
+7566,2,2,0,82.6,Tatuapé,casa
+5753,2,1,0,56.4,Vila Mariana,apto
+4994,1,1,0,57.1,Vila Mariana,kitnet
+7651,2,2,2,73.8,Pinheiros,apto
+5399,2,2,2,46.6,Butantã,kitnet
+7139,3,1,2,50.6,Pinheiros,apto
+6685,1,1,2,66.1,Pinheiros,apto
+3503,1,2,1,29.2,Butantã,apto
+4631,3,1,1,64.4,Tatuapé,apto
+7737,3,2,0,44.9,Moema,casa
+6859,1,1,2,77.1,Itaim Bibi,apto
+6657,1,2,1,70.9,Moema,casa
+6835,2,2,1,68.3,Pinheiros,casa
+6838,3,2,0,27.9,Itaim Bibi,apto
+6026,1,1,1,57.9,Vila Mariana,apto
+3660,1,1,2,36.5,Tatuapé,apto
+6706,3,1,1,59.3,Butantã,apto
+4765,3,1,1,20.0,Butantã,apto
+7105,3,1,2,29.2,Moema,apto
+8540,3,1,0,83.8,Itaim Bibi,casa
+5488,3,2,2,67.4,Tatuapé,apto
+7158,1,2,2,52.9,Moema,apto
+5734,1,1,1,41.8,Pinheiros,casa
+6842,1,1,2,38.3,Moema,casa
+3338,1,2,0,64.0,Tatuapé,apto
+4079,3,1,0,53.1,Butantã,apto
+6899,2,2,0,90.9,Pinheiros,casa
+7597,1,1,1,56.3,Itaim Bibi,apto
+4912,1,1,2,61.2,Butantã,casa
+6021,2,1,2,52.8,Moema,casa
+5959,2,2,0,63.5,Pinheiros,apto
+4675,1,1,2,52.5,Vila Mariana,kitnet
+6357,3,2,0,50.3,Butantã,apto
+5406,1,1,1,66.5,Butantã,apto
+5669,2,2,2,90.3,Tatuapé,apto
+7290,2,1,2,62.9,Pinheiros,kitnet
+8207,2,2,2,82.9,Pinheiros,kitnet
+7229,3,1,1,72.4,Moema,casa
+6184,3,1,1,81.7,Tatuapé,casa
+5907,1,2,1,47.8,Pinheiros,casa
+7306,2,1,1,55.9,Itaim Bibi,casa
+3410,1,2,2,55.9,Tatuapé,casa
+6733,2,1,1,70.9,Pinheiros,kitnet
+7684,2,2,1,75.8,Pinheiros,kitnet
+8839,2,2,1,62.5,Moema,apto
+6291,1,1,0,77.5,Itaim Bibi,casa
+5926,1,2,0,48.7,Itaim Bibi,kitnet
+6764,1,1,1,77.7,Moema,casa
+6042,1,1,1,80.3,Vila Mariana,apto
+5984,2,2,1,73.5,Butantã,kitnet
+9064,3,2,2,62.7,Moema,casa
+5428,1,2,2,74.3,Vila Mariana,casa
+6481,1,1,2,42.1,Moema,casa
+5825,2,1,1,64.0,Pinheiros,apto
+6966,3,1,2,66.0,Vila Mariana,casa
+5469,1,2,2,33.4,Tatuapé,casa
+3666,1,2,0,69.5,Butantã,kitnet
+6727,2,2,1,35.0,Itaim Bibi,apto
+6424,2,2,1,51.4,Itaim Bibi,apto
+6046,3,1,2,60.8,Tatuapé,casa
+6400,1,2,1,45.4,Pinheiros,kitnet
+6685,1,2,0,61.7,Moema,casa
+5147,2,2,0,61.3,Butantã,casa
+6571,2,1,0,43.6,Pinheiros,kitnet
+6105,3,1,0,71.4,Butantã,casa
+7197,2,1,0,44.7,Itaim Bibi,apto
+8545,2,2,2,105.8,Vila Mariana,kitnet
+4633,1,2,1,57.8,Itaim Bibi,casa
+4336,1,2,2,36.6,Butantã,apto
+5847,3,1,2,40.3,Pinheiros,casa
+6025,1,2,1,83.0,Pinheiros,kitnet
+5834,2,1,1,51.8,Tatuapé,casa
+4382,3,1,0,32.7,Butantã,casa
+9726,3,2,2,77.1,Pinheiros,casa
+3225,1,2,1,51.7,Tatuapé,kitnet
+5425,1,1,2,73.1,Pinheiros,kitnet
+6471,3,1,0,78.7,Tatuapé,apto
+5592,3,2,0,65.5,Tatuapé,casa
+6983,1,1,0,107.9,Pinheiros,casa
+6475,2,1,2,25.5,Itaim Bibi,apto
+4195,1,2,1,43.6,Butantã,kitnet
+5503,3,2,0,54.9,Butantã,apto
+8600,3,2,0,105.2,Pinheiros,casa
+7192,1,2,1,96.0,Vila Mariana,apto
+8665,2,2,2,85.8,Vila Mariana,apto
+7162,2,2,2,44.1,Moema,kitnet
+5279,1,2,1,46.4,Pinheiros,apto
+4185,1,2,2,43.4,Butantã,apto
+8406,3,1,0,44.3,Itaim Bibi,kitnet
+9448,2,2,2,89.9,Itaim Bibi,kitnet
+3635,1,2,0,55.1,Vila Mariana,apto
+3979,1,1,1,57.8,Pinheiros,apto
+5201,2,1,2,75.5,Butantã,kitnet
+6486,3,2,2,26.7,Vila Mariana,kitnet
+5005,2,2,0,61.1,Tatuapé,kitnet
+5954,3,2,1,38.1,Butantã,casa
+5683,2,1,0,54.1,Pinheiros,apto
+7866,3,2,0,48.3,Pinheiros,kitnet
+7635,3,2,1,47.2,Pinheiros,apto
+6197,1,2,1,64.5,Pinheiros,apto
+6749,1,2,0,64.4,Pinheiros,kitnet
+6849,3,1,2,55.6,Itaim Bibi,casa
+6154,3,2,1,67.4,Tatuapé,apto
+3989,1,1,1,42.6,Butantã,apto
+8191,2,1,1,73.6,Itaim Bibi,casa
+4304,3,1,1,55.9,Butantã,apto
+5801,3,1,0,50.3,Vila Mariana,kitnet
+5444,1,2,1,44.1,Vila Mariana,casa
+6337,3,1,2,55.2,Butantã,casa
+7971,2,1,1,97.4,Vila Mariana,casa
+7571,3,1,1,58.7,Pinheiros,casa
+6165,1,1,2,37.1,Itaim Bibi,casa
+8791,2,2,1,78.4,Itaim Bibi,kitnet
+4056,1,2,0,50.6,Butantã,casa
+5088,2,1,0,65.7,Butantã,casa
+6172,1,1,2,47.9,Pinheiros,casa
+8432,2,2,1,85.6,Itaim Bibi,apto
+6135,3,2,1,48.2,Butantã,kitnet
+8608,2,1,0,88.0,Itaim Bibi,casa
+6640,1,2,0,39.0,Itaim Bibi,kitnet
+5911,2,1,1,54.1,Butantã,kitnet
+7763,3,2,0,63.4,Pinheiros,kitnet
+7394,1,1,1,105.4,Moema,kitnet
+5748,1,1,2,54.6,Vila Mariana,casa
+6529,2,1,0,65.1,Pinheiros,kitnet
+8334,3,1,0,98.1,Pinheiros,apto
+7688,2,2,0,29.7,Itaim Bibi,kitnet
+4934,1,1,1,44.1,Tatuapé,kitnet
+5389,3,1,2,27.8,Tatuapé,casa
+5432,1,2,1,71.9,Tatuapé,apto
+5823,1,2,0,70.5,Pinheiros,apto
+5314,1,1,0,100.3,Butantã,kitnet
+8686,2,2,1,80.9,Moema,kitnet
+7725,3,1,1,67.3,Pinheiros,apto
+7692,1,1,0,87.2,Itaim Bibi,apto
+9525,3,2,2,70.8,Itaim Bibi,kitnet
+5743,1,1,0,50.8,Pinheiros,kitnet
+6943,3,2,1,37.1,Vila Mariana,apto
+5139,1,2,2,48.6,Pinheiros,casa
+7642,3,2,1,59.2,Vila Mariana,apto
+8192,2,1,2,63.5,Pinheiros,kitnet
+5079,1,1,0,20.0,Itaim Bibi,casa
+5968,1,2,2,55.6,Tatuapé,apto
+5783,3,2,2,60.6,Butantã,apto
+7905,2,1,2,71.0,Itaim Bibi,casa
+5063,2,1,0,92.5,Tatuapé,kitnet
+6915,3,2,0,63.7,Tatuapé,apto
+6767,2,1,0,41.8,Pinheiros,kitnet
+5430,2,1,2,23.6,Pinheiros,casa
+6349,2,2,0,73.7,Tatuapé,kitnet
+6799,1,2,1,42.6,Pinheiros,kitnet
+6494,1,2,1,77.3,Pinheiros,apto
+6842,1,2,2,87.9,Vila Mariana,apto
+5460,2,2,2,29.1,Butantã,kitnet
+6458,2,1,0,71.1,Moema,apto
+9564,3,2,2,85.9,Itaim Bibi,apto
+3300,1,1,0,20.0,Vila Mariana,kitnet
+8071,3,2,0,42.9,Moema,kitnet
+7051,3,2,1,34.4,Pinheiros,casa
+7883,2,2,1,70.5,Itaim Bibi,apto
+7025,2,2,2,68.3,Vila Mariana,casa
+6902,1,1,2,20.0,Moema,kitnet
+4662,1,1,1,54.0,Butantã,apto
+5248,1,1,1,76.0,Tatuapé,casa
+8169,2,1,0,63.0,Moema,apto
+5056,2,1,2,62.9,Tatuapé,apto
+5543,1,1,1,52.7,Itaim Bibi,apto
+6279,1,1,2,38.8,Vila Mariana,kitnet
+4699,1,2,1,59.7,Tatuapé,kitnet
+6546,2,2,2,61.0,Butantã,apto
+5659,3,1,2,72.3,Tatuapé,kitnet
+8129,2,1,2,73.9,Moema,casa
+4774,1,1,1,61.7,Pinheiros,kitnet
+5608,1,1,0,81.9,Vila Mariana,kitnet
+3757,1,2,0,52.5,Butantã,apto
+4431,3,2,1,31.1,Tatuapé,kitnet
+7344,3,2,2,69.5,Vila Mariana,casa
+4941,1,1,2,62.5,Moema,apto
+3270,1,1,0,69.9,Tatuapé,apto
+4067,1,1,1,34.7,Tatuapé,kitnet
+4867,1,2,0,74.2,Vila Mariana,casa
+6266,3,2,1,54.2,Tatuapé,apto
+6536,2,2,2,41.3,Moema,kitnet
+5724,1,2,0,81.5,Butantã,apto
+6346,3,2,0,38.0,Pinheiros,apto
+7397,2,1,1,105.2,Pinheiros,casa
+7659,3,1,2,47.7,Moema,kitnet
+6980,1,1,0,94.4,Tatuapé,apto
+6882,2,1,2,56.3,Itaim Bibi,apto
+8330,2,2,0,91.6,Moema,casa
+5284,2,1,1,45.3,Butantã,apto
+5641,1,1,1,60.4,Moema,casa
+5207,2,1,0,76.1,Pinheiros,apto
+7616,3,2,2,73.2,Pinheiros,apto
+7768,3,2,2,82.0,Butantã,apto
+5334,1,1,2,50.3,Pinheiros,kitnet
+5366,3,1,0,61.7,Butantã,kitnet
+8478,3,2,1,85.0,Vila Mariana,casa
+5232,1,2,2,45.9,Pinheiros,casa
+5573,1,2,0,71.5,Vila Mariana,kitnet
+4657,3,2,1,55.6,Tatuapé,apto
+7180,1,2,1,64.1,Moema,casa
+7234,1,2,1,61.7,Itaim Bibi,kitnet
+5463,2,2,1,44.2,Tatuapé,kitnet
+6327,2,1,2,54.8,Moema,apto
+4933,2,2,0,62.9,Tatuapé,kitnet
+4316,2,1,2,57.9,Butantã,casa
+8847,3,1,2,91.5,Moema,kitnet
+8891,3,2,0,80.2,Pinheiros,apto
+6617,1,1,2,65.8,Moema,casa
+4262,1,2,0,43.5,Vila Mariana,apto
+4996,2,1,1,99.5,Butantã,kitnet
+3957,2,2,2,39.8,Tatuapé,apto
+6505,3,1,2,62.3,Tatuapé,kitnet
+5360,2,2,1,67.2,Vila Mariana,casa
+5163,1,2,2,53.8,Butantã,apto
+6519,3,2,0,40.0,Pinheiros,apto
+5004,1,2,2,44.3,Vila Mariana,kitnet
+7654,3,1,1,49.1,Moema,apto
+6724,3,2,0,45.8,Moema,casa
+9369,3,2,0,86.6,Moema,apto
+6536,3,2,0,59.8,Pinheiros,kitnet
+4677,1,2,0,49.5,Vila Mariana,casa
+6060,2,2,0,62.1,Pinheiros,kitnet
+6552,2,2,2,73.4,Tatuapé,apto
+7029,2,1,0,53.1,Moema,apto
+4444,3,2,1,78.0,Tatuapé,casa
+4641,2,1,2,34.6,Tatuapé,casa
+6007,1,2,0,83.4,Itaim Bibi,kitnet
+6022,3,2,2,59.8,Tatuapé,kitnet
+5185,2,2,1,59.0,Tatuapé,kitnet
+4603,3,1,0,46.1,Tatuapé,apto
+4164,1,1,2,35.4,Tatuapé,apto
+5176,3,1,1,26.7,Tatuapé,kitnet
+4524,1,2,1,44.7,Vila Mariana,casa
+6305,2,2,2,71.8,Vila Mariana,kitnet
+7694,3,1,2,40.8,Itaim Bibi,casa
+5236,2,1,2,29.0,Moema,apto
+3573,1,1,2,41.8,Tatuapé,casa
+7148,3,1,0,52.3,Vila Mariana,kitnet
+6388,3,1,1,53.1,Moema,casa
+3551,1,1,0,57.4,Tatuapé,apto
+4646,1,1,2,80.7,Tatuapé,apto
+6854,1,1,2,85.0,Tatuapé,kitnet
+7173,1,1,1,100.1,Moema,kitnet
+4141,2,2,1,27.5,Butantã,kitnet
+3562,1,2,2,42.9,Tatuapé,apto
+8527,3,2,0,74.0,Itaim Bibi,casa
+6944,1,2,1,50.9,Itaim Bibi,kitnet
+5008,2,1,2,77.2,Tatuapé,casa
+6115,2,2,0,64.1,Butantã,casa
+8164,2,2,2,91.6,Pinheiros,casa
+5407,1,1,0,80.9,Butantã,apto
+5774,2,1,2,81.2,Butantã,apto
+4847,2,1,1,51.8,Tatuapé,kitnet
+7771,2,2,2,58.1,Itaim Bibi,apto
+7283,3,2,2,53.9,Tatuapé,apto
+5089,2,1,1,29.9,Vila Mariana,casa
+8890,2,2,2,89.4,Itaim Bibi,kitnet
+5281,1,1,1,74.9,Vila Mariana,casa
+4980,1,2,1,53.1,Vila Mariana,casa
+6173,2,1,2,86.1,Tatuapé,casa
+5477,2,2,0,47.4,Butantã,apto
+6149,3,1,1,23.2,Moema,apto
+8606,3,2,0,80.1,Moema,apto
+4980,1,1,1,34.4,Pinheiros,kitnet
+7169,2,2,2,56.1,Pinheiros,kitnet
+4758,2,1,0,64.1,Pinheiros,apto
+5491,1,2,1,67.7,Pinheiros,apto
+4916,2,2,1,77.0,Butantã,apto
+6175,2,2,2,71.6,Butantã,kitnet
+5909,1,1,0,71.0,Itaim Bibi,casa
+5529,2,2,0,44.2,Pinheiros,kitnet
+5921,3,1,0,65.9,Pinheiros,casa
+3974,1,1,1,29.9,Vila Mariana,kitnet
+4938,2,1,1,91.2,Tatuapé,casa
+6465,1,1,2,31.9,Moema,apto
+6976,1,2,1,53.1,Moema,kitnet
+5629,3,1,0,33.6,Vila Mariana,kitnet
+7320,2,2,2,45.4,Itaim Bibi,kitnet
+3678,1,2,0,60.3,Vila Mariana,kitnet
+5616,2,1,1,49.4,Pinheiros,apto
+7077,1,2,1,82.9,Itaim Bibi,apto
+5134,2,1,0,64.5,Butantã,casa
+5818,1,1,1,50.7,Pinheiros,apto
+7680,2,2,1,57.3,Moema,casa
+7491,2,2,0,78.2,Itaim Bibi,casa
+4229,2,1,2,37.2,Butantã,casa
+7222,1,2,1,46.4,Moema,casa
+7118,1,1,2,69.5,Moema,kitnet
+6314,1,1,0,67.1,Itaim Bibi,casa
+7247,2,2,0,39.0,Pinheiros,casa
+7112,2,1,2,75.0,Vila Mariana,apto
+4913,3,1,1,42.2,Tatuapé,casa
+6534,1,1,0,86.1,Itaim Bibi,apto
+7279,1,1,2,70.6,Pinheiros,apto
+5186,3,2,0,37.4,Tatuapé,casa
+7502,3,1,1,49.4,Moema,apto
+6513,3,2,2,49.1,Tatuapé,casa
+5500,1,1,2,63.2,Butantã,apto
+6618,1,2,2,55.9,Pinheiros,kitnet
+4820,1,2,1,37.1,Butantã,kitnet
+5625,1,1,0,32.1,Moema,apto
+8873,3,2,0,71.0,Itaim Bibi,casa
+8086,3,2,2,65.7,Moema,casa
+8512,3,2,1,62.1,Vila Mariana,casa
+6875,3,1,0,65.4,Itaim Bibi,casa
+7876,2,2,2,47.6,Itaim Bibi,kitnet
+6041,2,2,2,63.7,Pinheiros,casa
+9145,3,1,0,110.8,Itaim Bibi,apto
+8548,3,1,2,83.5,Itaim Bibi,casa
+7436,2,2,1,54.2,Moema,apto
+6159,3,2,1,49.5,Butantã,casa
+3235,2,1,2,20.0,Tatuapé,apto
+7418,2,1,0,81.4,Moema,apto
+8287,3,1,0,75.7,Pinheiros,kitnet
+6624,2,2,2,49.1,Itaim Bibi,apto
+5458,3,2,1,31.4,Vila Mariana,kitnet
+7395,2,2,0,36.9,Itaim Bibi,kitnet
+4829,1,1,2,68.9,Tatuapé,casa
+6167,1,1,0,58.2,Moema,kitnet
+7833,2,1,2,73.8,Pinheiros,apto
+6817,2,2,0,61.7,Itaim Bibi,apto
+6465,2,1,1,79.3,Pinheiros,apto
+7508,3,1,1,67.4,Moema,casa
+5319,1,2,2,76.6,Butantã,casa
+4672,1,2,1,20.0,Butantã,kitnet
+3999,3,1,2,35.3,Butantã,casa
+3626,2,1,0,52.7,Butantã,apto
+4455,2,1,1,81.6,Tatuapé,kitnet
+8150,1,2,2,97.6,Vila Mariana,kitnet
+4610,2,2,0,56.7,Butantã,kitnet
+7372,2,2,2,47.8,Itaim Bibi,casa
+4808,1,1,2,77.3,Tatuapé,casa
+6763,2,2,0,49.0,Pinheiros,kitnet
+7577,2,2,2,119.2,Tatuapé,apto
+6170,1,1,2,45.2,Moema,kitnet
+4511,1,2,0,102.1,Butantã,apto
+8387,3,2,1,75.0,Moema,casa
+5801,3,1,0,39.4,Vila Mariana,apto
+6046,2,2,1,64.6,Pinheiros,casa
+6487,3,1,0,75.4,Butantã,kitnet
+8973,3,2,1,55.5,Itaim Bibi,kitnet
+5680,1,1,1,76.8,Pinheiros,kitnet
+8570,2,2,1,76.3,Moema,apto
+8770,3,2,2,71.9,Moema,apto
+7608,1,1,2,59.7,Moema,kitnet
+6422,3,1,0,36.5,Butantã,casa
+4779,1,2,0,58.5,Pinheiros,apto
+6021,1,2,0,63.5,Vila Mariana,kitnet
+6518,2,2,2,22.5,Vila Mariana,casa
+5325,2,2,0,63.4,Vila Mariana,apto
+3982,1,2,0,58.1,Butantã,kitnet
+3253,1,2,0,34.1,Butantã,casa
+6694,2,2,2,53.3,Pinheiros,casa
+3728,1,1,1,53.8,Tatuapé,kitnet
+8299,3,2,2,98.6,Vila Mariana,casa
+7102,3,1,0,64.4,Vila Mariana,casa
+4705,1,2,1,80.7,Vila Mariana,casa
+5050,2,1,1,57.6,Vila Mariana,apto
+5512,1,1,0,22.5,Moema,apto
+6646,2,2,2,73.4,Butantã,kitnet
+5058,3,2,2,46.8,Tatuapé,apto
+6946,1,2,0,53.3,Itaim Bibi,casa
+7530,1,2,2,38.9,Moema,apto
+5604,1,1,1,61.5,Pinheiros,apto
+7233,3,2,1,81.3,Pinheiros,casa
+6760,1,1,2,78.7,Vila Mariana,kitnet
+8230,2,1,1,91.7,Vila Mariana,casa
+5128,2,1,0,94.6,Butantã,apto
+3931,1,2,2,20.0,Butantã,apto
+5256,1,2,2,36.1,Butantã,apto
+3307,1,2,0,23.8,Tatuapé,kitnet
+4881,3,1,2,72.6,Tatuapé,apto
+5939,3,2,1,46.1,Tatuapé,casa
+6423,3,1,0,50.2,Moema,apto
+5453,1,1,1,55.7,Itaim Bibi,casa
+6447,2,1,2,67.7,Itaim Bibi,kitnet
+7061,2,1,0,30.3,Itaim Bibi,casa
+4477,3,1,2,34.8,Tatuapé,casa
+6167,1,1,2,60.0,Pinheiros,apto
+6214,1,1,0,59.5,Moema,kitnet
+6762,2,1,0,44.2,Itaim Bibi,apto
+5405,3,2,2,20.0,Tatuapé,casa
+5082,1,1,1,79.1,Butantã,apto
+5350,1,1,1,45.3,Moema,apto
+4432,3,1,1,37.1,Butantã,casa
+3687,1,2,1,25.7,Butantã,kitnet
+6036,3,2,1,31.2,Vila Mariana,apto
+6867,2,1,1,40.8,Moema,kitnet
+5638,2,1,1,55.2,Tatuapé,casa
+7550,3,1,1,35.8,Itaim Bibi,kitnet
+7863,3,2,1,63.7,Itaim Bibi,apto
+3207,1,2,2,55.1,Butantã,kitnet
+7118,1,1,1,104.4,Moema,apto
+6313,1,2,1,63.2,Moema,casa
+6398,3,1,2,63.5,Butantã,casa
+5749,2,2,1,39.4,Vila Mariana,apto
+7144,3,1,1,61.9,Tatuapé,casa
+6548,1,2,0,75.4,Pinheiros,apto
+7485,3,2,0,61.9,Butantã,casa
+7569,3,2,0,20.0,Moema,apto
+4208,2,2,0,43.2,Tatuapé,apto
+8125,3,1,2,89.5,Moema,apto
+5988,2,2,2,78.2,Butantã,apto
+5615,2,2,1,70.8,Tatuapé,apto
+5137,2,1,1,84.7,Tatuapé,apto
+3649,1,1,1,21.7,Pinheiros,casa
+8511,3,2,2,75.9,Pinheiros,apto
+8034,3,2,1,81.3,Moema,kitnet
+4278,3,2,0,46.8,Butantã,kitnet
+6480,3,1,1,112.6,Butantã,kitnet
+4930,2,2,0,63.9,Tatuapé,casa
+4307,3,2,2,20.0,Tatuapé,apto
+6546,1,2,0,67.6,Moema,kitnet
+6348,2,2,1,45.6,Vila Mariana,apto
+6459,1,1,0,83.3,Pinheiros,casa
+6500,1,1,2,71.0,Moema,casa
+4898,2,2,1,48.0,Vila Mariana,kitnet
+6041,2,1,0,90.0,Vila Mariana,casa
+7988,3,1,2,78.8,Vila Mariana,kitnet
+6515,2,1,1,43.4,Pinheiros,kitnet
+5091,2,1,1,57.0,Tatuapé,casa
+6071,2,1,0,70.3,Butantã,kitnet
+8565,2,2,0,52.7,Itaim Bibi,apto
+7513,3,1,2,53.3,Moema,kitnet
+7611,1,1,1,60.7,Moema,apto
+5052,2,1,1,38.7,Vila Mariana,kitnet
+6616,2,2,2,20.0,Pinheiros,casa
+5310,1,2,1,64.8,Tatuapé,kitnet
+5231,2,1,2,40.1,Pinheiros,casa
+4060,1,1,0,24.6,Moema,kitnet
+3885,2,2,1,27.0,Vila Mariana,apto
+7859,3,1,2,68.5,Vila Mariana,apto
+9222,3,1,0,55.6,Itaim Bibi,apto
+3939,1,2,0,54.8,Tatuapé,apto
+5194,2,2,1,33.7,Tatuapé,casa
+7094,1,1,0,46.9,Itaim Bibi,casa
+5193,2,1,0,67.5,Butantã,apto
+6948,2,1,0,59.0,Itaim Bibi,apto
+5897,2,2,2,76.5,Tatuapé,apto
+6909,3,2,0,79.3,Butantã,kitnet
+7948,2,1,2,55.0,Moema,kitnet
+4758,2,2,1,23.0,Butantã,apto
+6788,1,1,2,44.9,Itaim Bibi,apto
+3800,1,1,0,58.0,Tatuapé,apto
+4760,3,2,2,44.5,Butantã,kitnet
+4985,2,1,1,38.9,Tatuapé,kitnet
+7714,3,2,2,61.4,Itaim Bibi,kitnet
+8154,2,1,2,108.6,Vila Mariana,apto
+5812,2,2,1,50.2,Butantã,casa
+4286,2,1,2,59.9,Tatuapé,apto
+5727,2,1,0,33.8,Itaim Bibi,kitnet
+9243,1,2,1,84.9,Moema,casa
+4861,1,1,1,77.5,Butantã,apto
+6507,2,2,2,76.1,Pinheiros,kitnet
+8457,2,2,2,87.2,Pinheiros,casa
+4325,2,1,2,51.5,Tatuapé,casa
+6282,2,2,2,54.0,Itaim Bibi,apto
+8342,1,1,2,94.2,Itaim Bibi,apto
+8146,3,2,2,72.7,Moema,kitnet
+4357,2,2,1,20.0,Tatuapé,apto
+3523,1,1,0,69.1,Tatuapé,apto
+6017,2,2,2,48.4,Butantã,kitnet
+5986,3,1,0,78.0,Tatuapé,apto
+6074,3,2,0,68.2,Moema,casa
+4361,1,2,2,25.2,Butantã,kitnet
+6630,3,1,0,65.4,Pinheiros,casa
+6460,2,2,0,64.2,Butantã,casa
+7234,2,2,1,67.3,Pinheiros,apto
+6850,2,1,1,71.5,Vila Mariana,casa
+8429,3,2,0,89.9,Itaim Bibi,casa
+6616,1,2,1,68.3,Itaim Bibi,casa
+4093,1,1,0,60.5,Butantã,apto
+7800,2,2,0,83.0,Itaim Bibi,apto
+6716,1,2,0,104.9,Tatuapé,kitnet
+8526,3,1,2,78.3,Moema,kitnet
+6144,3,1,1,64.1,Pinheiros,kitnet
+6197,2,1,2,68.7,Pinheiros,apto
+7226,3,1,0,65.1,Vila Mariana,kitnet
+6177,1,2,2,60.4,Pinheiros,apto
+6323,2,1,2,103.3,Tatuapé,casa
+7699,2,1,1,45.0,Itaim Bibi,apto
+5061,1,2,2,83.1,Butantã,kitnet
+4936,1,2,1,57.5,Moema,apto
+3929,2,2,1,30.4,Butantã,kitnet
+5881,2,2,2,56.2,Butantã,apto
+4272,1,2,1,49.1,Butantã,kitnet
+6198,2,1,1,71.6,Moema,casa
+8168,3,2,2,61.8,Vila Mariana,apto
+4318,1,2,1,39.6,Butantã,apto
+7494,3,1,0,89.4,Vila Mariana,kitnet
+8390,2,1,2,81.8,Moema,apto
+6513,2,1,2,91.7,Pinheiros,apto
+8084,3,1,0,64.7,Itaim Bibi,casa
+6305,2,2,2,59.3,Tatuapé,apto
+8434,3,2,0,74.1,Pinheiros,apto
+5131,1,1,0,48.5,Vila Mariana,casa
+5389,1,2,2,62.6,Tatuapé,kitnet
+3805,2,2,1,56.5,Tatuapé,kitnet
+5711,1,1,1,30.8,Itaim Bibi,kitnet
+4911,1,2,1,62.5,Vila Mariana,apto
+5961,2,2,0,51.2,Butantã,casa
+9259,3,2,2,55.1,Moema,apto
+6158,1,2,0,67.3,Itaim Bibi,kitnet
+7627,3,1,2,85.5,Vila Mariana,casa
+6690,2,2,2,43.0,Pinheiros,apto
+5819,1,1,0,53.3,Pinheiros,kitnet
+5000,1,2,1,44.7,Moema,apto
+3634,3,2,0,43.4,Butantã,apto
+5274,1,1,1,48.1,Pinheiros,kitnet
+4957,2,1,1,56.1,Moema,casa
+7178,3,1,0,71.7,Pinheiros,kitnet
+6066,2,1,2,66.4,Butantã,casa
+7655,1,2,2,38.9,Itaim Bibi,kitnet
+6578,1,1,0,85.9,Itaim Bibi,casa
+8996,3,1,2,78.9,Itaim Bibi,apto
+5180,2,1,2,42.0,Tatuapé,apto
+6794,1,2,1,84.5,Itaim Bibi,kitnet
+6828,1,1,2,66.5,Pinheiros,apto
+4926,2,1,0,56.9,Butantã,casa
+6630,1,1,2,67.2,Itaim Bibi,apto
+7698,2,1,2,59.5,Itaim Bibi,apto
+6616,1,1,1,70.9,Moema,casa
+9036,3,1,2,63.7,Itaim Bibi,apto
+6909,2,1,2,53.3,Moema,casa
+6282,3,1,2,20.0,Pinheiros,kitnet
+4620,1,2,1,70.5,Butantã,apto
+5226,2,1,2,52.5,Vila Mariana,apto
+6604,1,2,1,75.6,Pinheiros,apto
+4872,2,2,1,69.6,Tatuapé,kitnet
+7132,3,2,0,53.0,Vila Mariana,casa
+5588,1,2,0,80.5,Butantã,casa
+8011,3,2,2,64.1,Moema,apto
+6569,2,1,1,63.3,Pinheiros,kitnet
+5501,3,2,1,57.2,Butantã,apto
+4227,1,1,2,93.7,Tatuapé,kitnet
+5394,3,1,0,45.7,Vila Mariana,apto
+7166,2,2,0,53.5,Itaim Bibi,kitnet
+3975,1,2,0,35.3,Tatuapé,apto
+5856,1,1,0,74.5,Pinheiros,apto
+8777,3,2,1,48.4,Itaim Bibi,casa
+7433,3,2,2,50.6,Moema,apto
+5688,1,1,0,49.7,Itaim Bibi,apto
+6853,2,2,1,61.3,Butantã,casa
+3405,3,2,0,35.0,Tatuapé,apto
+6438,2,2,2,20.0,Itaim Bibi,casa
+5017,1,2,1,69.2,Vila Mariana,kitnet
+4644,2,2,0,20.0,Vila Mariana,apto
+7265,2,1,1,77.1,Moema,casa
+6217,1,2,1,91.2,Butantã,apto
+6006,3,1,2,56.7,Tatuapé,casa
+6235,1,2,0,86.0,Moema,apto
+7815,3,1,2,59.5,Itaim Bibi,apto
+7459,3,2,2,92.0,Butantã,apto
+6218,3,2,0,50.9,Butantã,kitnet
+7646,3,1,2,20.0,Vila Mariana,apto
+7814,1,2,2,58.4,Itaim Bibi,kitnet
+4415,1,1,1,94.2,Tatuapé,kitnet
+7746,3,1,0,70.7,Moema,casa
+7636,3,1,1,49.7,Moema,apto
+7182,3,2,1,66.6,Pinheiros,kitnet
+6559,2,1,0,79.4,Vila Mariana,kitnet
+3432,2,2,1,58.3,Tatuapé,apto
+7118,1,2,2,112.5,Butantã,kitnet
+3708,1,1,1,49.7,Butantã,kitnet
+6714,2,1,2,80.1,Vila Mariana,apto
+7930,1,1,0,75.2,Itaim Bibi,apto
+4471,1,1,2,46.0,Pinheiros,kitnet
+6964,1,2,1,51.5,Itaim Bibi,apto
+7346,1,1,0,80.4,Moema,casa
+8323,3,1,2,62.9,Moema,apto
+7311,3,2,1,66.8,Itaim Bibi,kitnet
+8299,3,2,1,27.3,Moema,apto
+6925,1,2,0,73.1,Itaim Bibi,apto
+5350,2,2,2,65.7,Tatuapé,apto
+5613,3,2,0,58.7,Butantã,apto
+4911,2,2,0,67.2,Tatuapé,casa
+4402,2,1,0,51.8,Vila Mariana,apto
+7777,3,1,1,48.2,Itaim Bibi,kitnet
+6877,3,1,0,55.2,Moema,casa
+6558,3,2,2,50.7,Tatuapé,apto
+8122,2,2,0,103.6,Pinheiros,kitnet
+8848,2,2,2,78.2,Pinheiros,casa
+5550,3,2,2,40.6,Tatuapé,kitnet
+7479,3,1,2,100.7,Vila Mariana,apto
+3764,2,2,0,51.3,Butantã,kitnet
+6572,2,1,0,60.6,Butantã,casa
+9068,2,2,2,77.9,Itaim Bibi,kitnet
+4864,1,1,1,20.6,Itaim Bibi,casa
+6412,2,1,2,55.3,Tatuapé,kitnet
+7141,2,2,0,48.5,Pinheiros,casa
+7242,3,2,1,64.1,Moema,apto
+6819,2,2,0,67.4,Moema,apto
+4648,1,2,1,58.5,Butantã,kitnet
+5370,3,1,0,57.5,Vila Mariana,kitnet
+8362,2,2,2,81.3,Moema,casa
+7550,1,2,1,66.0,Moema,kitnet
+6026,3,2,0,60.8,Pinheiros,apto
+6623,2,1,1,63.0,Pinheiros,apto
+9136,2,1,1,96.7,Moema,casa
+8124,3,2,2,63.5,Pinheiros,casa
+6631,3,1,1,49.7,Pinheiros,kitnet
+5820,2,2,1,21.8,Moema,kitnet
+6404,2,2,2,31.3,Vila Mariana,apto
+4778,3,2,1,50.7,Tatuapé,kitnet
+6429,1,2,2,57.8,Pinheiros,casa
+6587,3,1,2,48.9,Vila Mariana,kitnet
+8511,2,1,2,67.0,Moema,apto
+5693,3,2,2,48.6,Butantã,apto
+4253,2,1,2,41.7,Tatuapé,apto
+5174,3,1,1,72.3,Butantã,kitnet
+7971,1,2,1,87.4,Moema,apto
+6897,3,2,0,37.9,Moema,kitnet
+6157,1,1,2,64.9,Moema,kitnet
+4044,2,2,2,21.9,Butantã,apto
+4245,1,1,2,30.5,Butantã,kitnet
+4864,3,1,2,48.2,Butantã,apto
+8270,3,2,1,82.7,Itaim Bibi,apto
+4150,1,1,0,44.4,Tatuapé,casa
+5677,3,2,2,43.7,Tatuapé,apto
+5486,1,1,2,60.7,Butantã,apto
+6335,2,2,2,60.7,Vila Mariana,apto
+6328,1,2,1,44.3,Moema,casa
+6117,1,2,1,99.7,Butantã,apto
+7051,1,1,0,54.7,Moema,apto
+6713,2,1,0,62.3,Vila Mariana,casa
+6282,2,2,2,52.0,Tatuapé,casa
+6461,3,2,0,68.8,Vila Mariana,kitnet
+4452,1,2,0,84.7,Butantã,apto
+8107,3,2,2,93.3,Butantã,casa
+5844,1,1,1,44.8,Vila Mariana,kitnet
+5891,1,2,0,82.0,Tatuapé,casa
+5140,1,2,1,71.0,Butantã,apto
+8167,1,2,1,79.5,Itaim Bibi,casa
+6541,2,2,0,58.2,Vila Mariana,casa
+5607,3,1,1,56.3,Tatuapé,apto
+6315,3,1,1,78.7,Tatuapé,casa
+6551,3,1,2,79.1,Tatuapé,apto
+6709,2,2,0,91.3,Pinheiros,casa
+5070,1,1,2,64.0,Vila Mariana,kitnet
+4175,2,1,0,57.9,Butantã,casa
+4421,3,1,2,20.0,Vila Mariana,kitnet
+4648,1,1,2,27.8,Vila Mariana,apto
+5331,1,2,1,52.1,Vila Mariana,kitnet
+6649,3,2,0,38.0,Vila Mariana,kitnet
+6797,1,1,0,76.3,Pinheiros,kitnet
+8473,3,2,1,33.8,Moema,kitnet
+7334,3,2,2,50.0,Butantã,casa
+6117,2,2,2,50.8,Pinheiros,casa
+5177,2,1,0,84.1,Vila Mariana,kitnet
+6080,1,2,0,47.8,Pinheiros,kitnet
+6277,2,1,1,69.0,Tatuapé,casa
+8362,3,2,1,63.9,Vila Mariana,apto
+9230,3,1,2,78.1,Itaim Bibi,apto
+4513,2,2,2,77.0,Tatuapé,apto
+8272,3,1,1,59.3,Itaim Bibi,apto
+5427,3,2,1,26.1,Tatuapé,apto
+7663,1,2,1,55.4,Moema,apto
+6232,2,1,1,59.6,Butantã,kitnet
+8699,2,2,2,65.7,Moema,apto
+4288,2,2,0,45.2,Butantã,casa
+5961,3,1,2,82.8,Butantã,casa
+6335,3,1,2,60.3,Tatuapé,apto
+6514,2,2,1,41.6,Itaim Bibi,kitnet
+6505,1,2,1,50.8,Vila Mariana,kitnet
+8193,3,2,1,98.6,Itaim Bibi,kitnet
+9552,3,2,2,73.3,Itaim Bibi,kitnet
+6785,3,2,0,81.0,Butantã,casa
+5110,2,1,1,39.2,Vila Mariana,kitnet
+5447,1,1,1,46.2,Itaim Bibi,apto
+5342,2,1,2,46.4,Moema,kitnet
+4585,1,1,0,63.7,Vila Mariana,kitnet
+5484,2,2,0,56.5,Vila Mariana,apto
+6596,3,2,1,50.2,Tatuapé,casa
+4355,1,1,1,52.7,Vila Mariana,casa
+7586,3,2,2,44.1,Pinheiros,apto
+4958,1,1,0,56.4,Moema,kitnet
+4952,1,1,0,82.3,Tatuapé,apto
+4302,3,2,1,29.7,Vila Mariana,apto
+6684,1,2,1,66.9,Butantã,apto
+8815,3,2,0,87.6,Itaim Bibi,kitnet
+3908,1,2,1,49.4,Butantã,casa
+6354,1,2,0,78.5,Moema,kitnet
+4785,1,1,2,40.3,Pinheiros,apto
+4995,1,1,0,59.5,Pinheiros,kitnet
+4946,3,1,2,39.2,Butantã,apto
+4125,3,2,0,22.6,Butantã,kitnet
+6982,3,1,1,57.0,Itaim Bibi,apto
+7199,3,1,2,34.7,Pinheiros,apto
+7554,3,1,1,59.8,Vila Mariana,kitnet
+7765,3,1,2,82.3,Pinheiros,kitnet
+8198,3,2,0,97.1,Pinheiros,kitnet
+5755,2,2,2,61.9,Vila Mariana,kitnet
+5968,3,1,0,80.4,Tatuapé,casa
+6023,1,1,1,68.0,Pinheiros,apto
+4395,2,1,0,52.3,Butantã,apto
+7662,3,2,2,21.5,Moema,casa
+6123,1,1,0,92.5,Vila Mariana,casa
+3427,1,2,2,39.0,Tatuapé,casa
+8384,1,1,1,87.7,Itaim Bibi,apto
+5356,1,1,1,70.7,Vila Mariana,casa
+7455,2,2,1,40.5,Pinheiros,apto
+7224,3,1,0,66.2,Pinheiros,apto
+7356,1,2,0,102.7,Butantã,apto
+9562,3,2,2,90.7,Pinheiros,casa
+5774,3,1,2,49.7,Tatuapé,casa
+7494,3,2,2,45.8,Moema,apto
+7899,3,2,1,62.0,Itaim Bibi,casa
+6027,1,2,0,56.7,Pinheiros,apto
+5934,2,1,1,84.0,Butantã,apto
+7973,3,1,1,74.8,Itaim Bibi,apto
+7851,3,2,1,26.2,Moema,casa
+6606,2,2,1,69.2,Vila Mariana,kitnet
+6664,3,1,2,56.4,Butantã,apto
+6242,3,2,1,60.7,Vila Mariana,apto
+7449,1,2,0,65.0,Moema,apto
+9620,3,2,2,84.0,Moema,casa
+7145,1,2,1,79.6,Vila Mariana,kitnet
+7432,2,1,1,45.0,Moema,apto
+5897,1,2,1,58.8,Pinheiros,casa
+6899,3,1,2,51.0,Pinheiros,kitnet
+5917,1,1,2,26.4,Vila Mariana,kitnet
+6702,2,2,2,57.8,Pinheiros,casa
+9506,3,1,1,96.9,Moema,kitnet
+4568,3,2,0,25.8,Butantã,kitnet
+4096,1,1,1,59.5,Pinheiros,kitnet
+6284,3,1,2,58.9,Pinheiros,apto
+7097,2,1,2,65.8,Pinheiros,apto
+6283,3,2,2,40.7,Tatuapé,apto
+5672,2,1,2,31.5,Vila Mariana,kitnet
+6490,1,1,1,32.4,Moema,casa
+6412,1,1,0,86.6,Pinheiros,apto
+3990,1,1,1,40.3,Vila Mariana,casa
+8076,3,2,0,50.0,Moema,apto
+9498,3,1,2,102.1,Moema,kitnet
+4299,2,1,2,45.3,Tatuapé,casa
+8583,3,1,1,66.8,Itaim Bibi,kitnet
+7102,1,1,1,81.3,Moema,apto
+5625,3,1,0,80.3,Butantã,casa
+3359,1,2,0,33.4,Tatuapé,apto
+5603,1,1,0,45.7,Vila Mariana,kitnet
+7586,3,1,0,66.0,Vila Mariana,casa
+6908,2,1,0,98.6,Vila Mariana,casa
+4489,1,2,2,44.8,Tatuapé,casa
+5857,3,2,2,50.1,Vila Mariana,apto
+6427,1,2,1,68.4,Butantã,kitnet
+9101,3,2,0,72.4,Moema,casa
+5710,1,1,2,73.6,Butantã,kitnet
+4672,1,2,1,43.1,Itaim Bibi,apto
+6514,1,2,1,49.4,Moema,apto
+5928,2,1,1,64.3,Vila Mariana,kitnet
+8304,1,2,1,85.2,Itaim Bibi,apto
+5396,1,2,2,55.2,Vila Mariana,apto
+7101,3,2,2,59.6,Vila Mariana,kitnet
+4980,2,1,1,39.5,Butantã,apto
+8299,2,2,2,97.3,Moema,apto
+5933,1,2,2,63.1,Pinheiros,casa
+6901,1,1,0,81.6,Moema,apto
+8189,1,2,2,60.6,Moema,apto
+6898,3,2,1,61.7,Butantã,apto
+6260,1,1,0,30.0,Itaim Bibi,apto
+4351,1,1,2,20.0,Vila Mariana,apto
+9247,3,1,2,85.0,Pinheiros,kitnet
+3954,2,2,1,61.6,Tatuapé,apto
+8842,3,2,0,64.1,Pinheiros,apto
+7172,2,1,2,35.0,Vila Mariana,apto
+7523,3,2,2,41.9,Pinheiros,casa
+8403,3,2,0,81.2,Pinheiros,kitnet
+6514,2,2,1,94.8,Butantã,casa
+6560,3,2,0,47.6,Pinheiros,apto
+6314,2,2,0,73.4,Pinheiros,apto
+6275,3,2,1,63.8,Butantã,casa
+6372,2,2,0,57.6,Vila Mariana,apto
+7617,2,1,1,50.9,Pinheiros,kitnet
+7525,2,2,1,84.8,Pinheiros,casa
+6038,2,2,2,67.6,Pinheiros,kitnet
+9405,3,2,0,59.7,Itaim Bibi,apto
+5746,3,1,2,87.4,Tatuapé,apto
+7627,3,2,0,65.8,Moema,kitnet
+6460,3,1,0,58.1,Vila Mariana,kitnet
+6761,1,1,1,87.6,Pinheiros,apto
+4893,3,1,0,85.0,Tatuapé,casa
+6424,3,1,0,84.0,Vila Mariana,apto
+9461,3,2,2,68.8,Itaim Bibi,kitnet
+6574,2,2,1,64.2,Butantã,kitnet
+6102,1,2,2,59.3,Moema,casa
+6462,1,1,0,72.2,Pinheiros,kitnet
+6901,2,2,0,65.2,Vila Mariana,casa
+4279,1,1,1,73.6,Butantã,kitnet
+4553,3,2,2,54.6,Tatuapé,apto
+5942,3,1,2,90.0,Tatuapé,casa
+7891,3,2,0,75.6,Moema,casa
+8259,2,2,1,70.9,Pinheiros,casa
+5702,2,2,1,69.9,Butantã,apto
+8589,3,2,2,83.1,Itaim Bibi,apto
+6631,3,2,0,80.4,Butantã,kitnet
+3296,1,1,1,57.7,Butantã,apto
+7606,2,2,2,79.8,Vila Mariana,casa
+5922,3,1,1,63.5,Vila Mariana,casa
+7384,3,1,2,98.3,Vila Mariana,casa
+7159,3,2,1,82.0,Butantã,apto
+5225,1,1,1,47.5,Tatuapé,apto
+5605,3,2,0,72.7,Tatuapé,apto
+5795,2,2,2,46.1,Butantã,apto
+6764,1,1,2,97.6,Butantã,apto
+4420,1,2,1,65.1,Pinheiros,kitnet
+7694,3,1,2,44.1,Moema,casa
+7750,3,1,2,54.7,Itaim Bibi,apto
+6332,3,1,2,45.7,Itaim Bibi,casa
+5447,3,1,0,53.9,Pinheiros,apto
+6049,3,2,0,53.4,Vila Mariana,casa
+4896,3,1,0,45.0,Tatuapé,apto
+8669,3,1,0,65.4,Itaim Bibi,apto
+8218,3,2,2,67.8,Pinheiros,apto
+4760,2,1,0,40.1,Tatuapé,casa
+5726,3,2,0,26.8,Vila Mariana,casa
+6923,3,2,2,66.2,Vila Mariana,casa
+4472,1,2,0,70.6,Tatuapé,casa
+9495,3,2,2,74.6,Moema,kitnet
+6357,2,1,2,71.0,Tatuapé,kitnet
+6025,1,1,1,91.5,Vila Mariana,casa
+7155,1,2,2,79.9,Itaim Bibi,casa
+7776,1,1,2,113.6,Pinheiros,casa
+7743,3,1,0,122.0,Butantã,apto
+7031,3,2,0,24.8,Pinheiros,casa
+5257,1,2,1,20.0,Itaim Bibi,apto
+6561,2,1,1,59.9,Moema,kitnet
+8707,2,2,2,70.1,Moema,casa
+6029,2,2,0,58.5,Pinheiros,kitnet
+7062,2,1,0,74.1,Itaim Bibi,kitnet
+7541,3,1,0,54.6,Pinheiros,casa
+3487,2,2,0,46.1,Tatuapé,kitnet
+8919,2,1,2,49.1,Itaim Bibi,casa
+4490,2,1,1,56.0,Butantã,apto
+8799,2,1,2,76.9,Itaim Bibi,apto
+6321,3,2,0,50.3,Vila Mariana,apto
+7444,2,2,0,54.2,Itaim Bibi,kitnet
+8432,3,1,2,71.4,Itaim Bibi,casa
+6166,2,1,0,56.0,Vila Mariana,apto
+7492,3,2,0,82.3,Pinheiros,casa
+4790,3,1,1,41.6,Butantã,apto
+7869,3,2,0,37.3,Pinheiros,kitnet
+4806,2,1,0,66.1,Tatuapé,kitnet
+6002,2,2,1,68.1,Vila Mariana,apto
+4989,2,2,1,42.7,Pinheiros,kitnet
+7713,3,1,1,98.5,Pinheiros,apto
+8973,3,1,0,47.4,Itaim Bibi,kitnet
+9311,3,2,0,89.7,Itaim Bibi,apto
+5914,3,1,1,20.0,Pinheiros,apto
+7482,3,2,0,81.5,Vila Mariana,apto
+8958,2,2,1,42.8,Itaim Bibi,casa
+5895,2,1,1,40.8,Pinheiros,apto
+6247,3,2,2,58.6,Butantã,apto
+6343,3,2,1,43.8,Vila Mariana,apto
+6691,2,2,1,55.7,Pinheiros,kitnet
+6685,3,1,1,96.6,Butantã,kitnet
+5686,1,1,1,57.8,Pinheiros,kitnet
+6447,2,1,2,102.2,Tatuapé,casa
+4218,3,1,0,52.3,Butantã,casa
+5800,2,1,0,89.8,Tatuapé,kitnet
+5497,3,1,2,27.5,Tatuapé,casa
+6894,2,2,1,54.3,Moema,casa
+7173,2,1,0,49.3,Pinheiros,apto
+7291,2,2,1,90.8,Tatuapé,casa
+6686,3,2,0,63.7,Butantã,apto
+5065,1,1,1,20.0,Pinheiros,apto
+4338,1,2,2,33.8,Butantã,kitnet
+7106,2,1,0,39.7,Moema,kitnet
+6717,1,2,2,78.7,Tatuapé,apto
+7529,2,2,0,76.1,Pinheiros,apto
+3964,2,1,0,54.0,Tatuapé,apto
+5539,1,2,2,49.0,Vila Mariana,kitnet
+6789,2,1,1,74.3,Vila Mariana,apto
+7992,2,2,2,37.4,Itaim Bibi,apto
+7513,3,1,2,69.2,Pinheiros,apto
+6470,1,1,2,67.5,Moema,kitnet
+6803,3,2,0,54.5,Tatuapé,casa
+5781,2,2,0,68.0,Pinheiros,kitnet
+5608,3,1,0,62.0,Vila Mariana,kitnet
+6037,1,2,1,69.9,Moema,apto
+3045,1,2,1,33.3,Tatuapé,kitnet
+6767,2,1,2,72.3,Butantã,casa
+6841,2,2,0,80.5,Butantã,casa
+6133,2,2,0,66.4,Vila Mariana,apto
+6358,1,1,1,72.0,Pinheiros,kitnet
+6626,2,2,1,57.8,Pinheiros,kitnet
+5881,3,2,2,77.8,Tatuapé,casa
+8514,3,1,0,61.3,Pinheiros,apto
+6011,1,2,1,37.0,Vila Mariana,kitnet
+6576,2,2,2,76.4,Butantã,kitnet
+3835,2,2,1,27.3,Butantã,casa
+5790,2,2,2,65.7,Butantã,casa
+5816,3,1,1,52.3,Vila Mariana,apto
+4409,2,1,0,51.0,Tatuapé,apto
+6251,3,1,2,63.4,Tatuapé,kitnet
+5902,3,1,1,45.8,Vila Mariana,casa
+3444,1,2,0,70.2,Tatuapé,apto
+7440,3,2,0,61.1,Tatuapé,kitnet
+5920,1,1,0,47.7,Moema,apto
+8568,2,2,0,86.8,Itaim Bibi,apto
+7785,2,2,2,64.1,Itaim Bibi,apto
+4029,2,1,1,72.6,Tatuapé,casa
+7783,2,1,0,88.3,Itaim Bibi,casa
+6882,1,1,0,88.0,Itaim Bibi,apto
+5215,1,2,0,71.6,Tatuapé,casa
+7443,3,1,2,53.9,Vila Mariana,casa
+8154,3,2,1,31.4,Itaim Bibi,casa
+8615,3,1,0,64.1,Itaim Bibi,casa
+7500,2,1,2,81.9,Butantã,kitnet
+7824,3,1,2,67.1,Pinheiros,kitnet
+6479,2,1,0,20.0,Moema,apto
+5617,1,1,2,77.4,Butantã,kitnet
+3939,1,2,2,78.6,Tatuapé,casa
+3796,1,1,0,54.0,Butantã,apto
+6499,2,1,2,79.8,Pinheiros,casa
+7562,3,1,1,72.6,Pinheiros,kitnet
+5956,1,2,1,46.3,Itaim Bibi,kitnet
+8047,2,1,0,85.4,Moema,casa
+4324,1,2,0,34.7,Tatuapé,apto
+8729,2,2,2,58.9,Moema,apto
+8601,2,1,2,56.9,Moema,apto
+5623,2,2,0,66.1,Pinheiros,casa
+8056,3,2,2,85.0,Butantã,kitnet
+6514,3,1,2,74.5,Tatuapé,kitnet
+7508,3,2,2,26.1,Moema,kitnet
+6553,3,2,1,33.3,Pinheiros,apto
+4853,1,1,0,63.3,Itaim Bibi,casa
+7462,3,1,2,59.3,Moema,kitnet
+5512,1,1,2,50.0,Pinheiros,kitnet
+8371,3,1,1,98.1,Moema,apto
+5395,3,1,1,62.1,Butantã,casa
+9072,3,2,0,70.8,Vila Mariana,kitnet
+7391,3,2,1,79.8,Vila Mariana,apto
+7955,3,1,0,61.1,Itaim Bibi,casa
+8749,3,2,1,111.8,Vila Mariana,apto
+4407,1,2,0,41.2,Butantã,kitnet
+4055,1,2,1,47.9,Butantã,apto
+6332,3,2,0,41.1,Butantã,apto
+5992,1,1,2,91.3,Butantã,apto
+5752,2,2,1,76.0,Vila Mariana,apto
+5488,1,2,2,49.1,Vila Mariana,casa
+6544,2,2,0,42.7,Moema,apto
+8556,3,2,0,87.7,Moema,casa
+6124,3,1,0,67.2,Butantã,casa
+9054,2,2,1,88.2,Itaim Bibi,casa
+5377,2,2,0,58.8,Tatuapé,kitnet
+5978,2,1,2,70.2,Butantã,casa
+5449,2,1,2,66.0,Tatuapé,casa
+5705,2,2,2,47.5,Moema,kitnet
+8036,3,1,0,57.1,Moema,apto
+3880,1,1,1,36.3,Tatuapé,kitnet
+6209,2,2,1,69.9,Pinheiros,kitnet
+7981,2,1,1,75.2,Itaim Bibi,apto
+6412,2,2,1,79.8,Tatuapé,apto
+8637,1,2,2,73.3,Itaim Bibi,casa
+4831,1,1,2,57.4,Tatuapé,apto
+8188,2,1,0,91.0,Itaim Bibi,casa
+6793,3,1,0,77.8,Butantã,kitnet
+5888,3,1,0,87.8,Tatuapé,casa
+9000,3,1,1,89.0,Moema,apto
+6828,3,2,1,57.5,Pinheiros,apto
+9121,2,2,2,67.8,Itaim Bibi,kitnet
+3677,1,2,0,75.5,Butantã,apto
+7364,2,2,0,37.0,Itaim Bibi,casa
+4838,3,1,0,37.5,Butantã,kitnet
+4793,2,1,0,34.0,Butantã,apto
+7411,3,2,0,57.8,Itaim Bibi,casa
+4172,1,2,0,53.3,Tatuapé,casa
+5087,1,1,2,31.3,Pinheiros,apto
+6337,1,1,2,63.0,Pinheiros,casa
+4605,1,1,2,58.1,Vila Mariana,casa
+8318,2,1,1,83.6,Moema,apto
+7031,2,1,1,100.3,Itaim Bibi,kitnet
+7140,2,1,2,69.1,Moema,casa
+4032,1,2,0,46.1,Pinheiros,apto
+6951,2,1,1,72.9,Vila Mariana,kitnet
+5026,1,1,2,60.2,Butantã,kitnet
+5721,2,2,1,55.2,Butantã,apto
+6762,1,1,0,42.8,Moema,apto
+6069,1,1,1,50.7,Itaim Bibi,casa
+7681,1,2,2,56.4,Itaim Bibi,casa
+5035,1,2,0,76.1,Butantã,kitnet
+5738,2,2,1,70.2,Butantã,casa
+6741,2,1,0,96.5,Tatuapé,casa
+9270,2,2,0,73.5,Moema,apto
+5109,2,1,2,68.5,Tatuapé,casa
+6083,1,2,1,53.9,Vila Mariana,kitnet
+5733,1,1,0,39.3,Moema,casa
+5523,3,1,1,48.6,Tatuapé,casa
+5078,3,1,0,46.0,Tatuapé,apto
+3627,1,2,2,39.8,Moema,apto
+8289,1,1,0,92.0,Moema,apto
+4965,1,1,0,67.4,Pinheiros,apto
+4481,1,2,2,52.5,Tatuapé,kitnet
+5263,2,1,2,68.0,Tatuapé,casa
+4301,3,1,2,20.9,Butantã,kitnet
+6661,3,2,2,65.6,Tatuapé,casa
+8831,3,1,2,85.5,Moema,casa
+6054,2,2,1,57.6,Pinheiros,casa
+5256,2,1,2,24.6,Vila Mariana,apto
+7125,2,1,2,51.7,Moema,casa
+7610,1,1,0,85.6,Moema,kitnet
+5883,2,1,0,65.2,Moema,kitnet
+5305,1,2,1,31.6,Moema,casa
+9601,2,1,2,107.4,Itaim Bibi,kitnet
+5036,1,2,2,34.9,Pinheiros,kitnet
+5832,3,2,0,55.1,Vila Mariana,casa
+5905,3,1,1,39.3,Pinheiros,casa
+6598,3,2,2,39.3,Vila Mariana,apto
+6351,1,2,0,51.0,Itaim Bibi,apto
+6114,1,1,2,72.7,Pinheiros,kitnet
+7851,3,2,0,85.8,Moema,apto
+7087,3,1,0,52.3,Pinheiros,casa
+5255,2,1,0,39.8,Butantã,kitnet
+5659,1,1,2,69.6,Itaim Bibi,apto
+5262,2,1,2,70.2,Vila Mariana,kitnet
+6547,2,1,0,64.8,Vila Mariana,casa
+8821,3,2,1,65.5,Pinheiros,apto
+5029,2,1,0,57.7,Moema,apto
+7611,1,1,2,62.0,Itaim Bibi,kitnet
+7101,3,1,2,56.4,Tatuapé,kitnet
+6452,3,2,2,81.4,Butantã,kitnet
+9401,1,2,1,104.6,Moema,kitnet
+5265,1,2,0,63.6,Vila Mariana,apto
+6748,1,2,0,59.9,Moema,kitnet
+6878,3,2,2,65.1,Vila Mariana,apto
+5906,2,2,1,46.8,Butantã,apto
+7127,2,2,0,75.3,Vila Mariana,kitnet
+5200,1,2,0,51.6,Tatuapé,casa
+6434,1,1,2,78.0,Pinheiros,kitnet
+7999,2,2,1,40.6,Moema,casa
+5543,1,1,0,67.0,Vila Mariana,kitnet
+7044,3,2,2,64.7,Pinheiros,casa
+5352,1,2,1,79.2,Pinheiros,casa
+6743,3,2,1,76.6,Pinheiros,casa
+7388,3,2,1,57.8,Moema,kitnet
+8519,3,2,2,50.6,Pinheiros,apto
+5591,2,2,0,60.0,Butantã,kitnet
+5027,1,2,0,67.3,Vila Mariana,kitnet
+5882,3,2,0,69.7,Tatuapé,kitnet
+7575,2,1,2,66.0,Itaim Bibi,casa
+7986,2,1,2,58.2,Moema,casa
+4295,1,1,1,79.9,Butantã,casa
+6275,2,2,0,46.5,Pinheiros,apto
+8328,2,2,2,109.6,Vila Mariana,kitnet
+5679,1,2,2,75.3,Vila Mariana,casa
+8294,3,2,2,37.5,Pinheiros,kitnet
+5775,1,2,2,63.7,Vila Mariana,apto
+6369,3,2,0,75.5,Vila Mariana,kitnet
+9173,3,2,2,53.0,Itaim Bibi,casa
+5047,2,1,1,30.1,Vila Mariana,kitnet
+4503,1,2,1,39.2,Butantã,apto
+6378,2,1,0,70.8,Itaim Bibi,casa
+5097,2,2,1,24.9,Butantã,casa
+7868,2,2,2,31.0,Pinheiros,casa
+3712,1,1,1,70.7,Butantã,apto
+5350,2,1,2,55.5,Tatuapé,casa
+3654,1,1,2,46.1,Butantã,apto
+8655,2,1,0,50.1,Moema,casa
+5909,2,2,2,30.6,Butantã,apto
+6116,2,2,2,69.7,Tatuapé,casa
+5934,3,2,1,43.9,Pinheiros,casa
+7090,3,2,1,49.3,Moema,apto
+8205,3,2,1,66.9,Pinheiros,kitnet
+4856,3,1,2,54.9,Butantã,kitnet
+5412,3,1,2,45.9,Vila Mariana,apto
+3713,1,1,0,20.2,Vila Mariana,apto
+4227,1,1,0,67.3,Tatuapé,kitnet
+7151,2,1,0,61.6,Moema,apto
+5638,2,1,1,49.7,Pinheiros,kitnet
+8414,3,1,2,39.3,Itaim Bibi,casa
+4118,1,2,1,60.3,Butantã,casa
+7490,1,2,0,69.6,Itaim Bibi,apto
+6530,3,2,2,62.0,Tatuapé,casa
+9663,3,2,1,92.8,Moema,apto
+5968,1,2,1,74.1,Tatuapé,casa
+4071,1,1,2,57.9,Tatuapé,casa
+5914,2,1,0,74.8,Pinheiros,apto
+4978,2,1,1,61.0,Pinheiros,casa
+3712,1,2,0,60.9,Vila Mariana,casa
+8137,2,2,1,85.9,Moema,kitnet
+6775,3,2,1,42.0,Pinheiros,apto
+6545,3,2,1,60.5,Pinheiros,kitnet
+6117,3,1,2,83.8,Butantã,kitnet
+8604,2,2,0,66.2,Moema,kitnet
+6779,3,2,2,52.6,Tatuapé,kitnet
+5446,1,2,1,20.0,Itaim Bibi,kitnet
+7871,1,1,0,101.5,Itaim Bibi,kitnet
+5984,3,1,0,66.2,Vila Mariana,casa
+4103,2,1,1,48.3,Butantã,apto
+6639,1,1,2,67.0,Moema,casa
+6104,3,1,1,41.0,Butantã,kitnet
+7846,1,2,2,53.4,Moema,kitnet
+4847,2,1,0,41.2,Pinheiros,casa
+6520,1,2,1,31.7,Itaim Bibi,apto
+5095,1,2,2,20.0,Pinheiros,kitnet
+5235,1,2,1,28.0,Itaim Bibi,apto
+6675,1,2,2,80.4,Pinheiros,apto
+4396,2,2,0,40.3,Vila Mariana,casa
+5751,1,1,2,70.7,Tatuapé,kitnet
+6516,1,1,2,79.1,Butantã,apto
+6781,2,1,1,60.3,Moema,casa
+6002,2,2,1,54.0,Pinheiros,apto
+7123,2,1,2,62.7,Vila Mariana,casa
+6223,2,2,1,51.7,Butantã,apto
+7531,3,1,0,84.1,Itaim Bibi,casa
+8307,3,1,2,97.5,Pinheiros,casa
+7323,1,2,0,89.0,Moema,apto
+5183,3,2,1,20.0,Vila Mariana,apto
+6047,2,2,0,51.3,Vila Mariana,kitnet
+4843,2,1,2,60.1,Butantã,apto
+5746,3,1,2,69.3,Tatuapé,apto
+4083,1,1,1,25.5,Vila Mariana,apto
+6939,3,1,1,86.1,Moema,casa
+7799,3,2,1,48.8,Pinheiros,apto
+5615,1,2,2,30.3,Moema,kitnet
+7046,2,2,0,37.9,Vila Mariana,apto
+7312,1,1,2,67.8,Vila Mariana,casa
+3501,1,1,1,43.5,Butantã,apto
+8916,1,1,2,64.8,Itaim Bibi,kitnet
+6863,2,2,1,40.4,Pinheiros,kitnet
+4937,3,2,2,25.1,Butantã,kitnet
+3689,2,1,1,88.5,Tatuapé,apto
+5889,2,1,1,68.0,Butantã,apto
+7525,3,1,0,53.3,Itaim Bibi,kitnet
+7232,2,2,0,49.6,Moema,kitnet
+6396,3,2,0,89.3,Tatuapé,apto
+4740,2,2,1,71.8,Tatuapé,kitnet
+7646,1,2,2,82.9,Itaim Bibi,kitnet
+6415,2,1,2,48.3,Vila Mariana,casa
+6347,2,2,2,61.0,Vila Mariana,casa
+5853,2,1,1,68.0,Vila Mariana,apto
+5054,3,1,1,49.0,Vila Mariana,apto
+6316,1,2,2,58.1,Pinheiros,apto
+5160,2,2,0,48.3,Pinheiros,apto
+6374,2,1,2,68.0,Butantã,kitnet
+4920,1,2,2,33.6,Pinheiros,casa
+5507,2,1,2,71.4,Butantã,kitnet
+8618,3,1,0,66.2,Pinheiros,apto
+7633,2,2,2,55.9,Itaim Bibi,kitnet
+5117,1,1,1,69.0,Vila Mariana,apto
+4850,1,2,1,52.7,Tatuapé,kitnet
+4170,2,2,0,46.6,Vila Mariana,apto
+9527,3,2,1,70.9,Moema,apto
+7947,1,2,1,71.7,Moema,apto
+5015,1,2,2,49.9,Tatuapé,kitnet
+4742,3,1,1,48.1,Moema,apto
+3983,1,2,0,56.3,Tatuapé,casa
+5551,1,1,2,49.0,Itaim Bibi,casa
+8314,1,2,0,90.5,Moema,kitnet
+9532,3,2,2,66.3,Moema,casa
+7319,2,2,2,60.3,Pinheiros,apto
+4578,1,1,0,41.3,Moema,casa
+7939,1,2,2,74.8,Pinheiros,apto
+6323,3,1,2,47.8,Vila Mariana,kitnet
+7253,3,2,1,46.9,Butantã,kitnet
+6976,1,2,2,75.5,Pinheiros,apto
+7138,1,2,0,67.7,Moema,kitnet
+6831,3,1,1,56.8,Butantã,casa
+6162,1,1,1,62.5,Pinheiros,casa
+7251,1,2,2,53.2,Pinheiros,apto
+8038,2,2,2,63.2,Moema,casa
+4177,2,2,1,23.8,Tatuapé,apto
+4776,2,2,1,20.0,Butantã,kitnet
+7169,3,1,1,40.5,Vila Mariana,kitnet
+6283,1,1,0,65.6,Pinheiros,kitnet
+4811,2,1,1,20.0,Vila Mariana,casa
+5795,1,2,2,21.5,Pinheiros,casa
+7203,3,2,2,55.1,Moema,kitnet
+7803,2,1,2,99.2,Pinheiros,casa
+6777,2,2,2,55.7,Pinheiros,casa
+4601,3,1,1,57.8,Butantã,casa
+6402,1,1,1,76.8,Pinheiros,casa
+8336,3,1,1,60.4,Vila Mariana,casa
+5421,3,1,1,55.7,Butantã,kitnet
+5069,1,1,0,78.5,Tatuapé,casa
+9063,3,2,1,65.8,Moema,kitnet
+4801,2,1,2,57.2,Butantã,casa
+6782,2,1,0,53.1,Moema,kitnet
+6535,3,1,1,78.3,Tatuapé,apto
+5145,1,1,1,53.3,Tatuapé,kitnet
+6610,1,2,2,84.6,Tatuapé,apto
+3456,2,2,1,39.1,Vila Mariana,casa
+5675,3,1,0,88.7,Butantã,apto
+5327,2,1,1,69.4,Butantã,casa
+4907,1,2,2,40.6,Pinheiros,casa
+4345,2,1,0,70.2,Itaim Bibi,kitnet
+6029,1,2,1,47.0,Itaim Bibi,apto
+8117,3,2,0,60.7,Itaim Bibi,kitnet
+7088,2,2,2,50.3,Moema,kitnet
+6323,2,2,0,57.3,Moema,casa
+5698,2,1,1,78.8,Butantã,casa
+8286,3,2,2,70.4,Pinheiros,kitnet
+7650,3,2,2,37.5,Itaim Bibi,apto
+5657,2,2,0,38.6,Butantã,kitnet
+7609,2,2,0,65.4,Itaim Bibi,apto
+6009,1,2,0,66.9,Moema,kitnet
+3996,2,2,1,46.5,Tatuapé,apto
+7384,2,1,2,91.8,Pinheiros,kitnet
+6179,2,1,0,76.3,Butantã,kitnet
+6866,3,2,0,47.5,Moema,apto
+7043,3,1,1,45.6,Pinheiros,casa
+7939,2,2,2,55.4,Itaim Bibi,casa
+6295,2,1,1,53.4,Tatuapé,apto
+5266,1,1,1,85.1,Tatuapé,casa
+7032,2,2,2,79.7,Pinheiros,kitnet
+9310,3,2,2,60.7,Itaim Bibi,apto
+7023,3,2,1,73.6,Tatuapé,kitnet
+8176,3,1,1,76.5,Itaim Bibi,kitnet
+6404,2,1,1,61.2,Itaim Bibi,casa
+7370,3,2,0,68.1,Vila Mariana,casa
+7407,3,2,1,71.9,Vila Mariana,casa
+4879,2,2,2,69.8,Butantã,apto
+4036,1,2,0,44.4,Tatuapé,casa
+6884,2,2,2,46.4,Moema,kitnet
+5214,3,1,1,54.2,Vila Mariana,apto
+4194,2,1,1,45.9,Tatuapé,kitnet
+7842,3,1,0,30.5,Itaim Bibi,kitnet
+9072,3,2,2,73.5,Pinheiros,kitnet
+4865,1,1,0,66.9,Tatuapé,casa
+5612,3,2,1,33.2,Butantã,casa
+5932,2,1,0,55.2,Vila Mariana,casa
+6868,3,1,2,56.3,Vila Mariana,kitnet
+4425,2,2,0,63.6,Butantã,kitnet
+5226,2,1,2,38.4,Pinheiros,casa
+5502,1,2,1,32.9,Moema,kitnet
+7933,1,2,0,70.4,Moema,casa
+7941,2,2,2,29.3,Itaim Bibi,casa
+5596,2,1,2,55.3,Pinheiros,apto
+7047,2,2,0,53.5,Moema,casa
+5904,1,2,2,57.5,Pinheiros,casa
+7628,2,1,2,65.1,Itaim Bibi,kitnet
+5430,1,2,2,92.0,Tatuapé,kitnet
+6565,1,1,1,28.0,Moema,apto
+7311,2,1,0,77.5,Moema,casa
+5273,2,1,1,20.0,Pinheiros,kitnet
+6816,2,2,2,87.9,Butantã,casa
+3978,3,2,1,20.0,Tatuapé,casa
+8149,3,1,1,108.7,Vila Mariana,kitnet
+8016,2,1,2,52.2,Moema,casa
+6432,1,2,0,81.7,Itaim Bibi,casa
+7023,3,2,2,51.3,Moema,apto
+5734,2,1,1,52.8,Vila Mariana,casa
+5985,3,1,1,43.3,Tatuapé,kitnet
+6360,3,1,1,75.7,Tatuapé,casa
+6590,3,2,2,51.5,Tatuapé,kitnet
+6120,3,2,2,43.6,Pinheiros,apto
+6965,1,2,2,70.7,Moema,kitnet
+4889,2,2,0,53.4,Butantã,kitnet
+3933,2,2,2,62.1,Tatuapé,casa
+7381,1,1,2,47.2,Moema,kitnet
+6249,3,1,0,50.2,Tatuapé,kitnet
+6634,1,2,1,90.7,Vila Mariana,kitnet
+6367,3,2,2,55.9,Pinheiros,kitnet
+7085,1,2,1,52.8,Itaim Bibi,casa
+6782,2,1,2,56.5,Butantã,kitnet
+6453,3,1,1,69.1,Butantã,apto
+5328,2,2,0,39.3,Tatuapé,apto
+6968,3,2,0,68.5,Pinheiros,casa
+5557,3,1,2,65.1,Butantã,kitnet
+6970,3,1,2,24.2,Moema,kitnet
+5435,2,1,1,95.9,Vila Mariana,casa
+8888,3,2,1,89.2,Butantã,casa
+6931,2,1,1,44.0,Itaim Bibi,casa
+8320,3,1,2,37.6,Itaim Bibi,kitnet
+7068,3,2,2,64.6,Vila Mariana,kitnet
+9359,2,1,2,87.3,Moema,casa
+4720,3,1,2,50.6,Tatuapé,casa
+7852,1,1,1,92.4,Itaim Bibi,kitnet
+5160,3,1,0,43.5,Tatuapé,casa
+5192,1,1,1,57.8,Vila Mariana,kitnet
+7433,3,2,2,85.3,Vila Mariana,casa
+7486,3,1,1,53.5,Moema,kitnet
+3903,1,2,0,65.4,Butantã,apto
+9603,3,1,2,81.9,Itaim Bibi,kitnet
+7224,1,2,2,48.9,Moema,apto
+6926,2,2,1,34.8,Itaim Bibi,casa
+7070,3,2,1,30.8,Itaim Bibi,kitnet
+8536,1,2,0,71.7,Moema,kitnet
+5892,1,1,2,67.8,Moema,casa
+4601,2,2,0,81.2,Butantã,casa
+5070,2,2,1,54.5,Tatuapé,apto
+4535,1,1,1,31.4,Pinheiros,kitnet
+6678,2,1,0,20.0,Itaim Bibi,apto
+6838,1,2,1,117.4,Tatuapé,apto
+4840,1,1,2,70.5,Tatuapé,casa
+7782,1,2,2,62.7,Itaim Bibi,apto
+5353,1,2,1,65.6,Butantã,apto
+7124,3,1,0,31.4,Vila Mariana,casa
+8226,3,2,2,44.1,Moema,kitnet
+6501,2,2,0,94.9,Vila Mariana,apto
+6454,3,1,2,73.2,Tatuapé,kitnet
+4947,2,2,1,44.7,Moema,casa
+7038,3,1,1,35.5,Moema,apto
+7165,1,1,1,49.7,Itaim Bibi,kitnet
+7092,1,2,1,53.7,Moema,casa
+9368,3,2,0,101.0,Moema,kitnet
+6806,1,1,1,56.2,Moema,apto
+6769,3,1,1,36.2,Vila Mariana,apto
+7705,2,1,2,58.8,Pinheiros,apto
+7817,2,1,1,65.3,Itaim Bibi,casa
+5579,2,1,2,34.4,Pinheiros,kitnet
+5090,3,2,0,68.0,Vila Mariana,kitnet
+7808,1,1,0,84.2,Itaim Bibi,casa
+7195,3,1,0,62.8,Pinheiros,casa
+5544,3,1,2,44.1,Tatuapé,kitnet
+7232,3,2,0,49.4,Itaim Bibi,casa
+5477,3,2,0,26.8,Tatuapé,apto
+7014,3,2,2,57.3,Vila Mariana,apto
+6459,2,1,1,66.2,Pinheiros,apto
+4917,2,2,1,42.1,Butantã,casa
+8124,2,2,2,98.8,Vila Mariana,casa
+8256,3,2,2,75.8,Itaim Bibi,casa
+5974,2,2,2,24.1,Vila Mariana,casa
+5060,2,2,1,24.6,Pinheiros,kitnet
+5861,1,2,1,40.3,Itaim Bibi,kitnet
+6152,1,2,0,91.5,Butantã,apto
+4539,1,2,1,77.8,Butantã,apto
+9681,2,2,2,92.5,Itaim Bibi,apto
+6087,2,2,0,60.2,Vila Mariana,kitnet
+4656,3,1,2,55.8,Butantã,casa
+7743,2,2,0,35.0,Itaim Bibi,kitnet
+5358,1,1,0,67.0,Vila Mariana,casa
+6898,2,2,1,56.1,Pinheiros,casa
+4765,1,1,0,55.3,Butantã,apto
+9470,3,2,2,92.4,Vila Mariana,casa
+8485,3,2,1,57.5,Itaim Bibi,apto
+7292,1,2,1,86.6,Pinheiros,casa
+4544,1,1,1,28.2,Vila Mariana,apto
+6639,1,2,0,113.8,Vila Mariana,apto
+5109,2,2,2,52.5,Vila Mariana,apto
+7496,1,1,2,74.1,Itaim Bibi,kitnet
+7123,3,1,0,77.3,Butantã,kitnet
+4668,1,2,0,50.1,Butantã,casa
+7037,2,2,0,76.4,Itaim Bibi,casa
+7401,2,2,0,77.4,Vila Mariana,kitnet
+3725,1,1,1,45.7,Butantã,casa
+3806,3,1,2,46.0,Tatuapé,casa
+5442,1,2,1,60.9,Tatuapé,casa
+7274,3,2,0,57.7,Itaim Bibi,casa
+6440,2,1,1,74.1,Butantã,kitnet
+5076,3,1,0,58.6,Tatuapé,casa
+5631,2,1,1,72.1,Tatuapé,casa
+7439,1,2,0,20.0,Itaim Bibi,apto
+5731,1,2,0,47.7,Vila Mariana,kitnet
+6963,3,1,1,65.8,Vila Mariana,kitnet
+7581,2,1,0,82.3,Tatuapé,apto
+7614,3,2,1,64.0,Pinheiros,apto
+6240,1,1,0,89.2,Vila Mariana,kitnet
+7472,3,1,0,77.4,Itaim Bibi,apto
+4167,3,1,1,50.2,Butantã,kitnet
+3986,1,2,0,57.2,Tatuapé,kitnet
+8076,2,2,2,68.2,Moema,kitnet
+8494,3,2,2,51.0,Moema,apto
+6383,1,1,1,90.6,Itaim Bibi,casa
+4163,1,2,0,37.8,Tatuapé,casa
+5525,1,2,1,66.3,Pinheiros,kitnet
+5828,2,1,1,74.7,Tatuapé,apto
+7360,1,2,1,53.7,Moema,apto
+6960,2,1,2,49.2,Itaim Bibi,apto
+5683,3,2,2,58.5,Butantã,kitnet
+6522,1,2,1,76.2,Butantã,kitnet
+4698,1,2,0,50.0,Tatuapé,apto
+6680,2,2,0,38.6,Moema,apto
+8965,1,2,2,83.0,Moema,apto
+5906,1,2,1,68.0,Vila Mariana,kitnet
+4208,1,1,0,80.2,Butantã,casa
+4054,1,1,1,75.2,Butantã,apto
+7722,3,2,2,103.6,Butantã,apto
+6486,1,1,1,82.3,Vila Mariana,casa
+6677,2,2,0,45.5,Vila Mariana,casa
+6801,3,2,2,69.4,Butantã,apto
+5236,2,1,0,48.9,Tatuapé,kitnet
+7556,2,2,2,50.9,Itaim Bibi,casa
+5627,2,1,1,31.7,Moema,apto
+6283,3,1,0,54.3,Moema,kitnet
+4222,1,2,0,70.9,Tatuapé,kitnet
+5845,1,1,2,58.7,Itaim Bibi,apto
+9048,3,1,2,38.0,Moema,apto
+5738,1,1,0,29.5,Itaim Bibi,apto
+6791,1,2,1,102.2,Vila Mariana,kitnet
+8273,1,1,2,66.5,Moema,casa
+3164,1,1,2,43.5,Butantã,kitnet
+4867,1,1,2,69.2,Butantã,casa
+8113,2,2,0,103.8,Butantã,casa
+6157,2,1,1,72.4,Vila Mariana,casa
+5457,1,1,2,20.0,Butantã,kitnet
+8120,3,2,0,113.0,Butantã,casa
+4435,1,2,0,23.0,Butantã,kitnet
+8644,3,2,2,55.9,Pinheiros,kitnet
+7621,3,1,2,37.3,Itaim Bibi,kitnet
+3965,2,1,0,45.2,Butantã,kitnet
+7678,2,1,2,65.7,Itaim Bibi,casa
+3210,1,1,1,20.0,Vila Mariana,apto
+6493,1,1,1,58.2,Itaim Bibi,casa
+8085,3,2,1,82.9,Pinheiros,kitnet
+8245,2,1,2,43.1,Moema,kitnet
+4240,1,2,1,32.2,Tatuapé,casa
+6369,3,1,2,53.2,Itaim Bibi,casa
+4269,1,2,1,48.1,Vila Mariana,kitnet
+3903,1,2,2,36.2,Tatuapé,apto
+5406,1,1,0,70.4,Tatuapé,apto
+4769,1,1,2,71.9,Tatuapé,apto
+4786,2,2,2,38.7,Vila Mariana,kitnet
+4748,1,1,2,41.5,Vila Mariana,casa
+5024,2,1,1,62.7,Vila Mariana,apto
+4706,1,1,1,40.7,Moema,apto
+7006,3,1,0,63.6,Tatuapé,apto
+8700,3,1,2,89.4,Moema,casa
+7903,2,2,2,58.8,Moema,kitnet
+5197,2,2,0,35.7,Vila Mariana,casa
+5334,1,2,0,67.8,Vila Mariana,kitnet
+4121,1,2,2,56.4,Tatuapé,kitnet
+7661,2,2,2,57.0,Itaim Bibi,kitnet
+6155,1,2,1,69.5,Vila Mariana,apto
+6350,2,1,0,73.8,Butantã,kitnet
+5979,2,1,2,60.7,Tatuapé,apto
+4188,1,1,1,58.8,Vila Mariana,casa
+8101,2,2,2,84.0,Pinheiros,apto
+7400,3,2,1,76.7,Pinheiros,apto
+6324,1,1,0,62.6,Moema,apto
+7254,2,1,2,39.9,Moema,apto
+9014,3,1,2,82.5,Itaim Bibi,casa
+6371,1,1,2,62.9,Pinheiros,kitnet
+5163,3,2,1,48.5,Butantã,apto
+8348,3,1,2,55.1,Vila Mariana,casa
+4877,2,2,2,40.7,Pinheiros,kitnet
+9197,3,2,0,81.1,Itaim Bibi,kitnet
+8403,3,1,0,73.7,Itaim Bibi,apto
+4923,1,2,0,63.6,Tatuapé,casa
+6708,3,1,2,59.1,Pinheiros,apto
+5827,1,1,0,46.4,Pinheiros,apto
+5514,1,2,1,20.0,Moema,apto
+5303,1,2,2,31.7,Moema,casa
+3779,2,1,1,45.1,Butantã,apto
+6264,3,2,0,42.1,Vila Mariana,apto
+4796,2,1,1,65.8,Vila Mariana,apto
+6727,2,1,0,76.2,Butantã,casa
+6362,1,1,1,57.4,Pinheiros,casa
+8907,2,1,2,88.2,Pinheiros,casa
+8407,2,2,1,44.3,Moema,apto
+7437,2,2,2,57.3,Moema,casa
+3574,1,2,0,59.0,Tatuapé,casa
+3613,1,2,2,81.8,Butantã,apto
+5539,3,1,1,62.1,Butantã,kitnet
+7493,2,2,0,62.7,Vila Mariana,kitnet
+3445,2,1,1,26.9,Butantã,casa
+3592,1,2,0,42.0,Tatuapé,casa
+7614,3,2,1,81.9,Pinheiros,kitnet
+4600,2,2,1,20.0,Butantã,casa
+8235,2,2,0,86.9,Pinheiros,casa
+4968,3,1,2,70.0,Tatuapé,casa
+5473,1,2,1,45.0,Itaim Bibi,apto
+6690,2,2,0,43.4,Vila Mariana,kitnet
+8324,3,1,1,97.9,Vila Mariana,apto
+8439,2,2,2,88.2,Moema,apto
+6394,1,2,2,57.6,Butantã,kitnet
+4189,1,1,1,62.7,Vila Mariana,casa
+5257,1,2,2,47.1,Tatuapé,casa
+6826,2,1,0,62.7,Moema,apto
+6781,2,2,1,46.5,Pinheiros,apto
+4343,1,1,0,58.4,Itaim Bibi,kitnet
+9178,3,1,2,96.2,Itaim Bibi,casa
+5432,1,2,2,58.1,Tatuapé,apto
+5321,2,2,0,39.0,Vila Mariana,kitnet
+7284,3,2,0,32.7,Pinheiros,casa
+7754,1,1,2,62.5,Moema,kitnet
+3377,1,2,1,44.8,Tatuapé,casa
+4707,1,1,0,64.9,Tatuapé,casa
+4234,2,2,0,27.6,Vila Mariana,kitnet
+4657,1,1,1,73.8,Tatuapé,kitnet
+6589,3,2,0,38.8,Vila Mariana,apto
+6060,1,2,0,60.9,Itaim Bibi,kitnet
+8127,3,1,0,53.2,Itaim Bibi,kitnet
+5227,2,1,0,94.4,Tatuapé,casa
+5938,1,2,2,63.4,Pinheiros,apto
+6833,1,2,2,98.9,Butantã,apto
+5568,1,1,2,71.2,Pinheiros,apto
+4646,1,2,0,88.5,Butantã,apto
+6008,1,1,0,55.8,Pinheiros,kitnet
+5294,2,2,0,66.9,Tatuapé,kitnet
+5168,1,1,1,84.4,Pinheiros,casa
+7927,3,1,0,78.1,Pinheiros,casa
+6693,1,2,0,70.6,Itaim Bibi,kitnet
+5981,1,2,2,53.4,Itaim Bibi,casa
+3499,1,1,1,56.8,Pinheiros,casa
+6105,1,1,2,82.8,Butantã,casa
+6420,3,1,0,86.9,Vila Mariana,apto
+4149,1,1,2,48.1,Vila Mariana,apto
+5965,1,2,2,45.1,Vila Mariana,casa
+8202,3,1,2,41.9,Moema,kitnet
+6168,2,2,1,76.6,Vila Mariana,apto
+6872,1,1,2,41.4,Moema,apto
+8734,3,1,1,76.4,Vila Mariana,apto
+7405,1,2,1,70.9,Pinheiros,kitnet
+6726,1,1,0,49.1,Moema,casa
+8190,2,1,0,91.3,Itaim Bibi,casa
+7068,3,1,2,30.8,Itaim Bibi,casa
+7051,1,1,0,93.2,Moema,apto
+7244,3,2,0,66.4,Vila Mariana,kitnet
+4494,1,2,0,20.0,Itaim Bibi,apto
+8340,3,1,1,91.8,Itaim Bibi,apto
+6341,1,1,2,79.4,Itaim Bibi,kitnet
+4731,2,1,0,51.4,Butantã,casa
+6488,2,1,0,40.7,Itaim Bibi,apto
+3236,1,1,2,28.6,Butantã,casa
+8906,2,1,0,108.3,Moema,apto
+6810,3,2,1,41.5,Moema,kitnet
+4890,2,1,2,34.7,Vila Mariana,kitnet
+7085,2,2,1,65.4,Vila Mariana,apto
+7860,3,2,0,27.2,Itaim Bibi,casa
+7074,3,1,2,40.4,Itaim Bibi,apto
+7083,1,1,0,79.9,Itaim Bibi,casa
+5955,3,1,0,69.3,Vila Mariana,apto
+7110,3,1,0,52.3,Moema,apto
+6726,3,1,1,60.4,Vila Mariana,casa
+6683,3,2,2,51.2,Butantã,kitnet
+6817,3,1,1,58.8,Vila Mariana,kitnet
+6461,3,1,0,44.8,Pinheiros,apto
+3389,1,2,1,48.4,Tatuapé,kitnet
+5844,3,2,0,47.8,Butantã,apto
+4805,1,2,1,45.5,Butantã,kitnet
+7577,2,2,0,80.9,Pinheiros,apto
+6786,3,1,2,75.4,Vila Mariana,casa
+6073,1,1,2,41.4,Pinheiros,apto
+5130,3,1,2,36.1,Vila Mariana,kitnet
+4161,2,1,0,56.9,Tatuapé,apto
+5973,1,1,0,103.1,Vila Mariana,kitnet
+3673,1,1,0,39.4,Pinheiros,apto
+4871,2,1,2,56.8,Tatuapé,casa
+6830,2,1,2,61.8,Pinheiros,apto
+4474,2,2,0,57.8,Vila Mariana,kitnet
+5309,1,1,2,50.8,Pinheiros,casa
+4894,1,1,1,83.1,Pinheiros,kitnet
+8406,1,2,0,69.1,Moema,kitnet
+5177,1,2,0,76.9,Butantã,casa
+8154,3,1,0,71.8,Itaim Bibi,apto
+6622,1,1,2,77.9,Pinheiros,apto
+8134,3,1,0,91.7,Pinheiros,apto
+7681,1,1,0,86.6,Moema,kitnet
+5344,2,1,2,106.5,Tatuapé,kitnet
+7995,2,2,0,46.6,Itaim Bibi,kitnet
+7155,1,1,2,76.9,Moema,apto
+6931,2,2,2,74.2,Vila Mariana,kitnet
+4670,1,2,1,98.4,Pinheiros,casa
+5725,3,1,2,40.7,Pinheiros,apto
+8050,3,1,2,71.2,Pinheiros,apto
+6052,2,2,1,46.4,Butantã,casa
+7091,2,1,2,70.3,Vila Mariana,casa
+6811,2,1,0,55.7,Itaim Bibi,apto
+7128,3,1,0,69.6,Tatuapé,casa
+5558,2,2,2,31.8,Tatuapé,apto
+7661,3,1,0,75.9,Moema,kitnet
+4814,1,1,1,63.0,Pinheiros,apto
+7693,3,2,2,99.0,Pinheiros,casa
+6534,2,1,1,52.4,Moema,kitnet
+7098,3,1,0,66.8,Moema,casa
+4668,2,1,1,62.0,Tatuapé,kitnet
+8357,2,1,2,64.0,Itaim Bibi,casa
+6906,2,2,2,104.4,Tatuapé,kitnet
+6632,2,2,2,61.3,Vila Mariana,apto
+6607,3,1,2,48.7,Vila Mariana,apto
+6873,2,1,2,97.4,Itaim Bibi,casa
+5503,3,1,2,53.8,Vila Mariana,kitnet
+3629,2,1,1,27.9,Tatuapé,kitnet
+3081,1,1,1,45.2,Tatuapé,kitnet
+7467,3,2,1,35.1,Itaim Bibi,kitnet
+7643,2,1,2,24.0,Itaim Bibi,casa
+7923,3,2,1,52.7,Moema,apto
+5100,2,1,2,58.6,Vila Mariana,kitnet
+7874,2,2,2,83.6,Moema,casa
+9646,3,2,0,72.6,Moema,apto
+8176,2,2,2,71.7,Vila Mariana,apto
+6241,3,2,2,42.1,Tatuapé,kitnet
+5581,2,2,1,77.7,Vila Mariana,apto
+4980,1,1,0,87.8,Tatuapé,apto
+6844,1,1,0,67.9,Itaim Bibi,kitnet
+6374,3,1,2,68.5,Butantã,apto
+5185,2,2,0,34.7,Pinheiros,apto
+8043,2,2,1,81.1,Itaim Bibi,kitnet
+7957,3,2,1,95.6,Pinheiros,casa
+6078,2,1,0,66.5,Moema,kitnet
+7336,2,2,2,48.1,Vila Mariana,casa
+7609,3,1,1,56.8,Pinheiros,apto
+4420,1,1,0,51.6,Vila Mariana,apto
+5765,1,2,0,52.8,Pinheiros,kitnet
+8701,3,1,1,73.0,Itaim Bibi,apto
+7342,1,1,0,65.6,Pinheiros,casa
+7890,1,2,1,67.4,Itaim Bibi,casa
+3912,1,1,1,42.7,Butantã,kitnet
+5152,3,1,1,50.0,Butantã,casa
+6768,2,1,0,48.7,Pinheiros,casa
+6210,3,1,1,56.3,Butantã,casa
+5713,2,2,1,95.9,Tatuapé,casa
+6836,1,2,0,99.1,Vila Mariana,kitnet
+9372,3,2,1,76.7,Moema,apto
+3195,1,2,1,62.4,Butantã,apto
+4545,1,1,0,32.8,Moema,casa
+7322,3,1,2,64.4,Vila Mariana,casa
+4765,2,2,0,92.6,Butantã,kitnet
+3920,2,1,1,27.9,Butantã,casa
+6124,3,1,0,67.7,Butantã,apto
+4706,1,2,1,42.5,Butantã,kitnet
+7760,1,2,0,59.8,Moema,kitnet
+6365,2,1,1,73.3,Vila Mariana,casa
+4915,2,1,0,80.4,Tatuapé,apto
+5218,3,1,0,58.8,Vila Mariana,apto
+6949,2,1,0,75.2,Moema,casa
+4069,1,1,0,46.8,Tatuapé,apto
+6950,3,2,1,64.9,Butantã,casa
+6413,2,1,0,80.0,Vila Mariana,apto
+6937,3,1,0,66.6,Vila Mariana,apto
+8404,3,1,0,49.4,Itaim Bibi,casa
+5793,1,1,2,54.4,Pinheiros,kitnet
+6903,2,1,2,80.3,Tatuapé,kitnet
+5764,2,1,0,38.2,Itaim Bibi,apto
+4375,2,2,0,41.1,Tatuapé,apto
+6676,1,1,2,72.0,Moema,casa
+7971,2,1,2,51.2,Itaim Bibi,casa
+6117,2,2,2,30.9,Moema,kitnet
+6853,1,1,0,87.0,Itaim Bibi,kitnet
+4252,1,1,1,38.0,Moema,casa
+5656,1,1,0,56.0,Pinheiros,apto
+6226,3,1,1,47.6,Tatuapé,apto
+7250,3,1,0,54.0,Pinheiros,apto
+5319,2,2,0,42.3,Butantã,casa
+6000,2,1,1,74.3,Tatuapé,apto
+7726,1,2,2,62.2,Moema,apto
+7482,1,1,1,79.7,Moema,kitnet
+6478,3,2,2,47.8,Tatuapé,kitnet
+6255,1,1,2,102.7,Vila Mariana,casa
+4197,1,1,2,21.9,Vila Mariana,kitnet
+6605,3,1,0,28.3,Moema,kitnet
+6783,2,2,0,95.1,Vila Mariana,kitnet
+6031,1,2,1,69.5,Itaim Bibi,kitnet
+5817,2,1,2,66.8,Pinheiros,apto
+8743,3,1,2,68.6,Itaim Bibi,kitnet
+8467,2,1,2,71.4,Moema,kitnet
+5187,2,2,0,66.0,Tatuapé,kitnet
+7932,2,1,1,40.7,Pinheiros,casa
+6955,2,2,0,76.4,Moema,kitnet
+8452,3,1,0,73.2,Itaim Bibi,kitnet
+6790,1,1,0,88.6,Vila Mariana,kitnet
+8211,1,2,2,95.3,Pinheiros,kitnet
+4622,1,1,0,66.6,Tatuapé,kitnet
+6420,2,1,1,35.4,Pinheiros,casa
+7308,2,1,2,95.5,Vila Mariana,kitnet
+8519,2,2,2,39.6,Moema,casa
+6829,3,1,1,66.8,Tatuapé,kitnet
+4064,2,1,1,54.9,Tatuapé,kitnet
+6999,1,2,1,51.4,Itaim Bibi,kitnet
+5021,2,2,2,75.3,Butantã,casa
+7964,2,1,2,64.9,Pinheiros,casa
+7587,2,1,1,70.3,Moema,apto
+7290,2,2,1,43.7,Pinheiros,casa
+6808,3,1,1,56.5,Pinheiros,casa
+3253,1,1,1,44.6,Vila Mariana,casa
+6890,1,2,2,56.0,Tatuapé,kitnet
+5234,2,2,0,57.6,Butantã,kitnet
+7206,1,1,2,96.9,Itaim Bibi,apto
+5361,1,2,1,54.8,Tatuapé,casa
+7829,2,2,0,20.0,Itaim Bibi,kitnet
+6675,2,2,0,87.9,Vila Mariana,kitnet
+5290,2,1,1,69.0,Butantã,kitnet
+4612,1,2,0,57.4,Butantã,kitnet
+5949,3,2,0,51.3,Pinheiros,kitnet
+6079,2,2,0,41.1,Moema,kitnet
+6625,1,1,2,61.0,Moema,apto
+5235,2,1,2,66.6,Butantã,kitnet
+9082,2,2,1,84.1,Moema,apto
+5113,2,1,2,63.1,Pinheiros,kitnet
+6463,2,1,0,42.0,Moema,casa
+7675,3,1,0,40.2,Vila Mariana,kitnet
+8574,3,1,0,41.7,Moema,apto
+6972,2,2,2,90.4,Tatuapé,kitnet
+9210,3,2,1,58.6,Moema,casa
+6338,3,1,0,26.4,Vila Mariana,casa
+7430,3,2,2,67.7,Vila Mariana,casa
+7724,1,1,2,62.8,Itaim Bibi,casa
+7862,2,2,1,51.0,Pinheiros,kitnet
+4977,2,2,2,39.6,Vila Mariana,apto
+3923,1,1,0,38.7,Butantã,kitnet
+6541,1,1,1,81.7,Pinheiros,kitnet
+8031,2,2,2,65.0,Moema,apto
+6599,2,2,1,69.6,Vila Mariana,apto
+7432,3,2,0,64.9,Pinheiros,casa
+8549,3,1,2,66.6,Moema,kitnet
+5114,1,1,2,50.6,Tatuapé,kitnet
+7558,3,2,2,55.9,Vila Mariana,kitnet
+7257,2,2,1,83.3,Pinheiros,kitnet
+6577,2,2,0,88.3,Pinheiros,casa
+4189,3,1,0,35.6,Tatuapé,casa
+5484,2,1,2,55.8,Butantã,apto
+5839,1,2,2,76.8,Vila Mariana,casa
+7186,1,2,0,97.6,Vila Mariana,apto
+8913,2,2,1,95.6,Moema,apto
+6837,1,1,1,44.1,Moema,kitnet
+5854,1,2,1,85.5,Vila Mariana,kitnet
+6770,3,2,1,61.2,Pinheiros,casa
+6435,1,2,2,80.9,Tatuapé,apto
+7677,1,2,2,75.8,Moema,apto
+6280,2,2,0,34.7,Moema,apto
+6089,1,1,1,71.0,Vila Mariana,kitnet
+6233,1,2,2,80.1,Butantã,apto
+4683,3,2,0,59.6,Tatuapé,apto
+8760,2,2,2,55.1,Moema,kitnet
+5729,3,2,1,28.6,Vila Mariana,kitnet
+9070,2,1,1,73.7,Itaim Bibi,kitnet
+4258,2,2,0,64.2,Butantã,apto
+6001,1,2,2,41.6,Pinheiros,casa
+5156,2,2,1,53.5,Butantã,apto
+5513,1,2,1,63.1,Itaim Bibi,kitnet
+7591,3,2,1,48.8,Pinheiros,apto
+4762,1,1,0,60.1,Itaim Bibi,kitnet
+4617,1,1,2,25.0,Pinheiros,casa
+8093,2,2,0,87.0,Pinheiros,kitnet
+5986,2,2,0,60.3,Pinheiros,casa
+5317,1,1,2,38.0,Moema,apto
+4440,2,2,0,20.0,Tatuapé,kitnet
+7118,1,1,2,80.6,Moema,casa
+7011,3,1,1,71.2,Pinheiros,casa
+7746,2,2,2,64.2,Vila Mariana,casa
+5084,3,1,0,77.3,Butantã,casa
+6249,3,1,2,77.2,Butantã,casa
+7810,2,1,0,63.9,Itaim Bibi,apto
+6162,3,1,2,54.9,Pinheiros,apto
+7770,1,1,1,51.7,Itaim Bibi,apto
+7779,3,1,0,68.4,Itaim Bibi,apto
+6438,2,1,1,87.9,Tatuapé,kitnet
+7336,3,1,0,57.9,Pinheiros,apto
+4864,1,1,0,89.5,Butantã,apto
+6941,1,2,2,67.5,Moema,apto
+7594,3,2,1,67.6,Pinheiros,kitnet
+8213,2,1,2,108.1,Vila Mariana,casa
+6902,1,1,2,93.1,Moema,apto
+6745,2,2,1,93.6,Pinheiros,casa
+5909,1,1,1,44.0,Vila Mariana,apto
+7527,2,1,0,103.8,Moema,apto
+6134,3,2,0,58.4,Butantã,apto
+7402,3,2,2,55.5,Pinheiros,kitnet
+3274,2,1,0,20.0,Tatuapé,apto
+6840,2,2,1,66.5,Butantã,casa
+6982,3,1,0,38.3,Itaim Bibi,kitnet
+4659,1,1,2,68.2,Butantã,kitnet
+4687,1,2,1,36.8,Vila Mariana,casa
+7676,1,2,1,96.0,Itaim Bibi,apto
+6295,3,2,2,71.0,Butantã,casa
+6568,2,1,0,105.6,Vila Mariana,apto
+7217,1,2,0,39.5,Moema,casa
+6099,1,2,1,91.0,Tatuapé,apto
+4742,1,1,0,23.9,Moema,casa
+7610,3,2,0,64.2,Vila Mariana,casa
+3151,2,1,0,47.4,Butantã,kitnet
+5532,1,1,2,51.0,Butantã,casa
+7226,1,2,0,49.7,Moema,kitnet
+8640,2,2,0,41.7,Itaim Bibi,casa
+7853,2,2,2,34.8,Moema,kitnet
+7784,3,1,0,51.2,Itaim Bibi,casa
+5403,1,2,0,62.3,Tatuapé,kitnet
+6598,1,1,1,83.3,Moema,casa
+5561,1,2,0,65.9,Pinheiros,kitnet
+5849,2,1,2,83.3,Tatuapé,casa
+6808,3,1,1,30.4,Vila Mariana,casa
+5656,2,2,2,51.3,Vila Mariana,casa
+4557,1,1,0,74.2,Vila Mariana,kitnet
+5495,2,1,1,66.9,Butantã,casa
+6457,2,2,0,42.8,Pinheiros,apto
+6298,1,1,0,78.7,Itaim Bibi,kitnet
+6418,3,2,1,49.4,Butantã,kitnet
+7228,2,1,2,44.5,Pinheiros,apto
+5153,1,1,0,69.7,Tatuapé,kitnet
+5486,2,1,2,60.1,Tatuapé,casa
+7514,3,2,0,49.5,Moema,apto
+8754,3,1,0,48.9,Itaim Bibi,casa
+5770,1,1,1,38.6,Moema,kitnet
+8715,3,2,1,52.1,Moema,apto
+9727,2,2,1,82.0,Moema,kitnet
+8415,2,1,2,64.9,Itaim Bibi,casa
+3677,1,1,0,79.2,Tatuapé,apto
+7418,3,1,2,70.3,Moema,casa
+5895,3,2,2,47.8,Butantã,casa
+6478,1,1,2,27.0,Itaim Bibi,kitnet
+4600,2,1,0,41.5,Butantã,kitnet
+9363,3,1,1,46.6,Itaim Bibi,apto
+7699,2,2,2,45.0,Moema,kitnet
+7227,1,1,2,79.6,Itaim Bibi,casa
+6976,3,2,2,79.4,Vila Mariana,apto
+7771,1,1,2,104.2,Vila Mariana,kitnet
+6637,2,1,1,44.7,Moema,casa
+4954,2,2,0,91.9,Butantã,casa
+6673,3,2,0,91.8,Tatuapé,kitnet
+6264,2,2,0,55.4,Moema,apto
+8444,3,2,2,69.5,Moema,apto
+7049,3,1,0,84.8,Vila Mariana,kitnet
+5241,3,2,1,58.8,Tatuapé,apto
+7628,3,1,2,57.3,Moema,apto
+4328,3,1,0,47.5,Tatuapé,apto
+6426,3,2,1,20.0,Moema,kitnet
+6236,3,2,1,61.4,Vila Mariana,apto
+4988,2,2,2,45.8,Butantã,apto
+5439,1,2,1,38.5,Moema,casa
+6323,1,1,1,68.4,Pinheiros,apto
+7790,3,2,2,31.0,Moema,casa
+5939,1,1,2,76.1,Tatuapé,casa
+9100,3,1,2,69.7,Pinheiros,casa
+7602,3,2,2,52.0,Vila Mariana,casa
+7322,2,2,2,58.7,Pinheiros,kitnet
+5778,3,1,2,36.2,Tatuapé,casa
+7723,1,1,2,75.0,Itaim Bibi,casa
+4953,2,1,0,63.7,Butantã,apto
+7934,3,1,1,65.2,Moema,apto
+4984,3,1,0,70.0,Butantã,apto
+5486,1,1,1,47.2,Vila Mariana,apto
+7464,3,2,1,29.6,Itaim Bibi,apto
+6934,2,1,2,79.1,Tatuapé,apto
+9545,3,2,1,73.8,Itaim Bibi,apto
+6778,2,1,2,49.3,Itaim Bibi,apto
+6843,2,2,2,68.2,Tatuapé,casa
+4206,1,1,2,85.2,Vila Mariana,apto
+6827,2,1,0,82.8,Tatuapé,apto
+7291,3,2,2,48.7,Itaim Bibi,apto
+5003,3,1,0,30.2,Butantã,apto
+4352,1,2,1,33.7,Butantã,apto
+6312,1,2,1,53.8,Vila Mariana,casa
+5914,3,1,0,89.2,Tatuapé,casa
+4447,2,1,2,45.4,Pinheiros,kitnet
+8080,3,2,2,48.1,Itaim Bibi,casa
+3855,1,1,1,47.7,Butantã,casa
+4442,2,2,0,49.4,Pinheiros,kitnet
+4330,1,2,0,59.8,Tatuapé,apto
+4271,3,2,0,34.4,Butantã,kitnet
+7670,3,2,2,81.7,Butantã,kitnet
+6516,1,2,1,57.1,Moema,casa
+8356,1,1,0,109.6,Pinheiros,kitnet
+5291,3,2,1,36.5,Butantã,apto
+5998,1,1,2,91.8,Butantã,kitnet
+6664,3,2,1,87.8,Tatuapé,casa
+4254,3,1,1,51.8,Butantã,apto
+5299,1,2,0,52.1,Pinheiros,apto
+4950,1,2,2,41.6,Tatuapé,kitnet
+7036,3,2,0,41.8,Pinheiros,casa
+4465,1,1,2,60.0,Butantã,apto
+5847,2,1,0,60.4,Itaim Bibi,casa
+4054,1,2,0,28.0,Butantã,kitnet
+7012,2,2,1,105.9,Tatuapé,casa
+6919,2,2,0,54.8,Pinheiros,apto
+6920,3,2,0,61.3,Pinheiros,apto
+5777,3,1,0,47.5,Moema,apto
+8267,2,2,2,54.7,Itaim Bibi,kitnet
+6778,2,2,2,52.8,Pinheiros,kitnet
+6312,2,2,0,59.9,Butantã,kitnet
+6614,3,1,1,59.7,Vila Mariana,casa
+6847,1,1,1,76.1,Moema,kitnet
+5670,1,1,1,64.5,Vila Mariana,casa
+7045,2,1,1,74.1,Moema,casa
+7978,3,2,2,59.8,Moema,apto
+7460,3,2,1,64.6,Pinheiros,casa
+3719,1,2,1,55.2,Tatuapé,casa
+7719,1,2,2,80.1,Itaim Bibi,apto
+7245,2,2,1,66.5,Butantã,casa
+6739,2,2,0,56.8,Vila Mariana,kitnet
+5334,2,2,0,56.2,Butantã,casa
+5976,1,2,1,57.8,Butantã,casa
+4858,3,1,0,60.6,Butantã,apto
+5496,3,2,1,48.8,Butantã,apto
+7062,2,2,0,75.3,Tatuapé,apto
+8096,1,2,1,76.6,Pinheiros,kitnet
+5868,2,1,2,95.7,Vila Mariana,kitnet
+8111,1,2,2,47.9,Itaim Bibi,casa
+6473,1,2,2,73.3,Pinheiros,casa
+5800,2,1,2,21.8,Moema,casa
+8217,2,1,1,76.6,Itaim Bibi,casa
+4620,1,2,2,30.9,Pinheiros,casa
+8311,3,2,2,40.3,Moema,casa
+5047,1,2,1,66.6,Vila Mariana,kitnet
+4669,2,1,1,47.6,Tatuapé,casa
+7213,2,2,2,44.8,Vila Mariana,casa
+5518,2,2,1,50.3,Butantã,casa
+7250,3,2,0,74.6,Pinheiros,apto
+5373,3,1,0,41.3,Butantã,apto
+6842,3,1,1,58.9,Itaim Bibi,apto
+3902,2,1,0,52.4,Butantã,casa
+4648,1,2,0,76.4,Butantã,kitnet
+7138,2,2,0,77.0,Vila Mariana,kitnet
+4323,2,1,1,23.3,Butantã,kitnet
+6355,2,2,1,80.9,Tatuapé,apto
+5112,2,2,1,47.8,Butantã,kitnet
+3911,1,1,1,64.7,Butantã,kitnet
+6227,2,2,2,41.2,Tatuapé,casa
+7564,3,2,0,67.4,Moema,apto
+8166,2,1,1,111.0,Pinheiros,casa
+6987,3,1,1,62.5,Pinheiros,kitnet
+7674,3,1,0,50.8,Moema,kitnet
+7076,3,1,0,55.4,Itaim Bibi,casa
+3861,1,1,0,30.6,Tatuapé,casa
+9472,3,1,0,89.0,Moema,casa
+6981,2,2,0,66.3,Vila Mariana,apto
+4497,2,2,0,39.0,Tatuapé,casa
+3642,2,1,0,39.7,Tatuapé,apto
+7367,1,2,2,60.3,Butantã,kitnet
+8066,3,1,2,78.6,Itaim Bibi,kitnet
+5314,2,2,1,37.0,Tatuapé,casa
+6834,3,2,0,82.3,Butantã,casa
+8395,3,2,2,58.2,Moema,kitnet
+4390,2,1,0,41.4,Butantã,casa
+7211,3,2,0,50.6,Moema,kitnet
+8091,2,2,1,95.0,Pinheiros,casa
+6921,2,2,1,32.2,Moema,apto
+8403,3,1,0,45.4,Pinheiros,apto
+9128,3,2,2,79.1,Pinheiros,apto
+6043,3,1,0,64.3,Butantã,casa
+7686,3,1,0,44.2,Itaim Bibi,casa
+7951,2,1,1,79.3,Vila Mariana,casa
+5631,3,1,1,80.2,Butantã,apto
+5953,1,1,2,66.6,Pinheiros,kitnet
+4407,3,1,0,47.8,Vila Mariana,casa
+7872,2,2,1,50.8,Itaim Bibi,kitnet
+6849,2,2,0,65.7,Vila Mariana,casa
+6116,3,1,0,33.8,Itaim Bibi,casa
+6745,1,2,1,86.6,Butantã,casa
+8145,3,2,2,94.0,Pinheiros,apto
+5584,2,1,0,55.3,Pinheiros,apto
+5709,2,1,2,67.1,Butantã,casa
+6587,1,2,1,83.7,Tatuapé,kitnet
+5387,2,1,1,99.1,Tatuapé,apto
+9667,3,2,2,91.1,Moema,casa
+6079,1,2,0,25.3,Moema,kitnet
+7265,2,1,0,53.7,Itaim Bibi,kitnet
+6685,3,1,2,70.0,Tatuapé,casa
+6313,2,1,0,50.1,Pinheiros,apto
+6226,2,2,2,95.7,Tatuapé,apto
+5722,1,2,2,43.7,Pinheiros,kitnet
+6807,2,1,1,56.8,Moema,apto
+9028,3,2,1,45.0,Itaim Bibi,kitnet
+4978,2,2,2,56.1,Tatuapé,kitnet
+6121,2,1,0,55.5,Pinheiros,apto
+5694,1,2,0,79.1,Pinheiros,casa
+7082,3,1,1,42.2,Tatuapé,apto
+8447,3,1,1,20.0,Moema,kitnet
+5449,3,2,2,27.9,Butantã,casa
+4999,2,1,2,39.4,Tatuapé,apto
+4711,2,1,1,46.9,Butantã,apto
+5433,2,1,0,63.7,Vila Mariana,casa
+5948,1,2,0,38.4,Moema,apto
+5141,1,1,2,35.8,Pinheiros,apto
+3126,2,1,1,41.4,Tatuapé,apto
+5441,2,1,1,37.7,Vila Mariana,casa
+6033,1,1,1,48.9,Moema,kitnet
+8391,3,2,2,48.1,Moema,casa
+6351,2,2,0,73.8,Vila Mariana,apto
+6218,3,2,0,40.2,Pinheiros,casa
+4985,1,1,2,52.8,Tatuapé,kitnet
+4899,1,2,1,49.1,Butantã,apto
+7102,1,1,2,76.2,Vila Mariana,apto
+7803,3,1,0,56.9,Moema,apto
+5372,1,1,0,81.0,Vila Mariana,kitnet
+8502,3,2,2,37.0,Itaim Bibi,apto
+6486,3,1,2,59.0,Moema,casa
+5437,1,1,0,48.5,Butantã,kitnet
+6084,2,2,2,35.5,Vila Mariana,casa
+7007,1,1,0,58.6,Pinheiros,casa
+5344,2,2,0,94.7,Tatuapé,apto
+3494,1,2,2,42.9,Tatuapé,apto
+5716,3,1,0,57.5,Butantã,apto
+5403,3,2,0,33.8,Butantã,kitnet
+3895,1,2,0,30.8,Butantã,apto
+3876,1,1,1,44.3,Tatuapé,apto
+6728,3,1,0,51.0,Moema,kitnet
+5368,2,1,0,51.9,Moema,casa
+6091,2,1,0,55.5,Pinheiros,casa
+6185,3,2,1,27.0,Moema,kitnet
+4923,1,1,1,47.5,Moema,casa
+7097,3,2,0,70.0,Pinheiros,kitnet
+5830,2,2,1,32.8,Vila Mariana,casa
+6677,2,2,1,52.9,Tatuapé,kitnet
+8059,2,1,1,65.9,Moema,kitnet
+6477,3,1,1,44.4,Butantã,casa
+7528,2,1,0,66.8,Moema,apto
+3781,1,1,1,29.6,Butantã,kitnet
+7438,1,2,2,77.8,Tatuapé,apto
+5861,3,1,0,67.3,Pinheiros,apto
+5703,2,2,0,61.1,Vila Mariana,casa
+6707,1,1,0,82.5,Itaim Bibi,kitnet
+5017,1,1,2,53.4,Tatuapé,apto
+4746,1,2,2,47.6,Vila Mariana,kitnet
+7734,3,2,2,87.5,Tatuapé,kitnet
+7468,3,2,0,96.8,Butantã,kitnet
+7735,2,2,1,46.1,Moema,casa
+5868,1,1,0,57.7,Pinheiros,apto
+8058,2,1,2,80.9,Vila Mariana,casa
+4714,1,2,1,58.4,Butantã,apto
+8081,2,1,1,71.9,Itaim Bibi,kitnet
+5379,2,2,1,75.6,Butantã,casa
+5391,3,2,2,48.8,Butantã,casa
+7963,1,2,2,68.4,Pinheiros,casa
+4847,1,1,2,59.9,Vila Mariana,kitnet
+5383,1,1,1,35.7,Pinheiros,casa
+6431,2,1,2,40.2,Pinheiros,kitnet
+5949,2,1,2,47.0,Butantã,kitnet
+4031,1,2,1,78.6,Butantã,kitnet
+8590,3,1,2,79.2,Pinheiros,casa
+8404,2,2,2,75.0,Itaim Bibi,kitnet
+5684,3,1,2,68.8,Tatuapé,apto
+6447,2,2,0,68.3,Pinheiros,apto
+5696,1,1,2,65.6,Butantã,casa
+5630,1,2,1,68.2,Butantã,kitnet
+4783,2,1,0,69.5,Tatuapé,apto
+5946,2,2,1,31.9,Itaim Bibi,casa
+6771,3,1,2,44.2,Moema,apto
+8285,3,1,2,39.4,Itaim Bibi,casa
+6342,1,1,2,82.1,Moema,apto
+5598,1,1,2,93.1,Butantã,kitnet
+6945,1,2,1,20.0,Pinheiros,kitnet
+6807,1,1,2,91.3,Vila Mariana,kitnet
+5146,1,2,0,61.7,Butantã,kitnet
+5059,1,2,0,80.3,Vila Mariana,apto
+4922,2,1,0,70.1,Vila Mariana,casa
+8401,1,1,2,88.8,Itaim Bibi,apto
+5500,1,2,1,64.2,Vila Mariana,casa
+5021,1,2,2,32.7,Tatuapé,casa
+6651,3,1,1,57.9,Vila Mariana,kitnet
+9454,2,2,1,70.3,Vila Mariana,apto
+5593,3,1,2,55.7,Butantã,kitnet
+5906,1,1,1,73.2,Vila Mariana,casa
+5325,1,2,1,58.7,Pinheiros,kitnet
+7948,2,2,0,48.1,Itaim Bibi,casa
+4881,2,1,1,38.3,Butantã,casa
+4776,1,2,0,52.2,Pinheiros,kitnet
+6249,1,1,0,64.1,Itaim Bibi,kitnet
+5002,2,2,0,20.8,Tatuapé,apto
+6913,1,1,0,44.4,Itaim Bibi,casa
+3750,2,1,0,20.1,Pinheiros,apto
+5237,3,2,0,47.7,Butantã,casa
+6856,2,1,0,83.9,Tatuapé,kitnet
+5035,2,2,2,36.3,Butantã,kitnet
+7849,2,2,0,74.1,Moema,apto
+8411,3,1,1,117.0,Butantã,casa
+4886,2,2,0,89.1,Tatuapé,casa
+6008,2,1,2,62.7,Pinheiros,casa
+6236,3,2,0,77.2,Butantã,apto
+7122,1,1,2,32.6,Itaim Bibi,apto
+5552,1,2,1,28.5,Vila Mariana,casa
+6273,2,2,2,60.6,Tatuapé,casa
+7008,1,2,1,68.0,Moema,kitnet
+5840,1,1,1,81.9,Tatuapé,casa
+4317,1,1,2,48.6,Butantã,casa
+7158,3,2,2,63.9,Butantã,casa
+7205,2,2,1,63.2,Vila Mariana,kitnet
+7859,3,2,2,57.4,Butantã,casa
+6691,1,1,2,58.6,Moema,casa
+6877,2,1,2,42.9,Itaim Bibi,apto
+9284,2,2,2,65.6,Itaim Bibi,kitnet
+8495,2,2,0,63.9,Moema,kitnet
+7181,3,1,1,51.2,Moema,apto
+7395,3,1,1,73.3,Moema,casa
+7072,2,1,2,80.6,Butantã,apto
+6673,3,1,0,73.5,Moema,kitnet
+4000,1,2,2,39.2,Vila Mariana,apto
+6025,1,1,0,62.0,Moema,apto
+6535,3,2,1,41.8,Vila Mariana,apto
+5910,1,1,2,61.9,Moema,casa
+4933,1,1,0,41.8,Pinheiros,apto
+7279,1,2,2,85.5,Pinheiros,casa
+7386,1,2,2,75.7,Itaim Bibi,kitnet
+8719,2,2,0,83.1,Pinheiros,kitnet
+5275,1,2,0,81.0,Tatuapé,apto
+7740,2,1,0,54.6,Itaim Bibi,apto
+7280,3,2,2,51.5,Itaim Bibi,apto
+6573,1,1,2,94.8,Moema,kitnet
+7269,3,2,1,56.7,Vila Mariana,casa
+5871,2,2,0,32.9,Butantã,casa
+4997,2,2,0,80.1,Butantã,kitnet
+4801,2,1,0,62.9,Tatuapé,casa
+5515,1,1,1,90.1,Pinheiros,apto
+5471,1,1,2,64.9,Pinheiros,casa
+6142,2,2,0,59.6,Vila Mariana,kitnet
+8222,3,2,2,90.5,Pinheiros,apto
+3233,2,2,0,29.2,Butantã,casa
+4886,2,2,1,48.3,Vila Mariana,casa
+4159,2,1,2,42.3,Vila Mariana,apto
+4681,2,2,1,20.0,Butantã,apto
+8002,1,2,1,77.5,Itaim Bibi,casa
+6040,2,1,1,48.9,Vila Mariana,casa
+8016,3,2,1,78.1,Moema,apto
+4938,1,1,0,67.8,Tatuapé,casa
+6630,3,2,0,72.1,Tatuapé,casa
+5833,3,1,2,50.9,Butantã,casa
+4116,1,1,2,44.7,Butantã,kitnet
+5335,2,2,2,61.8,Butantã,apto
+7805,3,2,0,78.4,Pinheiros,casa
+6864,2,1,0,59.0,Vila Mariana,apto
+5789,3,1,0,46.0,Tatuapé,kitnet
+5776,3,1,0,36.0,Pinheiros,apto
+7653,2,1,1,64.1,Moema,kitnet
+5486,3,1,0,48.9,Pinheiros,apto
+6641,3,1,2,58.6,Butantã,apto
+6292,3,2,0,55.2,Pinheiros,casa
+7686,3,2,1,51.1,Pinheiros,kitnet
+7852,1,2,0,65.9,Vila Mariana,apto
+5477,1,1,1,71.1,Pinheiros,apto
+7817,1,2,0,99.3,Tatuapé,kitnet
+7647,1,2,1,75.2,Moema,apto
+6457,3,1,2,91.9,Butantã,apto
+5472,2,2,2,43.6,Vila Mariana,kitnet
+5931,2,2,0,28.0,Tatuapé,apto
+4586,1,1,1,59.7,Tatuapé,kitnet
+5962,3,1,2,77.2,Tatuapé,kitnet
+7558,2,1,1,74.0,Itaim Bibi,kitnet
+7671,3,1,1,84.2,Vila Mariana,apto
+7929,1,1,2,85.1,Itaim Bibi,casa
+6020,1,1,1,66.7,Butantã,casa
+3071,1,2,2,29.1,Tatuapé,kitnet
+6850,3,1,2,74.5,Tatuapé,casa
+5143,2,1,1,63.4,Butantã,kitnet
+4430,2,1,0,67.6,Tatuapé,kitnet
+5957,1,2,0,80.0,Butantã,kitnet
+5089,1,2,1,68.6,Pinheiros,apto
+5323,3,1,2,30.5,Moema,apto
+7494,3,2,1,57.1,Pinheiros,apto
+5619,3,1,0,27.6,Pinheiros,casa
+7407,3,1,2,73.0,Moema,apto
+5470,2,2,0,88.0,Vila Mariana,kitnet
+7600,1,2,1,35.2,Moema,apto
+7868,3,2,0,46.6,Moema,kitnet
+5186,3,2,0,42.4,Tatuapé,kitnet
+6884,2,1,2,50.9,Butantã,apto
+6165,1,2,2,68.2,Butantã,apto
+9050,3,2,0,51.1,Moema,casa
+5748,3,1,0,73.1,Vila Mariana,casa
+6265,1,1,1,81.3,Itaim Bibi,apto
+7455,1,2,2,82.0,Pinheiros,casa
+5261,3,1,1,37.6,Tatuapé,apto
+8531,1,1,2,87.7,Moema,apto
+6575,3,2,1,89.3,Vila Mariana,kitnet
+7094,3,1,1,91.1,Tatuapé,kitnet
+5997,1,2,0,56.8,Vila Mariana,apto
+6198,1,2,2,45.0,Vila Mariana,kitnet
+4284,2,1,2,40.3,Tatuapé,casa
+5354,2,1,0,38.0,Vila Mariana,casa
+7686,3,1,2,60.2,Itaim Bibi,apto
+7274,2,2,2,77.0,Pinheiros,casa
+6750,1,2,1,86.1,Moema,casa
+7402,3,1,2,50.3,Itaim Bibi,casa
+6384,3,1,1,59.2,Vila Mariana,apto
+6945,2,2,0,57.9,Itaim Bibi,apto
+7712,3,2,2,47.3,Itaim Bibi,casa
+5302,3,2,0,74.7,Butantã,apto
+9087,3,2,2,67.3,Vila Mariana,apto
+7385,3,1,0,62.8,Itaim Bibi,casa
+5979,2,2,1,67.2,Butantã,kitnet
+6262,1,2,2,72.3,Itaim Bibi,casa
+7349,2,1,1,72.1,Vila Mariana,apto
+8331,3,2,2,43.2,Itaim Bibi,kitnet
+7283,3,2,0,77.9,Pinheiros,casa
+5505,3,2,0,65.1,Tatuapé,kitnet
+7235,2,1,0,51.3,Moema,apto
+3447,1,1,0,66.9,Tatuapé,apto
+6554,1,2,1,81.6,Pinheiros,casa
+3168,1,1,0,39.1,Tatuapé,apto
+8899,3,1,2,86.5,Butantã,kitnet
+7244,3,1,0,60.5,Moema,apto
+5988,1,1,2,49.9,Vila Mariana,casa
+6927,2,2,2,49.3,Butantã,apto
+6936,2,2,2,40.0,Pinheiros,kitnet
+5516,1,2,2,25.2,Moema,casa
+4579,2,1,2,73.5,Tatuapé,kitnet
+9585,2,2,2,99.6,Moema,casa
+6545,3,2,1,27.6,Butantã,casa
+8067,3,2,1,41.0,Moema,apto
+6238,1,2,1,75.0,Butantã,casa
+8746,2,2,1,59.1,Pinheiros,casa
+9171,3,1,1,76.7,Itaim Bibi,apto
+4758,3,2,0,58.0,Tatuapé,casa
+6992,3,2,2,48.4,Vila Mariana,apto
+8261,3,2,2,55.5,Vila Mariana,apto
+5501,1,1,2,20.0,Itaim Bibi,apto
+6218,3,2,0,37.1,Tatuapé,casa
+6815,3,2,2,79.0,Tatuapé,apto
+8383,3,2,1,83.8,Pinheiros,apto
+6263,3,2,0,88.1,Tatuapé,casa
+5092,1,1,2,68.8,Butantã,apto
+5270,1,2,2,20.0,Pinheiros,apto
+6132,2,2,2,47.3,Moema,casa
+7542,2,1,1,86.5,Moema,apto
+4087,1,1,0,92.5,Butantã,kitnet
+5392,1,1,0,87.3,Vila Mariana,casa
+7322,3,1,2,55.3,Moema,kitnet
+7626,2,1,2,33.9,Itaim Bibi,kitnet
+6494,1,2,0,59.2,Pinheiros,kitnet
+8457,2,2,2,60.3,Itaim Bibi,casa
+6925,2,1,0,91.3,Itaim Bibi,casa
+7358,1,2,2,64.6,Itaim Bibi,kitnet
+4232,3,1,0,60.3,Tatuapé,apto
+7926,2,2,2,61.5,Itaim Bibi,kitnet
+7058,1,1,0,68.0,Itaim Bibi,apto
+5570,1,1,1,72.5,Butantã,apto
+8044,3,1,2,45.5,Moema,apto
+7472,1,2,2,38.8,Moema,apto
+5630,1,2,1,87.4,Tatuapé,apto
+5029,2,1,2,27.2,Vila Mariana,kitnet
+6882,2,2,0,92.8,Butantã,apto
+6179,1,1,1,21.8,Itaim Bibi,kitnet
+4430,2,1,2,48.3,Tatuapé,casa
+5786,1,1,0,79.4,Vila Mariana,kitnet
+7265,2,2,1,60.0,Moema,casa
+4403,1,2,1,33.7,Moema,apto
+5908,2,2,1,68.5,Tatuapé,apto
+7705,3,2,2,61.3,Itaim Bibi,casa
+8533,3,2,1,55.7,Itaim Bibi,kitnet
+3097,1,1,2,47.5,Butantã,apto
+3804,1,1,1,59.3,Butantã,casa
+6204,1,1,2,48.4,Itaim Bibi,kitnet
+9522,2,1,1,108.7,Moema,kitnet
+4629,2,1,2,55.2,Tatuapé,casa
+6716,3,1,1,52.5,Moema,apto
+6266,3,2,2,49.2,Tatuapé,apto
+9193,3,1,2,95.5,Itaim Bibi,casa
+6149,1,2,0,27.2,Moema,casa
+3706,1,2,0,67.2,Tatuapé,apto
+7125,3,2,0,55.2,Pinheiros,apto
+9122,3,1,1,31.5,Itaim Bibi,casa
+6117,1,2,1,43.6,Moema,kitnet
+6840,1,2,0,66.3,Moema,apto
+4453,3,2,2,42.7,Tatuapé,casa
+6073,2,2,2,65.2,Vila Mariana,apto
+7405,3,2,1,94.6,Tatuapé,apto
+6838,2,1,0,63.4,Itaim Bibi,casa
+8119,3,2,2,30.9,Moema,apto
+6532,3,1,0,43.1,Pinheiros,apto
+5274,1,2,0,54.3,Moema,kitnet
+6501,1,2,2,53.0,Vila Mariana,apto
+7197,3,1,2,63.0,Moema,apto
+4176,1,2,1,66.2,Tatuapé,kitnet
+6522,1,1,0,94.6,Pinheiros,casa
+8951,3,1,0,59.9,Itaim Bibi,apto
+4006,1,1,2,37.0,Vila Mariana,casa
+5310,1,2,0,83.1,Butantã,casa
+7783,1,1,2,85.3,Itaim Bibi,apto
+6965,2,2,1,64.6,Vila Mariana,casa
+5699,2,1,1,55.1,Tatuapé,casa
+7750,3,2,2,72.5,Pinheiros,apto
+7683,3,1,1,55.8,Pinheiros,kitnet
+4964,2,1,1,20.0,Butantã,casa
+6637,1,2,0,77.8,Pinheiros,apto
+7291,2,2,1,88.8,Vila Mariana,apto
+4782,1,2,1,45.4,Vila Mariana,kitnet
+5469,1,2,0,64.5,Moema,kitnet
+6526,3,1,1,65.0,Vila Mariana,apto
+5341,1,1,1,61.7,Vila Mariana,kitnet
+4981,2,2,0,62.3,Tatuapé,apto
+7100,2,2,2,60.7,Vila Mariana,casa
+4064,1,2,2,64.2,Butantã,apto
+8299,3,1,1,74.8,Itaim Bibi,casa
+8628,1,1,0,84.4,Itaim Bibi,kitnet
+5943,1,2,1,44.9,Vila Mariana,kitnet
+8390,2,2,2,56.6,Itaim Bibi,kitnet
+4159,1,1,0,51.5,Butantã,apto
+6668,3,2,2,48.7,Vila Mariana,kitnet
+4527,1,1,2,27.7,Itaim Bibi,casa
+6880,1,2,0,60.5,Moema,casa
+4629,1,1,0,69.6,Itaim Bibi,kitnet
+6746,1,2,2,56.9,Moema,casa
+7292,1,2,2,59.8,Itaim Bibi,casa
+6493,2,1,2,68.4,Pinheiros,casa
+9384,1,2,1,88.2,Moema,casa
+6408,1,1,1,51.6,Vila Mariana,kitnet
+5323,1,1,1,36.6,Vila Mariana,casa
+4405,1,1,1,58.2,Vila Mariana,casa
+6899,3,2,0,36.8,Pinheiros,casa
+5936,1,1,0,73.0,Itaim Bibi,kitnet
+6021,3,1,0,83.2,Tatuapé,casa
+7867,3,1,2,20.0,Itaim Bibi,apto
+7067,1,2,2,68.2,Itaim Bibi,casa
+6474,2,1,0,72.1,Pinheiros,kitnet
+6093,2,1,0,54.7,Pinheiros,apto
+5531,2,1,0,47.1,Moema,apto
+5530,1,1,0,48.2,Moema,casa
+5282,2,2,1,53.4,Vila Mariana,casa
+7514,1,2,1,54.0,Itaim Bibi,apto
+4579,3,1,1,50.2,Tatuapé,kitnet
+7427,2,2,0,53.1,Itaim Bibi,kitnet
+5602,1,2,1,83.8,Pinheiros,casa
+5965,2,1,2,35.7,Itaim Bibi,casa
+4605,3,1,1,25.0,Vila Mariana,apto
+8592,3,1,2,84.1,Moema,kitnet
+7129,1,2,2,56.2,Moema,kitnet
+8359,3,1,2,52.2,Itaim Bibi,casa
+3715,1,1,1,57.8,Vila Mariana,casa
+4891,1,1,0,64.2,Vila Mariana,kitnet
+5885,1,2,1,49.5,Moema,kitnet
+8531,3,1,1,70.1,Moema,apto
+6509,3,2,2,40.8,Vila Mariana,kitnet
+6354,2,2,2,54.0,Vila Mariana,kitnet
+4804,3,1,1,20.0,Vila Mariana,kitnet
+8483,1,1,1,83.4,Moema,casa
+5567,1,1,2,56.5,Moema,casa
+8182,3,1,2,73.4,Moema,apto
+8672,3,1,2,69.5,Itaim Bibi,casa
+5329,1,1,1,71.0,Vila Mariana,apto
+3784,1,1,1,59.8,Butantã,casa
+6084,2,1,1,67.8,Itaim Bibi,apto
+4070,1,1,1,40.8,Vila Mariana,casa
+5230,3,2,0,36.6,Vila Mariana,casa
+7983,3,2,0,58.0,Vila Mariana,apto
+6604,1,1,1,46.4,Vila Mariana,kitnet
+7215,1,1,1,88.5,Moema,casa
+5801,3,1,0,67.5,Pinheiros,kitnet
+6161,2,1,0,45.7,Pinheiros,apto
+6152,1,2,2,54.6,Moema,kitnet
+6240,1,1,1,62.7,Itaim Bibi,apto
+6456,3,2,1,58.6,Vila Mariana,casa
+6263,3,2,2,65.4,Butantã,casa
+6257,1,2,0,61.4,Moema,casa
+4215,3,1,2,32.2,Butantã,casa
+4138,1,2,2,20.0,Vila Mariana,kitnet
+4792,1,1,1,52.5,Tatuapé,apto
+8009,2,2,1,71.2,Itaim Bibi,kitnet
+6883,2,2,2,52.8,Pinheiros,apto
+4856,3,2,0,84.7,Butantã,apto
+8230,3,1,0,59.1,Moema,apto
+7366,1,2,2,87.1,Moema,kitnet
+6190,2,1,0,83.0,Tatuapé,apto
+6654,3,1,2,81.0,Tatuapé,casa
+5428,2,1,2,35.9,Pinheiros,casa
+3468,1,2,1,60.3,Butantã,kitnet
+6774,1,2,0,84.5,Tatuapé,casa
+6606,2,2,2,65.4,Butantã,kitnet
+8823,2,2,2,71.1,Moema,kitnet
+5922,2,2,1,32.2,Tatuapé,kitnet
+7431,1,1,0,98.4,Moema,kitnet
+5007,1,1,1,44.2,Butantã,apto
+5720,2,1,1,20.1,Itaim Bibi,casa
+6279,3,2,0,53.0,Butantã,casa
+3196,2,1,1,20.0,Tatuapé,apto
+5946,2,1,0,38.3,Itaim Bibi,apto
+9713,3,1,2,111.2,Moema,apto
+6958,3,2,1,52.4,Moema,kitnet
+7707,3,1,2,31.4,Itaim Bibi,casa
+6066,2,1,1,60.5,Pinheiros,apto
+6171,3,1,2,42.0,Itaim Bibi,kitnet
+7153,2,2,2,77.3,Pinheiros,kitnet
+4190,2,2,0,42.2,Tatuapé,kitnet
+8345,2,2,1,65.4,Moema,kitnet
+7640,3,1,2,37.1,Moema,kitnet
+7218,1,2,0,70.1,Moema,kitnet
+7570,3,1,2,57.1,Moema,casa
+5878,1,1,0,54.1,Moema,casa
+4589,2,1,2,48.9,Tatuapé,casa
+8634,3,2,2,44.8,Itaim Bibi,casa
+4575,2,2,0,44.2,Tatuapé,casa
+4404,1,1,0,93.6,Tatuapé,kitnet
+5475,2,2,2,48.9,Butantã,apto
+4269,2,1,1,20.0,Butantã,apto
+5495,2,2,2,36.7,Pinheiros,apto
+8110,1,2,2,78.6,Itaim Bibi,kitnet
+4186,2,1,0,55.0,Vila Mariana,casa
+6304,1,1,2,57.3,Vila Mariana,casa
+8824,2,2,1,83.4,Itaim Bibi,casa
+8137,3,1,2,44.5,Pinheiros,casa
+5386,3,2,0,72.6,Butantã,casa
+7906,2,2,0,46.6,Itaim Bibi,apto
+6894,3,1,1,71.5,Butantã,apto
+6620,1,2,1,52.2,Itaim Bibi,kitnet
+5354,3,1,1,55.2,Butantã,casa
+6024,2,2,0,76.4,Pinheiros,apto
+5172,3,1,1,75.0,Butantã,casa
+7000,3,2,2,56.7,Pinheiros,casa
+4912,2,1,2,50.6,Vila Mariana,apto
+9236,2,2,2,92.0,Pinheiros,apto
+6652,3,1,0,71.8,Moema,kitnet
+7184,1,2,2,52.2,Itaim Bibi,apto
+5157,1,1,1,46.9,Vila Mariana,apto
+8901,2,2,2,80.5,Itaim Bibi,casa
+5625,2,1,2,62.3,Tatuapé,casa
+5959,3,1,0,56.7,Tatuapé,kitnet
+4412,1,1,2,62.3,Butantã,kitnet
+7773,2,2,1,66.8,Moema,apto
+6431,1,1,2,58.9,Moema,casa
+6564,1,2,1,84.1,Butantã,apto
+8135,3,2,0,85.2,Tatuapé,casa
+5264,3,1,2,70.6,Tatuapé,apto
+5900,3,2,0,87.5,Vila Mariana,apto
+6360,1,2,2,60.2,Vila Mariana,kitnet
+6870,2,1,0,73.8,Vila Mariana,apto
+9468,3,2,2,80.1,Vila Mariana,casa
+6802,1,2,1,80.4,Vila Mariana,apto
+9366,3,1,0,78.3,Itaim Bibi,kitnet
+8807,3,2,0,72.6,Pinheiros,kitnet
+6946,2,1,0,99.1,Tatuapé,casa
+5781,2,1,2,49.2,Butantã,kitnet
+6181,1,2,2,56.9,Itaim Bibi,casa
+7965,3,1,2,55.7,Moema,apto
+7019,3,1,1,52.6,Pinheiros,apto
+4527,3,1,1,20.2,Butantã,apto
+8494,3,2,2,87.5,Pinheiros,apto
+8038,2,2,0,39.5,Itaim Bibi,apto
+8196,3,2,2,63.4,Itaim Bibi,apto
+4986,1,1,1,31.6,Vila Mariana,casa
+8626,3,1,1,72.4,Itaim Bibi,apto
+4043,1,1,1,44.3,Vila Mariana,casa
+4657,2,1,2,37.3,Vila Mariana,casa
+6056,1,2,2,63.9,Itaim Bibi,kitnet
+4668,1,1,2,46.0,Butantã,casa
+5605,2,2,0,48.5,Vila Mariana,kitnet
+4242,2,1,0,63.4,Butantã,casa
+3679,1,1,2,76.0,Butantã,apto
+8555,3,2,2,43.6,Itaim Bibi,casa
+4966,1,2,0,40.2,Pinheiros,casa
+6343,3,1,2,60.5,Vila Mariana,casa
+5852,1,1,0,70.8,Itaim Bibi,casa
+6087,2,1,2,89.3,Butantã,casa
+7033,1,2,2,38.6,Itaim Bibi,apto
+7745,3,2,1,53.6,Moema,apto
+6455,3,2,0,83.5,Vila Mariana,kitnet
+6237,1,2,2,99.5,Butantã,kitnet
+5541,1,2,0,40.1,Vila Mariana,apto
+6689,2,1,1,45.2,Moema,kitnet
+6083,3,1,1,67.6,Butantã,kitnet
+3693,1,2,0,48.4,Tatuapé,apto
+4033,1,1,1,44.8,Vila Mariana,kitnet
+6008,2,1,2,64.9,Pinheiros,casa
+6100,1,2,0,91.0,Moema,kitnet
+4959,1,2,1,33.8,Butantã,casa
+7369,1,1,0,90.0,Moema,casa
+7421,2,2,1,48.5,Itaim Bibi,apto
+7144,3,2,0,66.9,Vila Mariana,apto
+8226,2,1,0,91.8,Itaim Bibi,casa
+6208,1,1,1,66.5,Itaim Bibi,kitnet
+4561,2,2,0,54.1,Tatuapé,kitnet
+7052,2,1,0,74.4,Itaim Bibi,kitnet
+6805,1,2,2,56.5,Tatuapé,casa
+7829,1,1,2,70.4,Moema,casa
+6311,1,1,0,55.9,Itaim Bibi,casa
+7709,3,1,2,77.2,Butantã,kitnet
+5955,3,1,1,32.1,Butantã,apto
+3587,1,2,0,39.7,Vila Mariana,apto
+5876,1,1,2,31.8,Itaim Bibi,kitnet
+6253,2,1,1,58.9,Pinheiros,casa
+3471,1,1,0,29.4,Tatuapé,casa
+5106,3,2,0,46.2,Tatuapé,kitnet
+7757,3,2,2,37.8,Moema,kitnet
+5019,1,2,0,89.6,Butantã,apto
+5045,1,2,1,40.2,Butantã,casa
+3773,1,2,0,34.3,Pinheiros,casa
+6407,2,2,2,65.0,Vila Mariana,kitnet
+6837,3,2,2,93.7,Vila Mariana,kitnet
+4207,2,1,1,57.7,Butantã,casa
+4831,1,2,1,59.2,Tatuapé,kitnet
+8043,1,2,1,85.8,Itaim Bibi,casa
+7276,1,2,1,77.6,Itaim Bibi,kitnet
+8454,1,2,2,68.5,Itaim Bibi,casa
+7334,2,1,2,48.4,Pinheiros,casa
+6218,2,1,0,69.1,Pinheiros,casa
+6484,1,2,2,32.8,Moema,kitnet
+5364,1,1,0,47.5,Moema,casa
+9460,3,2,0,88.6,Itaim Bibi,apto
+7226,3,2,1,86.0,Pinheiros,apto
+8499,2,1,0,68.7,Moema,casa
+5954,2,1,2,21.4,Vila Mariana,kitnet
+4916,2,2,2,35.8,Vila Mariana,casa
+4561,2,1,0,46.4,Vila Mariana,casa
+5134,1,1,0,56.6,Vila Mariana,kitnet
+3879,2,1,1,35.0,Tatuapé,casa
+8788,3,2,2,55.1,Moema,kitnet
+7873,2,1,1,95.3,Moema,casa
+9560,3,1,2,68.0,Moema,kitnet
+7138,2,1,0,64.4,Itaim Bibi,kitnet
+6126,1,2,1,39.6,Butantã,casa
+4099,2,1,0,27.2,Tatuapé,apto
+3484,3,1,0,35.4,Tatuapé,casa
+8262,2,1,2,26.4,Itaim Bibi,apto
+8324,2,2,0,61.5,Itaim Bibi,casa
+5834,1,1,0,67.7,Pinheiros,apto
+5738,3,1,1,40.7,Butantã,casa
+5738,2,1,2,63.0,Pinheiros,casa
+6238,1,2,1,89.4,Moema,apto
+5741,2,1,0,99.2,Tatuapé,apto
+8265,1,1,2,75.4,Moema,casa
+7212,3,2,1,56.5,Vila Mariana,apto
+8310,3,2,2,74.8,Butantã,kitnet
+7568,1,2,0,87.0,Pinheiros,kitnet
+5716,3,1,2,20.0,Vila Mariana,kitnet
+6336,1,2,0,89.6,Butantã,apto
+8491,2,1,2,49.1,Itaim Bibi,kitnet
+6315,2,2,1,49.3,Pinheiros,casa
+6516,1,1,2,52.9,Itaim Bibi,casa
+6104,3,1,1,66.4,Butantã,apto
+4504,3,2,0,37.8,Pinheiros,casa
+7253,2,2,0,54.3,Moema,kitnet
+7292,1,1,1,70.5,Moema,apto
+6947,3,1,0,64.4,Pinheiros,apto
+6804,2,2,1,67.6,Vila Mariana,casa
+6471,3,2,0,53.5,Vila Mariana,casa
+4719,2,1,1,73.9,Vila Mariana,casa
+8464,1,2,0,81.1,Moema,casa
+6804,1,2,0,79.9,Moema,apto
+4962,1,1,1,68.6,Vila Mariana,apto
+6850,1,1,1,78.8,Vila Mariana,apto
+6506,1,1,1,77.4,Vila Mariana,apto
+8424,1,1,1,113.5,Itaim Bibi,kitnet
+7946,3,1,1,84.4,Vila Mariana,kitnet
+4823,3,1,1,58.2,Butantã,casa
+3588,1,1,1,41.8,Tatuapé,apto
+7779,1,1,2,54.8,Itaim Bibi,casa
+4859,3,1,1,53.4,Tatuapé,kitnet
+5408,2,1,1,70.2,Vila Mariana,apto
+4843,2,1,2,46.0,Tatuapé,casa
+7397,3,1,1,83.8,Vila Mariana,casa
+6684,2,2,2,32.2,Pinheiros,apto
+4918,3,2,1,27.3,Vila Mariana,casa
+3479,2,1,0,57.3,Vila Mariana,casa
+6931,2,2,1,43.1,Pinheiros,casa
+4679,1,2,2,34.8,Pinheiros,kitnet
+3930,2,1,0,47.3,Butantã,casa
+3097,3,1,0,44.8,Tatuapé,apto
+8324,2,2,1,60.2,Moema,apto
+5008,1,2,2,47.6,Butantã,casa
+5825,2,1,1,49.2,Vila Mariana,kitnet
+8040,3,1,1,59.9,Moema,apto
+4760,3,1,1,80.3,Butantã,apto
+4994,2,1,1,89.4,Tatuapé,kitnet
+7227,3,1,0,63.0,Moema,casa
+4736,1,1,1,64.5,Vila Mariana,apto
+6273,2,1,2,56.3,Pinheiros,apto
+7086,2,1,2,69.6,Pinheiros,casa
+6939,1,1,2,67.8,Pinheiros,casa
+7711,3,2,0,86.5,Itaim Bibi,casa
+4860,3,2,1,22.2,Tatuapé,apto
+6529,1,1,0,55.3,Moema,casa
+6164,1,2,0,66.8,Itaim Bibi,kitnet
+7530,3,2,2,59.5,Pinheiros,apto
+6810,3,2,1,41.2,Vila Mariana,casa
+6729,3,1,0,34.0,Moema,apto
+5723,1,1,2,76.1,Butantã,casa
+5522,3,1,2,44.9,Tatuapé,apto
+4498,3,1,1,24.9,Butantã,apto
+6876,3,2,2,77.1,Vila Mariana,kitnet
+6973,3,2,2,69.2,Butantã,apto
+7010,3,1,1,57.7,Pinheiros,kitnet
+4857,2,1,2,41.7,Vila Mariana,casa
+4698,1,2,0,57.7,Tatuapé,casa
+7344,1,1,1,84.3,Pinheiros,casa
+4703,3,2,1,27.7,Butantã,casa
+4580,3,1,2,28.7,Butantã,casa
+3212,1,1,1,47.4,Tatuapé,kitnet
+4541,2,1,1,59.5,Vila Mariana,kitnet
+6606,1,1,0,50.1,Pinheiros,apto
+4627,1,2,1,72.9,Tatuapé,kitnet
+4567,2,1,0,81.8,Tatuapé,apto
+6566,2,1,1,65.6,Itaim Bibi,kitnet
+4926,2,1,1,71.2,Tatuapé,apto
+6207,2,1,2,65.4,Pinheiros,apto
+7456,2,1,1,60.2,Pinheiros,kitnet
+6325,3,2,0,34.1,Itaim Bibi,kitnet
+4152,1,2,1,39.4,Pinheiros,apto
+4131,1,2,0,33.0,Butantã,casa
+6125,2,1,1,57.0,Pinheiros,casa
+6961,2,1,0,64.6,Itaim Bibi,casa
+5078,3,1,0,31.0,Butantã,casa
+8253,3,1,2,61.5,Moema,kitnet
+5837,2,2,0,42.5,Pinheiros,kitnet
+3790,1,1,2,47.5,Vila Mariana,kitnet
+3667,2,1,1,37.6,Tatuapé,kitnet
+4897,2,1,2,72.1,Butantã,apto
+7415,2,1,1,56.6,Itaim Bibi,kitnet
+5350,1,2,2,76.3,Pinheiros,kitnet
+7376,3,1,1,51.1,Itaim Bibi,apto
+6018,2,2,0,51.9,Pinheiros,kitnet
+8692,2,1,2,97.5,Itaim Bibi,kitnet
+4245,1,2,2,27.5,Tatuapé,casa
+7809,3,2,2,85.7,Vila Mariana,casa
+7259,2,1,0,93.1,Moema,casa
+7755,1,2,2,75.3,Pinheiros,kitnet
+3946,1,1,1,53.4,Butantã,kitnet
+8591,2,2,2,88.5,Vila Mariana,kitnet
+5047,1,1,2,53.6,Vila Mariana,casa
+5264,3,2,0,45.9,Tatuapé,apto
+8056,3,2,1,52.2,Itaim Bibi,kitnet
+5543,3,2,0,48.6,Tatuapé,apto
+3696,2,1,0,41.1,Tatuapé,apto
+6043,2,2,1,82.2,Tatuapé,apto
+5861,2,1,1,44.5,Butantã,kitnet
+8321,2,2,1,59.4,Moema,casa
+7978,2,2,2,31.1,Itaim Bibi,apto
+5945,2,1,0,60.6,Itaim Bibi,apto
+3862,3,1,0,36.9,Butantã,casa
+4166,1,1,2,36.4,Butantã,kitnet
+7251,1,2,0,57.8,Itaim Bibi,kitnet
+6919,3,2,0,81.1,Vila Mariana,casa
+8106,3,2,1,68.8,Itaim Bibi,casa
+9121,3,1,0,70.2,Itaim Bibi,kitnet
+6471,2,2,0,57.4,Vila Mariana,kitnet
+7645,2,1,0,53.3,Itaim Bibi,apto
+5322,1,1,1,75.8,Vila Mariana,kitnet
+3746,1,1,2,48.7,Tatuapé,casa
+9560,3,1,2,76.7,Itaim Bibi,kitnet
+7131,2,2,2,84.7,Vila Mariana,apto
+6406,2,1,2,43.2,Moema,apto
+5453,1,1,1,46.1,Itaim Bibi,kitnet
+6364,2,1,1,49.1,Moema,kitnet
+5920,3,1,2,30.7,Butantã,apto
+4911,2,2,0,50.6,Pinheiros,kitnet
+8884,2,1,2,86.0,Itaim Bibi,apto
+7106,3,1,2,39.1,Itaim Bibi,kitnet
+5027,1,1,1,86.5,Butantã,apto
+5623,1,2,1,51.3,Pinheiros,apto
+6892,2,2,2,102.3,Butantã,kitnet
+7161,2,2,2,46.4,Moema,kitnet
+7058,3,1,0,57.1,Moema,apto
+5697,1,1,2,41.8,Moema,apto
+4843,1,1,1,46.2,Tatuapé,casa
+5423,2,1,0,86.8,Tatuapé,apto
+6984,2,1,0,69.5,Moema,kitnet
+7802,3,2,2,80.6,Pinheiros,kitnet
+4384,2,2,1,33.7,Butantã,kitnet
+5880,2,2,0,73.1,Vila Mariana,apto
+6029,1,2,1,40.6,Pinheiros,apto
+3895,2,2,1,33.3,Tatuapé,kitnet
+5146,2,1,0,64.8,Moema,apto
+5084,2,1,1,64.6,Tatuapé,casa
+4908,2,1,1,61.1,Butantã,casa
+6562,2,1,2,74.4,Pinheiros,kitnet
+6853,1,2,1,77.5,Vila Mariana,apto
+7547,1,2,1,36.2,Itaim Bibi,kitnet
+7345,2,2,2,90.0,Tatuapé,apto
+8127,3,1,0,97.6,Moema,casa
+5720,3,2,2,52.7,Tatuapé,apto
+3502,1,1,0,26.6,Butantã,casa
+5995,1,1,1,32.3,Moema,apto
+4316,2,1,1,50.8,Butantã,apto
+6815,1,1,2,100.3,Itaim Bibi,casa
+7901,2,1,2,60.3,Vila Mariana,casa
+6995,2,2,2,47.7,Vila Mariana,apto
+8414,3,2,2,46.3,Itaim Bibi,apto
+5947,2,2,2,33.5,Vila Mariana,apto
+8922,3,2,0,77.5,Moema,kitnet
+6838,2,2,1,58.2,Vila Mariana,casa
+5891,3,2,2,102.0,Tatuapé,apto
+5696,2,1,0,72.6,Vila Mariana,apto
+5434,2,2,1,76.6,Tatuapé,kitnet
+5226,2,2,1,55.2,Butantã,apto
+7562,2,1,2,38.2,Itaim Bibi,kitnet
+3544,3,1,0,42.5,Butantã,casa
+4499,2,2,0,32.6,Pinheiros,apto
+6501,1,2,0,78.2,Moema,apto
+5793,2,1,1,52.3,Vila Mariana,apto
+6337,2,1,1,79.1,Butantã,kitnet
+8687,2,1,1,62.7,Itaim Bibi,casa
+4495,1,1,0,54.1,Vila Mariana,casa
+4263,1,2,0,36.6,Tatuapé,apto
+4949,1,1,1,66.0,Tatuapé,kitnet
+7102,2,1,0,55.6,Moema,apto
+7622,1,2,2,78.0,Moema,casa
+5651,2,2,0,45.7,Pinheiros,kitnet
+6617,1,2,2,72.3,Moema,kitnet
+6879,1,2,1,92.8,Moema,casa
+7341,1,1,2,65.5,Itaim Bibi,kitnet
+5528,1,2,2,75.7,Butantã,apto
+7011,1,2,1,71.4,Itaim Bibi,kitnet
+9371,3,2,2,98.0,Pinheiros,casa
+4163,1,1,0,67.4,Butantã,casa
+6489,2,1,0,74.0,Moema,apto
+7265,2,2,1,59.3,Moema,kitnet
+6292,3,1,2,44.5,Butantã,kitnet
+4256,2,2,2,35.8,Butantã,kitnet
+7628,2,2,1,85.3,Pinheiros,apto
+7251,3,2,0,39.8,Moema,casa
+8539,3,2,2,74.9,Itaim Bibi,kitnet
+4615,1,2,1,68.3,Tatuapé,casa
+5993,3,2,0,78.4,Vila Mariana,kitnet
+4779,2,2,0,49.7,Tatuapé,kitnet
+3134,1,1,2,44.2,Butantã,apto
+7285,2,1,2,67.6,Vila Mariana,casa
+8051,3,1,2,54.2,Itaim Bibi,apto
+5104,1,1,0,35.4,Itaim Bibi,casa
+6792,1,1,2,98.8,Butantã,casa
+5000,3,1,0,44.2,Vila Mariana,kitnet
+5406,2,2,2,40.1,Vila Mariana,kitnet
+7799,3,2,1,85.1,Tatuapé,casa
+7498,2,2,0,20.0,Moema,casa
+6663,1,2,2,83.4,Itaim Bibi,casa
+5100,1,1,0,41.8,Itaim Bibi,casa
+6115,2,1,1,65.3,Vila Mariana,kitnet
+5882,1,2,0,46.5,Itaim Bibi,kitnet
+7070,2,1,1,99.8,Vila Mariana,kitnet
+7081,1,2,2,62.5,Moema,apto
+5801,1,1,2,45.8,Pinheiros,casa
+7251,3,2,1,54.0,Moema,casa
+4308,1,1,0,61.8,Butantã,casa
+7714,3,2,2,63.6,Moema,casa
+6534,1,1,1,68.8,Itaim Bibi,kitnet
+4610,2,1,0,60.0,Pinheiros,casa
+3750,1,2,2,32.5,Tatuapé,apto
+6738,2,1,2,53.2,Moema,casa
+8119,2,1,0,72.1,Itaim Bibi,kitnet
+4051,1,2,0,46.6,Butantã,apto
+5102,2,1,0,73.5,Tatuapé,apto
+7001,3,1,1,60.6,Pinheiros,kitnet
+5366,2,2,0,55.6,Moema,apto
+4719,1,1,1,83.9,Pinheiros,casa
+7202,3,2,2,25.2,Moema,kitnet
+5118,1,1,0,46.5,Pinheiros,apto
+5052,1,1,2,84.6,Tatuapé,casa
+6007,2,1,0,96.6,Vila Mariana,apto
+6079,1,1,0,105.7,Vila Mariana,apto
+6069,1,2,2,61.0,Pinheiros,apto
+7098,3,2,1,69.2,Butantã,apto
+6869,2,2,2,76.3,Butantã,casa
+8722,3,2,1,85.5,Itaim Bibi,casa
+6448,2,1,1,66.3,Pinheiros,apto
+8577,2,2,2,78.5,Moema,kitnet
+6716,3,1,2,69.2,Butantã,kitnet
+6135,1,1,2,70.4,Tatuapé,apto
+5726,2,1,1,41.6,Pinheiros,kitnet
+8437,3,2,2,53.4,Pinheiros,apto
+3658,1,1,0,49.5,Vila Mariana,casa
+4977,3,2,1,36.2,Butantã,casa
+4667,2,1,0,51.5,Butantã,kitnet
+8460,3,2,0,54.7,Itaim Bibi,kitnet
+8784,3,1,2,71.1,Itaim Bibi,casa
+6196,1,2,1,63.8,Vila Mariana,kitnet
+7184,1,1,2,54.9,Itaim Bibi,kitnet
+4394,2,1,1,41.7,Vila Mariana,kitnet
+7445,2,2,1,77.5,Vila Mariana,casa
+6646,3,2,0,58.0,Vila Mariana,apto
+7513,3,1,2,51.3,Pinheiros,casa
+6887,3,2,0,56.3,Pinheiros,kitnet
+5465,2,1,0,45.3,Vila Mariana,kitnet
+6469,1,1,2,49.4,Pinheiros,kitnet
+7299,3,1,1,48.8,Moema,kitnet
+6455,2,2,0,54.3,Pinheiros,casa
+6993,1,1,1,73.1,Pinheiros,apto
+5938,3,1,1,68.1,Butantã,casa
+6428,2,2,0,90.9,Pinheiros,casa
+8268,2,2,2,84.2,Pinheiros,kitnet
+8922,2,1,2,99.1,Pinheiros,casa
+8467,3,2,0,71.2,Pinheiros,kitnet
+5098,1,1,1,70.9,Tatuapé,apto
+5232,2,2,0,50.3,Itaim Bibi,kitnet
+6887,1,1,2,76.5,Itaim Bibi,casa
+4039,2,1,1,46.9,Tatuapé,kitnet
+4854,1,2,0,30.6,Pinheiros,casa
+5786,3,2,1,35.0,Pinheiros,apto
+7357,2,2,1,68.8,Tatuapé,kitnet
+7266,3,1,2,42.4,Moema,kitnet
+6262,3,2,1,82.5,Butantã,kitnet
+7034,1,2,1,85.3,Vila Mariana,apto
+6057,2,2,0,70.6,Tatuapé,apto
+8368,2,1,1,84.9,Moema,kitnet
+3989,2,1,0,60.1,Tatuapé,apto
+8242,3,2,2,104.7,Butantã,casa
+7021,2,2,0,74.9,Itaim Bibi,casa
+5522,1,1,2,42.0,Moema,kitnet
+7066,2,1,1,61.4,Moema,kitnet
+6153,1,1,2,56.9,Itaim Bibi,kitnet
+7792,2,1,1,55.0,Moema,apto
+4543,2,2,0,26.9,Vila Mariana,casa
+8556,3,2,2,67.7,Moema,kitnet
+4764,1,2,2,32.3,Pinheiros,kitnet
+5630,2,2,0,20.0,Vila Mariana,apto
+5361,1,1,0,53.1,Moema,kitnet
+8160,2,2,1,44.9,Itaim Bibi,casa
+7938,2,1,2,42.8,Itaim Bibi,apto
+4343,2,1,1,20.0,Vila Mariana,casa
+5613,1,1,0,43.0,Moema,kitnet
+5417,1,1,2,56.5,Pinheiros,apto
+7356,2,1,1,47.3,Itaim Bibi,apto
+5977,2,1,1,67.7,Vila Mariana,kitnet
+7102,1,1,1,87.9,Itaim Bibi,kitnet
+5147,2,1,0,70.3,Butantã,apto
+6050,1,2,0,80.5,Itaim Bibi,kitnet
+6905,2,2,1,82.2,Vila Mariana,kitnet
+5008,2,1,1,39.6,Butantã,kitnet
+8474,3,2,0,68.8,Itaim Bibi,apto
+7058,3,2,0,79.9,Tatuapé,casa
+5537,3,1,2,51.3,Butantã,kitnet
+3258,1,1,0,44.2,Butantã,kitnet
+6124,3,1,0,70.6,Pinheiros,casa
+4286,2,2,1,30.4,Butantã,apto
+8520,2,1,2,38.2,Itaim Bibi,apto
+6720,3,1,2,46.7,Vila Mariana,apto
+5402,1,2,1,69.0,Vila Mariana,apto
+6626,1,2,2,64.4,Itaim Bibi,apto
+6341,3,2,1,80.6,Vila Mariana,apto
+6183,2,1,2,41.6,Moema,kitnet
+7022,2,1,0,40.5,Itaim Bibi,casa
+3873,1,1,0,70.5,Tatuapé,casa
+4154,2,1,2,44.0,Butantã,kitnet
+5259,1,2,2,47.9,Pinheiros,casa
+5606,2,1,2,22.9,Vila Mariana,casa
+5609,2,2,1,65.8,Butantã,apto
+6023,3,1,1,90.8,Tatuapé,casa
+5836,3,2,0,39.4,Vila Mariana,apto
+7978,1,2,1,80.4,Vila Mariana,casa
+7640,1,1,2,58.8,Moema,kitnet
+5116,2,2,0,24.7,Tatuapé,casa
+5061,3,2,1,42.1,Vila Mariana,apto
+3205,1,1,0,40.9,Tatuapé,kitnet
+6394,2,1,1,53.7,Moema,kitnet
+6287,2,2,2,68.4,Tatuapé,casa
+8257,1,2,2,97.0,Pinheiros,apto
+4302,2,1,1,31.4,Tatuapé,kitnet
+3711,1,1,2,50.3,Butantã,apto
+5534,2,1,2,42.1,Pinheiros,kitnet
+7036,3,2,2,34.6,Vila Mariana,apto
+8633,2,2,2,61.9,Itaim Bibi,casa
+4314,1,1,1,60.0,Tatuapé,kitnet
+7316,3,1,2,23.7,Itaim Bibi,apto
+4351,1,2,0,60.4,Tatuapé,apto
+7792,3,1,2,35.9,Itaim Bibi,apto
+6880,3,2,2,60.2,Tatuapé,casa
+7966,2,2,1,85.4,Pinheiros,casa
+6997,1,2,0,69.3,Itaim Bibi,apto
+8267,3,2,1,63.6,Moema,casa
+7313,3,2,2,49.4,Pinheiros,kitnet
+6216,2,1,0,61.3,Moema,kitnet
+8204,3,2,2,71.3,Moema,apto
+8414,3,2,2,69.3,Pinheiros,casa
+5570,3,2,1,58.0,Butantã,apto
+6282,1,1,2,64.3,Vila Mariana,casa
+5769,2,2,2,33.7,Vila Mariana,kitnet
+7015,1,2,1,45.3,Moema,kitnet
+7834,1,1,2,74.2,Itaim Bibi,apto
+8780,2,1,2,76.8,Itaim Bibi,apto
+6375,1,2,0,61.9,Itaim Bibi,kitnet
+7114,1,2,2,89.6,Vila Mariana,kitnet
+6795,3,2,0,70.2,Butantã,apto
+5919,2,1,1,55.3,Itaim Bibi,apto
+8030,2,1,2,35.6,Moema,casa
+7576,1,2,2,88.8,Tatuapé,casa
+7920,3,1,0,75.4,Pinheiros,casa
+9424,2,2,1,96.0,Itaim Bibi,kitnet
+6971,2,2,0,103.3,Butantã,kitnet
+5069,1,1,0,34.3,Moema,kitnet
+4041,1,2,2,34.3,Tatuapé,apto
+6072,1,2,0,20.0,Moema,kitnet
+5672,1,1,2,78.4,Pinheiros,kitnet
+5145,3,1,1,73.1,Tatuapé,casa
+6741,2,1,0,62.0,Itaim Bibi,casa
+5589,2,2,2,35.5,Butantã,kitnet
+4754,3,1,0,58.2,Butantã,kitnet
+7430,3,1,0,63.7,Moema,casa
+4484,1,1,0,75.7,Butantã,apto
+4554,2,1,2,65.5,Tatuapé,casa
+3346,2,1,1,73.3,Tatuapé,kitnet
+3704,1,2,1,57.5,Tatuapé,apto
+6818,3,2,0,83.6,Butantã,kitnet
+8368,2,1,2,72.6,Itaim Bibi,apto
+6683,2,2,2,36.3,Pinheiros,kitnet
+7721,2,2,0,87.8,Pinheiros,casa
+8334,3,1,2,84.5,Moema,apto
+4207,1,2,1,69.3,Tatuapé,apto
+8468,2,2,2,65.6,Itaim Bibi,apto
+8326,3,1,0,93.2,Moema,kitnet
+6046,3,2,2,27.3,Tatuapé,casa
+5850,2,1,0,84.8,Butantã,kitnet
+7541,1,2,1,50.5,Moema,apto
+8185,3,2,0,81.9,Moema,kitnet
+6226,3,1,0,62.4,Tatuapé,kitnet
+8082,2,2,0,35.1,Moema,apto
+5145,2,1,2,50.1,Butantã,casa
+5812,2,1,0,80.4,Butantã,kitnet
+4029,1,2,2,55.8,Tatuapé,apto
+6742,1,1,1,47.6,Moema,apto
+5826,3,1,0,47.4,Tatuapé,kitnet
+6990,3,2,1,72.8,Vila Mariana,casa
+7919,1,1,1,95.0,Moema,apto
+5024,2,2,0,20.0,Vila Mariana,kitnet
+8993,3,1,1,116.0,Pinheiros,kitnet
+7072,1,2,2,64.1,Pinheiros,apto
+5263,1,1,2,71.6,Tatuapé,apto
+5227,1,1,1,51.3,Pinheiros,apto
+5565,1,2,2,59.9,Tatuapé,kitnet
+8805,2,2,2,63.9,Moema,apto
+5727,2,1,0,39.0,Moema,kitnet
+7915,3,2,1,43.9,Itaim Bibi,casa
+5596,3,2,2,83.7,Tatuapé,casa
+7235,3,1,0,29.0,Itaim Bibi,kitnet
+9243,3,1,1,68.8,Itaim Bibi,kitnet
+6872,3,1,2,52.6,Pinheiros,apto
+5530,2,2,0,40.8,Vila Mariana,apto
+6907,3,1,2,99.4,Tatuapé,apto
+4220,1,2,2,40.9,Butantã,kitnet
+6908,3,2,1,37.4,Pinheiros,casa
+4860,1,1,1,56.3,Pinheiros,apto
+4451,2,1,1,44.6,Butantã,apto
+4080,1,2,1,60.1,Butantã,casa
+6865,2,2,1,63.1,Vila Mariana,kitnet
+8132,3,1,1,64.7,Moema,casa
+4181,1,2,1,57.5,Tatuapé,kitnet
+5808,2,1,2,46.0,Vila Mariana,kitnet
+5709,1,1,2,72.9,Vila Mariana,kitnet
+7248,1,1,1,57.8,Moema,casa
+4650,2,2,1,50.1,Tatuapé,kitnet
+7396,2,2,0,89.6,Vila Mariana,kitnet
+5863,1,2,0,57.6,Moema,casa
+7607,2,2,1,81.8,Vila Mariana,casa
+9266,3,1,0,84.5,Itaim Bibi,kitnet
+8240,2,1,2,85.8,Pinheiros,casa
+8292,3,2,0,73.8,Vila Mariana,apto
+6534,3,1,0,60.0,Vila Mariana,kitnet
+6152,2,2,0,58.7,Butantã,apto
+6353,2,2,0,55.1,Butantã,kitnet
+3502,3,1,1,20.0,Tatuapé,casa
+6949,2,2,2,74.4,Pinheiros,casa
+6950,2,2,2,64.9,Itaim Bibi,apto
+7444,1,1,0,76.5,Moema,casa
+3223,1,2,0,57.7,Butantã,kitnet
+5375,1,1,1,73.3,Moema,apto
+3096,2,1,0,32.4,Butantã,kitnet
+6608,3,2,2,36.6,Itaim Bibi,kitnet
+4318,1,2,0,20.0,Vila Mariana,kitnet
+5652,1,1,1,57.3,Itaim Bibi,casa
+3784,1,2,1,44.5,Vila Mariana,apto
+6924,2,2,1,41.9,Moema,kitnet
+5814,1,2,1,66.7,Vila Mariana,casa
+5549,1,2,2,51.5,Itaim Bibi,casa
+3769,1,1,1,31.3,Vila Mariana,kitnet
+6067,1,2,1,110.9,Tatuapé,kitnet
+4192,1,1,2,59.3,Tatuapé,apto
+7387,3,1,2,38.3,Itaim Bibi,kitnet
+6642,3,1,2,46.6,Butantã,casa
+7613,2,1,0,56.5,Pinheiros,kitnet
+4744,1,2,2,56.5,Butantã,casa
+6024,1,2,2,86.0,Pinheiros,kitnet
+4665,1,2,2,58.4,Tatuapé,kitnet
+8669,2,1,2,97.1,Moema,kitnet
+4998,2,2,1,51.4,Tatuapé,kitnet
+7644,1,1,2,68.5,Itaim Bibi,casa
+7483,2,1,1,80.4,Butantã,apto
+6047,1,1,2,83.9,Moema,casa
+5881,2,2,1,86.2,Butantã,casa
+7970,3,1,2,54.6,Vila Mariana,kitnet
+5479,1,2,2,59.9,Vila Mariana,casa
+7232,2,2,2,20.0,Moema,casa
+5387,2,2,0,56.1,Tatuapé,apto
+9469,2,2,0,77.9,Itaim Bibi,casa
+6415,2,1,2,58.3,Vila Mariana,apto
+6323,3,2,0,94.0,Vila Mariana,apto
+4409,2,2,0,52.3,Butantã,kitnet
+8419,2,1,1,45.7,Moema,apto
+3788,1,1,1,50.6,Vila Mariana,casa
+5524,2,2,2,37.6,Butantã,casa
+4762,1,1,1,72.4,Moema,apto
+4292,2,2,0,65.8,Butantã,apto
+5876,1,2,1,72.2,Butantã,kitnet
+4580,1,2,1,51.7,Butantã,casa
+4964,2,2,1,58.8,Tatuapé,apto
+5449,2,1,1,20.0,Itaim Bibi,apto
+5129,3,2,2,67.5,Butantã,casa
+6514,1,2,2,62.0,Vila Mariana,kitnet
+5813,3,1,0,38.0,Pinheiros,kitnet
+3620,1,1,0,57.9,Vila Mariana,apto
+5169,3,1,0,54.8,Tatuapé,kitnet
+6824,3,1,0,95.3,Tatuapé,kitnet
+6503,3,1,2,38.8,Pinheiros,apto
+4492,1,1,1,66.6,Tatuapé,apto
+6376,3,2,1,38.2,Vila Mariana,kitnet
+3300,1,1,1,48.8,Tatuapé,casa
+6109,3,1,2,65.5,Tatuapé,kitnet
+5661,2,1,2,55.8,Tatuapé,apto
+8324,2,2,1,59.9,Moema,apto
+7932,2,1,1,66.7,Moema,apto
+5764,1,1,1,50.1,Itaim Bibi,apto
+8489,3,1,2,53.9,Itaim Bibi,apto
+6874,3,1,0,58.0,Moema,kitnet
+8345,3,2,2,67.2,Moema,casa
+7680,3,2,1,64.5,Vila Mariana,kitnet
+7788,3,2,2,72.9,Tatuapé,casa
+5741,2,2,2,66.3,Pinheiros,apto
+9693,3,1,2,69.4,Moema,casa
+6036,1,2,0,53.5,Vila Mariana,apto
+4818,3,1,0,38.6,Tatuapé,kitnet
+4351,2,1,2,31.4,Butantã,kitnet
+4510,2,2,0,26.6,Butantã,apto
+7345,2,1,0,95.3,Moema,casa
+3958,1,1,0,20.0,Pinheiros,casa
+5836,2,2,1,83.9,Vila Mariana,apto
+4114,2,1,0,43.6,Pinheiros,apto
+9278,1,2,0,83.7,Itaim Bibi,kitnet
+4650,3,1,1,20.0,Butantã,apto
+4622,1,2,1,55.3,Tatuapé,casa
+7448,3,1,1,89.1,Vila Mariana,apto
+5666,1,1,2,74.3,Pinheiros,casa
+4252,1,1,2,53.3,Butantã,apto
+4207,1,2,0,21.1,Vila Mariana,casa
+4949,1,1,2,33.6,Pinheiros,casa
+5532,1,2,0,87.8,Vila Mariana,casa
+6775,3,1,1,53.0,Vila Mariana,casa
+6108,3,2,1,58.6,Tatuapé,apto
+6284,2,2,2,65.7,Butantã,casa
+5082,1,2,0,33.9,Vila Mariana,kitnet
+8408,3,1,2,68.1,Itaim Bibi,casa
+6313,2,2,1,51.6,Pinheiros,apto
+8362,2,2,2,65.9,Pinheiros,kitnet
+6598,3,2,2,48.4,Pinheiros,kitnet
+5188,2,2,0,51.5,Tatuapé,kitnet
+8581,3,2,2,72.8,Itaim Bibi,kitnet
+6075,2,2,1,67.9,Pinheiros,kitnet
+7727,3,1,1,60.6,Pinheiros,casa
+6623,3,2,1,78.0,Butantã,apto
+5967,3,2,0,55.9,Pinheiros,casa
+6882,1,1,0,61.1,Pinheiros,apto
+3324,1,2,2,50.4,Tatuapé,kitnet
+5505,2,2,0,79.1,Tatuapé,casa
+4563,2,1,1,65.8,Vila Mariana,kitnet
+8382,3,2,2,48.9,Moema,casa
+5294,1,2,0,30.2,Itaim Bibi,casa
+9118,3,1,1,82.1,Moema,kitnet
+8040,3,2,2,45.1,Moema,casa
+8424,3,1,2,61.4,Pinheiros,casa
+8568,3,1,0,107.1,Moema,casa
+7597,3,2,1,76.0,Itaim Bibi,kitnet
+6157,2,2,0,92.2,Tatuapé,kitnet
+4975,2,2,1,49.2,Butantã,apto
+5587,2,2,0,81.4,Pinheiros,casa
+6472,3,1,2,60.5,Pinheiros,casa
+3930,1,2,0,67.3,Tatuapé,casa
+8657,2,1,2,100.4,Vila Mariana,apto
+5299,2,1,1,54.4,Tatuapé,kitnet
+5133,2,1,2,60.4,Butantã,kitnet
+7035,2,2,0,41.9,Moema,apto
+4602,3,2,0,77.8,Tatuapé,apto
+5812,1,1,1,48.8,Itaim Bibi,casa
+8634,3,2,2,80.5,Pinheiros,apto
+5642,3,2,2,27.0,Butantã,kitnet
+7198,3,2,2,71.0,Vila Mariana,kitnet
+7983,3,2,1,47.1,Itaim Bibi,kitnet
+5909,2,1,2,74.6,Tatuapé,casa
+5584,1,1,1,59.7,Pinheiros,kitnet
+8368,2,2,2,49.3,Itaim Bibi,apto
+5923,1,2,2,52.3,Vila Mariana,apto
+4799,1,2,2,43.0,Tatuapé,apto
+7674,3,1,1,76.8,Butantã,kitnet
+5533,2,2,1,39.0,Butantã,casa
+6333,2,1,1,54.7,Butantã,apto
+7770,3,1,2,66.9,Moema,apto
+4194,1,1,2,92.3,Tatuapé,casa
+6782,3,1,2,59.8,Vila Mariana,apto
+5074,2,1,2,55.1,Butantã,casa
+9132,2,2,2,65.5,Moema,casa
+5496,2,1,2,20.0,Itaim Bibi,apto
+6618,2,1,2,36.0,Moema,apto
+7699,2,1,2,52.5,Itaim Bibi,casa
+5652,2,2,0,45.7,Vila Mariana,casa
+6202,1,2,2,28.0,Itaim Bibi,apto
+6802,1,2,1,77.2,Pinheiros,casa
+8019,2,2,2,65.2,Pinheiros,casa
+7713,1,1,1,62.8,Moema,apto
+6710,2,1,1,46.1,Moema,casa
+7695,3,1,2,61.6,Itaim Bibi,apto
+7936,1,1,1,70.3,Moema,apto
+5279,1,2,2,54.7,Pinheiros,apto
+6599,1,1,0,68.9,Vila Mariana,apto
+9098,3,2,2,44.1,Moema,apto
+6850,3,1,1,61.9,Tatuapé,kitnet
+5734,1,1,2,82.8,Tatuapé,apto
+5049,2,2,0,84.6,Vila Mariana,kitnet
+5565,3,1,1,86.6,Tatuapé,kitnet
+6417,3,2,1,65.7,Tatuapé,kitnet
+6878,2,2,0,60.6,Itaim Bibi,kitnet
+4079,1,2,1,51.0,Tatuapé,apto
+7406,3,1,1,23.9,Itaim Bibi,casa
+6357,3,2,2,33.1,Vila Mariana,kitnet
+6924,2,2,2,56.6,Itaim Bibi,casa
+6244,1,1,1,57.8,Pinheiros,apto
+8659,3,2,1,88.2,Pinheiros,casa
+5090,1,2,0,86.3,Butantã,kitnet
+8257,3,1,2,46.3,Moema,kitnet
+6867,3,2,2,76.4,Tatuapé,casa
+6379,2,2,2,50.5,Tatuapé,apto
+7831,2,1,1,73.7,Itaim Bibi,apto
+7143,1,2,1,76.1,Vila Mariana,apto
+6546,3,2,2,84.8,Vila Mariana,casa
+5972,1,1,2,50.1,Pinheiros,apto
+4390,1,1,0,80.3,Butantã,casa
+5189,3,2,1,22.5,Vila Mariana,apto
+7305,3,1,1,85.9,Tatuapé,apto
+8196,2,2,1,59.5,Moema,apto
+5093,2,2,1,59.9,Pinheiros,apto
+6572,2,2,0,20.0,Moema,kitnet
+5842,1,1,1,52.2,Pinheiros,kitnet
+5835,2,1,0,87.1,Vila Mariana,kitnet
+5776,3,1,0,51.5,Pinheiros,casa
+6556,2,2,0,74.3,Itaim Bibi,apto
+5351,3,1,1,60.7,Tatuapé,kitnet
+6296,3,1,1,81.3,Butantã,casa
+8552,3,1,1,63.8,Moema,kitnet
+6356,3,2,0,41.4,Vila Mariana,casa
+5486,3,2,2,61.1,Tatuapé,casa
+7352,3,2,1,92.0,Butantã,casa
+5695,3,1,1,70.0,Tatuapé,apto
+6182,3,1,1,57.7,Pinheiros,casa
+6682,3,1,1,105.1,Vila Mariana,kitnet
+6995,3,1,1,83.2,Butantã,apto
+6747,3,1,2,76.3,Tatuapé,apto
+6436,2,2,2,66.3,Butantã,kitnet
+5756,3,1,2,74.6,Tatuapé,casa
+7595,3,1,1,75.3,Pinheiros,kitnet
+3200,2,2,1,20.0,Butantã,casa
+6148,1,2,0,67.9,Itaim Bibi,casa
+7931,3,1,1,56.8,Itaim Bibi,kitnet
+5710,2,2,2,50.0,Butantã,casa
+4180,2,1,0,56.1,Vila Mariana,apto
+4720,3,2,2,28.9,Butantã,casa
+4125,1,1,2,23.9,Vila Mariana,apto
+6615,2,1,1,84.9,Butantã,casa
+5227,1,2,1,69.2,Vila Mariana,kitnet
+3412,1,1,2,20.0,Tatuapé,apto
+7550,3,1,0,48.5,Itaim Bibi,kitnet
+6329,2,1,0,77.6,Pinheiros,casa
+5746,1,2,0,54.4,Pinheiros,apto
+5471,2,2,2,84.9,Butantã,apto
+5705,1,1,1,81.0,Pinheiros,kitnet
+6033,3,2,0,32.9,Tatuapé,kitnet
+5218,1,1,0,57.1,Butantã,kitnet
+5705,2,2,1,51.0,Tatuapé,casa
+7147,2,1,1,32.2,Moema,casa
+3767,1,1,0,30.9,Moema,casa
+4057,3,1,0,43.9,Tatuapé,casa
+4567,2,1,2,47.2,Tatuapé,apto
+7302,2,1,2,65.7,Tatuapé,apto
+6376,2,1,0,80.9,Pinheiros,kitnet
+6504,3,1,1,70.3,Tatuapé,casa
+7453,1,2,0,75.0,Itaim Bibi,apto
+8125,3,1,1,54.7,Itaim Bibi,kitnet
+6343,2,1,0,72.1,Pinheiros,apto
+6251,1,2,2,57.0,Itaim Bibi,casa
+5174,2,1,2,51.2,Itaim Bibi,apto
+9464,3,2,2,97.9,Vila Mariana,casa
+8080,2,2,1,67.7,Moema,kitnet
+8276,3,2,0,54.7,Itaim Bibi,kitnet
+4352,2,1,0,31.3,Tatuapé,apto
+6560,3,2,2,38.9,Tatuapé,apto
+6010,3,2,2,41.5,Vila Mariana,kitnet
+6335,3,2,2,77.8,Butantã,kitnet
+5272,2,1,0,84.2,Butantã,apto
+8641,3,1,1,92.8,Pinheiros,apto
+4264,1,1,2,28.2,Itaim Bibi,casa
+6382,3,2,0,32.7,Pinheiros,apto
+7384,3,1,0,31.3,Moema,apto
+5986,1,2,0,85.8,Butantã,kitnet
+6417,2,1,0,68.3,Vila Mariana,casa
+8999,3,1,2,61.6,Moema,apto
+3240,1,2,0,64.6,Vila Mariana,casa
+9357,3,2,0,58.9,Itaim Bibi,casa
+7492,3,2,0,37.6,Moema,casa
+7676,3,2,2,70.3,Tatuapé,kitnet
+3749,1,2,1,56.3,Butantã,apto
+4177,3,2,2,36.0,Tatuapé,casa
+9474,3,1,0,71.5,Itaim Bibi,kitnet
+5003,1,2,1,51.5,Pinheiros,casa
+7188,3,2,2,64.5,Vila Mariana,kitnet
+6147,2,2,2,57.5,Butantã,casa
+7353,3,2,1,77.8,Butantã,casa
+5295,1,2,0,64.4,Tatuapé,kitnet
+7148,3,1,0,42.3,Moema,casa
+5650,2,2,1,66.4,Vila Mariana,kitnet
+5578,1,2,1,67.1,Butantã,kitnet
+7885,2,1,0,70.2,Itaim Bibi,kitnet
+5869,3,2,0,80.7,Vila Mariana,apto
+6765,3,2,1,47.7,Tatuapé,casa
+7993,3,2,1,25.5,Moema,casa
+4221,2,1,0,57.6,Butantã,apto
+6100,1,2,0,54.5,Pinheiros,apto
+7277,2,2,0,89.0,Vila Mariana,kitnet
+6877,3,1,1,56.9,Pinheiros,apto
+7426,1,2,0,72.2,Itaim Bibi,apto
+3074,1,1,1,24.8,Tatuapé,kitnet
+5460,1,2,2,53.0,Butantã,apto
+6840,2,2,2,43.1,Tatuapé,kitnet
+6712,1,2,2,109.5,Pinheiros,casa
+5549,3,2,2,46.7,Moema,kitnet
+5611,1,1,2,61.5,Pinheiros,casa
+6589,1,1,2,62.5,Itaim Bibi,kitnet
+5444,1,2,0,28.2,Itaim Bibi,kitnet
+4743,3,1,1,49.5,Butantã,apto
+9441,3,2,2,68.1,Moema,kitnet
+4446,1,1,2,61.7,Vila Mariana,kitnet
+5861,2,2,1,20.0,Pinheiros,apto
+8071,3,2,0,48.7,Moema,apto
+8366,3,1,0,80.4,Moema,apto
+7343,1,1,1,71.8,Itaim Bibi,apto
+6851,3,2,1,40.3,Pinheiros,kitnet
+6791,3,1,0,85.6,Vila Mariana,casa
+5962,2,2,2,59.1,Tatuapé,apto
+8536,2,1,1,91.8,Moema,casa
+8114,3,2,1,60.1,Pinheiros,apto
+3930,3,2,2,20.0,Butantã,kitnet
+7663,2,1,1,77.0,Itaim Bibi,apto
+4482,3,1,1,51.1,Tatuapé,kitnet
+6423,2,1,2,52.5,Vila Mariana,casa
+5910,3,2,1,30.9,Butantã,apto
+6754,1,2,1,92.4,Pinheiros,kitnet
+7304,3,2,1,49.6,Moema,casa
+9423,2,2,2,91.5,Itaim Bibi,kitnet
+4835,2,2,0,51.4,Butantã,casa
+5485,1,1,0,41.4,Vila Mariana,kitnet
+7410,2,1,2,86.4,Tatuapé,casa
+6357,1,2,1,58.5,Vila Mariana,apto
+7248,3,2,0,58.7,Pinheiros,apto
+8891,3,2,1,34.4,Moema,casa
+5118,2,2,0,50.8,Butantã,casa
+7874,3,1,1,68.6,Itaim Bibi,kitnet
+6580,3,2,0,34.0,Moema,casa
+4714,1,2,1,49.2,Vila Mariana,kitnet
+5643,1,1,2,51.6,Pinheiros,apto
+5310,1,1,0,61.3,Vila Mariana,casa
+6056,1,2,2,89.6,Pinheiros,kitnet
+5061,2,1,0,54.0,Vila Mariana,apto
+7056,2,1,1,46.2,Itaim Bibi,apto
+8763,2,1,2,114.9,Pinheiros,kitnet
+6019,1,2,2,51.3,Pinheiros,casa
+5381,3,1,0,56.2,Tatuapé,kitnet
+5094,3,1,0,52.8,Vila Mariana,casa
+6505,2,1,2,54.5,Moema,kitnet
+5898,1,1,2,61.6,Pinheiros,kitnet
+6861,2,1,1,78.4,Vila Mariana,kitnet
+8327,3,2,0,68.1,Moema,apto
+7967,3,1,1,81.5,Itaim Bibi,casa
+6837,1,1,1,80.9,Moema,apto
+7335,3,2,1,64.2,Tatuapé,apto
+6361,3,2,0,67.5,Tatuapé,apto
+6535,2,2,0,82.2,Vila Mariana,casa
+5113,2,2,2,37.8,Vila Mariana,casa
+7728,2,1,0,110.0,Moema,kitnet
+5598,1,1,2,49.7,Pinheiros,apto
+7310,2,1,1,53.0,Itaim Bibi,casa
+3925,1,1,1,35.8,Tatuapé,kitnet
+5501,1,2,2,36.4,Vila Mariana,kitnet
+7088,2,1,0,79.5,Moema,apto
+7553,2,2,2,105.4,Vila Mariana,kitnet
+6997,3,2,0,48.7,Tatuapé,apto
+7463,2,2,1,66.9,Itaim Bibi,casa
+6499,3,2,1,64.4,Pinheiros,casa
+7489,3,2,1,80.0,Moema,kitnet
+7049,2,1,0,104.4,Pinheiros,kitnet
+5396,2,2,0,55.2,Vila Mariana,kitnet
+8999,2,2,1,70.6,Moema,casa
+6771,1,1,1,72.6,Moema,kitnet
+6476,1,2,1,59.6,Vila Mariana,apto
+6236,2,2,1,38.1,Moema,casa
+5827,1,1,2,44.0,Itaim Bibi,apto
+8762,2,2,2,83.0,Itaim Bibi,kitnet
+6437,1,1,0,85.0,Pinheiros,kitnet
+6132,1,1,1,55.8,Moema,kitnet
+5891,2,2,1,65.2,Butantã,kitnet
+6489,2,2,1,83.9,Tatuapé,apto
+4741,3,1,2,25.9,Vila Mariana,kitnet
+5059,3,1,1,51.1,Tatuapé,casa
+7796,3,1,1,100.4,Pinheiros,kitnet
+5503,1,2,0,66.0,Pinheiros,kitnet
+4548,2,1,1,37.4,Tatuapé,casa
+4267,1,2,1,62.3,Tatuapé,apto
+5609,1,1,1,80.4,Itaim Bibi,casa
+5711,1,2,2,20.0,Moema,casa
+4054,2,1,0,63.5,Butantã,kitnet
+6274,1,1,0,52.6,Moema,casa
+6959,2,1,1,27.2,Itaim Bibi,casa
+4009,1,2,0,61.6,Pinheiros,casa
+6299,2,2,2,57.3,Pinheiros,apto
+7868,2,1,2,59.5,Itaim Bibi,apto
+3064,1,1,1,53.0,Butantã,apto
+4813,1,2,1,39.6,Butantã,casa
+6267,3,1,0,30.9,Vila Mariana,casa
+6456,3,1,1,46.2,Pinheiros,kitnet
+4596,1,1,2,77.2,Butantã,kitnet
+4591,3,2,2,64.7,Tatuapé,apto
+6110,1,1,2,58.6,Vila Mariana,apto
+8978,3,1,1,39.2,Itaim Bibi,casa
+5612,1,1,1,52.5,Butantã,kitnet
+6286,2,2,0,74.7,Vila Mariana,apto
+6729,1,2,2,70.1,Itaim Bibi,apto
+7684,1,2,2,50.5,Itaim Bibi,apto
+3599,2,1,1,20.0,Tatuapé,casa
+4478,1,1,2,46.5,Tatuapé,kitnet
+5553,2,1,0,50.3,Vila Mariana,kitnet
+4030,1,2,0,41.9,Butantã,casa
+4975,1,1,1,51.7,Butantã,apto
+7242,3,2,0,76.3,Butantã,casa
+7259,3,1,0,59.3,Itaim Bibi,casa
+7155,3,1,2,79.8,Pinheiros,apto
+3496,1,1,1,29.8,Moema,kitnet
+7040,2,2,1,53.9,Moema,kitnet
+3062,1,2,2,21.2,Butantã,apto
+4679,1,2,1,51.5,Tatuapé,apto
+4004,2,1,1,39.1,Tatuapé,apto
+7287,2,2,1,85.6,Pinheiros,kitnet
+8595,2,2,1,68.2,Itaim Bibi,casa
+7627,1,1,2,80.3,Moema,apto
+7049,3,2,1,51.4,Pinheiros,apto
+6937,3,2,1,39.6,Butantã,apto
+5160,1,1,1,39.0,Vila Mariana,casa
+5127,1,1,0,65.3,Pinheiros,kitnet
+6789,2,1,0,96.2,Pinheiros,apto
+8078,2,2,0,68.2,Moema,apto
+6637,3,1,0,52.5,Pinheiros,casa
+4090,2,1,1,56.2,Butantã,kitnet
+5597,1,2,2,59.4,Tatuapé,casa
+7722,1,1,2,100.5,Vila Mariana,apto
+7585,1,1,2,84.7,Pinheiros,apto
+8490,2,1,1,65.2,Moema,kitnet
+7421,1,2,0,62.2,Pinheiros,kitnet
+7364,3,1,1,66.0,Butantã,kitnet
+7469,3,1,2,69.9,Vila Mariana,casa
+6685,1,2,2,51.7,Moema,kitnet
+5330,3,1,2,43.1,Pinheiros,casa
+7328,2,2,1,80.6,Pinheiros,apto
+5628,1,1,1,60.4,Vila Mariana,casa
+7304,2,2,1,79.0,Pinheiros,kitnet
+6877,2,2,0,92.9,Itaim Bibi,casa
+4583,1,2,0,70.4,Butantã,kitnet
+6231,3,1,0,67.2,Butantã,kitnet
+6599,1,1,2,124.0,Vila Mariana,apto
+6957,1,2,0,64.1,Itaim Bibi,apto
+4191,1,1,2,38.2,Tatuapé,apto
+6326,1,1,1,54.4,Pinheiros,kitnet
+8601,1,2,2,91.0,Pinheiros,kitnet
+3921,2,2,0,34.1,Tatuapé,apto
+6896,2,2,0,45.0,Moema,apto
+6536,1,2,0,82.1,Pinheiros,casa
+6557,3,2,1,54.6,Butantã,casa
+8364,3,1,1,57.8,Itaim Bibi,kitnet
+7084,3,1,0,81.5,Tatuapé,kitnet
+3505,2,2,2,45.7,Butantã,apto
+5953,3,2,2,30.6,Butantã,apto
+4357,2,1,0,32.2,Butantã,casa
+5761,2,1,0,71.6,Vila Mariana,casa
+3044,1,1,2,65.2,Butantã,kitnet
+5536,3,2,1,46.1,Tatuapé,casa
+6036,1,2,2,36.8,Itaim Bibi,casa
+6580,2,1,2,54.6,Butantã,apto
+8270,3,1,2,82.3,Pinheiros,apto
+5362,1,2,0,43.3,Moema,kitnet
+4260,2,1,1,46.7,Pinheiros,kitnet
+4958,1,1,1,36.2,Vila Mariana,apto
+7736,2,1,2,52.7,Moema,kitnet
+5230,2,2,0,66.8,Butantã,casa
+6252,1,2,0,102.3,Butantã,casa
+7652,3,1,1,64.4,Moema,kitnet
+7022,2,1,2,58.9,Vila Mariana,kitnet
+6912,2,2,2,77.3,Tatuapé,apto
+5307,3,2,1,73.9,Butantã,apto
+8606,2,1,0,106.0,Vila Mariana,kitnet
+8031,3,2,2,59.5,Vila Mariana,apto
+6132,2,1,0,64.7,Itaim Bibi,kitnet
+3975,1,1,0,71.0,Vila Mariana,casa
+5974,1,2,1,66.9,Vila Mariana,casa
+7001,3,1,1,90.5,Pinheiros,apto
+7193,3,1,1,48.2,Moema,kitnet
+8932,3,2,2,75.7,Moema,kitnet
+3926,1,1,0,63.3,Tatuapé,casa
+8391,3,1,2,79.7,Vila Mariana,kitnet
+8739,2,2,0,55.7,Itaim Bibi,kitnet
+7107,3,1,0,53.0,Itaim Bibi,kitnet
+7435,3,2,0,74.6,Moema,kitnet
+6426,1,2,2,67.2,Vila Mariana,kitnet
+7113,3,2,2,43.6,Tatuapé,kitnet
+8485,2,2,2,86.9,Itaim Bibi,kitnet
+8620,3,1,0,74.7,Moema,casa
+6586,3,2,2,58.5,Vila Mariana,kitnet
+3636,1,1,0,50.6,Tatuapé,apto
+7089,3,1,1,67.3,Moema,casa
+7105,1,1,2,73.2,Moema,casa
+5450,1,2,0,28.1,Moema,kitnet
+6012,1,2,0,67.5,Vila Mariana,apto
+8514,1,2,0,73.1,Itaim Bibi,casa
+6989,3,2,2,20.0,Moema,apto
+4918,1,1,1,63.9,Moema,kitnet
+5255,2,2,0,73.9,Tatuapé,kitnet
+8088,2,2,1,71.6,Moema,apto
+7943,3,1,2,76.0,Pinheiros,kitnet
+4478,2,1,0,53.4,Butantã,casa
+6866,2,1,1,39.2,Pinheiros,kitnet
+4729,3,2,0,24.0,Tatuapé,kitnet
+6171,2,1,0,81.8,Vila Mariana,apto
+6800,3,2,1,74.1,Vila Mariana,apto
+6704,3,2,1,83.4,Pinheiros,casa
+5628,3,1,1,45.5,Butantã,apto
+6779,1,1,0,76.1,Moema,apto
+4651,1,1,1,29.9,Moema,kitnet
+6743,2,1,1,42.6,Itaim Bibi,kitnet
+6261,2,1,1,62.5,Pinheiros,casa
+4498,1,2,1,73.3,Tatuapé,apto
+7173,2,1,0,93.6,Moema,apto
+4480,1,2,0,55.2,Tatuapé,kitnet
+5600,1,2,2,42.7,Pinheiros,apto
+5177,3,2,1,41.7,Butantã,apto
+4498,1,2,1,46.2,Vila Mariana,casa
+9529,3,1,2,104.4,Itaim Bibi,casa
+8594,2,2,0,75.1,Itaim Bibi,casa
+9333,3,2,2,82.3,Moema,casa
+5267,1,1,1,55.2,Pinheiros,kitnet
+7146,3,1,2,60.0,Vila Mariana,casa
+9211,2,2,1,74.0,Itaim Bibi,kitnet
+6289,3,2,1,49.9,Butantã,casa
+4433,1,1,1,54.2,Butantã,casa
+6806,3,2,0,46.5,Vila Mariana,casa
+3805,1,1,1,51.1,Tatuapé,kitnet
+7177,2,2,2,61.0,Pinheiros,kitnet
+6116,1,2,1,43.6,Itaim Bibi,apto
+6431,3,1,0,65.7,Moema,kitnet
+8445,2,2,2,65.7,Itaim Bibi,kitnet
+7870,3,1,0,56.4,Itaim Bibi,kitnet
+4473,2,2,0,43.5,Butantã,apto
+7392,1,2,0,62.1,Moema,kitnet
+6320,2,2,0,49.9,Moema,apto
+3211,2,1,0,60.9,Tatuapé,apto
+5401,1,1,0,82.0,Pinheiros,kitnet
+5715,3,2,2,34.9,Pinheiros,apto
+7575,3,2,1,103.5,Tatuapé,kitnet
+6355,2,1,0,58.5,Itaim Bibi,casa
+6335,2,2,1,68.2,Tatuapé,apto
+9019,3,2,2,44.9,Itaim Bibi,apto
+7245,3,2,2,82.8,Vila Mariana,kitnet
+5378,1,1,0,57.5,Moema,kitnet
+4791,2,1,0,52.1,Tatuapé,casa
+8539,3,1,2,48.5,Moema,kitnet
+5229,3,1,1,54.6,Pinheiros,apto
+7076,2,1,2,68.4,Pinheiros,casa
+3846,3,1,0,63.5,Butantã,apto
+4137,2,1,0,59.2,Tatuapé,casa
+6348,2,1,1,45.8,Vila Mariana,apto
+7946,2,2,0,44.6,Vila Mariana,casa
+6832,3,1,2,50.8,Pinheiros,casa
+5378,3,1,2,69.2,Butantã,casa
+5687,1,2,0,73.2,Pinheiros,casa
+7531,1,2,1,75.9,Itaim Bibi,casa
+5763,2,2,1,60.0,Vila Mariana,casa
+7290,3,1,1,67.7,Moema,apto
+5457,2,1,1,56.6,Vila Mariana,apto
+6971,2,2,1,25.2,Itaim Bibi,casa
+6035,1,2,2,55.7,Pinheiros,kitnet
+5170,1,1,0,52.5,Moema,kitnet
+5541,3,2,0,39.2,Vila Mariana,casa
+5928,2,2,2,48.7,Vila Mariana,kitnet
+6582,3,2,2,62.7,Vila Mariana,kitnet
+3554,1,2,1,37.3,Butantã,casa
+7188,1,2,2,45.8,Moema,apto
+8244,3,1,0,91.0,Moema,casa
+6136,3,2,2,27.9,Moema,casa
+7210,3,2,2,56.3,Butantã,apto
+5734,1,1,0,36.7,Moema,kitnet
+5943,3,1,0,45.0,Moema,kitnet
+5489,2,1,1,56.0,Vila Mariana,apto
+5674,3,1,2,40.2,Vila Mariana,casa
+7986,3,2,0,71.5,Pinheiros,apto
+5413,2,1,1,87.0,Tatuapé,apto
+6747,1,2,2,76.8,Pinheiros,apto
+7163,3,2,0,80.5,Vila Mariana,casa
+4288,2,2,1,32.4,Vila Mariana,apto
+6978,2,2,0,55.1,Vila Mariana,apto
+8210,2,2,0,69.3,Itaim Bibi,casa
+5925,3,2,1,77.4,Tatuapé,casa
+5306,1,1,0,95.1,Butantã,apto
+9321,3,2,0,81.4,Moema,casa
+5982,2,1,2,77.9,Butantã,apto
+8126,1,1,0,112.7,Pinheiros,kitnet
+7292,1,2,2,61.9,Tatuapé,casa
+6726,2,1,0,54.2,Itaim Bibi,kitnet
+5240,3,1,1,63.5,Tatuapé,apto
+4459,2,2,2,41.7,Butantã,kitnet
+3870,1,2,1,61.4,Vila Mariana,casa
+6662,2,2,1,25.5,Pinheiros,apto
+6699,1,2,2,49.4,Itaim Bibi,kitnet
+6331,1,2,0,57.7,Pinheiros,apto
+8502,3,2,2,82.2,Itaim Bibi,kitnet
+3377,1,1,2,40.7,Butantã,apto
+5533,2,2,1,63.0,Butantã,apto
+5516,2,1,1,64.8,Vila Mariana,apto
+5993,3,1,1,27.6,Moema,apto
+5815,1,2,2,47.6,Pinheiros,apto
+8050,2,2,0,63.4,Itaim Bibi,casa
+6510,1,1,0,62.2,Itaim Bibi,apto
+7251,3,2,1,31.1,Vila Mariana,apto
+6909,2,2,1,58.1,Pinheiros,casa
+8566,3,1,0,88.2,Butantã,kitnet
+6954,1,2,0,81.7,Moema,kitnet
+7103,2,1,1,57.5,Pinheiros,kitnet
+6024,2,1,2,91.3,Butantã,apto
+6467,3,2,2,34.8,Butantã,apto
+6618,2,1,2,40.6,Moema,kitnet
+9187,3,1,0,97.3,Itaim Bibi,apto
+7559,1,1,0,71.6,Pinheiros,kitnet
+6888,2,1,1,54.2,Pinheiros,casa
+5548,1,1,1,58.9,Vila Mariana,apto
+3896,2,2,0,43.9,Tatuapé,kitnet
+6317,1,2,1,65.5,Pinheiros,casa
+7012,3,2,2,63.9,Pinheiros,kitnet
+7022,1,1,0,60.4,Itaim Bibi,casa
+8294,3,1,2,36.8,Itaim Bibi,apto
+8415,3,2,1,65.3,Itaim Bibi,kitnet
+8713,2,2,1,49.4,Itaim Bibi,apto
+8627,3,1,1,40.3,Itaim Bibi,casa
+7180,3,2,2,85.3,Tatuapé,casa
+5954,1,1,1,103.4,Tatuapé,kitnet
+6595,3,2,0,98.9,Butantã,kitnet
+6972,2,1,0,73.0,Moema,casa
+6278,3,1,2,54.7,Pinheiros,kitnet
+7275,3,1,0,58.6,Itaim Bibi,apto
+7060,3,1,2,68.1,Vila Mariana,apto
+3920,2,2,1,51.6,Butantã,kitnet
+7753,1,2,0,86.4,Moema,casa
+4118,1,2,0,20.0,Butantã,casa
+5716,1,1,2,54.1,Pinheiros,apto
+4023,3,2,0,76.0,Tatuapé,apto
+6091,2,1,0,43.1,Moema,kitnet
+5541,2,1,0,55.2,Moema,kitnet
+6168,2,2,1,71.9,Vila Mariana,kitnet
+7173,1,2,2,90.4,Butantã,casa
+4076,2,1,0,34.1,Moema,casa
+3926,2,1,2,32.6,Butantã,apto
+8596,3,2,2,41.1,Moema,apto
+4216,1,2,0,29.2,Pinheiros,casa
+3997,3,1,0,30.7,Butantã,casa
+6642,1,2,1,40.5,Vila Mariana,apto
+7043,2,2,0,84.7,Vila Mariana,casa
+5360,2,1,0,53.8,Butantã,casa
+6615,3,2,1,60.6,Butantã,kitnet
+5356,2,2,2,40.9,Butantã,kitnet
+8491,1,2,2,72.7,Moema,casa
+4121,2,2,0,42.2,Vila Mariana,kitnet
+8407,2,2,0,94.5,Itaim Bibi,kitnet
+4784,1,2,1,67.3,Tatuapé,apto
+5367,1,2,0,60.3,Pinheiros,kitnet
+8125,2,1,1,68.0,Moema,apto
+7140,1,1,2,67.8,Moema,casa
+9255,2,2,2,97.1,Vila Mariana,apto
+7692,1,2,0,70.4,Moema,kitnet
+7116,3,2,0,70.8,Tatuapé,apto
+4488,1,2,0,51.6,Pinheiros,kitnet
+6559,2,2,1,76.8,Pinheiros,apto
+6547,3,1,0,40.9,Itaim Bibi,apto
+8524,2,1,2,62.2,Moema,casa
+5856,1,2,2,117.7,Tatuapé,kitnet
+4143,2,1,1,64.7,Tatuapé,apto
+9165,1,2,1,65.4,Moema,apto
+7249,3,1,0,55.4,Moema,casa
+9001,3,2,2,55.9,Itaim Bibi,apto
+5242,3,1,2,61.8,Butantã,kitnet
+6916,3,1,0,55.0,Vila Mariana,apto
+6014,2,1,1,64.4,Itaim Bibi,kitnet
+3324,1,1,1,50.2,Butantã,kitnet
+7028,2,2,0,100.4,Pinheiros,kitnet
+6724,1,2,0,55.0,Itaim Bibi,kitnet
+7207,3,1,0,71.4,Moema,kitnet
+6218,2,1,2,46.6,Butantã,apto
+6262,2,2,1,78.7,Tatuapé,casa
+6388,3,2,2,74.7,Butantã,kitnet
+7450,2,2,0,68.4,Pinheiros,casa
+5369,2,1,1,39.5,Pinheiros,kitnet
+3876,1,2,1,45.0,Butantã,kitnet
+5928,1,1,1,93.7,Tatuapé,kitnet
+6872,2,1,1,72.8,Vila Mariana,casa
+5163,3,1,0,41.1,Vila Mariana,apto
+6733,1,2,0,80.2,Itaim Bibi,apto
+7455,2,2,1,46.3,Vila Mariana,apto
+3297,1,2,0,40.7,Tatuapé,casa
+5237,1,1,0,45.8,Vila Mariana,casa
+4791,1,1,0,48.9,Vila Mariana,kitnet
+6549,2,1,0,68.1,Pinheiros,kitnet
+4641,2,1,0,61.4,Butantã,kitnet
+4201,2,1,1,38.1,Butantã,apto
+7506,2,1,1,59.4,Pinheiros,casa
+6858,2,1,0,37.1,Moema,kitnet
+3886,1,1,0,72.9,Tatuapé,apto
+7459,3,1,1,76.5,Moema,casa
+6918,2,2,0,59.5,Itaim Bibi,kitnet
+6848,1,2,2,65.4,Vila Mariana,kitnet
+8294,2,1,1,95.0,Pinheiros,kitnet
+7849,2,2,1,56.8,Moema,casa
+3840,3,2,0,41.1,Tatuapé,casa
+5851,1,1,0,71.6,Vila Mariana,casa
+8063,3,1,0,37.3,Itaim Bibi,kitnet
+6713,2,2,1,55.8,Pinheiros,casa
+6524,1,1,0,48.0,Pinheiros,casa
+3722,2,1,2,46.0,Tatuapé,apto
+5698,3,1,0,55.0,Tatuapé,casa
+4924,1,1,1,78.0,Vila Mariana,apto
+8110,3,1,1,82.1,Vila Mariana,casa
+8046,3,1,1,78.5,Pinheiros,kitnet
+7543,3,1,2,66.7,Tatuapé,kitnet
+6645,1,1,1,54.8,Moema,casa
+5077,2,1,2,20.0,Pinheiros,kitnet
+7028,2,2,0,67.4,Moema,kitnet
+4000,2,1,2,20.0,Butantã,casa
+5037,3,1,1,21.5,Vila Mariana,kitnet
+5781,1,2,1,56.8,Butantã,casa
+7079,2,1,1,65.3,Vila Mariana,kitnet
+5432,3,1,2,51.0,Vila Mariana,casa
+7652,3,2,0,90.7,Vila Mariana,apto
+6227,2,1,1,69.2,Vila Mariana,apto
+5925,3,1,0,55.0,Pinheiros,kitnet
+6082,2,1,1,87.7,Tatuapé,apto
+8908,2,1,0,91.3,Moema,kitnet
+8721,2,2,1,70.3,Itaim Bibi,apto
+7113,1,2,0,44.5,Moema,casa
+5595,1,2,0,49.0,Moema,casa
+7361,3,2,1,31.1,Moema,casa
+5062,1,2,0,59.2,Pinheiros,apto
+6862,2,1,1,39.0,Itaim Bibi,apto
+6466,2,2,0,53.4,Pinheiros,casa
+8924,2,2,2,65.2,Itaim Bibi,casa
+5661,2,2,2,20.3,Butantã,kitnet
+8193,3,2,1,34.7,Itaim Bibi,casa
+6508,3,1,0,49.9,Moema,apto
+5187,3,1,0,58.9,Vila Mariana,apto
+5920,2,2,2,50.1,Butantã,casa
+7938,3,1,2,54.6,Vila Mariana,casa
+7356,2,2,2,45.9,Moema,kitnet
+5608,2,2,1,31.0,Itaim Bibi,casa
+7147,3,1,1,49.3,Butantã,casa
+6164,3,2,0,55.7,Butantã,apto
+5251,1,1,0,53.8,Pinheiros,apto
+5233,3,1,2,62.2,Butantã,kitnet
+7264,3,1,1,68.4,Pinheiros,casa
+6959,3,2,1,73.6,Tatuapé,casa
+5822,3,1,1,47.3,Butantã,casa
+4211,3,2,0,28.5,Tatuapé,apto
+5817,1,2,2,85.4,Butantã,casa
+6438,1,1,2,67.7,Moema,casa
+6259,1,1,2,40.9,Vila Mariana,apto
+6083,1,1,1,65.6,Vila Mariana,casa
+7321,1,2,2,81.4,Moema,casa
+7803,2,2,1,94.6,Itaim Bibi,apto
+7173,1,2,1,65.0,Moema,casa
+6542,1,1,0,81.2,Itaim Bibi,kitnet
+6340,2,1,2,35.8,Moema,apto
+5370,3,1,0,59.3,Vila Mariana,kitnet
+4490,1,1,2,53.3,Vila Mariana,casa
+5236,2,1,1,66.9,Tatuapé,kitnet
+5953,2,2,0,92.2,Butantã,apto
+8347,3,2,1,65.0,Butantã,kitnet
+5213,1,2,0,41.2,Vila Mariana,casa
+6121,3,1,1,34.7,Moema,kitnet
+6059,1,1,0,92.9,Itaim Bibi,kitnet
+5127,1,1,2,70.3,Tatuapé,apto
+5551,1,1,1,69.0,Pinheiros,apto
+6459,3,1,1,53.1,Tatuapé,apto
+6686,1,2,2,65.4,Pinheiros,casa
+5222,3,2,1,40.3,Pinheiros,kitnet
+5417,3,2,1,67.7,Tatuapé,casa
+5855,3,2,0,36.5,Pinheiros,apto
+6538,1,1,1,52.8,Moema,apto
+3272,1,1,2,47.1,Tatuapé,casa
+3422,1,1,2,20.0,Tatuapé,kitnet
+6923,3,2,1,53.1,Moema,apto
+5166,1,2,0,42.0,Pinheiros,casa
+7770,2,1,2,55.8,Itaim Bibi,casa
+5970,2,1,0,60.0,Butantã,apto
+6757,3,1,0,95.4,Butantã,kitnet
+7129,2,1,2,66.1,Itaim Bibi,kitnet
+9195,2,2,2,66.7,Moema,casa
+6651,3,2,2,69.9,Butantã,kitnet
+9342,3,2,1,77.4,Moema,kitnet
+6382,2,1,2,69.1,Pinheiros,kitnet
+5642,2,1,2,65.6,Butantã,apto
+5386,2,1,0,74.2,Vila Mariana,apto
+5158,3,1,2,20.0,Butantã,casa
+9696,2,2,2,101.8,Moema,apto
+5358,2,1,0,91.8,Butantã,apto
+5989,3,2,2,64.3,Tatuapé,casa
+7238,3,1,1,31.7,Moema,casa
+6666,2,2,2,84.2,Vila Mariana,apto
+5903,1,1,0,70.7,Pinheiros,apto
+5944,2,1,0,34.3,Moema,casa
+9433,3,2,1,104.5,Moema,kitnet
+5852,3,2,2,31.2,Tatuapé,casa
+7870,3,2,2,61.4,Vila Mariana,apto
+6877,2,2,2,59.2,Moema,apto
+5834,3,1,1,51.5,Vila Mariana,apto
+8150,3,2,1,82.7,Vila Mariana,apto
+6154,1,1,0,51.5,Itaim Bibi,casa
+7243,3,2,1,82.8,Vila Mariana,casa
+4358,1,2,1,39.5,Vila Mariana,casa
+5225,1,2,2,54.4,Tatuapé,casa
+6266,3,1,1,54.8,Vila Mariana,casa
+9100,3,2,1,69.9,Moema,kitnet
+7924,3,2,1,67.4,Vila Mariana,kitnet
+7283,2,1,1,74.4,Moema,apto
+8220,2,1,1,65.3,Itaim Bibi,kitnet
+5508,2,2,0,73.2,Tatuapé,apto
+5475,2,2,2,42.0,Butantã,apto
+5882,2,2,0,67.8,Itaim Bibi,casa
+6088,1,1,2,92.2,Pinheiros,apto
+6359,3,1,2,26.4,Moema,casa
+6638,2,2,2,69.8,Vila Mariana,apto
+5098,2,1,0,73.5,Tatuapé,casa
+7701,3,2,0,89.2,Vila Mariana,kitnet
+5864,2,2,0,74.5,Butantã,kitnet
+5812,2,2,1,62.0,Vila Mariana,apto
+5311,1,1,2,68.6,Tatuapé,casa
+7306,1,2,2,45.3,Pinheiros,casa
+5285,2,2,2,52.2,Butantã,casa
+4068,2,1,2,33.3,Butantã,casa
+8444,3,2,0,89.7,Itaim Bibi,kitnet
+8838,3,2,2,69.0,Moema,casa
+5730,3,1,0,41.7,Pinheiros,apto
+6779,2,2,2,65.4,Itaim Bibi,kitnet
+6230,1,1,2,83.2,Moema,kitnet
+7912,3,2,2,79.9,Butantã,apto
+8869,3,2,1,41.4,Itaim Bibi,casa
+4980,2,1,1,20.0,Tatuapé,kitnet
+6218,3,1,1,67.9,Butantã,casa
+6675,3,1,1,42.3,Itaim Bibi,casa
+7523,2,2,1,72.4,Moema,kitnet
+5377,1,2,1,79.0,Pinheiros,kitnet
+4744,1,1,0,82.3,Pinheiros,casa
+9451,3,2,1,94.9,Moema,apto
+6373,2,1,2,84.7,Tatuapé,casa
+8516,1,1,2,95.0,Pinheiros,kitnet
+6461,1,2,0,87.6,Pinheiros,apto
+7893,3,2,0,89.3,Itaim Bibi,casa
+6478,1,1,1,59.2,Itaim Bibi,casa
+5300,1,2,2,34.2,Pinheiros,apto
+6096,2,2,0,109.6,Tatuapé,casa
+6313,2,1,0,61.3,Pinheiros,kitnet
+7866,3,2,0,84.6,Itaim Bibi,apto
+5274,3,1,0,49.0,Butantã,casa
+5900,2,1,0,79.3,Butantã,kitnet
+4836,1,2,2,20.0,Tatuapé,apto
+5902,3,1,2,51.8,Tatuapé,casa
+6275,2,2,1,58.0,Butantã,apto
+5622,3,2,0,69.3,Tatuapé,casa
+7800,2,1,2,81.4,Moema,casa
+7122,1,2,0,38.1,Itaim Bibi,apto
+4599,3,1,0,73.2,Tatuapé,apto
+4913,1,2,0,84.5,Butantã,casa
+7910,3,1,1,106.9,Tatuapé,kitnet
+6755,3,2,2,74.1,Butantã,apto
+5096,1,1,1,50.8,Pinheiros,kitnet
+6025,3,1,1,34.6,Pinheiros,apto
+6791,1,1,1,96.6,Pinheiros,casa
+6511,2,1,2,74.7,Tatuapé,casa
+8326,2,1,2,59.6,Itaim Bibi,casa
+5337,2,2,1,27.6,Vila Mariana,apto
+7015,2,2,1,41.4,Pinheiros,kitnet
+6152,2,2,1,72.6,Butantã,apto
+8500,2,1,2,67.1,Itaim Bibi,kitnet
+4010,3,2,1,21.1,Tatuapé,casa
+8470,1,1,2,72.7,Moema,casa
+6735,3,1,0,28.6,Moema,apto
+4914,1,2,2,87.1,Pinheiros,casa
+7353,1,2,2,64.2,Vila Mariana,kitnet
+5826,3,1,2,50.7,Butantã,kitnet
+7378,1,2,2,79.8,Moema,kitnet
+8128,3,2,1,67.1,Itaim Bibi,apto
+7447,1,1,0,86.5,Itaim Bibi,casa
+4538,1,1,1,61.6,Vila Mariana,casa
+6622,3,2,1,62.8,Vila Mariana,kitnet
+5687,1,1,0,54.3,Itaim Bibi,kitnet
+7024,3,2,0,65.3,Pinheiros,kitnet
+7407,2,1,0,94.0,Moema,apto
+6181,3,1,1,49.9,Butantã,apto
+8706,3,2,0,73.0,Itaim Bibi,kitnet
+6686,1,1,2,42.4,Itaim Bibi,kitnet
+4588,1,1,0,20.0,Pinheiros,casa
+6250,2,1,2,64.1,Vila Mariana,apto
+6706,3,2,2,67.4,Vila Mariana,apto
+6978,1,2,1,57.8,Vila Mariana,kitnet
+5444,1,2,1,30.1,Vila Mariana,casa
+6873,2,1,2,66.1,Butantã,casa
+6687,1,2,0,65.3,Pinheiros,kitnet
+5998,1,1,2,42.2,Itaim Bibi,apto
+4165,3,1,0,55.0,Tatuapé,apto
+8201,3,2,2,73.1,Vila Mariana,kitnet
+5369,1,1,1,68.3,Vila Mariana,kitnet
+4136,2,2,0,42.4,Tatuapé,casa
+3986,2,1,1,62.7,Vila Mariana,apto
+7822,2,1,1,77.7,Itaim Bibi,apto
+6131,3,2,2,36.5,Pinheiros,apto
+6158,2,2,1,61.3,Pinheiros,kitnet
+5246,1,1,0,83.1,Pinheiros,casa
+6620,2,2,1,92.4,Butantã,kitnet
+7265,3,1,0,55.6,Pinheiros,kitnet
+4572,2,1,1,53.1,Butantã,casa
+8794,2,1,0,80.7,Itaim Bibi,kitnet
+3265,1,1,1,56.3,Butantã,casa
+5709,3,2,1,58.0,Vila Mariana,apto
+6660,2,2,1,69.4,Itaim Bibi,apto
+6213,1,1,2,74.8,Vila Mariana,casa
+7189,3,2,2,42.4,Moema,apto
+5310,3,1,1,54.6,Vila Mariana,apto
+8390,2,2,1,79.5,Moema,casa
+6023,2,1,2,58.8,Butantã,casa
+7323,2,1,2,29.4,Moema,kitnet
+8143,3,1,0,84.8,Pinheiros,kitnet
+5437,2,2,1,55.7,Vila Mariana,kitnet
+8176,1,2,2,81.8,Itaim Bibi,apto
+3860,1,2,0,32.1,Tatuapé,casa
+4848,3,1,0,57.6,Tatuapé,kitnet
+8538,3,1,2,70.2,Moema,casa
+5846,3,1,2,58.3,Vila Mariana,casa
+3297,1,1,1,20.0,Tatuapé,casa
+7620,2,2,1,90.5,Butantã,casa
+5670,1,2,1,65.0,Tatuapé,apto
+6629,2,1,2,83.3,Butantã,casa
+8221,2,1,2,78.6,Itaim Bibi,apto
+5898,1,1,1,71.9,Pinheiros,kitnet
+5149,1,2,0,53.6,Moema,kitnet
+6825,2,2,0,69.8,Moema,casa
+7317,3,2,0,88.7,Pinheiros,casa
+6410,2,1,1,61.7,Vila Mariana,kitnet
+8497,1,1,1,98.0,Itaim Bibi,casa
+6790,1,2,2,30.0,Moema,casa
+6582,2,1,2,27.9,Pinheiros,apto
+5851,1,1,1,79.8,Vila Mariana,apto
+5022,3,1,0,43.6,Vila Mariana,apto
+8086,3,1,2,100.9,Vila Mariana,apto
+6523,1,2,2,86.7,Pinheiros,kitnet
+9479,3,1,1,91.8,Itaim Bibi,casa
+6943,1,2,0,77.7,Itaim Bibi,kitnet
+6468,2,1,1,41.6,Moema,casa
+5159,3,1,1,26.8,Tatuapé,kitnet
+5404,1,2,2,89.9,Butantã,casa
+4671,1,2,1,30.0,Butantã,casa
+5873,1,2,1,91.7,Pinheiros,kitnet
+6847,3,2,1,73.4,Butantã,casa
+5882,1,2,1,58.5,Pinheiros,apto
+7327,2,2,0,68.8,Pinheiros,casa
+6380,2,2,0,69.3,Moema,casa
+7354,3,2,2,56.0,Itaim Bibi,casa
+8455,3,1,1,88.5,Pinheiros,kitnet
+7422,3,1,2,87.8,Vila Mariana,kitnet
+6621,3,1,1,63.1,Vila Mariana,casa
+6512,2,1,2,48.0,Moema,apto
+6314,2,1,0,86.1,Butantã,casa
+4339,1,2,0,20.0,Vila Mariana,kitnet
+7459,3,2,1,68.9,Vila Mariana,apto
+6108,2,1,2,74.8,Pinheiros,kitnet
+5504,2,1,0,43.4,Vila Mariana,casa
+5791,1,2,1,79.5,Pinheiros,kitnet
+3357,1,1,0,59.5,Tatuapé,kitnet
+6380,2,2,2,49.1,Moema,kitnet
+7953,2,2,1,79.3,Moema,kitnet
+7500,2,1,1,38.3,Itaim Bibi,apto
+5003,1,2,0,77.4,Tatuapé,casa
+3757,1,1,0,20.4,Pinheiros,apto
+8059,3,1,1,65.7,Moema,apto
+6409,2,2,1,60.9,Vila Mariana,apto
+7729,2,2,2,49.2,Itaim Bibi,kitnet
+5676,1,2,0,67.8,Vila Mariana,casa
+5520,2,2,0,58.4,Pinheiros,kitnet
+7718,2,1,0,81.1,Itaim Bibi,apto
+6132,2,2,0,71.2,Moema,apto
+7432,3,1,0,69.1,Pinheiros,kitnet
+7293,3,1,1,65.8,Itaim Bibi,kitnet
+5959,1,2,0,50.6,Vila Mariana,kitnet
+5685,2,1,1,56.5,Moema,apto
+4207,1,1,2,82.2,Tatuapé,kitnet
+5195,1,2,2,61.9,Tatuapé,apto
+6421,3,2,0,67.5,Tatuapé,kitnet
+6332,3,2,1,31.9,Pinheiros,apto
+6780,1,1,2,78.9,Vila Mariana,apto
+5314,2,2,1,48.4,Vila Mariana,kitnet
+7055,2,2,2,39.1,Itaim Bibi,casa
+6646,1,1,2,92.9,Pinheiros,casa
+5288,2,2,1,74.0,Tatuapé,casa
+6739,3,1,0,79.5,Itaim Bibi,apto
+5053,1,2,1,69.1,Butantã,kitnet
+5752,1,2,2,58.1,Vila Mariana,casa
+7395,2,2,1,54.4,Pinheiros,apto
+6339,1,1,2,75.6,Itaim Bibi,casa
+7568,3,2,1,82.7,Pinheiros,apto
+7622,2,2,1,58.6,Pinheiros,apto
+6578,1,2,2,101.5,Butantã,casa
+5521,2,2,0,56.1,Butantã,apto
+7526,3,1,1,32.1,Itaim Bibi,apto
+4133,2,1,0,25.6,Butantã,casa
+6744,2,1,1,26.2,Pinheiros,casa
+5725,1,1,2,51.7,Pinheiros,apto
+4552,1,1,2,55.4,Vila Mariana,kitnet
+6221,1,1,0,73.7,Pinheiros,kitnet
+4630,1,2,2,59.4,Butantã,apto
+6318,1,1,2,76.9,Pinheiros,apto
+5523,2,1,2,60.9,Tatuapé,casa
+4151,1,2,1,60.3,Butantã,kitnet
+6645,2,2,0,48.4,Itaim Bibi,apto
+7834,3,1,1,88.5,Vila Mariana,kitnet
+7142,3,2,2,29.4,Moema,apto
+5859,2,1,1,66.0,Tatuapé,apto
+5702,1,1,1,56.4,Itaim Bibi,kitnet
+6477,2,1,0,75.6,Moema,apto
+8512,3,2,1,59.6,Vila Mariana,apto
+6081,2,1,1,60.2,Itaim Bibi,kitnet
+6019,3,2,1,54.7,Butantã,casa
+5279,1,1,0,60.0,Pinheiros,kitnet
+6559,1,2,0,99.4,Tatuapé,casa
+5385,1,1,2,65.4,Butantã,casa
+5107,1,2,2,60.4,Butantã,apto
+5908,1,1,0,57.1,Moema,casa
+5643,2,2,2,71.3,Pinheiros,apto
+3992,2,1,0,48.2,Tatuapé,kitnet
+7273,2,1,0,62.9,Itaim Bibi,casa
+6090,3,2,0,60.2,Butantã,apto
+9568,3,2,1,66.5,Pinheiros,kitnet
+6735,3,1,0,67.0,Vila Mariana,apto
+8245,3,1,0,68.0,Moema,apto
+7589,2,1,2,61.9,Pinheiros,kitnet
+7574,3,2,1,91.4,Butantã,kitnet
+6885,2,2,1,68.5,Pinheiros,kitnet
+5999,1,1,2,112.1,Tatuapé,casa
+4249,1,2,0,61.0,Butantã,kitnet
+7831,1,1,2,79.2,Itaim Bibi,apto
+7828,3,2,1,45.5,Itaim Bibi,casa
+6840,1,1,2,88.0,Vila Mariana,apto
+7070,3,1,2,45.9,Itaim Bibi,casa
+8291,3,2,0,69.1,Moema,apto
+7083,2,1,0,54.7,Pinheiros,apto
+7892,3,1,1,69.0,Moema,casa
+9134,3,1,1,55.3,Moema,kitnet
+5357,3,2,0,44.2,Tatuapé,casa
+5792,2,2,0,54.6,Vila Mariana,casa
+7718,1,1,2,90.8,Moema,casa
+7131,1,2,2,69.3,Moema,casa
+4342,3,2,0,34.2,Vila Mariana,apto
+9661,3,1,2,81.9,Itaim Bibi,casa
+7219,2,2,0,42.2,Vila Mariana,kitnet
+7430,1,1,1,74.9,Itaim Bibi,apto
+7065,3,1,0,71.1,Vila Mariana,casa
+5024,1,2,1,72.3,Butantã,kitnet
+8838,2,1,0,97.1,Moema,casa
+5471,2,1,0,43.4,Pinheiros,apto
+5880,1,1,0,72.2,Pinheiros,casa
+5804,1,1,0,85.2,Itaim Bibi,kitnet
+3691,1,2,0,47.1,Butantã,apto
+6846,3,2,1,45.1,Vila Mariana,casa
+6853,3,2,2,54.3,Tatuapé,kitnet
+5943,2,2,0,66.5,Tatuapé,apto
+4490,2,1,2,31.8,Pinheiros,casa
+6249,2,1,1,71.0,Moema,kitnet
+6622,2,1,0,31.8,Itaim Bibi,casa
+5379,2,2,0,85.9,Butantã,casa
+6424,2,1,2,70.3,Butantã,apto
+6244,2,2,0,98.3,Pinheiros,kitnet
+6223,2,1,1,73.4,Vila Mariana,casa
+6990,2,2,0,53.9,Moema,kitnet
+7605,3,2,2,44.0,Pinheiros,casa
+3818,1,1,2,64.8,Tatuapé,casa
+3708,1,1,0,59.4,Pinheiros,casa
+6849,2,1,0,83.7,Pinheiros,kitnet
+5464,1,1,1,41.4,Pinheiros,kitnet
+7619,1,2,1,100.4,Vila Mariana,apto
+8878,3,2,1,85.5,Itaim Bibi,kitnet
+6398,2,1,1,55.9,Vila Mariana,kitnet
+6667,2,2,0,96.0,Butantã,apto
+7288,3,2,0,44.3,Vila Mariana,apto
+6079,1,2,1,64.1,Pinheiros,kitnet
+5650,2,2,2,34.5,Moema,kitnet
+7954,1,1,2,96.9,Itaim Bibi,casa
+5382,2,1,1,27.1,Pinheiros,casa
+5850,1,2,2,31.2,Pinheiros,kitnet
+4193,3,1,1,47.3,Butantã,apto
+5144,1,2,1,86.4,Tatuapé,apto
+8067,1,2,1,79.1,Moema,kitnet
+6990,1,2,1,62.4,Itaim Bibi,apto
+4467,1,1,0,80.4,Butantã,casa
+8156,1,1,2,57.7,Moema,casa
+3697,1,2,0,68.4,Tatuapé,casa
+9078,3,2,0,93.0,Pinheiros,apto
+7269,3,1,1,55.1,Vila Mariana,kitnet
+5060,3,2,0,44.7,Tatuapé,kitnet
+6956,3,2,0,69.4,Vila Mariana,apto
+6615,3,2,1,74.8,Butantã,casa
+5412,2,2,0,62.2,Butantã,apto
+6126,2,2,0,80.1,Vila Mariana,apto
+7037,2,2,1,56.0,Moema,kitnet
+5392,1,2,1,62.6,Vila Mariana,casa
+5166,2,1,2,67.5,Tatuapé,casa
+7024,3,2,0,65.7,Pinheiros,kitnet
+5875,1,1,2,92.3,Moema,kitnet
+6300,3,2,1,67.4,Tatuapé,kitnet
+4996,3,1,1,53.9,Tatuapé,kitnet
+4023,2,1,2,70.6,Tatuapé,casa
+5925,2,1,0,80.2,Vila Mariana,casa
+7060,1,1,2,75.5,Itaim Bibi,apto
+8151,1,2,0,74.4,Itaim Bibi,kitnet
+5670,1,2,1,30.0,Itaim Bibi,apto
+7234,3,2,0,20.0,Moema,kitnet
+7371,2,2,1,85.5,Butantã,kitnet
+6861,1,2,2,68.8,Moema,apto
+7949,2,2,2,59.6,Itaim Bibi,kitnet
+8700,3,1,2,73.9,Vila Mariana,kitnet
+7240,1,2,2,98.5,Vila Mariana,casa
+5347,1,1,1,88.3,Tatuapé,casa
+6252,3,2,1,79.2,Tatuapé,kitnet
+8718,3,2,2,42.3,Itaim Bibi,casa
+5514,2,2,0,44.9,Vila Mariana,apto
+3834,3,2,2,20.0,Butantã,apto
+5996,2,1,1,72.7,Vila Mariana,kitnet
+5019,2,2,1,82.2,Tatuapé,casa
+5604,1,2,1,83.8,Butantã,apto
+5572,3,1,2,73.5,Tatuapé,kitnet
+8590,3,1,2,56.9,Itaim Bibi,apto
+4197,1,2,0,48.7,Butantã,apto
+5006,3,2,2,43.5,Butantã,casa
+8008,3,2,2,56.7,Moema,apto
+7010,1,2,2,40.4,Moema,casa
+7472,1,1,2,95.1,Vila Mariana,kitnet
+3697,2,1,2,34.0,Tatuapé,kitnet
+4204,2,2,0,56.1,Butantã,kitnet
+7499,2,1,1,21.3,Moema,apto
+7570,2,1,2,65.9,Moema,apto
+7372,3,1,2,60.0,Pinheiros,kitnet
+6294,2,1,1,52.9,Moema,casa
+5513,1,2,2,41.3,Vila Mariana,kitnet
+6074,1,1,2,60.0,Butantã,apto
+5177,3,1,0,49.1,Tatuapé,kitnet
+8070,3,1,2,57.3,Pinheiros,casa
+7498,2,1,1,99.1,Pinheiros,kitnet
+4083,1,2,1,63.4,Butantã,apto
+4273,1,2,0,70.7,Butantã,casa
+5727,1,1,2,50.7,Itaim Bibi,kitnet
+5004,1,1,0,44.3,Pinheiros,casa
+7665,2,2,1,59.5,Pinheiros,casa
+6931,1,2,0,110.1,Vila Mariana,apto
+6881,1,2,2,54.3,Itaim Bibi,kitnet
+6585,1,2,1,67.2,Itaim Bibi,apto
+5687,3,2,0,43.4,Butantã,casa
+3809,2,1,0,20.0,Pinheiros,kitnet
+4519,1,1,2,44.2,Pinheiros,casa
+7649,3,1,0,107.6,Butantã,casa
+5535,2,1,2,71.9,Butantã,apto
+7447,1,2,0,92.8,Itaim Bibi,casa
+7356,3,2,2,53.0,Pinheiros,kitnet
+6781,3,2,1,20.0,Pinheiros,apto
+5867,2,2,0,37.8,Pinheiros,casa
+6544,1,1,2,67.9,Itaim Bibi,casa
+3677,1,1,0,64.8,Butantã,apto
+5438,2,2,2,59.8,Tatuapé,kitnet
+6524,3,1,1,49.4,Vila Mariana,casa
+8935,3,2,1,78.8,Itaim Bibi,apto
+6700,3,2,0,50.0,Pinheiros,casa
+7922,3,1,0,66.2,Itaim Bibi,kitnet
+5288,2,2,0,63.9,Butantã,kitnet
+7155,2,2,2,52.6,Itaim Bibi,casa
+5857,3,1,0,42.4,Butantã,casa
+4658,3,1,0,51.5,Tatuapé,kitnet
+8028,2,1,0,97.5,Moema,apto
+4519,1,1,2,82.2,Vila Mariana,apto
+6540,3,1,2,80.4,Butantã,casa
+5948,1,2,2,44.3,Itaim Bibi,casa
+3954,2,1,0,31.2,Vila Mariana,casa
+7696,2,1,1,81.9,Butantã,apto
+8042,3,1,2,78.1,Pinheiros,kitnet
+4963,1,1,0,62.7,Tatuapé,casa
+6662,2,1,2,52.6,Vila Mariana,kitnet
+4508,2,1,0,30.7,Tatuapé,kitnet
+7461,1,2,2,77.3,Moema,kitnet
+8797,1,2,1,83.7,Moema,casa
+7870,2,1,2,46.4,Itaim Bibi,casa
+7976,3,2,1,44.7,Itaim Bibi,apto
+8755,2,2,2,84.8,Moema,casa
+6005,3,2,2,47.2,Butantã,kitnet
+9009,3,2,0,95.6,Moema,casa
+6900,3,1,1,57.8,Pinheiros,apto
+7473,3,2,1,52.3,Pinheiros,apto
+8419,3,2,1,60.9,Vila Mariana,casa
+7104,3,1,2,52.3,Itaim Bibi,casa
+5890,1,2,0,82.5,Tatuapé,kitnet
+7737,3,1,0,77.7,Moema,kitnet
+8069,1,1,1,81.8,Moema,casa
+5944,3,1,2,63.7,Butantã,casa
+4656,2,1,0,50.9,Tatuapé,kitnet
+7267,3,2,1,59.8,Pinheiros,apto
+5360,2,2,2,51.5,Pinheiros,casa
+6947,2,1,1,80.0,Moema,kitnet
+5112,2,1,1,58.2,Butantã,kitnet
+4202,2,2,2,41.5,Tatuapé,casa
+7455,2,1,2,90.8,Itaim Bibi,casa
+5218,2,2,1,62.7,Tatuapé,kitnet
+6947,2,2,1,57.4,Moema,casa
+3895,1,1,0,91.0,Tatuapé,apto
+4966,2,2,1,49.8,Tatuapé,apto
+5923,1,2,2,53.6,Itaim Bibi,kitnet
+5162,1,1,1,55.4,Vila Mariana,casa
+4708,2,2,2,33.7,Tatuapé,apto
+3805,1,2,1,66.3,Vila Mariana,kitnet
+6724,2,1,2,44.8,Itaim Bibi,kitnet
+8332,3,1,2,48.6,Itaim Bibi,casa
+4727,3,2,1,45.9,Tatuapé,apto
+5157,1,2,2,48.3,Butantã,kitnet
+5043,2,1,2,43.2,Tatuapé,apto
+5334,2,1,0,64.9,Pinheiros,casa
+5597,3,2,0,56.9,Tatuapé,kitnet
+8289,2,1,2,61.0,Itaim Bibi,casa
+7711,3,1,1,107.1,Pinheiros,apto
+6442,3,1,0,56.9,Pinheiros,apto
+6783,1,1,2,72.1,Vila Mariana,casa
+4845,2,1,1,74.4,Butantã,kitnet
+4930,2,1,0,58.7,Tatuapé,kitnet
+4101,2,1,0,65.5,Butantã,apto
+5284,2,1,2,60.4,Butantã,apto
+5379,1,2,2,64.1,Tatuapé,kitnet
+5024,2,1,1,48.3,Itaim Bibi,apto
+6576,3,2,2,50.1,Vila Mariana,apto
+5654,1,1,0,60.3,Pinheiros,casa
+6398,2,1,2,20.6,Moema,casa
+6180,3,2,0,89.9,Tatuapé,apto
+6713,2,2,1,103.2,Vila Mariana,apto
+7505,3,1,2,63.4,Vila Mariana,apto
+6841,2,2,1,73.3,Pinheiros,casa
+7985,1,1,2,81.6,Itaim Bibi,apto
+5309,3,1,1,33.5,Butantã,apto
+6499,1,1,0,78.6,Itaim Bibi,casa
+7102,1,2,0,51.5,Moema,apto
+5199,1,2,0,105.8,Tatuapé,apto
+6739,3,2,0,56.2,Butantã,casa
+6902,3,1,0,78.2,Tatuapé,apto
+6233,1,1,2,56.4,Vila Mariana,casa
+8374,2,2,0,103.9,Moema,casa
+9130,2,2,0,49.8,Itaim Bibi,casa
+7921,1,2,2,83.3,Moema,casa
+6769,3,2,1,72.5,Butantã,kitnet
+5725,3,1,0,68.1,Butantã,apto
+6234,2,2,2,64.6,Pinheiros,apto
+8036,2,2,0,46.7,Itaim Bibi,apto
+6842,3,2,2,20.0,Moema,kitnet
+5980,2,1,0,81.5,Tatuapé,kitnet
+6934,2,2,1,50.2,Vila Mariana,kitnet
+8684,2,2,1,83.4,Moema,casa
+5957,2,2,1,67.0,Vila Mariana,casa
+7047,2,1,2,84.0,Pinheiros,casa
+5339,1,2,1,76.0,Itaim Bibi,apto
+5407,2,2,1,20.0,Pinheiros,casa
+7811,2,1,0,72.3,Moema,casa
+5204,1,2,1,53.1,Vila Mariana,apto
+6827,2,1,2,83.3,Pinheiros,kitnet
+7517,2,1,2,71.8,Moema,kitnet
+6834,2,2,1,72.1,Butantã,apto
+5593,3,1,1,54.6,Butantã,kitnet
+8039,2,1,1,41.7,Moema,apto
+4484,2,1,2,51.3,Tatuapé,kitnet
+4194,1,2,2,24.0,Butantã,kitnet
+5899,3,1,1,48.2,Vila Mariana,apto
+5481,1,1,2,30.7,Butantã,casa
+5681,2,2,0,31.2,Pinheiros,apto
+7272,1,1,2,62.3,Vila Mariana,kitnet
+8484,3,2,2,70.7,Moema,apto
+8203,2,2,2,59.4,Pinheiros,apto
+6795,1,2,1,50.0,Itaim Bibi,apto
+5201,1,2,2,41.1,Butantã,apto
+7034,3,2,1,53.7,Moema,apto
+5585,2,2,2,43.6,Butantã,casa
+5807,1,2,0,58.7,Itaim Bibi,casa
+7693,3,2,1,29.6,Itaim Bibi,casa
+6206,1,2,1,74.0,Itaim Bibi,apto
+5185,2,2,2,48.7,Tatuapé,apto
+7002,1,1,2,67.5,Pinheiros,kitnet
+6070,1,2,2,77.7,Butantã,apto
+3110,1,1,0,66.6,Tatuapé,apto
+3361,1,1,1,76.0,Butantã,casa
+4698,3,1,0,20.0,Butantã,apto
+7169,2,1,2,50.1,Vila Mariana,casa
+7391,3,1,0,82.1,Moema,kitnet
+7583,1,2,1,70.2,Vila Mariana,apto
+8104,3,1,1,97.0,Pinheiros,kitnet
+4156,1,1,2,94.1,Butantã,casa
+3631,1,1,2,66.0,Butantã,casa
+5165,1,1,2,55.0,Butantã,casa
+5329,3,1,1,40.8,Butantã,casa
+6600,3,2,0,50.5,Tatuapé,apto
+4697,3,1,2,51.8,Tatuapé,apto
+5239,3,1,0,48.1,Butantã,kitnet
+3654,1,1,1,41.6,Tatuapé,apto
+6127,3,2,1,68.0,Tatuapé,kitnet
+6612,2,1,1,93.9,Vila Mariana,casa
+7870,2,1,2,78.7,Itaim Bibi,kitnet
+6946,2,1,0,53.6,Itaim Bibi,casa
+8150,2,1,1,80.3,Itaim Bibi,casa
+6510,1,1,0,66.9,Moema,casa
